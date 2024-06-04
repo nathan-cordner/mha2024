@@ -1,0 +1,1368 @@
+﻿decades/1910s/IE/1910_A.txt
+
+We  teach  the  children how  to  ask  a  blessing  upon  the  food,  how  to  pray  in  the  family,  how  to  open  or  close  a  meeting,  to  repeat  the  exact  words  that  should  be  used  in  asking  the  blessing upon  the  bread  and  the  water  in  the  administration  of  the  sacrament, and  how  to  administer  the  ordinance of  baptism.
+
+['quiet', 'loud'] received scores [0.606381356716156, 0.3936186730861664]
+['loud', 'soft'] received scores [0.5168406367301941, 0.4831593632698059]
+['quiet', 'noisy'] received scores [0.8065844178199768, 0.19341564178466797]
+['soft', 'noisy'] received scores [0.7167612314224243, 0.2832387685775757]
+
+decades/1910s/IE/1910_O.txt
+
+The  Sunday  has  been  declared  His  holy  day,  and  He  commands  us  to  go  to  His  house  and  there  offer  up  our  oblations,  there  renew  our  covenants  in  the  sacrament,  there  listen  to  those  who  shall  address  us,  and  take  part  in  the  worship  of  God.
+
+['quiet', 'loud'] received scores [0.5798094868659973, 0.4201905131340027]
+['loud', 'soft'] received scores [0.6619641780853271, 0.33803585171699524]
+['quiet', 'noisy'] received scores [0.8081265091896057, 0.19187352061271667]
+['soft', 'noisy'] received scores [0.6091715693473816, 0.3908284306526184]
+
+decades/1910s/IE/1910_O.txt
+
+We  are  to  see  that  with  all  the  acts  of  baptism,  the  administration  of  the  sacrament,  with  our  prayers,  with  our  fast  offerings,  with  the  offering  of  tithes  to  God,  that  behind it  all  there  stands  a  cleanliness, a  majesty,  a  power  of  our  own  souls  and  intellect,  the  power  to  know  and  the  power  to  love,  to  worship Him,  for  the  truth  that  is  in  Him,  and  to  worship  God,  and  Him  crucified.
+
+['loud', 'quiet'] received scores [0.5497750639915466, 0.45022496581077576]
+['loud', 'soft'] received scores [0.6634371876716614, 0.3365628123283386]
+['quiet', 'noisy'] received scores [0.746711790561676, 0.25328826904296875]
+['soft', 'noisy'] received scores [0.6461740136146545, 0.35382601618766785]
+
+decades/1910s/IE/1911_A.txt
+
+Some  men  disregard  this  commandment  to  the  extent  that  they  go  to  their  fields  and  work  upon  the  Sabbath  day;  some  attend  horse  races,  or  theatres,  or  pleasure resorts,  etc.,  on  the  Sabbath  day.  Others  have  advanced  so  far  towards  perfection  in  righteousness  that  they  cannot  look  upon  such  conduct  with  toleration ;  it  is  sin  and  wickedness  in  their  sight,  and  yet  some  of  them,  perhaps,  will  justify themselves  in  going  out  for  a  carriage  ride,  or  an  automobile  ride,  or  perhaps  remain  at  home  on  the  Sabbath  day,  although  the  commandment is  that  we  shall  meet  together, partake  of  the  sacrament  and  worship  the  Lord  our  God.
+
+['loud', 'quiet'] received scores [0.5840672850608826, 0.41593268513679504]
+['loud', 'soft'] received scores [0.5965940952301025, 0.4034058451652527]
+['quiet', 'noisy'] received scores [0.5632135272026062, 0.4367865025997162]
+['soft', 'noisy'] received scores [0.5504312515258789, 0.4495687484741211]
+
+decades/1910s/IE/1911_A.txt
+
+The  writer  of  it  undertakes  to  prove  that  the  sacrament  of  the  Lord's  Supper,  instituted  by  the  Savior  on  the  night  of  His  betrayal,  and  given  to  His  disciples  as  a  solemn  reminder of  His  sacrifice,  is  of  human origin— was  not  originated  by  Christ  at  all,  but  introduced  into  the  Church  by  the  Apostle  Paul,  who  discovered  it  through  his  wide  knowledge  of  doctrines  and  ordinances that  preceded  the  coming  of  Christ ;  such  as  those  of  the  Gnostics, and  the  Mithraites,  worshipers  of  the  sun-god.
+
+['quiet', 'loud'] received scores [0.5290003418922424, 0.47099974751472473]
+['loud', 'soft'] received scores [0.5691320896148682, 0.43086788058280945]
+['quiet', 'noisy'] received scores [0.6549127101898193, 0.34508728981018066]
+['soft', 'noisy'] received scores [0.5612562298774719, 0.4387437403202057]
+
+decades/1910s/IE/1911_A.txt
+
+The  article  goes  on  to  show  that  there  are  indications that  these  ancient  peoples  practiced a  ceremony  similar  to  the  Eucharist, and  that  even  savage  tribes  and  barbarians  have  sacrificial  customs suggestive  of  the  sacrament  of  the  Lord's  Supper.
+
+['loud', 'quiet'] received scores [0.83326256275177, 0.16673743724822998]
+['loud', 'soft'] received scores [0.666304886341095, 0.3336951434612274]
+['noisy', 'quiet'] received scores [0.5993934869766235, 0.4006064534187317]
+['soft', 'noisy'] received scores [0.6258538365364075, 0.3741461932659149]
+
+decades/1910s/IE/1911_A.txt
+
+The  early  Christian  Fathers  tried  to  answer it  by  declaring  that  Satan  had  imitated  the  Sacrament  instituted  by  Christ  and  placed  it  among  the  Pagan  peoples  around  them.
+
+['loud', 'quiet'] received scores [0.6495266556739807, 0.3504733145236969]
+['loud', 'soft'] received scores [0.7815336585044861, 0.21846632659435272]
+['quiet', 'noisy'] received scores [0.5463917851448059, 0.4536081850528717]
+['noisy', 'soft'] received scores [0.6157540082931519, 0.38424602150917053]
+
+decades/1910s/IE/1911_A.txt
+
+Standing  upon  a  rock  that  is  not  to  be  shaken,  we  reassert  the  divinity  of  the  Sacrament,  without fear  of  successful  contradiction.
+
+['loud', 'quiet'] received scores [0.5871097445487976, 0.41289022564888]
+['loud', 'soft'] received scores [0.8566646575927734, 0.14333534240722656]
+['quiet', 'noisy'] received scores [0.82204270362854, 0.17795723676681519]
+['soft', 'noisy'] received scores [0.5235873460769653, 0.47641265392303467]
+
+decades/1910s/IE/1911_A.txt
+
+I  have  for  many  years  believed  in  the  atonement  of  Jesus  Christ  and  have  accepted  its  symbols  in  baptism  and  in  confirmation ;  and  have  repeatedly renewed  my  acceptance  of  that  atonement  by  accepting  the  sacrament of  the  Lord's  supper.
+
+['quiet', 'loud'] received scores [0.5701505541801453, 0.42984944581985474]
+['loud', 'soft'] received scores [0.6055198907852173, 0.3944800794124603]
+['quiet', 'noisy'] received scores [0.7899057269096375, 0.21009428799152374]
+['soft', 'noisy'] received scores [0.6487098336219788, 0.35129013657569885]
+
+decades/1910s/IE/1911_A.txt
+
+"That  inasmuch  as  any  man  drinketh  wine  or  strong  drink  among  you,  behold  it  is  not  good,  neither  meet  in  the  sight  of  your  Father,  only  in  assembling  yourselves together  to  offer  up  your  sacraments before  him.
+
+['quiet', 'loud'] received scores [0.5103510618209839, 0.4896489083766937]
+['loud', 'soft'] received scores [0.5830619931221008, 0.41693800687789917]
+['quiet', 'noisy'] received scores [0.7118143439292908, 0.28818559646606445]
+['soft', 'noisy'] received scores [0.6288872957229614, 0.3711127042770386]
+
+decades/1910s/IE/1911_A.txt
+
+Upon  that  day  we  should  rest  from  our  labors,  we  should  go  unto  the  house  of  the  Lord  and  offer  up  our  sacraments    upon  His  holy  day.
+
+['quiet', 'loud'] received scores [0.7015302777290344, 0.2984697222709656]
+['loud', 'soft'] received scores [0.6271325349807739, 0.3728674650192261]
+['quiet', 'noisy'] received scores [0.8986208438873291, 0.1013791561126709]
+['soft', 'noisy'] received scores [0.6915686726570129, 0.30843132734298706]
+
+decades/1910s/IE/1911_O.txt
+
+No  man  is  entitled  to  receive  the  Priesthood  in  this  Church,  and  stay  at  home  on  the  Sabbath  Day,  and  not  partake  of  the  sacrament.
+
+['quiet', 'loud'] received scores [0.5098456144332886, 0.49015432596206665]
+['loud', 'soft'] received scores [0.7898258566856384, 0.21017418801784515]
+['quiet', 'noisy'] received scores [0.8110297918319702, 0.1889701634645462]
+['soft', 'noisy'] received scores [0.5233460068702698, 0.47665396332740784]
+
+decades/1910s/IE/1911_O.txt
+
+Bring  them  together,  hunt  them  up,  try  to  know  every  family  and  to  know  what  is  the  matter  with  every  family, and  draw  their  attention  to  the  fact  that  if  they  do  not  partake  of  the  sacrament,  and  do  so  worthily,  it  is  positive  evidence  that  they  do  not  remember  the  Lord.
+
+['loud', 'quiet'] received scores [0.7996731996536255, 0.20032672584056854]
+['loud', 'soft'] received scores [0.8707582354545593, 0.1292417198419571]
+['noisy', 'quiet'] received scores [0.5358724594116211, 0.4641275107860565]
+['noisy', 'soft'] received scores [0.6608676910400391, 0.33913230895996094]
+
+decades/1910s/IE/1911_O.txt
+
+The  teacher  may  inquire  of  the  family  if  they  attend  their  sacrament  meetings  on  the  Sabbath  day,  and  partake  of  the  sacrament  and  if  they  do  so  worthily;  and  if  they  honor  the  Sabbath  day  and  keep  it  holy.
+
+['loud', 'quiet'] received scores [0.5717995762825012, 0.42820045351982117]
+['loud', 'soft'] received scores [0.5789586305618286, 0.4210413694381714]
+['quiet', 'noisy'] received scores [0.7192761301994324, 0.28072389960289]
+['soft', 'noisy'] received scores [0.7133215069770813, 0.2866784930229187]
+
+decades/1910s/IE/1911_O.txt
+
+I  advise  the  Saints  to  be  faithful  in  attendance  upon  their  sacramental  and  worshiping meetings,  as  well  as  at  your  quorum  and  auxiliary  association  meetings,  and  thus  give evidence  to  the  Lord  of  your  appreciation  of  what  He  has  done  for  you.
+
+['loud', 'quiet'] received scores [0.5288793444633484, 0.4711207151412964]
+['loud', 'soft'] received scores [0.6154067516326904, 0.38459324836730957]
+['quiet', 'noisy'] received scores [0.7664003968238831, 0.23359958827495575]
+['soft', 'noisy'] received scores [0.6971251368522644, 0.30287492275238037]
+
+decades/1910s/IE/1912_A.txt
+
+Prayer  should  include  thanks  for  blessings received,  and  supplication  only  for  what  is  needed — Purpose  of  the  Sacrament  should  always  be  remembered— Love  and  devotion  best  express gratitude  for  the  Atonement —  The  Redeemer  the  great  Exemplar  of  forgiving.
+
+['loud', 'quiet'] received scores [0.5630351305007935, 0.43696483969688416]
+['loud', 'soft'] received scores [0.5810911655426025, 0.41890883445739746]
+['quiet', 'noisy'] received scores [0.6820976138114929, 0.31790244579315186]
+['soft', 'noisy'] received scores [0.6658920049667358, 0.33410802483558655]
+
+decades/1910s/IE/1912_A.txt
+
+Every  Sunday  the  Latter-day  Saints  meet  in  their  houses  of  worship, they  partake  of  the  Sacrament,  and  there  covenant  with  the  Lord  to  take  upon  them  the  name  of  His  Son,  and  that  they  will  always  remember Him,  and  keep  His  Commandments.
+
+['quiet', 'loud'] received scores [0.5736581087112427, 0.42634183168411255]
+['soft', 'loud'] received scores [0.507350742816925, 0.4926491975784302]
+['quiet', 'noisy'] received scores [0.7833471298217773, 0.21665292978286743]
+['soft', 'noisy'] received scores [0.7345618009567261, 0.26543816924095154]
+
+decades/1910s/IE/1912_A.txt
+
+On  the  occasion  referred to,  He  was  talking  to  them  particularly  in  regard  to  the  Sacrament, and  gave  them  special  instructions.
+
+['loud', 'quiet'] received scores [0.6288912892341614, 0.371108740568161]
+['soft', 'loud'] received scores [0.566531777381897, 0.43346816301345825]
+['quiet', 'noisy'] received scores [0.5781775712966919, 0.4218223989009857]
+['soft', 'noisy'] received scores [0.7522176504135132, 0.2477823942899704]
+
+decades/1910s/IE/1912_A.txt
+
+He  says,  after  urging  that  they  should  remember  these  things  and  attend  to  them  in  the  season  thereof — the  Sacrament,  eating  and  partaking  of  bread  and  wine  in  remembrance of  the  body  and  blood  of  the  Lord ;  He  says  :   "Therefore  blessed  are  ye  if  ye  shall  keep  my  commandments,  which  the  Father  hath  commanded  me  that  I  should  give  unto  you  .
+
+['quiet', 'loud'] received scores [0.6029518842697144, 0.39704808592796326]
+['loud', 'soft'] received scores [0.580737292766571, 0.41926276683807373]
+['quiet', 'noisy'] received scores [0.7676234841346741, 0.23237647116184235]
+['soft', 'noisy'] received scores [0.6109625101089478, 0.38903746008872986]
+
+decades/1910s/IE/1912_A.txt
+
+There  is  not  a  man  in  this  Church,  who  thoroughly  attends  to  his  duties,  but  what  not  only  upon  the  Sabbath  day  remembers  the  Lord  and  worships  Him,  and  renews his  covenants  at  the  Sacramental table,  but  every  other  day.
+
+['quiet', 'loud'] received scores [0.6661426424980164, 0.33385729789733887]
+['loud', 'soft'] received scores [0.6208426356315613, 0.3791573643684387]
+['quiet', 'noisy'] received scores [0.921911358833313, 0.0780886858701706]
+['soft', 'noisy'] received scores [0.783246636390686, 0.21675339341163635]
+
+decades/1910s/IE/1912_A.txt
+
+We  have  a  branch  in  Lyons,  southern  France,  and  several Elders  in  Menz ;  and  now  in  Paris  we  hold  regular  services  on  Sundays,  sacramental  meetings  for  students  and  friends ;  and  each  Thursday  evening  a  public  lecture  is  given,  and  a  musical  program  by  our  students.
+
+['loud', 'quiet'] received scores [0.5080403089523315, 0.49195966124534607]
+['soft', 'loud'] received scores [0.5324612259864807, 0.4675387740135193]
+['quiet', 'noisy'] received scores [0.631465494632721, 0.36853450536727905]
+['soft', 'noisy'] received scores [0.668343186378479, 0.33165687322616577]
+
+decades/1910s/IE/1912_A.txt
+
+They  are  the  wards  that  furnish  the  largest  proportion  of  brethren  and  sisters  to  partake  of  the  Sacrament regularly  upon  the  Sabbath  day.
+
+['loud', 'quiet'] received scores [0.6206328868865967, 0.3793671429157257]
+['loud', 'soft'] received scores [0.5333212614059448, 0.4666787385940552]
+['quiet', 'noisy'] received scores [0.6514553427696228, 0.3485446572303772]
+['soft', 'noisy'] received scores [0.727939784526825, 0.27206024527549744]
+
+decades/1910s/IE/1912_A.txt
+
+Where  they  did  not  attend  the  Sacrament  meetings,  our  brethren  are  inviting  them  to  come  to  these  meetings,  and  we  are  teaching  them  the  obligation  that  rests  upon  Latter-day  Saints  to  meet  together  often  to  partake  of  the  Lord's  supper,  and  renew  their  covenants  with  their  Father  in  heaven.
+
+['loud', 'quiet'] received scores [0.6691864728927612, 0.330813467502594]
+['loud', 'soft'] received scores [0.7931005358695984, 0.20689940452575684]
+['quiet', 'noisy'] received scores [0.580396831035614, 0.4196031093597412]
+['noisy', 'soft'] received scores [0.5780580043792725, 0.42194196581840515]
+
+decades/1910s/IE/1912_O.txt
+
+We  are  glad  that  large  numbers  of  Seventies in  one  of  the  Salt  Lake  City  stakes,  two  hundred  of  them,  were  recently  called  upon  to  take  up  a  missionary  labor,  to  go  among  the  people  who  were  indifferent,  and  there  was  a  large  number  of  such  people,  two  or  three  thousand  in  one  stake, — to  labor  with  them  in  their  homes  to  see  if  they  could  not  be  aroused  to  the  necessity  of  doing  their  duty,  the  necessity  of  attending the  meetings  of  the  various  wards,  of partaking  of  the  sacrament of  the  Lord's  Supper,  the  necessity of  contributing  of  their  means,  through  their  tithings,  for  the  building  up  of  the  work  of  God,  the  necessity  of  having  prayers  in  the  family,  the  necessity  of  having  children  connected  with  the  Sabbath Schools  and  with  other  auxiliary organizations  of  the  Church.
+
+['loud', 'quiet'] received scores [0.8791362047195435, 0.12086379528045654]
+['loud', 'soft'] received scores [0.9073655009269714, 0.09263451397418976]
+['quiet', 'noisy'] received scores [0.5466712713241577, 0.4533286988735199]
+['noisy', 'soft'] received scores [0.5275664329528809, 0.47243353724479675]
+
+decades/1910s/IE/1912_O.txt
+
+In  order  to  keep  in  memory  the  covenants  and  obligations  that  we    make,  we  repeat  these  symbols  of  the  atonement  in  partaking  of  the  holy  sacrament ;  partaking  of  the  broken  bread  in  remembrance  of  the  broken  body  of  the  Christ ;  partaking of  the  water  or  the  wine  in  memory  of  the  shed  blood  of  the  Christ,  witnessing  unto  the  Father  that  we  will  always  remember  Him,  and  keep  His  commandments  that  He  has  given  us ;  in  order  that  we  might  have  all  this  crowned  with  the  realization  of  that  beautiful  and  splendid  promise,  that  we  shall  have  His  Spirit  always  to  be  with  us.
+
+['loud', 'quiet'] received scores [0.7485852241516113, 0.25141480565071106]
+['loud', 'soft'] received scores [0.7039620280265808, 0.2960379719734192]
+['quiet', 'noisy'] received scores [0.5007244944572449, 0.4992755353450775]
+['soft', 'noisy'] received scores [0.5566906929016113, 0.4433092772960663]
+
+decades/1910s/IE/1912_O.txt
+
+Not  but  what  everything that  the'  Lord  has  revealed  is  (true,  and  truth  abideth  forever,  but  there  are  basic  principles  underlying our  faith  that  we  should  have  our  minds  called  attention  to  from  time  to  time,  and  these  are  expounded  to  us  in  our  conferences, in  our  sacramental  meetings,  in  our  organizations  of  the  Holy  Priesthood,  through  men  who  are  appointed  to  teach  and  preach  and  expound  and  declare  the  mind  and  will  of  the  Lord.
+
+['quiet', 'loud'] received scores [0.5885224342346191, 0.41147756576538086]
+['soft', 'loud'] received scores [0.6119486093521118, 0.38805142045021057]
+['quiet', 'noisy'] received scores [0.7677062153816223, 0.23229381442070007]
+['soft', 'noisy'] received scores [0.7846636772155762, 0.21533633768558502]
+
+decades/1910s/IE/1913_A.txt
+
+They  partook of  the  sacrament  for  the  first  time  in  this  dispensation ;  the  emblems of  the  body  and  blood  of  the  Savior  were  administered,  and  those  few  who  were  together  rejoiced  in  having  this  privilege,  and  in  hearing the  testimonies  that  were  borne   and  the  prophecies  that  were  made.  Several  who  were  present  went  away  believing,  and  were  afterwards baptized.
+
+['loud', 'quiet'] received scores [0.7261998653411865, 0.2738001346588135]
+['loud', 'soft'] received scores [0.7465218305587769, 0.25347816944122314]
+['quiet', 'noisy'] received scores [0.560339629650116, 0.43966034054756165]
+['soft', 'noisy'] received scores [0.5344006419181824, 0.46559938788414]
+
+decades/1910s/IE/1913_A.txt
+
+But  if  I  find  an  individual  who  is  indifferent,  an  individual  who  is  lukewarm,  I  soon  discover  that  he  is  not  attending  his  sacrament meetings,  and  not  attending  to  the  duty  that  the  Bishop  has  asked  him  to  perform  in  the  Church.
+
+['quiet', 'loud'] received scores [0.5902613401412964, 0.409738689661026]
+['soft', 'loud'] received scores [0.921544075012207, 0.07845591753721237]
+['quiet', 'noisy'] received scores [0.7088777422904968, 0.2911222577095032]
+['soft', 'noisy'] received scores [0.9520476460456848, 0.0479523241519928]
+
+decades/1910s/IE/1913_A.txt
+
+We  need  the  teachers  to  come  and  visit  us,  and  to  labor  with  us  and  with  those  that  are  wayward,  seeing  that    there  is  no  iniquity   in  the    church,  putting  their  arms  around  the  wayward  boys  and  bringing  them  to  the  fold  of  Christ,  to  the  sacrament  meeting,  and  seeing  that  they  worthily  partake  of  the  sacrament of  the  Lord's  Supper.
+
+['loud', 'quiet'] received scores [0.623404860496521, 0.376595139503479]
+['loud', 'soft'] received scores [0.715444803237915, 0.2845551371574402]
+['quiet', 'noisy'] received scores [0.7080907821655273, 0.29190918803215027]
+['soft', 'noisy'] received scores [0.6149523258209229, 0.38504770398139954]
+
+decades/1910s/IE/1913_O.txt
+
+On  that  day  we  are  to  go  to  His  holy  house,  and  we  are  to  offer  up  our  sacraments  and  pay  our  devotions to  the  Most  High  ;  "and  on  this  day  thou  shalt  do  none  other  thing,  only  let  thy  food  be  prepared  with  singleness  of  heart,  that  thy  fasting  may  be  perfect,  or  in  other  words  that  thy  joy  may  be  full.
+
+['quiet', 'loud'] received scores [0.846336841583252, 0.15366318821907043]
+['loud', 'soft'] received scores [0.5680582523345947, 0.4319417476654053]
+['quiet', 'noisy'] received scores [0.9239745736122131, 0.07602546364068985]
+['soft', 'noisy'] received scores [0.6265696883201599, 0.3734302818775177]
+
+decades/1910s/IE/1913_O.txt
+
+I  discover  that  in  our  days  of  worship,  various  occasions  of  worship and  serving  the  Lord,  and  partaking of  the  sacrament,  and  of  the  proper  time  for  us  to  remember  our  prayers  before  the  Lord,  an  important percentage  of  the  Latter-day  Saints  have  not  yet  reached  that  success  that  should  attend  upon  all  members  of  this  Church.
+
+['loud', 'quiet'] received scores [0.6071046590805054, 0.3928954005241394]
+['loud', 'soft'] received scores [0.5671935677528381, 0.43280643224716187]
+['quiet', 'noisy'] received scores [0.5591490864753723, 0.4408508539199829]
+['soft', 'noisy'] received scores [0.599277913570404, 0.40072211623191833]
+
+decades/1910s/IE/1913_O.txt
+
+"  I  say,  also,  extending  this  scripture  a  little  to  harmonize  with  the  extension I  gave  to  that  from  Paul,  that  not  only  the  man  who  neglects  his  prayers,  in  the  season  thereof,  should  be  had  in  remembrance  before the  judge  of  the  people,  but  those  who  are  not  attentive  to  partaking of  the  sacrament  on  the  Sabbath day,  those  who  do  not  come  to  '  the  house  of  the  Lord  on  the  Sabbath day,  those  who  do  not  suitably  rest  as  they  should  upon  that  day,    and  keep  that  day  sacred  and  holy,  should  be  had  in  remembrance  before the  judge  of  the  people.
+
+['loud', 'quiet'] received scores [0.6189084053039551, 0.38109153509140015]
+['loud', 'soft'] received scores [0.6506298184394836, 0.34937015175819397]
+['quiet', 'noisy'] received scores [0.7232116460800171, 0.2767883837223053]
+['soft', 'noisy'] received scores [0.6949909925460815, 0.30500903725624084]
+
+decades/1910s/IE/1913_O.txt
+
+If  a  bishop  should  be  the  husband  of  one  wife  and  every  other  man  should  be  a  married  man,  I  hold  that  every  woman  should  be  the  wife  of  one  husband,  that  not  a  woman  in  this  Church  should  be  without  marriage  in  due  time,  just  as  men  should  pray  in  the  season  thereof,  just  as  men  should  partake  of  the  sacrament  in  the  season  thereof.
+
+['quiet', 'loud'] received scores [0.6641982197761536, 0.3358018100261688]
+['loud', 'soft'] received scores [0.5733938813209534, 0.42660608887672424]
+['quiet', 'noisy'] received scores [0.850990891456604, 0.1490091234445572]
+['soft', 'noisy'] received scores [0.6823564767837524, 0.3176434636116028]
+
+decades/1910s/IE/1913_O.txt
+
+It  is  an  important  responsibility resting  upon  these  presiding men  that  they  should  look  after  the  brethren  and  sisters  who  are  at  large,  and  who  are  not  frequently gathered  together,  that  do  not  gather,  as  they  should  do,  to  partake  of  the  sacrament,  and  who  are  not  attentive  as  they  should  be  in  regard  to  their  prayers  and  obligations, family  prayers  and  secret  prayers  and  the  like.
+
+['quiet', 'loud'] received scores [0.5463405251502991, 0.45365944504737854]
+['loud', 'soft'] received scores [0.6875205039978027, 0.31247949600219727]
+['quiet', 'noisy'] received scores [0.861591100692749, 0.13840888440608978]
+['soft', 'noisy'] received scores [0.7014307379722595, 0.29856932163238525]
+
+decades/1910s/IE/1913_O.txt
+
+In  the  days  of  the  Savior,  among  the  Nephites,  He  commanded  that  they  should  be  seated  upon  the  earth  in  order  to  partake  of  the  sacrament ;  and  when  they  were  called  together  in  great  companies,  too  large  for  one  apostle  to  stand  up  and  speak  to  them,  they  were  divided.
+
+['quiet', 'loud'] received scores [0.5306723117828369, 0.4693276882171631]
+['loud', 'soft'] received scores [0.6679334044456482, 0.3320666253566742]
+['quiet', 'noisy'] received scores [0.673599362373352, 0.3264005780220032]
+['noisy', 'soft'] received scores [0.52427738904953, 0.4757225513458252]
+
+decades/1910s/IE/1913_O.txt
+
+The  sacrament  of  the  Lord  might  be  given  to  them,  the  emblems  of  the  body  and  blood  of  our  Lord,  Jesus  Christ,  who  has  redeemed  us,  and  by  whom  we  are.
+
+['loud', 'quiet'] received scores [0.5831514000892639, 0.4168485701084137]
+['loud', 'soft'] received scores [0.6859014630317688, 0.3140985071659088]
+['quiet', 'noisy'] received scores [0.7294338345527649, 0.2705661356449127]
+['soft', 'noisy'] received scores [0.6333112716674805, 0.36668872833251953]
+
+decades/1910s/IE/1913_O.txt
+
+In  honor  of  Him,  and  in  remembrance  of  His  sufferings, and  His  body  and  blood,  and  the  redemption  that  has  been  wrought  out  for  us,  we  need  to  partake  of  the  sacrament.
+
+['loud', 'quiet'] received scores [0.5699438452720642, 0.4300561547279358]
+['loud', 'soft'] received scores [0.6689944267272949, 0.33100560307502747]
+['quiet', 'noisy'] received scores [0.7161596417427063, 0.2838403880596161]
+['soft', 'noisy'] received scores [0.623275101184845, 0.37672489881515503]
+
+decades/1910s/IE/1913_O.txt
+
+I  declare  to  you,  if  a  man  pays  tithing, he  will  pray,  he  will  go  to  his  quorum  meetings,  he  will  go  to  his  sacrament  meetings,  and  he  will  do  a  great  many  other  things.
+
+['loud', 'quiet'] received scores [0.6913977265357971, 0.3086022734642029]
+['loud', 'soft'] received scores [0.7929015159606934, 0.20709852874279022]
+['quiet', 'noisy'] received scores [0.6912447810173035, 0.3087553083896637]
+['soft', 'noisy'] received scores [0.5671181082725525, 0.4328819215297699]
+
+decades/1910s/IE/1913_O.txt
+
+We  ought  to  be  faithful  in  the  payment  of  our  tithes,  in  observing  the  word  of  wisdom,  attending  to  our  prayers  and  our  sacrament  meetings,  and  take  advantage  of  the  institution?
+
+['quiet', 'loud'] received scores [0.6273760795593262, 0.37262392044067383]
+['soft', 'loud'] received scores [0.5852723121643066, 0.41472771763801575]
+['quiet', 'noisy'] received scores [0.743955671787262, 0.25604432821273804]
+['soft', 'noisy'] received scores [0.7089127898216248, 0.29108723998069763]
+
+decades/1910s/IE/1914_A.txt
+
+Responsibility  for  this  home  missionary  labor  rests  upon  the  local  authorities — the  presidents and  bishops. — under  whose  direction  the  Seventies  residing  in  the  several  stakes  and  wards  may  be  effectively engaged,   "It  is  gratifying  to  know,  as  the  records  show,  that  through  the  benefits of  our  local  option  laws,  the  saloon has  been  eliminated  in  communities wherein  the  Latter-day  Saints  predominate   "A  marked  increase  in  the  labors  of  the  ward  teachers  is  shown;  and  one  of  the  direct  results  of  this  important  activity  is  the  increase  in  the  attendance of  the  Latter-day  Saints  at  their  Sacrament  meetings,  and  also  a  marked  increase  of  enrollment  in  all  the  auxiliary  organizations  of  the  Church.
+
+['loud', 'quiet'] received scores [0.7199231386184692, 0.28007686138153076]
+['loud', 'soft'] received scores [0.6760551929473877, 0.3239448070526123]
+['noisy', 'quiet'] received scores [0.5028975009918213, 0.4971025288105011]
+['soft', 'noisy'] received scores [0.5490390062332153, 0.4509609341621399]
+
+decades/1910s/IE/1914_A.txt
+
+17    house  on  this,  His  holy  day  and  worship  Him  in  the  spirit  of  holiness, to  offer  up  our  sacraments  and  pay  our  devotions  to  the  Most  High,  to  forgive  one  another  if  there  be  differences  in  our  feelings  with  each  other,  to  feel  in  our  hearts  that  we  want  to  bless  mankind and  to  serve  the  Lord  and  become sanctified  unto  Him.
+
+['quiet', 'loud'] received scores [0.5420646667480469, 0.4579353332519531]
+['loud', 'soft'] received scores [0.6882339715957642, 0.3117660582065582]
+['quiet', 'noisy'] received scores [0.7841120958328247, 0.2158878743648529]
+['soft', 'noisy'] received scores [0.5815792679786682, 0.41842079162597656]
+
+decades/1910s/IE/1914_A.txt
+
+Not  of  going  to  Church  for  one  day  or  one  Sunday  in  the  year,  but  regularly  on  the  Lord's  day,  you  will  consecrate  yourselves  to  His  service;  go  up  to  His  holy  house,  be  in  unison  with  the  Saints,  partake  of  the  holy  sacrament  in  remembrance  of  His  body  and  of  His  blood  shed  for  the  remission  of  sins,  and  receiving  a  renewal  of  His  Spirit,  you  may  be  able  to  serve  Him  during  the  coming  week,  every day,  and  be  under  the  influence  and  direction  of  His  Spirit;  and  in  that  you  will  have  joy  and  peace.
+
+['quiet', 'loud'] received scores [0.63184654712677, 0.3681534230709076]
+['soft', 'loud'] received scores [0.5159178972244263, 0.48408207297325134]
+['quiet', 'noisy'] received scores [0.8460352420806885, 0.15396477282047272]
+['soft', 'noisy'] received scores [0.7733603119850159, 0.22663968801498413]
+
+decades/1910s/IE/1914_A.txt
+
+This  improvement  is  shown  in  the  steady  increase  of  attendance at  Sacrament  meetings,  quorum meetings,  and  other  appointed  gatherings,  and  in  the  growing  interest associated  with  the  different  auxiliary organizations.
+
+['loud', 'quiet'] received scores [0.7052238583564758, 0.29477614164352417]
+['loud', 'soft'] received scores [0.6723079085350037, 0.32769209146499634]
+['quiet', 'noisy'] received scores [0.5197912454605103, 0.4802088141441345]
+['soft', 'noisy'] received scores [0.5579541325569153, 0.44204583764076233]
+
+decades/1910s/IE/1914_A.txt
+
+We  do  not  have  to  send  from  one  stake  to  another;  for  in  every  stake,  in  every  ward  in  this  Church,  in  every  branch  and  in  every  mission,  there  are  those  who  are  entitled  to  administer  to  the  sick  and  have  experience  therein,  as  well  as  in  administering  the  Sacrament  to  us  on  the  Sabbath  day.
+
+['loud', 'quiet'] received scores [0.5201687216758728, 0.4798312485218048]
+['loud', 'soft'] received scores [0.5007240176200867, 0.4992760121822357]
+['quiet', 'noisy'] received scores [0.7851877212524414, 0.2148122787475586]
+['soft', 'noisy'] received scores [0.7980225682258606, 0.20197740197181702]
+
+decades/1910s/IE/1914_A.txt
+
+We  don't  send  to  a  neighbor  ward  for  somebody  to  administer  the  Sacrament  for  us,  do  we  ?
+
+['quiet', 'loud'] received scores [0.8939875960350037, 0.10601239651441574]
+['soft', 'loud'] received scores [0.7529222369194031, 0.2470777928829193]
+['quiet', 'noisy'] received scores [0.9400053024291992, 0.05999474227428436]
+['soft', 'noisy'] received scores [0.8498916029930115, 0.15010836720466614]
+
+decades/1910s/IE/1914_O.txt
+
+After  he  had  thoroughly  taught  His  disciples  and  the  multitude  in  regard  to  the  sacrament he  said :   "Therefore  blessed  are  ye  if  ye  shall  keep  my  commandments,  which  the    Father  hath  commanded  me  that  I  should  give  unto  you.
+
+['loud', 'quiet'] received scores [0.5978783369064331, 0.4021216332912445]
+['loud', 'soft'] received scores [0.6746765971183777, 0.3253234624862671]
+['quiet', 'noisy'] received scores [0.6862939596176147, 0.31370601058006287]
+['soft', 'noisy'] received scores [0.610655665397644, 0.38934439420700073]
+
+decades/1910s/IE/1914_O.txt
+
+Thus  all  the  Latter-day  Saints  may  be  inspired,  and  prompted, and  reminded  of  their  duties,  and  stirred  up  to  become  alive,  like  live  coals ;  and  become  prayerful,  and  partake  of  the  sacrament  whenever they  can  do  so.
+
+['loud', 'quiet'] received scores [0.8481885194778442, 0.15181146562099457]
+['loud', 'soft'] received scores [0.8513118624687195, 0.1486881822347641]
+['noisy', 'quiet'] received scores [0.7920843362808228, 0.20791564881801605]
+['noisy', 'soft'] received scores [0.7960844039916992, 0.20391562581062317]
+
+decades/1910s/IE/1914_O.txt
+
+Latter-day  Saints  can't  be  quite  perfect  without  partaking  of  the  sacrament ;  neither  can  they  become  perfect  without  attending to  their  prayers  on  suitable  occasions,  and  in  due  season.
+
+['quiet', 'loud'] received scores [0.6170980334281921, 0.38290196657180786]
+['loud', 'soft'] received scores [0.5606590509414673, 0.4393409490585327]
+['quiet', 'noisy'] received scores [0.7788349390029907, 0.22116506099700928]
+['soft', 'noisy'] received scores [0.6313014030456543, 0.3686986267566681]
+
+decades/1910s/IE/1915_A.txt
+
+Last  Thursday  night  was  celebrated in  memory  of  His  instituting  the  Holy  Sacrament ;  Friday  we  commemorated  His  crucifixion,  and  today,  the  first  day  of  the  week,  we  celebrate  His  resurrection.
+
+['loud', 'quiet'] received scores [0.7360171675682068, 0.2639828622341156]
+['loud', 'soft'] received scores [0.7063944935798645, 0.2936054468154907]
+['quiet', 'noisy'] received scores [0.5120742321014404, 0.48792579770088196]
+['soft', 'noisy'] received scores [0.5487789511680603, 0.4512210786342621]
+
+decades/1910s/IE/1915_A.txt
+
+The  requirement  is  that  all  members  of  the  Church  fast  that  day,  attend  to  their  meetings,  particularly their  sacrament  meeting,  and  in  accordance  with  the  revelation of  God,  give  their  oblations,  render  their  sacraments  and  offer  their  prayers  to  God.
+
+['quiet', 'loud'] received scores [0.6934546828269958, 0.30654528737068176]
+['loud', 'soft'] received scores [0.6572531461715698, 0.34274688363075256]
+['quiet', 'noisy'] received scores [0.8748131394386292, 0.12518690526485443]
+['soft', 'noisy'] received scores [0.6169931292533875, 0.38300687074661255]
+
+decades/1910s/IE/1915_O.txt
+
+In  some  stakes  we  find  that  there  is  a  much  greater  percentage attending  the  sacrament  meetings  than  in  others.
+
+['loud', 'quiet'] received scores [0.6086879372596741, 0.3913120925426483]
+['soft', 'loud'] received scores [0.5042867064476013, 0.4957132935523987]
+['quiet', 'noisy'] received scores [0.5002276301383972, 0.4997723400592804]
+['soft', 'noisy'] received scores [0.6129805445671082, 0.38701945543289185]
+
+decades/1910s/IE/1915_O.txt
+
+Don't  let  us  neglect  this  duty  and  stay  away  from  the  house  of  the  Lord  on  His  Holy  day,  but  go  there  and  worship  Him,  partake  of  the  sacrament,  and  renew  our  covenant  with  the  Lord,  then  we  shall  receive  strength  to  perform  our  duties.
+
+['loud', 'quiet'] received scores [0.6594852805137634, 0.34051477909088135]
+['loud', 'soft'] received scores [0.7468776106834412, 0.2531224191188812]
+['quiet', 'noisy'] received scores [0.6464331150054932, 0.3535669147968292]
+['soft', 'noisy'] received scores [0.5454665422439575, 0.4545333981513977]
+
+decades/1910s/IE/1915_O.txt
+
+Some  excuse  their  absence  from  sacrament  meetings by  saying  that  they  are  afraid  they  might  partake  of  the  sacred  emblems  unworthily.
+
+['quiet', 'loud'] received scores [0.5109083652496338, 0.489091694355011]
+['soft', 'loud'] received scores [0.5670167803764343, 0.43298327922821045]
+['quiet', 'noisy'] received scores [0.6178532838821411, 0.3821467161178589]
+['soft', 'noisy'] received scores [0.6696264147758484, 0.3303735554218292]
+
+decades/1910s/IE/1915_O.txt
+
+If  we  stay  away  or  avoid  partaking  of  the  sacrament,  we  are cutting  ourselves short  of  the  blessings  we  could  enjoy;  in  fact  such  a  course  will  cause  spiritual  starvation.
+
+['quiet', 'loud'] received scores [0.5603794455528259, 0.4396205246448517]
+['loud', 'soft'] received scores [0.7109531164169312, 0.28904691338539124]
+['quiet', 'noisy'] received scores [0.79061359167099, 0.2093864232301712]
+['soft', 'noisy'] received scores [0.5463435649871826, 0.4536563456058502]
+
+decades/1910s/IE/1915_O.txt
+
+For  some  time  we  have  endeavored in  our  stake  to  bring  a  larger  number  of  people  to  our  Sacrament  meetings,  and  to  accomplish  this  we  called  into  service  some  thirty  missionaries and  singers  and  musicians,  who  for  the  last  two  or  three  months  have  visited  alternately  every  ward  in  the  stake,  preaching  the  Gospel  and  calling  the  people  to  repentance.
+
+['loud', 'quiet'] received scores [0.7776365876197815, 0.2223634123802185]
+['loud', 'soft'] received scores [0.781825602054596, 0.21817441284656525]
+['noisy', 'quiet'] received scores [0.5313740968704224, 0.46862587332725525]
+['noisy', 'soft'] received scores [0.5374428033828735, 0.46255719661712646]
+
+decades/1910s/IE/1915_O.txt
+
+And  I  have  wondered  sometimes  how  many  people,  how  many  of  us,  go  to  our  sacrament  meetings  irrespective  of  who  shall  sing  or  pray  or  speak,  but  because  we  love  the  Lord  with  all  our  hearts,  and  because  we  feel  to  go  to  the  house  of  worship  to  offer  up  our  oblations  to  the  Lord  our  God  by  partaking,  in  humility,  of  the  emblems of  the  atonement,  in  remembrance of  the  sufferings  and  the  mercy  of  our  Savior,  judging  our  hearts,  our  conduct,  and  our  worthiness, to  partake  of  the  emblems  of  the  broken  flesh  and  spilt  blood  of  our  Redeemer.
+
+['quiet', 'loud'] received scores [0.7024620771408081, 0.29753798246383667]
+['loud', 'soft'] received scores [0.5650244951248169, 0.4349755346775055]
+['quiet', 'noisy'] received scores [0.8768672943115234, 0.12313273549079895]
+['soft', 'noisy'] received scores [0.698983907699585, 0.3010161221027374]
+
+decades/1910s/IE/1915_O.txt
+
+We  cannot  be  spiritually  alive  if  we  neglect  our  meetings,  and  neglect  to  partake  of  the  sacrament.
+
+['loud', 'quiet'] received scores [0.5219740271568298, 0.47802600264549255]
+['loud', 'soft'] received scores [0.715697169303894, 0.28430283069610596]
+['quiet', 'noisy'] received scores [0.7456640005111694, 0.2543359696865082]
+['soft', 'noisy'] received scores [0.5598009824752808, 0.44019895792007446]
+
+decades/1910s/IE/1915_O.txt
+
+We  stand  at  the  head  of  the  list,  having  the  largest  percentage  of  people  attending sacrament  meetings,  and  we  are  proud  of  it.
+
+['loud', 'quiet'] received scores [0.7713053822517395, 0.22869466245174408]
+['loud', 'soft'] received scores [0.8541088700294495, 0.14589107036590576]
+['quiet', 'noisy'] received scores [0.5141666531562805, 0.48583340644836426]
+['noisy', 'soft'] received scores [0.6212413311004639, 0.3787587285041809]
+
+decades/1910s/IE/1915_O.txt
+
+But  I  have  noticed  this ;  that  since  I  came  from  my  mission,  quite  a  number  of  years  ago,  1  have  been  called  upon,  perhaps,  only  twice  to  administer  the  sacrament  in  our  meetings,  because  I  have  always  been  busy  with  the  choir  or  at  the  organ ;  and  I  have  felt  sometimes  that  the  brethren  forget  that  we  musicians hold  the  priesthood,  and  that  we  want  to  exercise  our  rights  therein.
+
+['quiet', 'loud'] received scores [0.9503260254859924, 0.04967401176691055]
+['soft', 'loud'] received scores [0.564004123210907, 0.4359959065914154]
+['quiet', 'noisy'] received scores [0.9715531468391418, 0.02844683639705181]
+['soft', 'noisy'] received scores [0.69782555103302, 0.30217447876930237]
+
+decades/1910s/IE/1916_A.txt
+
+When  we  pray,  we  are  told  directly  how  to  pray,  and  a  sample  is  given  to  us  in  the  blessing  of  the  bread  and  of  the  water  in  the  sacrament:  "Oh,  God,  the  Eternal  Father,  we  ask  Thee  in  the  name  of  Jesus  Christ,  Thy  Son,"  so  and  so ;  that  is  the  pattern  for  our  prayers.
+
+['quiet', 'loud'] received scores [0.6080552339553833, 0.3919448256492615]
+['soft', 'loud'] received scores [0.5605418682098389, 0.43945813179016113]
+['quiet', 'noisy'] received scores [0.700918436050415, 0.2990815341472626]
+['soft', 'noisy'] received scores [0.6583369970321655, 0.3416630029678345]
+
+decades/1910s/IE/1916_A.txt
+
+That  inasmuch  as  any  man  drinketh  wine  or  strong  drink  among  you,  behold  it  is  not  good,  neither  meet  in  the  sight  of  your  Father,  only  in  assembling  yourselves  together  to  offer  up  your  sacraments  before  Him.
+
+['quiet', 'loud'] received scores [0.621956467628479, 0.378043532371521]
+['loud', 'soft'] received scores [0.6272401809692383, 0.37275975942611694]
+['quiet', 'noisy'] received scores [0.7995654940605164, 0.20043449103832245]
+['soft', 'noisy'] received scores [0.5903288125991821, 0.40967118740081787]
+
+decades/1910s/IE/1916_A.txt
+
+and  drink  his  blood,  ye  have  no  life  in  you,"  referring    to  the  ordinance    which  He  later   instituted,   the   sacrament  of  the  Lord's  supper.
+
+['loud', 'quiet'] received scores [0.773733377456665, 0.22626660764217377]
+['loud', 'soft'] received scores [0.7403267621994019, 0.25967323780059814]
+['quiet', 'noisy'] received scores [0.5344838500022888, 0.4655161201953888]
+['soft', 'noisy'] received scores [0.5793243646621704, 0.4206756353378296]
+
+decades/1910s/IE/1916_A.txt
+
+Abbott  and  those  who  think  with  him  that  in  the  important  matter of  administering  the  holy  sacrament —  the  Lord's  Supper  —  the  means  that  God  has  established  in  his  Church  for  the  perpetuation —  Latter-day  Saints, mark  it!
+
+['loud', 'quiet'] received scores [0.7279165387153625, 0.27208346128463745]
+['loud', 'soft'] received scores [0.9114067554473877, 0.0885932520031929]
+['quiet', 'noisy'] received scores [0.6439036130905151, 0.3560963571071625]
+['noisy', 'soft'] received scores [0.6801602840423584, 0.3198397159576416]
+
+decades/1910s/IE/1916_A.txt
+
+They  know  not  how  to  administer  the  holy  sacrament of  the  Lord's  supper,  for  the  perpetuation  of  the  spiritual  life  of  man.
+
+['quiet', 'loud'] received scores [0.6366121172904968, 0.36338791251182556]
+['soft', 'loud'] received scores [0.5517799854278564, 0.44822004437446594]
+['quiet', 'noisy'] received scores [0.7815225124359131, 0.21847748756408691]
+['soft', 'noisy'] received scores [0.7153957486152649, 0.2846042215824127]
+
+decades/1910s/IE/1916_A.txt
+
+Through  the  Book  of  Mormon and  in  the  Doctrine  and  Covenants, by  the  revelations  we  there  have,  something  more  is  added  to  the  religious  truths  by  which  men  may  be  guided,  viz.,   the  prayer  for  consecration  of  the  holy  sacrament.
+
+['loud', 'quiet'] received scores [0.645214855670929, 0.35478514432907104]
+['loud', 'soft'] received scores [0.6026612520217896, 0.39733874797821045]
+['quiet', 'noisy'] received scores [0.5170791149139404, 0.48292088508605957]
+['soft', 'noisy'] received scores [0.562139093875885, 0.4378609359264374]
+
+decades/1910s/IE/1916_A.txt
+
+I  did  not  have  baptism and  the  sacrament  in  mind,  but  this :     He  tells   us   that  no   added   truth  to  that  which  is  contained  in  the  Old  and  New  Testaments  in  respect  of  God  may  be  looked  for,  notwithstanding  the  admitted  presence  of  the  spirit  of  revelation  among  men ;  and  I  wanted  to  place  this  man's  statement  in  contrast  with  the  great  truths  that  have  been  announced  in  this  conference,  by  President  Smith  and  President  Penrose, as  proof  that  a  world  of  added  knowledge,  of  intelligence,  and  understanding respecting  God  has  been  brought  forth  by  the  revelations of  God  to  the  great  prophet  of  this  new  dispensation,  Joseph  Smith.
+
+['quiet', 'loud'] received scores [0.6944556832313538, 0.30554434657096863]
+['loud', 'soft'] received scores [0.6456659436225891, 0.3543340861797333]
+['quiet', 'noisy'] received scores [0.7885699272155762, 0.21143005788326263]
+['noisy', 'soft'] received scores [0.5261632800102234, 0.473836749792099]
+
+decades/1910s/IE/1916_O.txt
+
+He  answered,  in  attendance at  sacrament  meetings;  adding,  that  while  they  had  large  meetings,  still  the  percentage  was  low.
+
+['quiet', 'loud'] received scores [0.5754148960113525, 0.42458513379096985]
+['soft', 'loud'] received scores [0.5449347496032715, 0.4550652801990509]
+['quiet', 'noisy'] received scores [0.7350630164146423, 0.2649369537830353]
+['soft', 'noisy'] received scores [0.7102731466293335, 0.2897269129753113]
+
+decades/1910s/IE/1916_O.txt
+
+It  has  also  been  the  report  from  a  great  many  places,  that  the  percentage  of  attendance  at  sacrament meetings  is  low.
+
+['loud', 'quiet'] received scores [0.785131573677063, 0.2148684710264206]
+['loud', 'soft'] received scores [0.5358930230140686, 0.4641069769859314]
+['noisy', 'quiet'] received scores [0.6502842307090759, 0.34971579909324646]
+['soft', 'noisy'] received scores [0.6298834681510925, 0.3701165020465851]
+
+decades/1910s/IE/1916_O.txt
+
+The  Lord  says :   "And  that  thou  mayest  more  fully  keep  thyself  unspotted  from  the  world,  thou  shalt  go  to  the  house  of  prayer  and  offer  up  thy  sacraments  on  my  holy  day;  for  verily  this  is  a  day  appointed  unto  you  to  rest  from  your  labors,  and  to  pay  thy  devotions  to  the  Most  High;  nevertheless,  thy  vows  shall  be  offered  up  in  righteousness on  all  days  and  at  all  times;  but  remember  that  on  this  the  Lord's  day,  thou  shalt  offer  thine  oblations  and  thy  sacraments  unto  the  Most  High,  confessing thy  sins  unto  thy  brethren,  and  before  the  Lord.
+
+['quiet', 'loud'] received scores [0.9588608741760254, 0.0411391444504261]
+['loud', 'soft'] received scores [0.535053014755249, 0.4649469554424286]
+['quiet', 'noisy'] received scores [0.9814754128456116, 0.01852463185787201]
+['soft', 'noisy'] received scores [0.6639010310173035, 0.3360990285873413]
+
+decades/1910s/IE/1916_O.txt
+
+By  attending  our  meetings  and  listening to  what  is  said  to  us,  partaking  of  the  sacrament  and  renewing  our  covenants  we  get  more  strength  to  keep  ourselves  unspotted  from  the  world.
+
+['quiet', 'loud'] received scores [0.9046228528022766, 0.09537716209888458]
+['loud', 'soft'] received scores [0.6034315228462219, 0.3965684175491333]
+['quiet', 'noisy'] received scores [0.9733447432518005, 0.02665523812174797]
+['soft', 'noisy'] received scores [0.716728150844574, 0.28327181935310364]
+
+decades/1910s/IE/1916_O.txt
+
+Generally,  after  the  opening  of  the  meeting  the  sacrament  of  the  Lord's  supper  is  administered.
+
+['quiet', 'loud'] received scores [0.6074704527854919, 0.39252951741218567]
+['soft', 'loud'] received scores [0.6577399969100952, 0.3422600030899048]
+['quiet', 'noisy'] received scores [0.729146420955658, 0.27085354924201965]
+['soft', 'noisy'] received scores [0.7697399854660034, 0.23026004433631897]
+
+decades/1910s/IE/1916_O.txt
+
+When  the  emblems  — the  bread  and  water — are  passed    around  let  us  not  partake  of  them  thoughtlessly,  but  let  our  minds  be  turned  to  the  meaning  of  the  sacrament, and  go  back  to  Calvary,  and,  with  grateful  hearts,  remember  what  our  Master  and  Savior  suffered and  did  for  us,  as  has  been  alluded  to  by  our  President,  how  the  Savior  voluntarily  gave  his  life  for  his  brethren.
+
+['quiet', 'loud'] received scores [0.5340142250061035, 0.4659857451915741]
+['loud', 'soft'] received scores [0.5876147747039795, 0.4123852550983429]
+['quiet', 'noisy'] received scores [0.7722108960151672, 0.2277890294790268]
+['soft', 'noisy'] received scores [0.67490553855896, 0.3250944912433624]
+
+decades/1910s/IE/1916_O.txt
+
+This  was  really  the  object  of  instituting  the  sacrament.
+
+['quiet', 'loud'] received scores [0.6824992299079895, 0.3175007700920105]
+['soft', 'loud'] received scores [0.5869213342666626, 0.4130786657333374]
+['quiet', 'noisy'] received scores [0.8014258146286011, 0.19857420027256012]
+['soft', 'noisy'] received scores [0.7273464798927307, 0.2726535201072693]
+
+decades/1910s/IE/1916_O.txt
+
+A  great  number  of  Christian  sects  and  denominations claim  that  this  did  not  signify  that  the  bread  and  wine  were  emblems,  but  that  we  partake  really  of  his  flesh  and  blood,  in  the  administration  of  the  sacrament.
+
+['loud', 'quiet'] received scores [0.6353580951690674, 0.3646419048309326]
+['soft', 'loud'] received scores [0.5557109713554382, 0.4442889988422394]
+['quiet', 'noisy'] received scores [0.5948523879051208, 0.40514758229255676]
+['soft', 'noisy'] received scores [0.7618970274925232, 0.23810304701328278]
+
+decades/1910s/IE/1916_O.txt
+
+Now,  brethren  and  sisters,  we  partake  of  the  sacrament  to  remember the  sacrifice  of  our  Savior  and  to  remember  him.
+
+['quiet', 'loud'] received scores [0.5561732053756714, 0.4438267946243286]
+['loud', 'soft'] received scores [0.6083248853683472, 0.39167511463165283]
+['quiet', 'noisy'] received scores [0.7543001174926758, 0.2456999123096466]
+['soft', 'noisy'] received scores [0.6120072603225708, 0.3879926800727844]
+
+decades/1910s/IE/1916_O.txt
+
+We  do  not  partake  of  the  sacrament for  the  remission  of  sins,  as  they  do  in  many  of  the  different  churches.
+
+['quiet', 'loud'] received scores [0.874229907989502, 0.12577007710933685]
+['soft', 'loud'] received scores [0.7036814093589783, 0.29631853103637695]
+['quiet', 'noisy'] received scores [0.934610903263092, 0.06538909673690796]
+['soft', 'noisy'] received scores [0.8300211429595947, 0.1699787974357605]
+
+decades/1910s/IE/1916_O.txt
+
+In  speaking  about  the  different  covenants  we  make  in  the  sacrament, a  great  covenant  is  also  made  wherein  we  promise  that  we  will  keep  the  commandments  which  Jesus  has  given  us.
+
+['loud', 'quiet'] received scores [0.7392858266830444, 0.26071420311927795]
+['loud', 'soft'] received scores [0.7181140780448914, 0.28188595175743103]
+['noisy', 'quiet'] received scores [0.5894591808319092, 0.4105408191680908]
+['noisy', 'soft'] received scores [0.5633074641227722, 0.4366925358772278]
+
+decades/1910s/IE/1916_O.txt
+
+Now  we  promise  to  keep  his  commandments  and  that  includes this  great  commandment,  sometimes  pretty  hard  to  keep,  but  we  make  the  covenant,  when  we  partake  of  the  sacrament,  that  we  will  keep  his  commandments.
+
+['quiet', 'loud'] received scores [0.5808538198471069, 0.41914623975753784]
+['loud', 'soft'] received scores [0.6025916337966919, 0.3974083662033081]
+['quiet', 'noisy'] received scores [0.8545337319374084, 0.14546629786491394]
+['soft', 'noisy'] received scores [0.7365390658378601, 0.26346099376678467]
+
+decades/1910s/IE/1916_O.txt
+
+Now  these  are  among  a  great  number  of  truths  that  the  Lord  has  revealed  to  us  through  the  prophet  Joseph  Smith,  and  we  should  keep  that  in  mind  and  remember him,  as  we  should  always  remember  Jesus,  the  Savior,  the  Christ,  as  taught  to  us  this  morning  by  President  Lund  in  his  remarks  concerning  the  form  used  in  the  Sacrament.
+
+['quiet', 'loud'] received scores [0.5107055902481079, 0.4892944395542145]
+['loud', 'soft'] received scores [0.5549189448356628, 0.44508105516433716]
+['quiet', 'noisy'] received scores [0.7245140075683594, 0.27548593282699585]
+['soft', 'noisy'] received scores [0.6689788103103638, 0.33102115988731384]
+
+decades/1910s/IE/1916_O.txt
+
+Those  who  are  inattentive and  careless  in  regard  to  the  exhortations  that  have  been  given  us  today,  in  regard  to  their  prayers,  in  regard  to  partaking  of  the  sacrament, in  regard  to  their  tithes  and  offerings  and  so  forth,  they  need  to  be  aroused  and  stirred  up,  for  their  salvation,  for  their  happiness,  for  their  peace,  their  success  and  their  prosperity  in  this  life;  for  the  Lord  rewards  us  according  to  our  works,  I  understand,  and  you  will  be  rewarded, we  will  be  rewarded  according to  our  works,  and  it  is  important that  we  look  after  the  salvation of  the  people,  half  of  whom  are  compared  to  the  foolish  virgins  by  the  Savior, — five  wise  and  five  foolish.
+
+['loud', 'quiet'] received scores [0.568897545337677, 0.4311024248600006]
+['loud', 'soft'] received scores [0.801131546497345, 0.19886848330497742]
+['noisy', 'quiet'] received scores [0.5594128370285034, 0.4405871033668518]
+['noisy', 'soft'] received scores [0.7949143052101135, 0.20508569478988647]
+
+decades/1910s/IE/1916_O.txt
+
+Prav  with  them,  labor  with  them,  teach  them,  so  that  when  they  come  to  the  age  of  marriage,  settling  down  or  going  on  missions  and  receive the  Melchizedek  priesthood,  that  they  have  had  some  experience,  that  they  know  how  to  pray,  how  to  bless  the  food,  ,how  to  bless  the  sacrament,  administer  it  properly,  and  so  forth,  well  instructed,  well  informed,  well  read  in  the  scriptures.
+
+['loud', 'quiet'] received scores [0.630602240562439, 0.3693978190422058]
+['loud', 'soft'] received scores [0.692943274974823, 0.3070567846298218]
+['quiet', 'noisy'] received scores [0.6309624314308167, 0.36903756856918335]
+['soft', 'noisy'] received scores [0.563956081867218, 0.4360438883304596]
+
+decades/1910s/IE/1916_O.txt
+
+It  won't  hurt  you  at  all  to  spend  the  time  that  is  necessary  on  the  Sabbath  day  to  partake  of  the  sacrament,  and  the  sacrament  should  be  taken  by  all  Latter-day  Saints'.
+
+['quiet', 'loud'] received scores [0.6388659477233887, 0.36113402247428894]
+['soft', 'loud'] received scores [0.5513589382171631, 0.4486410915851593]
+['quiet', 'noisy'] received scores [0.8380197286605835, 0.1619802713394165]
+['soft', 'noisy'] received scores [0.7823280096054077, 0.21767204999923706]
+
+decades/1910s/IE/1916_O.txt
+
+There  is  an  activity  there  and  everybody  who  partakes  of  the  sacrament  should  be  considered  an  active  member  in  the  Church.
+
+['loud', 'quiet'] received scores [0.7152612805366516, 0.284738689661026]
+['soft', 'loud'] received scores [0.6224455237388611, 0.3775544762611389]
+['noisy', 'quiet'] received scores [0.5358695387840271, 0.4641305208206177]
+['soft', 'noisy'] received scores [0.7819885611534119, 0.21801148355007172]
+
+decades/1910s/IE/1916_O.txt
+
+Those  who  are  always  here,  right  up  to  the  mark,  we  need  not  worry  about  them  at  all,  because  they  know  how  to  employ  themselves  and  to  be  occupied and  to  be  saved,  but  those  who  are  not  present  and  those  who  do  not  come  to  the  sacramental  table  on  the  Sabbath  day,  whatever  the  percentage  is  in  your  ward,  in  your  stake,  those  who  are  not  there  are  the  ones  that  need  attention  and  consideration.
+
+['quiet', 'loud'] received scores [0.6302066445350647, 0.3697932958602905]
+['loud', 'soft'] received scores [0.542948842048645, 0.457051157951355]
+['quiet', 'noisy'] received scores [0.8980559706687927, 0.10194399207830429]
+['soft', 'noisy'] received scores [0.8131312131881714, 0.1868688464164734]
+
+decades/1910s/IE/1916_O.txt
+
+The  revelation  further  says :  "Thou  shalt  offer  a  sacrifice  unto  the  Lord  thy  God  in  righteousness,  even  with  a  broken  heart  and  a  contrite spirit,  and  that  thou  mayest  more  fully  keep  thyself  unspotted  from  the  world,  thou  shalt  go  to  the  house  of  prayer  and  offer  up  thy  sacraments  upon  my  holy  day.
+
+['quiet', 'loud'] received scores [0.909570574760437, 0.09042949229478836]
+['loud', 'soft'] received scores [0.5602909326553345, 0.4397090971469879]
+['quiet', 'noisy'] received scores [0.9526786804199219, 0.04732126370072365]
+['soft', 'noisy'] received scores [0.6110132336616516, 0.38898682594299316]
+
+decades/1910s/IE/1916_O.txt
+
+He  had  been  to  a  "Mormon"  sacrament  meeting,  and  had  much  to  say  in  criticism  of  our  method  of  administering the  Lord's  Supper,  particularly our  use  of  water  instead  of  wine  on  such  occasions.
+
+['loud', 'quiet'] received scores [0.9175044894218445, 0.08249551057815552]
+['loud', 'soft'] received scores [0.8078479170799255, 0.19215211272239685]
+['noisy', 'quiet'] received scores [0.8150412440299988, 0.18495869636535645]
+['noisy', 'soft'] received scores [0.6248718500137329, 0.3751281201839447]
+
+decades/1910s/IE/1916_O.txt
+
+He  said  it  made  him  shudder  when  he  saw  the  people  sipping  the  water;  and  he  pointed  out  the  fact,  for  it  is  a  fact,  that  according  to  the  Bible  the  Savior, when  he  instituted  the  sacrament among  the  Jews  used  wine,  declaring  that  it  was  his  blood,  or  that    it    represented  his  blood.
+
+['loud', 'quiet'] received scores [0.8632192611694336, 0.1367807388305664]
+['loud', 'soft'] received scores [0.8884429335594177, 0.11155705899000168]
+['noisy', 'quiet'] received scores [0.6578305959701538, 0.3421693742275238]
+['noisy', 'soft'] received scores [0.7081232070922852, 0.29187676310539246]
+
+decades/1910s/IE/1916_O.txt
+
+I    could  add  that  the  Book  of  Mormon  also  states  that  the  Savior  used  wine  when  he  introduced  the  sacrament  among  the  Nephites.
+
+['loud', 'quiet'] received scores [0.7351189255714417, 0.26488107442855835]
+['loud', 'soft'] received scores [0.5920836925506592, 0.4079163670539856]
+['noisy', 'quiet'] received scores [0.6309341788291931, 0.3690658211708069]
+['soft', 'noisy'] received scores [0.5279555320739746, 0.472044438123703]
+
+decades/1910s/IE/1916_O.txt
+
+If  we  use  water  instead  of  wine  in  the  sacrament  of  the  Lord's  Supper,  it  is  because  Christ  has  so  commanded.
+
+['quiet', 'loud'] received scores [0.5709290504455566, 0.4290708899497986]
+['soft', 'loud'] received scores [0.63816899061203, 0.3618309795856476]
+['quiet', 'noisy'] received scores [0.765150249004364, 0.23484978079795837]
+['soft', 'noisy'] received scores [0.8119772672653198, 0.18802277743816376]
+
+decades/1910s/IE/1916_O.txt
+
+President  Lund,  I  think,  referred to  the  light  attendance  at  some  of  our  sacrament  meetings.
+
+['quiet', 'loud'] received scores [0.9631681442260742, 0.036831896752119064]
+['soft', 'loud'] received scores [0.7862539291381836, 0.21374601125717163]
+['quiet', 'noisy'] received scores [0.9925137162208557, 0.007486259564757347]
+['soft', 'noisy'] received scores [0.9491071105003357, 0.05089285597205162]
+
+decades/1910s/IE/1916_O.txt
+
+You  carry  the  responsibility,  teachers, of  seeing  to  it  that  members  of  the  Church  attend  to  sacrament  meeting.
+
+['loud', 'quiet'] received scores [0.5301533341407776, 0.4698466658592224]
+['loud', 'soft'] received scores [0.6582654118537903, 0.3417346179485321]
+['quiet', 'noisy'] received scores [0.7063583135604858, 0.2936416268348694]
+['soft', 'noisy'] received scores [0.5849066376686096, 0.41509339213371277]
+
+decades/1910s/IE/1916_O.txt
+
+I  do  not  believe  there  is  any  doubt  that  he  gave  instructions as  to  the  manner  of  the  administration  of  the  sacrament,  or  as  to  the  administration  of  the  saving ordinances  of  the  gospel.
+
+['loud', 'quiet'] received scores [0.8869017958641052, 0.11309822648763657]
+['loud', 'soft'] received scores [0.892778754234314, 0.10722129791975021]
+['quiet', 'noisy'] received scores [0.5574769377708435, 0.4425230324268341]
+['soft', 'noisy'] received scores [0.5426367521286011, 0.4573632478713989]
+
+decades/1910s/IE/1916_O.txt
+
+Look  at  it  today,  with  its  hundreds  of  thousands of  adherents  in  the  war,  represented in  the  soldiers  of  Italy,  who  are  receiving  the  sacraments  of  that  church  and  the  benedictions  and  blessings  of  the  priests  of  that  church  in  opposing  and  slaying  their  Catholic  brethren  of  Austria — no  power  within  that  church  to  make  its  adherents  brothers,  much  less  is  there  power  in  Protestantism  to  save  those  great  nations  from  flying at  each  other's  throats.
+
+['loud', 'quiet'] received scores [0.7477388978004456, 0.25226104259490967]
+['loud', 'soft'] received scores [0.8153026700019836, 0.18469732999801636]
+['noisy', 'quiet'] received scores [0.5431681275367737, 0.4568318724632263]
+['noisy', 'soft'] received scores [0.639075756072998, 0.3609241843223572]
+
+decades/1910s/IE/1916_O.txt
+
+Will  he  recognize  ordinances  and  ceremonies  and  sacraments  that  are  performed;  by  those  whom  he  has  not  appointed?
+
+['loud', 'quiet'] received scores [0.5210974812507629, 0.47890251874923706]
+['loud', 'soft'] received scores [0.5280542373657227, 0.47194579243659973]
+['quiet', 'noisy'] received scores [0.6361802816390991, 0.3638197183609009]
+['soft', 'noisy'] received scores [0.62969970703125, 0.3703002631664276]
+
+decades/1910s/IE/1916_O.txt
+
+There  seems  to  be  a  tendency,  on  the  part  of  some  Latter-day  Saints,  to  allow  their  children  to  remain  away  from  the  general  sacramental  meeting.
+
+['quiet', 'loud'] received scores [0.648146390914917, 0.351853609085083]
+['loud', 'soft'] received scores [0.5800834894180298, 0.41991645097732544]
+['quiet', 'noisy'] received scores [0.7803707122802734, 0.21962930262088776]
+['soft', 'noisy'] received scores [0.582686185836792, 0.417313814163208]
+
+decades/1910s/IE/1916_O.txt
+
+The  twelve  hundred  that  we  have  there  come  together  Sunday  after  Sunday,  even  in  their  poverty,  and  partake  of  the  sacrament  and  teach  each  other.
+
+['loud', 'quiet'] received scores [0.5801725387573242, 0.41982749104499817]
+['loud', 'soft'] received scores [0.6251271963119507, 0.3748728036880493]
+['quiet', 'noisy'] received scores [0.6657776832580566, 0.33422237634658813]
+['soft', 'noisy'] received scores [0.6227559447288513, 0.3772440254688263]
+
+decades/1910s/IE/1917_A.txt
+
+This  regular  work  of  the  ward  teachers  is  having  its  effect  in  improved  attendance  at  sacrament  meetings,  priesthood  meetings, and  other  ward  and  stake  activities.
+
+['quiet', 'loud'] received scores [0.5333791375160217, 0.46662089228630066]
+['loud', 'soft'] received scores [0.5970532298088074, 0.40294674038887024]
+['quiet', 'noisy'] received scores [0.681707501411438, 0.3182925283908844]
+['soft', 'noisy'] received scores [0.5584102272987366, 0.44158974289894104]
+
+decades/1910s/IE/1917_A.txt
+
+On  that  day  they  also  partook  of  the  Sacrament  of  the  Lord's  Supper, to  remember  the  great  atonement wrought  by  our  Savior,  which  event  we  also  celebrate  today.
+
+['loud', 'quiet'] received scores [0.6048125624656677, 0.3951874077320099]
+['loud', 'soft'] received scores [0.6514316201210022, 0.3485684394836426]
+['quiet', 'noisy'] received scores [0.7044335603713989, 0.29556646943092346]
+['soft', 'noisy'] received scores [0.661216676235199, 0.33878326416015625]
+
+decades/1910s/IE/1917_A.txt
+
+When  I  look  over  the  reports,  I  find  that  only  an  average of  from  16  to  20  per  cent  of  the  membership  of  this  Church  attend their  sacramental  meetings  on  Sunday  afternoon,  I  am  constrained  to  believe  that  some  if  not  many  of  the  Latter-day  Saints  have  not  decided to  stand  in  holy  places  on  the  Sabbath  afternoon,  and  I  think  that,  the  words  of  Paul  are  finding  some  application  in  the  lives  of  the  Latter-day Saints,  in  which  he  said,  speaking  to  his  favorite  son,  Timothy, that  in  the  latter-days,  those  in  which  we  are  living,  "perilous  times  shall  come,  for  men  shall  be  lovers  of  their  own  selves,  covetous,  boasters, proud,  blasphemers,  disobedient to  parents,  unthankful,  unholy, without  natural  affection,  trucebreakers,  false  accusers,  incontinent, fierce,  despisers  of  those  that  are  good,  traitors,  heady,  high-minded,  lovers  of  pleasure'  more  than  lovers  of  God."
+
+['quiet', 'loud'] received scores [0.5317983627319336, 0.4682016670703888]
+['loud', 'soft'] received scores [0.6061187386512756, 0.393881231546402]
+['quiet', 'noisy'] received scores [0.6115253567695618, 0.3884746730327606]
+['noisy', 'soft'] received scores [0.5261420011520386, 0.4738579988479614]
+
+decades/1910s/IE/1917_A.txt
+
+I  am  afraid  that  sometimes  this  spirit  of  evil  is  entering  in  among  the  Latter-day  Saints,  in  that  we  would  rather  be  somewhere  else  on  the  Sabbath  day,  when  our  feet  should  rest  in  some  holy  place,  during  the  two  hours  of  our  sacramental  meeting.
+
+['quiet', 'loud'] received scores [0.6477250456809998, 0.35227498412132263]
+['loud', 'soft'] received scores [0.5971022248268127, 0.40289774537086487]
+['quiet', 'noisy'] received scores [0.7997680902481079, 0.20023193955421448]
+['soft', 'noisy'] received scores [0.5944483280181885, 0.40555164217948914]
+
+decades/1910s/IE/1917_O.txt
+
+When  the  Lord  has  blessed  the  Saints  with  means,  they  ought  to  show,  their  gratitude  in  performing  the  different  duties  required  of  them,  and  one  of  these  is  to  build  houses  of  worship  to  God,  so  that  both  old  and  young  can  go  there  and  receive  instructions  and  blessings,  both  by  hearing  those  who  speak  and  by  renewing  their  covenants  in  partaking  of  the  sacrament.
+
+['loud', 'quiet'] received scores [0.5269200205802917, 0.47308000922203064]
+['loud', 'soft'] received scores [0.59223872423172, 0.40776121616363525]
+['quiet', 'noisy'] received scores [0.7190098762512207, 0.2809900939464569]
+['soft', 'noisy'] received scores [0.6624232530593872, 0.3375767469406128]
+
+decades/1910s/IE/1917_O.txt
+
+I  rejoice  in  knowing  that  all  the  Latter-day  Saints  with  whom  I  have  come  in  contact  for  thirty-five  years,  who  have  been  tithe-payers,  who  have  been  observers  of  the  Word  of  Wisdom,  who  have  attended  their  fast  and  sacrament  meetings,  who  have  attended  to  their  prayers  and  have  supplicated  God  for  the  guidance  of  his  Spirit,  have  just  as  an  abiding  testimony  and  as  firm  a  knowledge  and  conviction  of  the  divinity of  this  work,  and  of  the  inspiration  which  has  attended  the  men  who  have  presided  over  it,  as  I  possess.
+
+['loud', 'quiet'] received scores [0.8653290271759033, 0.13467098772525787]
+['loud', 'soft'] received scores [0.9143106937408447, 0.08568934351205826]
+['quiet', 'noisy'] received scores [0.570868730545044, 0.42913129925727844]
+['noisy', 'soft'] received scores [0.5552164912223816, 0.444783478975296]
+
+decades/1910s/IE/1917_O.txt
+
+We  use  water;  use  it  in  the  sacrament; use  it  for  our  meals;  it  is  the  best  kind  of  element  you  can  have  for  drink.
+
+['quiet', 'loud'] received scores [0.7289494872093201, 0.2710505425930023]
+['soft', 'loud'] received scores [0.5257883071899414, 0.4742116630077362]
+['quiet', 'noisy'] received scores [0.8498889207839966, 0.1501111090183258]
+['soft', 'noisy'] received scores [0.7000793218612671, 0.2999206781387329]
+
+decades/1910s/IE/1918_A.txt
+
+They  have  reciprocated  it ;  they  have  attended  our  gatherings ;  they  have  partaken  of  the  sacrament, renewing  again  their  fealty  to  the  Cross.
+
+['loud', 'quiet'] received scores [0.6592640280723572, 0.34073594212532043]
+['loud', 'soft'] received scores [0.7280792593955994, 0.27192074060440063]
+['quiet', 'noisy'] received scores [0.6452590227127075, 0.3547409474849701]
+['soft', 'noisy'] received scores [0.5679227709770203, 0.43207719922065735]
+
+decades/1910s/IE/1918_A.txt
+
+That  inasmuch  as  any  man  drinketh  wine  or  strong  drink  among  you,  behold  it  is  not  good,  neither  meet  in  the  sight  of  your  Father,  only  in  assembling  yourselves  together  to  offer  up  your  sacraments  before  him.
+
+['quiet', 'loud'] received scores [0.6530896425247192, 0.34691035747528076]
+['loud', 'soft'] received scores [0.5975036025047302, 0.4024963974952698]
+['quiet', 'noisy'] received scores [0.814324676990509, 0.18567527830600739]
+['soft', 'noisy'] received scores [0.6107909083366394, 0.38920918107032776]
+
+decades/1910s/IE/1918_A.txt
+
+I  am  wondering  if  we  take  the  time  upon  the  Sabbath  day  to  attend  to  our  sacrament  meetings,  and  testify  to  our  Father  in  heaven  through  partaking  of  the  emblems  of  the  flesh  and  blood  of  his  Only  Begotten  Son  at  the  communion  table,  or  if  we  prefer  to  stay  at  home.
+
+['quiet', 'loud'] received scores [0.5943444967269897, 0.40565550327301025]
+['loud', 'soft'] received scores [0.656074583530426, 0.343925416469574]
+['quiet', 'noisy'] received scores [0.8444415330886841, 0.1555584967136383]
+['soft', 'noisy'] received scores [0.6601244807243347, 0.3398754596710205]
+
+decades/1910s/IE/1918_A.txt
+
+We  have  also  a  number  of  Indians  who  are  faithful missionaries,  and  these  faithful  Lamanites  have  done  100  per  cent  ward  teaching,  and  their  average  attendance  at  their  sacrament  meetings is  over  50  per  cent.
+
+['loud', 'quiet'] received scores [0.7423832416534424, 0.25761672854423523]
+['loud', 'soft'] received scores [0.6840164065361023, 0.3159835636615753]
+['quiet', 'noisy'] received scores [0.540667712688446, 0.4593322277069092]
+['soft', 'noisy'] received scores [0.6104328632354736, 0.389567106962204]
+
+decades/1910s/IE/1918_A.txt
+
+Are  we  faithful  in  the  •discharge  of  our  duties  as  members  of  the  Church,  in  the  attendance  at  meetings,  both  priesthood  and  sacramental, and  all  other  meetings  which  it  is  our  privilege  and  duty  to  attend?
+
+['quiet', 'loud'] received scores [0.6188843846321106, 0.38111555576324463]
+['soft', 'loud'] received scores [0.5535684823989868, 0.4464314877986908]
+['quiet', 'noisy'] received scores [0.7872755527496338, 0.2127244621515274]
+['soft', 'noisy'] received scores [0.7386308312416077, 0.2613691985607147]
+
+decades/1910s/IE/1918_O.txt
+
+There  has  been  a  larger  attendance  at  sacrament  meetings  in  the  six  months  ending  June  30,  than  during  any  other  similar  period  since  reports  were  kept.
+
+['loud', 'quiet'] received scores [0.7866194248199463, 0.21338053047657013]
+['loud', 'soft'] received scores [0.5423251390457153, 0.45767492055892944]
+['noisy', 'quiet'] received scores [0.6922474503517151, 0.3077525198459625]
+['soft', 'noisy'] received scores [0.580375075340271, 0.41962486505508423]
+
+decades/1910s/IE/1918_O.txt
+
+We  are  pleased  to  hear  this,  and  we  want  to  say  to  the  Latter-day  Saints  that  none  of  them  should  be  satisfied  to  stay  at  home  and  not  attend  the  sacrament  meetings.
+
+['loud', 'quiet'] received scores [0.8484119176864624, 0.1515880674123764]
+['loud', 'soft'] received scores [0.9541130065917969, 0.045887019485235214]
+['quiet', 'noisy'] received scores [0.7343520522117615, 0.2656479477882385]
+['noisy', 'soft'] received scores [0.5733625888824463, 0.4266374409198761]
+
+decades/1910s/IE/1918_O.txt
+
+In  partaking  of  the  sacrament  you  make  the  promise  that  you  will  take  upon  you  the  name  of  the  Son  of  God,  that  you  will  always  remember  him  and -keep  his  commandments which  he  has  given  you,  and  then  the  promise  is  that  you  will  have  his  Spirit  to  be  with  you.
+
+['quiet', 'loud'] received scores [0.50527024269104, 0.49472978711128235]
+['loud', 'soft'] received scores [0.545695424079895, 0.4543045163154602]
+['quiet', 'noisy'] received scores [0.6562705039978027, 0.34372949600219727]
+['soft', 'noisy'] received scores [0.6088171601295471, 0.3911828100681305]
+
+decades/1910s/IE/1918_O.txt
+
+You  cannot  progress  spiritually  if  you  do  not  partake  of  these  holy  things,  and  doing  it  will  strengthen  and  inspire you  during  the  week  days;  and,  therefore,  let  us  all  feel  that  it  is  our  duty  to  attend  sacrament  meetings  and  thereby  help  to  build  up  one  another  in  our  holy  faith.
+
+['quiet', 'loud'] received scores [0.5161357522010803, 0.4838642477989197]
+['loud', 'soft'] received scores [0.740222692489624, 0.2597772777080536]
+['quiet', 'noisy'] received scores [0.7150686979293823, 0.2849312424659729]
+['noisy', 'soft'] received scores [0.5477443933486938, 0.45225560665130615]
+
+decades/1910s/IE/1918_O.txt
+
+I  desire  the  Latter-day  Saints  to  realize  that  they  are  members  of  the  body  of  Christ,  that  they  are  all  under  covenant  to  walk  in  his  ways,  to  serve  him  and  keep  his  commandments,  and  when  they  receive  the  sacrament  of  the  Lord's  supper,  that  they  renew  their  covenants  with  him,  declaring  that  they  are  willing  to  take  upon  them  his  name,  and  to  keep  the  commandments  which  he  has  given  them,  so  that  the  Holy  Spirit  may  be  with  them  always.
+
+['quiet', 'loud'] received scores [0.5189465284347534, 0.48105350136756897]
+['loud', 'soft'] received scores [0.6059437990188599, 0.39405614137649536]
+['quiet', 'noisy'] received scores [0.7288139462471008, 0.2711860239505768]
+['soft', 'noisy'] received scores [0.6183373332023621, 0.38166260719299316]
+
+decades/1910s/IE/1918_O.txt
+
+Until  we  are  able  to  love  perfectly  in  accordance  with  it,  we  have  reason  to  meet,  we  have  reason  to  pray,  we  have  reason  to  worship,  we  have  reason  to  partake of  the  sacrament.
+
+['quiet', 'loud'] received scores [0.6359987854957581, 0.36400121450424194]
+['loud', 'soft'] received scores [0.5269080400466919, 0.47309190034866333]
+['quiet', 'noisy'] received scores [0.8134856224060059, 0.18651431798934937]
+['soft', 'noisy'] received scores [0.6914793848991394, 0.308520644903183]
+
+decades/1910s/IE/1918_O.txt
+
+Who  is  there  here  that  has  always  prayed,  who  is  there  here  that  has  always  had  the  faith,  who  is  there  here  that  always  partakes  of  the  sacrament  worthily,  and  therefore has  the  right  to  expect  such  a  blessing?
+
+['loud', 'quiet'] received scores [0.5274662375450134, 0.4725337624549866]
+['loud', 'soft'] received scores [0.6348083019256592, 0.3651916980743408]
+['quiet', 'noisy'] received scores [0.7160823941230774, 0.2839175760746002]
+['soft', 'noisy'] received scores [0.6182640194892883, 0.38173601031303406]
+
+decades/1910s/IE/1918_O.txt
+
+We  pray,  we  fast,  we  partake  of  the  sacrament, — we  live  the  lives  of  Latter-day  Saints  so  as  to  have  this  faith.
+
+['loud', 'quiet'] received scores [0.6746784448623657, 0.32532158493995667]
+['loud', 'soft'] received scores [0.6827280521392822, 0.31727197766304016]
+['quiet', 'noisy'] received scores [0.5792481303215027, 0.4207518398761749]
+['soft', 'noisy'] received scores [0.5702258348464966, 0.4297741949558258]
+
+decades/1910s/IE/1918_O.txt
+
+In  these  we  struggle, we  try,  we  pray,  we  fast,  we  teach,  we  partake  of  the  sacrament,  and  we  worship,  in  the  hope  that  our  Father  in  heaven  will  bless  us  with  wisdom  to  so  bring  up  our  daughters  and  our  sons  that  to  us,  to  him,  to  the  Church,  and  to  the  country,  they  will  be  a  credit.
+
+['loud', 'quiet'] received scores [0.5531090497970581, 0.4468909502029419]
+['loud', 'soft'] received scores [0.6199079751968384, 0.38009199500083923]
+['quiet', 'noisy'] received scores [0.5304930210113525, 0.4695069491863251]
+['noisy', 'soft'] received scores [0.5383727550506592, 0.4616272449493408]
+
+decades/1910s/IE/1918_O.txt
+
+I  would  just  like  to  leave  a  thought  with  you,  and  that  is  for  us  to  attend  to  our  prayers,  to  attend  to  our  sacrament  meetings,  and  to  wake  up,  and  not  be  so  indifferent, remember  the  Lord  and  be  true  to  our  covenants.
+
+['quiet', 'loud'] received scores [0.8563869595527649, 0.1436130404472351]
+['soft', 'loud'] received scores [0.6709170341491699, 0.3290829658508301]
+['quiet', 'noisy'] received scores [0.8927912712097168, 0.10720867663621902]
+['soft', 'noisy'] received scores [0.7400659918785095, 0.25993403792381287]
+
+decades/1910s/IE/1918_O.txt
+
+Elder  Hyrum  M.  Smith,  in  one  of  the  last  discourses that  he  delivered,  I  think,  in  one  of  the  Idaho  stakes  of  Zion,  said  that  if  the  Latter-day  Saints  will  be  a  prayerful  people,  if  they  will  be  diligent  in  saying  their  prayers morning  and  night,  if  they  will  be  diligent  in  attending  their  sacrament meeting's  every  Sunday  or  as  often  as  they  can,  if  they  will  pay  an  honest  tithing,  doing  those  duties, they  will  never  apostatize  from  the  Church.
+
+['loud', 'quiet'] received scores [0.633323609828949, 0.3666764199733734]
+['loud', 'soft'] received scores [0.7093861699104309, 0.2906138300895691]
+['quiet', 'noisy'] received scores [0.6058371663093567, 0.3941628634929657]
+['soft', 'noisy'] received scores [0.5209737420082092, 0.47902631759643555]
+
+decades/1910s/IE/1918_O.txt
+
+It  is  possible for  the  little  children  even  to    meet  together  often  and  to  partake  of  the  sacrament,  to  pay  an  honest  tithing,  to  say  their  prayers  morning and  night,  and  in  secret.
+
+['quiet', 'loud'] received scores [0.9492270350456238, 0.05077294260263443]
+['soft', 'loud'] received scores [0.5657719373703003, 0.4342280328273773]
+['quiet', 'noisy'] received scores [0.9800398349761963, 0.0199601911008358]
+['soft', 'noisy'] received scores [0.7738518714904785, 0.22614814341068268]
+
+decades/1910s/IE/1918_O.txt
+
+Let  us  see  to  it  that  we  attend  to  our  worship,  that  we  partake  of  the  sacrament  upon  the  Sabbath  day,  and  that  we  do  all  things  that  will  have  a  tendency to  bring  us  together  and  to  make  us  more  faithful  and  more  appreciative  of  the  things  that  the  Lord  has  done  and  is  doing  for  us  as  a  people.
+
+['loud', 'quiet'] received scores [0.6572843194007874, 0.34271565079689026]
+['loud', 'soft'] received scores [0.6344992518424988, 0.3655007481575012]
+['quiet', 'noisy'] received scores [0.6331413388252258, 0.36685866117477417]
+['soft', 'noisy'] received scores [0.6559652090072632, 0.3440348505973816]
+
+decades/1910s/IE/1918_O.txt
+
+We  should  repent  of  it,  and  observe  the  Sabbath  clay,  work  six  days  of  the  week,  and  upon  the  seventh  day  go  to  the  house  of  the  Lord,  partake  of  the  Sacrament  there,  and  renew  our  covenants  with  him,  promise  that  we  will  serve  him  and  keep  his  commandments  through  the  week  that  is  before  us.
+
+['loud', 'quiet'] received scores [0.5558839440345764, 0.44411608576774597]
+['soft', 'loud'] received scores [0.586451530456543, 0.41354846954345703]
+['quiet', 'noisy'] received scores [0.7428394556045532, 0.2571605145931244]
+['soft', 'noisy'] received scores [0.8367944955825806, 0.16320548951625824]
+
+decades/1910s/IE/1919_A.txt
+
+In  consequence  of  the  quarantine  and  conditions  'prevailing  during  the  epidemic  of  influenza  in  the  latter part  of  the  year  1918,  the  attendance at  Sacrament  meetings  has  'fallen  off  and  the  visits  of  the  ward  teachers  have  not  been  as  regular  as  in  other  years.
+
+['quiet', 'loud'] received scores [0.6726188659667969, 0.3273811340332031]
+['loud', 'soft'] received scores [0.5710246562957764, 0.4289754033088684]
+['quiet', 'noisy'] received scores [0.7947989106178284, 0.20520102977752686]
+['soft', 'noisy'] received scores [0.5861355066299438, 0.41386446356773376]
+
+decades/1910s/IE/1919_O.txt
+
+We  love  to  see  the  Saints  come  together,  not  only  in  their  conferences,  but  also  in  their  sacrament  meetings,  their  quorum  meetings  and  different  meetings  of  the  organizations  that  are  helps  in  the  government  of  the  Church.
+
+['loud', 'quiet'] received scores [0.6411416530609131, 0.3588584065437317]
+['soft', 'loud'] received scores [0.5125871896743774, 0.48741284012794495]
+['quiet', 'noisy'] received scores [0.6402682065963745, 0.35973185300827026]
+['soft', 'noisy'] received scores [0.7698048949241638, 0.2301950752735138]
+
+decades/1910s/IE/1919_O.txt
+
+But  it  was  not  long  before  some  of  the  Saints  opened  their  doors,  and  they  could  meet  to  hold  Sunday  School  and  meetings  in  private  homes,  until  at  last  they  got  their  hall  back,  and  then  the  branch  at  Seraing  joined  the  branch  at  Liege,  and  together  they  met  both  in  Sunday  School  and  sacrament  meetings.
+
+['quiet', 'loud'] received scores [0.5568677186965942, 0.44313228130340576]
+['loud', 'soft'] received scores [0.5498802065849304, 0.4501197636127472]
+['quiet', 'noisy'] received scores [0.8083921074867249, 0.19160792231559753]
+['soft', 'noisy'] received scores [0.733206033706665, 0.26679402589797974]
+
+decades/1910s/IE/1919_O.txt
+
+But  they  did  not  have  elders  or  priests  to  administer  the  sacrament,  so  an  elder  visited  them  once  a  month,  and  he  blessed  their  children  and  confirmed  those  who  had  joined  the  Church.
+
+['quiet', 'loud'] received scores [0.6558299660682678, 0.3441700339317322]
+['loud', 'soft'] received scores [0.5519853830337524, 0.44801464676856995]
+['quiet', 'noisy'] received scores [0.8962012529373169, 0.10379871726036072]
+['soft', 'noisy'] received scores [0.7862133979797363, 0.21378657221794128]
+
+decades/1910s/IE/1919_O.txt
+
+I  should  like,  if  I  had  the  time,  to  say  a  few  words  upon  the  slogan  of  our  organization, namely,  "We  stand  for  spiritual  growth  through  attendance  at  sacrament  meetings,"  but  time  will  permit  me  to  do  no  more  than  repeat  it.
+
+['quiet', 'loud'] received scores [0.9320381879806519, 0.06796184927225113]
+['soft', 'loud'] received scores [0.8047448992729187, 0.1952551156282425]
+['quiet', 'noisy'] received scores [0.9542270302772522, 0.045772943645715714]
+['soft', 'noisy'] received scores [0.8623562455177307, 0.13764376938343048]
+
+decades/1910s/IE/1919_O.txt
+
+I  was  the  Stake  Supervisor  of  parents  classes  in  the  Ensign  stake  when  this  matter  of  individual  sacrament  service  sets  was  proposed.
+
+['loud', 'quiet'] received scores [0.5289062261581421, 0.4710938334465027]
+['loud', 'soft'] received scores [0.5266435146331787, 0.4733564853668213]
+['quiet', 'noisy'] received scores [0.640100359916687, 0.3598996698856354]
+['soft', 'noisy'] received scores [0.6421891450881958, 0.3578108251094818]
+
+decades/1910s/IE/1919_O.txt
+
+I  feel  sincerely  that  in  many  of  our  Sabbath  gatherings  and  sacramental  meetings  we  lack  the  spirit  of  worship.
+
+['quiet', 'loud'] received scores [0.5980217456817627, 0.4019783139228821]
+['soft', 'loud'] received scores [0.5366732478141785, 0.4633267819881439]
+['quiet', 'noisy'] received scores [0.8156785368919373, 0.18432141840457916]
+['soft', 'noisy'] received scores [0.7750531435012817, 0.22494690120220184]
+
+decades/1910s/IE/1919_O.txt
+
+Do  we  "enter  the  sacrament  meeting  as  if  it  were  a  commonplace  affair?
+
+['quiet', 'loud'] received scores [0.7306578159332275, 0.26934218406677246]
+['soft', 'loud'] received scores [0.715441107749939, 0.28455889225006104]
+['quiet', 'noisy'] received scores [0.8790923953056335, 0.12090757489204407]
+['soft', 'noisy'] received scores [0.8707785606384277, 0.12922143936157227]
+
+decades/1910s/IE/1919_O.txt
+
+I  sometimes feel  that  we  are  drifting  into  the  idea  that  we  must  be  entertained at  our  sacrament  meetings  to  induce  us  to  attend.
+
+['loud', 'quiet'] received scores [0.5745311975479126, 0.4254688024520874]
+['soft', 'loud'] received scores [0.5605356097221375, 0.4394643306732178]
+['quiet', 'noisy'] received scores [0.5320808291435242, 0.46791917085647583]
+['soft', 'noisy'] received scores [0.6619953513145447, 0.3380046486854553]
+
+decades/1910s/IE/1919_O.txt
+
+In  consequence  of  this  feeling  being  developed  among  the  Latter-day  Saints,  our  bishops  are  going  outside  of  their  wards  inviting  brethren  to  go  and  address  their  congregations  in  order  to  increase  the  attendance  at  their  sacrament  meetings.
+
+['loud', 'quiet'] received scores [0.8186827898025513, 0.1813172698020935]
+['loud', 'soft'] received scores [0.7997748255729675, 0.20022518932819366]
+['noisy', 'quiet'] received scores [0.5623589754104614, 0.43764105439186096]
+['noisy', 'soft'] received scores [0.5320013165473938, 0.4679986834526062]
+
+decades/1910s/IE/1919_O.txt
+
+The  Lord  has  told  his  people,  "And  that  thou  mayest  more  fully  keep  thyself  unspotted  from  the  world,  thou  shalt  go  to  the  house  of  prayer  and  offer  up  thy  sacraments  upon  my  holy  day.
+
+['quiet', 'loud'] received scores [0.9408835172653198, 0.059116531163454056]
+['loud', 'soft'] received scores [0.7227392196655273, 0.27726078033447266]
+['quiet', 'noisy'] received scores [0.9889469146728516, 0.011053072288632393]
+['soft', 'noisy'] received scores [0.6832035779953003, 0.3167963922023773]
+
+decades/1910s/IE/1919_O.txt
+
+There  is  something  more  important  in  this  sacrament  meeting  than  going  to  listen  to  speaking.
+
+['quiet', 'loud'] received scores [0.9064702391624451, 0.09352973848581314]
+['soft', 'loud'] received scores [0.6609741449356079, 0.33902591466903687]
+['quiet', 'noisy'] received scores [0.9354162812232971, 0.06458374857902527]
+['soft', 'noisy'] received scores [0.744480550289154, 0.25551944971084595]
+
+decades/1910s/IE/1919_O.txt
+
+The  Lord  has  commanded  us  that  as  often  as  we  shall  meet  together  and  partake  of  the  sacrament  in  remembrance of  his  sufferings  that  we  shall  worship  him  in  spirit  and  in  truth.
+
+['loud', 'quiet'] received scores [0.5556646585464478, 0.44433531165122986]
+['loud', 'soft'] received scores [0.7096286416053772, 0.2903713881969452]
+['quiet', 'noisy'] received scores [0.7091724872589111, 0.29082751274108887]
+['soft', 'noisy'] received scores [0.5551183223724365, 0.4448816776275635]
+
+decades/1910s/IE/1919_O.txt
+
+We  should  enter  our  meetinghouses  with  a  spirit  of  reverence  to  God  and  to  his  servants,  reverence  for  the  house  of  worship  and  for  the  sacrifice  made  by  our  Lord  and  Savior,  for  he  has  promised'" us  that  if  we  will  partake  of  the  sacrament  worthily  and  renew  our  covenants before  him,  he  will  grant  unto  us  his  holy  Spirit.
+
+['loud', 'quiet'] received scores [0.5566272139549255, 0.44337278604507446]
+['loud', 'soft'] received scores [0.6982393264770508, 0.3017606735229492]
+['quiet', 'noisy'] received scores [0.8538333773612976, 0.1461666226387024]
+['soft', 'noisy'] received scores [0.7601580023765564, 0.2398419827222824]
+
+decades/1910s/IE/1919_O.txt
+
+While  the  sacrament  was  being  administered  two  boys  entered the  building  and  ran  up  the  aisle.
+
+['loud', 'quiet'] received scores [0.8568843603134155, 0.14311566948890686]
+['loud', 'soft'] received scores [0.6669092774391174, 0.3330906927585602]
+['noisy', 'quiet'] received scores [0.9387324452400208, 0.06126757711172104]
+['noisy', 'soft'] received scores [0.8366990089416504, 0.1633010059595108]
+
+decades/1910s/IE/1919_O.txt
+
+We  should  set  the  example  and  teach  our  young  people  that  when  we  enter  the  house  of  the  Lord,  we  should  do  so  with  the  spirit  of  devotion  in  our  hearts,  and  partake  of  the  sacrament  of  the  Lord's  supper,  remembering  his  death  and  sufferings.
+
+['loud', 'quiet'] received scores [0.7573638558387756, 0.24263614416122437]
+['loud', 'soft'] received scores [0.8846179842948914, 0.11538195610046387]
+['quiet', 'noisy'] received scores [0.6125457882881165, 0.38745421171188354]
+['noisy', 'soft'] received scores [0.6084022521972656, 0.3915977478027344]
+
+decades/1910s/IE/1919_O.txt
+
+We  should  not  partake  of  the  sacrament  mechanically,  we  should  repeat  mentally  the  sacramental prayer.
+
+['quiet', 'loud'] received scores [0.7789482474327087, 0.22105170786380768]
+['soft', 'loud'] received scores [0.7552931308746338, 0.2447068691253662]
+['quiet', 'noisy'] received scores [0.8918406963348389, 0.10815928876399994]
+['soft', 'noisy'] received scores [0.8783801198005676, 0.1216198280453682]
+
+decades/1910s/IE/1919_O.txt
+
+Our  eyes  should  be  closed  and  our  thoughts  concentrated on  the  sacred  duty  we  are  performing  when  we  partake  of  the  sacrament  of  the  Lord's  supper.
+
+['quiet', 'loud'] received scores [0.9897732734680176, 0.010226714424788952]
+['soft', 'loud'] received scores [0.7613584995269775, 0.23864153027534485]
+['quiet', 'noisy'] received scores [0.9903518557548523, 0.009648111648857594]
+['soft', 'noisy'] received scores [0.7718817591667175, 0.22811825573444366]
+
+decades/1910s/IE/1919_O.txt
+
+The  duty  of  the  priest  is  to  preach,  teach,  expound,  exhort,  baptize,  and  administer  the  sacrament.
+
+['loud', 'quiet'] received scores [0.7743051052093506, 0.22569489479064941]
+['loud', 'soft'] received scores [0.5467025637626648, 0.4532974660396576]
+['noisy', 'quiet'] received scores [0.6307762265205383, 0.36922380328178406]
+['soft', 'noisy'] received scores [0.6247777342796326, 0.37522226572036743]
+
+decades/1910s/IE/1919_O.txt
+
+Let  the  fathers  and  the  mothers  be  at  the  sacramental  table  of  the  Lord.
+
+['quiet', 'loud'] received scores [0.5959291458129883, 0.40407079458236694]
+['loud', 'soft'] received scores [0.5892012715339661, 0.4107987582683563]
+['quiet', 'noisy'] received scores [0.8303749561309814, 0.16962507367134094]
+['soft', 'noisy'] received scores [0.6982737183570862, 0.3017263114452362]
+
+decades/1910s/IE/1919_O.txt
+
+I  was very  much  impressed  last  evening  when  Elder  Ivins  spoke  of  the  slogan  for  the  Mutual  Improvement  Associations :  Spiritual  growth  through  attendance  at  sacrament  meetings.
+
+['loud', 'quiet'] received scores [0.9348798394203186, 0.06512011587619781]
+['loud', 'soft'] received scores [0.9592400789260864, 0.04075988009572029]
+['quiet', 'noisy'] received scores [0.5288074016571045, 0.4711925983428955]
+['noisy', 'soft'] received scores [0.5936080813407898, 0.4063919186592102]
+
+decades/1910s/IE/1919_O.txt
+
+I  thought  perhaps  if  we  all  could  sense  the  importance  of  this,  as  the  bishop  of  the  ward  does,  that  we  would  sometimes  make  an  extra  effort  to  be  present  at  the  sacrament  meetings,  in  order  that  the  bishop  may  appreciate  our  attendance,  and  we  may  improve  from  the  fact  that  we  are  where  we  can  receive  the  word  of  the  Lord  and  partake  of  the  influence  of  his  holy  Spirit.
+
+['loud', 'quiet'] received scores [0.5114449262619019, 0.48855504393577576]
+['loud', 'soft'] received scores [0.7392012476921082, 0.26079875230789185]
+['quiet', 'noisy'] received scores [0.8037427663803101, 0.19625724852085114]
+['soft', 'noisy'] received scores [0.6020033955574036, 0.3979966342449188]
+
+decades/1910s/IE/1919_O.txt
+
+I  realize  that  in  our  stake  of  Zion  we  have  a  very  low  average  in  attendance  at  our  sacrament  meetings,  and  I  have  tried  to  figure  out  why  it  is.
+
+['quiet', 'loud'] received scores [0.6549742817878723, 0.3450257182121277]
+['soft', 'loud'] received scores [0.5910435914993286, 0.4089564383029938]
+['quiet', 'noisy'] received scores [0.7932716012001038, 0.20672835409641266]
+['soft', 'noisy'] received scores [0.744989275932312, 0.255010724067688]
+
+decades/1910s/IE/1919_O.txt
+
+Sometimes  I  have  heard  said  that  if  they  had  the  right  kind  of  a  bishop  the  attendance  at  the  sacrament  meetings  would  be  better;  and  then  I  have  sized  up  the  men  who  preside  in  our  stake  of  Zion,  in  the  various  wards  throughout,  and  I  know  that  we  have  a  class  of  splendid  men  as  bishops  in  our  stake  of  Zion.
+
+['quiet', 'loud'] received scores [0.5513858199119568, 0.4486141800880432]
+['loud', 'soft'] received scores [0.6321759223937988, 0.3678240478038788]
+['quiet', 'noisy'] received scores [0.7276690006256104, 0.27233096957206726]
+['soft', 'noisy'] received scores [0.5584795475006104, 0.44152048230171204]
+
+decades/1910s/IE/1919_O.txt
+
+Some  have  said  that  if  they  had  a  good  meeting  house  where  they  could  go  and  have  comfortable  seats  they  wouldn't  mind  attending  the  meetings,  but  we  have  proven  that  that  is  not  successful;  for,  since  I  have  been  called  upon  to  act  as  the  president  of  this  stake,  we  have  erected  quite  a  number  of  beautiful  buildings  with  splendid  seats,  and  yet  we  find  that  the  attendance  at  the  sacrament  meetings  is  very  slim.
+
+['quiet', 'loud'] received scores [0.5451340675354004, 0.4548659324645996]
+['loud', 'soft'] received scores [0.5742525458335876, 0.42574748396873474]
+['quiet', 'noisy'] received scores [0.8228937387466431, 0.1771063208580017]
+['soft', 'noisy'] received scores [0.7418918609619141, 0.25810813903808594]
+
+decades/1910s/IE/1919_O.txt
+
+I  think,  too,  that  in  almost  all  our  wards,  we  have  young  people  who  have  abilities  along  the  line  of  singing,  of  playing  musical  instruments, who  could  be  brought  in  to  make  our  sacrament  meetings  more  interesting,  so  as  to  hold  the  young  people.
+
+['loud', 'quiet'] received scores [0.6935229897499084, 0.30647701025009155]
+['loud', 'soft'] received scores [0.6067596077919006, 0.3932403326034546]
+['noisy', 'quiet'] received scores [0.5330244302749634, 0.46697551012039185]
+['soft', 'noisy'] received scores [0.562333881855011, 0.4376660883426666]
+
+decades/1910s/IE/1919_O.txt
+
+And  we  find  that  the  young  people  do  not  attend  the  sacrament  meetings  as  faithfully  as  we  expect  them  to,  and  as  we  believe  they  should.
+
+['loud', 'quiet'] received scores [0.7188230156898499, 0.28117698431015015]
+['loud', 'soft'] received scores [0.6811476945877075, 0.31885236501693726]
+['noisy', 'quiet'] received scores [0.5302717685699463, 0.4697282910346985]
+['soft', 'noisy'] received scores [0.5145819783210754, 0.4854179322719574]
+
+﻿decades/1910s/IE/1917_O.txt
+
+I  am  proud  to  say  that  those  who  have  received  the  proper  training  at  home  are  to  be  found  with  us  whenever  opportunity  affords, renewing  their  covenants  at  the  communion  table,  singing  the  songs  of  Zion,  and  praying  that  they  may  bear  with  honor  the  names  of  the  fathers  who  have  begotten  and  the  mothers  who  have  given  them  birth.
+
+['loud', 'quiet'] received scores [0.8898865580558777, 0.11011350154876709]
+['loud', 'soft'] received scores [0.910427987575531, 0.0895719975233078]
+['noisy', 'quiet'] received scores [0.5526348948478699, 0.4473651051521301]
+['noisy', 'soft'] received scores [0.6084049344062805, 0.3915950655937195]
+
+﻿decades/1910s/IE/1911_A.txt
+
+It  is  recorded  that  the  Lord  said  to  His  servants  that  in  consequence  of  the  adulteration  in  the  wine  produced from  the  grape  of  the  vine,  pure  water  is  acceptable  to  Him,  even  in  the  administration  of  the  Lord's  supper.
+
+['loud', 'quiet'] received scores [0.5682209730148315, 0.43177902698516846]
+['loud', 'soft'] received scores [0.6078992486000061, 0.3921007513999939]
+['quiet', 'noisy'] received scores [0.6452564001083374, 0.3547436594963074]
+['soft', 'noisy'] received scores [0.6069139242172241, 0.3930860757827759]
+
+decades/1910s/IE/1916_O.txt
+
+To  me  the  institution  of  the  Lord's  supper  is  strong  evidence  of  the  divinity  and  foreknowledge  of  the  Savior,  and  what  could  be  more  impressive  and  powerful  to  call  to  mind  the  sublime  sacrifice  he  made  than  that  of  partaking  of  broken  bread  to  remember  his  body ;  and  drinking from  the  cup  to  remember his  blood  that  was  shed  for  all  for  the  remission  of  sins?
+
+['loud', 'quiet'] received scores [0.9827927947044373, 0.017207177355885506]
+['loud', 'soft'] received scores [0.9959054589271545, 0.004094601143151522]
+['quiet', 'noisy'] received scores [0.5073872208595276, 0.49261274933815]
+['noisy', 'soft'] received scores [0.8052381277084351, 0.19476190209388733]
+

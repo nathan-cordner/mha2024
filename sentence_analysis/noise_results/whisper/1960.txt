@@ -1,0 +1,621 @@
+﻿decades/1960s/1960_A/mckay_did_not_your_hearts_burn....txt
+
+But he has something that comes only from his Father in heaven, and he is entitled, is susceptible to whisperings, susceptible to influences from his Divine Parent, through the Holy Ghost, the medium between us and God the Father and his Son Jesus Christ.
+
+['quiet', 'loud'] received scores [0.9232668876647949, 0.07673309743404388]
+['soft', 'loud'] received scores [0.8606464862823486, 0.13935351371765137]
+['quiet', 'noisy'] received scores [0.7568070888519287, 0.24319295585155487]
+['soft', 'noisy'] received scores [0.614990234375, 0.3850097060203552]
+
+decades/1960s/1960_A/mckay_duty_of_the_church—to_teach_fundamental_principles_of_a_good_life.txt
+
+Methinks the Spirit whispers,              'No man has found "pure space,"'       Nor seen the outside curtains,              Where nothing has a place.
+
+['quiet', 'loud'] received scores [0.9504266381263733, 0.0495733879506588]
+['soft', 'loud'] received scores [0.681258499622345, 0.31874147057533264]
+['quiet', 'noisy'] received scores [0.8836244940757751, 0.11637549847364426]
+['noisy', 'soft'] received scores [0.5415750741958618, 0.4584248960018158]
+
+decades/1960s/1960_A/young_responsibility_to_teach_the_gospel.txt
+
+Do we want them to be able to learn the whispering of the Spirit and to hear it?
+
+['quiet', 'loud'] received scores [0.9358164668083191, 0.06418353319168091]
+['soft', 'loud'] received scores [0.8504118323326111, 0.14958816766738892]
+['quiet', 'noisy'] received scores [0.8401065468788147, 0.1598934382200241]
+['soft', 'noisy'] received scores [0.67198646068573, 0.32801353931427]
+
+decades/1960s/1960_A/young_responsibility_to_teach_the_gospel.txt
+
+Then let them see that decisions made by us in their behalf have been reached because we have heard that whispering.
+
+['quiet', 'loud'] received scores [0.9846588969230652, 0.015341075137257576]
+['soft', 'loud'] received scores [0.9101099371910095, 0.08989008516073227]
+['quiet', 'noisy'] received scores [0.6089826822280884, 0.3910173177719116]
+['noisy', 'soft'] received scores [0.8027775883674622, 0.19722242653369904]
+
+decades/1960s/1960_O/jr._the_church_is_a_stage,_its_members_players.txt
+
+Those words "through your son" were ringing pleasantly in my ears—still I heard the president who leaned toward me to whisper: "He (the mission president) baptized twenty people here in Calgary.
+
+['loud', 'quiet'] received scores [0.8149774670600891, 0.18502257764339447]
+['soft', 'loud'] received scores [0.7750840187072754, 0.22491592168807983]
+['noisy', 'quiet'] received scores [0.9396570324897766, 0.060342952609062195]
+['noisy', 'soft'] received scores [0.5063855051994324, 0.4936144948005676]
+
+decades/1960s/1960_O/lee_god_working_with_men.txt
+
+At the close of the service as we walked home, one of the high council whispered to me and said, calling him by name: "When he stood up there in the pulpit this morning, he was all alone.
+
+['quiet', 'loud'] received scores [0.5299797058105469, 0.4700203239917755]
+['soft', 'loud'] received scores [0.533941924571991, 0.46605807542800903]
+['quiet', 'noisy'] received scores [0.5959108471870422, 0.40408915281295776]
+['soft', 'noisy'] received scores [0.5997370481491089, 0.4002629518508911]
+
+decades/1960s/1960_O/mckay_untitled.txt
+
+You are entitled to interpret the whisperings of the Holy Spirit.
+
+['quiet', 'loud'] received scores [0.9784511923789978, 0.02154884859919548]
+['soft', 'loud'] received scores [0.909003734588623, 0.09099623560905457]
+['quiet', 'noisy'] received scores [0.9309350848197937, 0.06906488537788391]
+['soft', 'noisy'] received scores [0.7478212118148804, 0.25217875838279724]
+
+decades/1960s/1960_O/richards_i_pledge_myself.txt
+
+President McKay together with President Clark and President Moyle in the beautiful blessing that they gave me when they set me apart as president of the Northwestern States Mission told me to live close to the Lord and listen to his whisperings and have the courage to execute them.
+
+['quiet', 'loud'] received scores [0.7672780156135559, 0.2327219545841217]
+['soft', 'loud'] received scores [0.58969646692276, 0.4103035628795624]
+['quiet', 'noisy'] received scores [0.8264625072479248, 0.173537477850914]
+['soft', 'noisy'] received scores [0.6749076843261719, 0.3250923156738281]
+
+decades/1960s/1960_O/richards_i_pledge_myself.txt
+
+Likewise Brother and Sister Lee impressed upon us that we should not be too busy taking care of details and mechanics to listen to the whisperings of the Spirit.
+
+['quiet', 'loud'] received scores [0.9271578192710876, 0.07284213602542877]
+['soft', 'loud'] received scores [0.6918174028396606, 0.30818259716033936]
+['quiet', 'noisy'] received scores [0.9229626059532166, 0.07703742384910583]
+['soft', 'noisy'] received scores [0.6787640452384949, 0.32123592495918274]
+
+decades/1960s/1961_O/young_when_the_spirit_speaks.txt
+
+By that Spirit which whispers in my soul, and which I feel with my heart and my feelings at the same time, the knowledge of which rings constantly in my whole being, I know that Joseph Smith received many of his revelations by that means.
+
+['quiet', 'loud'] received scores [0.5516229271888733, 0.4483771026134491]
+['loud', 'soft'] received scores [0.515601396560669, 0.48439857363700867]
+['noisy', 'quiet'] received scores [0.6264803409576416, 0.3735196590423584]
+['noisy', 'soft'] received scores [0.68714439868927, 0.31285560131073]
+
+decades/1960s/1961_O/young_when_the_spirit_speaks.txt
+
+By that whispered feeling, too, I know that he was a prophet of the Living God and that President McKay is likewise a prophet of the Living God.
+
+['quiet', 'loud'] received scores [0.990192711353302, 0.009807281196117401]
+['soft', 'loud'] received scores [0.9079770445823669, 0.09202300012111664]
+['quiet', 'noisy'] received scores [0.9866920709609985, 0.013307876884937286]
+['soft', 'noisy'] received scores [0.8787246346473694, 0.12127535790205002]
+
+decades/1960s/1961_O/young_when_the_spirit_speaks.txt
+
+I would ask only one thing, that each of us as we leave this conference ask ourselves if during any of these meetings, we felt in our hearts the whispering, and had the words form into our minds as the whispering became feeling, and the message came clearly into our minds that the speaker has spoken truly.
+
+['quiet', 'loud'] received scores [0.8054997324943542, 0.19450026750564575]
+['soft', 'loud'] received scores [0.6140503883361816, 0.38594958186149597]
+['quiet', 'noisy'] received scores [0.8844590187072754, 0.11554096639156342]
+['soft', 'noisy'] received scores [0.7462463974952698, 0.2537536323070526]
+
+decades/1960s/1962_A/kimball_spiritual_communication.txt
+
+Methinks the Spirit whispers, No man has found 'pure space,'           Nor seen the outside curtains, where nothing has a place.
+
+['quiet', 'loud'] received scores [0.9142615795135498, 0.0857384130358696]
+['soft', 'loud'] received scores [0.7121050953865051, 0.2878948748111725]
+['quiet', 'noisy'] received scores [0.7969947457313538, 0.20300529897212982]
+['noisy', 'soft'] received scores [0.5233753323554993, 0.47662460803985596]
+
+decades/1960s/1962_A/moyle_revelation_yesterday_and_today.txt
+
+The Savior immediately before his ascension to heaven gave his disciples the following assurance: "But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you" Brigham Young once said: "Let every man and woman know, by the whispering of the Spirit of God to themselves, whether their leaders are walking in the path the Lord dictates, or not."
+
+['quiet', 'loud'] received scores [0.8568455576896667, 0.14315447211265564]
+['soft', 'loud'] received scores [0.648773193359375, 0.351226806640625]
+['quiet', 'noisy'] received scores [0.7611356377601624, 0.23886436223983765]
+['noisy', 'soft'] received scores [0.504191517829895, 0.4958084523677826]
+
+decades/1960s/1962_O/kimball_spouses_and_none_else.txt
+
+The Lord has said: "Say nothing but repentance unto this generation" The adversary is subtle; he is cunning, he knows that he cannot induce good men and women immediately to do major evils so he moves slyly, whispering half truths until he has his intended victims following him, and finally he clamps his chains upon them and fetters them tight, and then he laughs at their discomfiture and their misery.
+
+['quiet', 'loud'] received scores [0.9412360191345215, 0.05876396596431732]
+['soft', 'loud'] received scores [0.7547159194946289, 0.24528402090072632]
+['quiet', 'noisy'] received scores [0.749274492263794, 0.25072553753852844]
+['noisy', 'soft'] received scores [0.6352934241294861, 0.36470654606819153]
+
+decades/1960s/1962_O/taylor_...to_forgive_is_divine.txt
+
+"There it is," he whispered, his eyes bright with sudden tears.
+
+['quiet', 'loud'] received scores [0.9138401746749878, 0.08615987747907639]
+['soft', 'loud'] received scores [0.8945966362953186, 0.10540338605642319]
+['quiet', 'noisy'] received scores [0.8650473952293396, 0.13495264947414398]
+['soft', 'noisy'] received scores [0.8368517756462097, 0.16314829885959625]
+
+decades/1960s/1963_A/mckay_priesthood_and_quorums_supply_initial_need.txt
+
+When that word comes to you—call it conscience, or, if you are in the Church and doing your duty, the whisperings of the Spirit, because you are entitled to be a partaker of it—then be true to that whispering, and some day you will know for yourself that you are in harmony with the universe.
+
+['quiet', 'loud'] received scores [0.9608220458030701, 0.039177972823381424]
+['soft', 'loud'] received scores [0.851054847240448, 0.1489451378583908]
+['quiet', 'noisy'] received scores [0.9176170825958252, 0.08238287270069122]
+['soft', 'noisy'] received scores [0.721843957901001, 0.2781560719013214]
+
+decades/1960s/1963_A/mckay_priesthood_and_quorums_supply_initial_need.txt
+
+God help us all to keep our consciences clear, our characters sound, responsive to the whisperings of the Holy Spirit, which is real, if we shall but put our ears and listen to it as the wisest American suggested, I pray in the name of Jesus Christ.
+
+['quiet', 'loud'] received scores [0.8852124810218811, 0.11478755623102188]
+['soft', 'loud'] received scores [0.6673470735549927, 0.3326529264450073]
+['quiet', 'noisy'] received scores [0.7098205089569092, 0.2901795506477356]
+['noisy', 'soft'] received scores [0.61111980676651, 0.3888801634311676]
+
+decades/1960s/1963_A/richards_the_most_important_message.txt
+
+Then he adds:   "And thou shalt be brought down, and shalt speak out of the ground, an thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust"
+
+['quiet', 'loud'] received scores [0.9897700548171997, 0.010229971259832382]
+['soft', 'loud'] received scores [0.9940814971923828, 0.005918510258197784]
+['quiet', 'noisy'] received scores [0.9928908944129944, 0.007109133526682854]
+['soft', 'noisy'] received scores [0.9958925247192383, 0.004107503220438957]
+
+decades/1960s/1963_A/richards_the_most_important_message.txt
+
+"For those who shall be destroyed shall speak unto them out of the ground, and their speech shall be low out of the dust, and their voice shall be as one that hath a familiar spirit; for the Lord God will give unto him power that he may whisper concerning them, even as it were out of the ground, and their speech shall whisper out of the dust.
+
+['quiet', 'loud'] received scores [0.9947580099105835, 0.00524198217317462]
+['soft', 'loud'] received scores [0.9919367432594299, 0.008063295856118202]
+['quiet', 'noisy'] received scores [0.9959051609039307, 0.004094862379133701]
+['soft', 'noisy'] received scores [0.9936972856521606, 0.0063026901334524155]
+
+decades/1960s/1963_O/benson_be_not_deceived.txt
+
+Let every man and woman know, by the whispering of the Spirit of God to themselves, whether their leaders are walking in the path that the Lord dictates, or not.
+
+['quiet', 'loud'] received scores [0.9124396443367004, 0.08756035566329956]
+['soft', 'loud'] received scores [0.6898057460784912, 0.3101942837238312]
+['quiet', 'noisy'] received scores [0.8531227707862854, 0.1468772292137146]
+['soft', 'noisy'] received scores [0.5534756779670715, 0.4465242922306061]
+
+decades/1960s/1963_O/brown_the_fight_between_good_and_evil.txt
+
+Mortal birth erases recollection of that spiritual preexistence and the memory of premortal life is as a feeble echo, and yet, as we sometimes sing, "a secret something whispers you're a stranger here, and we feel that we have wandered from a more exalted sphere.
+
+['quiet', 'loud'] received scores [0.9117029309272766, 0.08829708397388458]
+['soft', 'loud'] received scores [0.8057413101196289, 0.19425874948501587]
+['quiet', 'noisy'] received scores [0.7968448996543884, 0.20315508544445038]
+['soft', 'noisy'] received scores [0.6117454171180725, 0.3882545828819275]
+
+decades/1960s/1963_O/evans_communication.txt
+
+And aside from revelation as such, there is the impression within—the whisperings of the Spirit to the hearts and consciences of men.
+
+['quiet', 'loud'] received scores [0.9779736399650574, 0.022026367485523224]
+['soft', 'loud'] received scores [0.874358594417572, 0.12564140558242798]
+['quiet', 'noisy'] received scores [0.9250452518463135, 0.07495478540658951]
+['soft', 'noisy'] received scores [0.6592096090316772, 0.34079042077064514]
+
+decades/1960s/1964_A/mckay_blessed_are_they_that_do_his_commandments.txt
+
+Pure hearts in a pure home are always in whispering distance of heaven.
+
+['quiet', 'loud'] received scores [0.9885005354881287, 0.011499454267323017]
+['soft', 'loud'] received scores [0.9670494198799133, 0.032950595021247864]
+['quiet', 'noisy'] received scores [0.988349199295044, 0.011650784872472286]
+['soft', 'noisy'] received scores [0.9666252732276917, 0.033374685794115067]
+
+decades/1960s/1964_A/packer_suffer_the_little_children.txt
+
+"Pure hearts," he said, "in a pure home are always within whispering distance of heaven.
+
+['quiet', 'loud'] received scores [0.9825471639633179, 0.017452875152230263]
+['soft', 'loud'] received scores [0.9098277688026428, 0.0901721864938736]
+['quiet', 'noisy'] received scores [0.9910619258880615, 0.008938018232584]
+['soft', 'noisy'] received scores [0.952090859413147, 0.047909170389175415]
+
+decades/1960s/1964_A/packer_suffer_the_little_children.txt
+
+From it, and from the whispered prayer of a little youngster this morning, I took assurance and found an unexpected preface for the subject, "Suffer the little children to come unto me" An associate of mine had a little girl undergo surgery.
+
+['quiet', 'loud'] received scores [0.9198554158210754, 0.08014463633298874]
+['soft', 'loud'] received scores [0.7636533975601196, 0.23634664714336395]
+['quiet', 'noisy'] received scores [0.9117763042449951, 0.0882236659526825]
+['soft', 'noisy'] received scores [0.7442069053649902, 0.255793035030365]
+
+decades/1960s/1964_O/dyer_salvation_dependent_upon_communication_from_god.txt
+
+The Prophet Joseph Smith once described the manner in which such direct inspiration comes, for said he: "Yea, thus saith the still small voice, which whispereth through and pierceth all things, and often times it maketh my bones to quake while it maketh manifest"
+
+['quiet', 'loud'] received scores [0.9565302729606628, 0.04346976429224014]
+['soft', 'loud'] received scores [0.5815201997756958, 0.4184798300266266]
+['quiet', 'noisy'] received scores [0.9571654200553894, 0.04283453896641731]
+['soft', 'noisy'] received scores [0.5852593183517456, 0.414740651845932]
+
+decades/1960s/1965_A/kimball_home_training—the_cure_for_evil.txt
+
+And the Lord whispered through Samuel: ". . . I will perform against Eli all things which I have spoken concerning his house . . .  ". . . because his sons made themselves vile, and he restrained them not"
+
+['quiet', 'loud'] received scores [0.9741265773773193, 0.025873424485325813]
+['soft', 'loud'] received scores [0.6590481400489807, 0.3409518599510193]
+['quiet', 'noisy'] received scores [0.9568543434143066, 0.04314563050866127]
+['soft', 'noisy'] received scores [0.5324046611785889, 0.4675953984260559]
+
+decades/1960s/1965_A/mcconkie_the_keystone_of_our_religion.txt
+
+The still small voice will whisper to the spirit that is within him, telling him in a way that he cannot deny or misunderstand that no man could have written that book, that it is the mind and word and will of God.
+
+['quiet', 'loud'] received scores [0.9961345195770264, 0.003865431994199753]
+['soft', 'loud'] received scores [0.9962872862815857, 0.0037126964889466763]
+['quiet', 'noisy'] received scores [0.9955424070358276, 0.0044576204381883144]
+['soft', 'noisy'] received scores [0.9957184195518494, 0.0042815860360860825]
+
+decades/1960s/1965_O/jr._women_and_the_priesthood.txt
+
+I feel that, in the Heavens above,      The angels, whispering to one another,      Can find, among their burning terms of love,      None so devotional as that of 'Mother'.
+
+['quiet', 'loud'] received scores [0.5014148950576782, 0.49858513474464417]
+['soft', 'loud'] received scores [0.5686303377151489, 0.4313696622848511]
+['noisy', 'quiet'] received scores [0.5826808214187622, 0.4173191487789154]
+['noisy', 'soft'] received scores [0.5157904028892517, 0.4842095971107483]
+
+decades/1960s/1965_O/mckay_man's_free_agency.txt
+
+That man is not at peace who is untrue to the whisperings of Christ—the promptings of his conscience.
+
+['quiet', 'loud'] received scores [0.6948983073234558, 0.3051016330718994]
+['soft', 'loud'] received scores [0.6721595525741577, 0.3278403878211975]
+['noisy', 'quiet'] received scores [0.5190619826316833, 0.48093801736831665]
+['noisy', 'soft'] received scores [0.5452351570129395, 0.45476487278938293]
+
+decades/1960s/1965_O/sill_ye_are_gods.txt
+
+" And he whispered quietly to himself, "I wish I knew.
+
+['quiet', 'loud'] received scores [0.9921441078186035, 0.007855931296944618]
+['soft', 'loud'] received scores [0.988899290561676, 0.011100733652710915]
+['quiet', 'noisy'] received scores [0.9849740862846375, 0.015025900676846504]
+['soft', 'noisy'] received scores [0.9788309931755066, 0.021168988198041916]
+
+decades/1960s/1966_A/jr._a_basic_hard-core_godhead_concept_for_christian_creeds.txt
+
+" Sensing the pressure of the crowd about him and obviously not wishing to be overheard, the tourist answered, almost in a whisper, "Yes, in a way, but they are not orthodox.
+
+['quiet', 'loud'] received scores [0.9702669382095337, 0.029733115807175636]
+['soft', 'loud'] received scores [0.9188790917396545, 0.08112084120512009]
+['quiet', 'noisy'] received scores [0.7309241890907288, 0.26907584071159363]
+['noisy', 'soft'] received scores [0.5146904587745667, 0.48530957102775574]
+
+decades/1960s/1966_A/kimball_hidden_wedges.txt
+
+They have trembled as the Holy Ghost whispered to their spirits, "It is true embrace it," and yet poor excuses caused their postponing action.
+
+['loud', 'quiet'] received scores [0.6441476941108704, 0.35585227608680725]
+['loud', 'soft'] received scores [0.7748350501060486, 0.225164994597435]
+['noisy', 'quiet'] received scores [0.5663164258003235, 0.4336835741996765]
+['noisy', 'soft'] received scores [0.7128450870513916, 0.2871549427509308]
+
+decades/1960s/1966_A/packer_the_secret_of_service.txt
+
+She then whispered over and over again the single word, "Tomorrow.
+
+['quiet', 'loud'] received scores [0.9439496397972107, 0.05605033040046692]
+['soft', 'loud'] received scores [0.9006824493408203, 0.09931759536266327]
+['quiet', 'noisy'] received scores [0.6379210948944092, 0.3620789349079132]
+['noisy', 'soft'] received scores [0.5131570100784302, 0.48684290051460266]
+
+decades/1960s/1966_O/lee_communion_with_deity.txt
+
+The spirit whispered, "Be still, and know that I am God .
+
+['quiet', 'loud'] received scores [0.9890449047088623, 0.01095511019229889]
+['soft', 'loud'] received scores [0.9805439114570618, 0.01945611834526062]
+['quiet', 'noisy'] received scores [0.9824396371841431, 0.017560340464115143]
+['soft', 'noisy'] received scores [0.9689738750457764, 0.031026123091578484]
+
+decades/1960s/1966_O/lee_communion_with_deity.txt
+
+Even in times of great danger, moral or physical, when, like the Apostle Paul, you may be in danger of "shipwreck" either to your body or your soul, there can be standing by you, as there was by him, after fasting and prayer, an angel of God who whispered peace to his soul How is it done, you ask?
+
+['loud', 'quiet'] received scores [0.5027950406074524, 0.49720498919487]
+['loud', 'soft'] received scores [0.6198248267173767, 0.3801752030849457]
+['quiet', 'noisy'] received scores [0.608889102935791, 0.39111095666885376]
+['noisy', 'soft'] received scores [0.5087440013885498, 0.4912559688091278]
+
+decades/1960s/1966_O/mckay_the_church—a_worldwide_institution.txt
+
+God has given us the power of whispering across space, of transmitting thoughts within minutes from one end of the earth to another.
+
+['quiet', 'loud'] received scores [0.7965115308761597, 0.20348846912384033]
+['soft', 'loud'] received scores [0.7274203300476074, 0.2725796401500702]
+['quiet', 'noisy'] received scores [0.6821650266647339, 0.3178349435329437]
+['soft', 'noisy'] received scores [0.5940372943878174, 0.40596267580986023]
+
+decades/1960s/1966_O/monson_god's_gifts_to_polynesia's_people.txt
+
+" Tears could not be restrained as each of those precious boys and girls walked shyly by and whispered softly to us a sweet talofa lava.
+
+['quiet', 'loud'] received scores [0.5748315453529358, 0.4251684546470642]
+['soft', 'loud'] received scores [0.8125272989273071, 0.18747270107269287]
+['quiet', 'noisy'] received scores [0.5480550527572632, 0.4519449472427368]
+['soft', 'noisy'] received scores [0.7953921556472778, 0.20460785925388336]
+
+decades/1960s/1966_O/petersen_we_believe_in_being_honest.txt
+
+"And behold, others he flattereth away, and telleth them there is no hell; and he saith unto them: I am no devil, for there is none—and thus he whispereth in their ears, until he grasps them with his awful chains from whence there is no deliverance"
+
+['loud', 'quiet'] received scores [0.8761074542999268, 0.12389259785413742]
+['loud', 'soft'] received scores [0.6310210824012756, 0.36897891759872437]
+['noisy', 'quiet'] received scores [0.7761105298995972, 0.22388948500156403]
+['soft', 'noisy'] received scores [0.5439690351486206, 0.4560309946537018]
+
+decades/1960s/1967_A/mckay_consciousness_of_god_supreme_goal_of_life.txt
+
+They should be impressed in childhood, and have it emphasized in youth, that it is disrespectful to talk or even to whisper during a sermon, and that it is the height of rudeness, except in an emergency, to leave a worshiping assembly before dismissal.
+
+['quiet', 'loud'] received scores [0.8604323267936707, 0.13956762850284576]
+['loud', 'soft'] received scores [0.614600658416748, 0.38539931178092957]
+['quiet', 'noisy'] received scores [0.7377963066101074, 0.2622036933898926]
+['noisy', 'soft'] received scores [0.7774785161018372, 0.22252148389816284]
+
+decades/1960s/1967_A/monson_come,_follow_me.txt
+
+Prompted by the silent whisperings of the Spirit, sustained by a simple, yet abiding faith, they trusted in their God and set sail on their journey.
+
+['quiet', 'loud'] received scores [0.994084894657135, 0.005915118847042322]
+['soft', 'loud'] received scores [0.9585239887237549, 0.04147601127624512]
+['quiet', 'noisy'] received scores [0.9952530264854431, 0.004746950231492519]
+['soft', 'noisy'] received scores [0.9664782285690308, 0.03352179378271103]
+
+decades/1960s/1967_A/richards_the_book_of_mormon.txt
+
+"And thou shalt be brought down, and shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust"
+
+['quiet', 'loud'] received scores [0.9947340488433838, 0.005265980958938599]
+['soft', 'loud'] received scores [0.9962150454521179, 0.0037849924992769957]
+['quiet', 'noisy'] received scores [0.9959608316421509, 0.004039154388010502]
+['soft', 'noisy'] received scores [0.9970977902412415, 0.0029021883383393288]
+
+decades/1960s/1967_A/richards_the_book_of_mormon.txt
+
+"For those who shall be destroyed shall speak unto them out of the ground, and their speech shall be low out of the dust, and their voice shall be as one that hath a familiar spirit; for the Lord God will give unto him power, that he may whisper concerning them, even as it were out of the ground; and their speech shall whisper out of the dust.
+
+['quiet', 'loud'] received scores [0.994625985622406, 0.005373959895223379]
+['soft', 'loud'] received scores [0.9930688142776489, 0.0069311754778027534]
+['quiet', 'noisy'] received scores [0.9953010082244873, 0.004699016455560923]
+['soft', 'noisy'] received scores [0.993938148021698, 0.006061844062060118]
+
+decades/1960s/1967_A/romney_peace_in_this_world.txt
+
+Nervously approaching the bench, she audibly whispered: "Your honor, I want a divorce for this world only, not for the world to come.
+
+['quiet', 'loud'] received scores [0.6506211161613464, 0.3493788540363312]
+['soft', 'loud'] received scores [0.6676868796348572, 0.3323131203651428]
+['noisy', 'quiet'] received scores [0.5243514776229858, 0.4756484925746918]
+['noisy', 'soft'] received scores [0.5053777694702148, 0.49462220072746277]
+
+decades/1960s/1967_A/young_the_principle_of_obedience.txt
+
+"This one," whispers the Spirit to the soul of the appointed servant, "is the one to now lead at this time.
+
+['quiet', 'loud'] received scores [0.9528282284736633, 0.047171756625175476]
+['soft', 'loud'] received scores [0.7400174140930176, 0.2599825859069824]
+['quiet', 'noisy'] received scores [0.9675631523132324, 0.032436877489089966]
+['soft', 'noisy'] received scores [0.8078196048736572, 0.1921803504228592]
+
+decades/1960s/1967_A/young_the_principle_of_obedience.txt
+
+Undoubtedly there are those present at these conferences who do not feel the whispering of the Spirit yet they raise their hands in confirmation.
+
+['quiet', 'loud'] received scores [0.6749759316444397, 0.3250240087509155]
+['soft', 'loud'] received scores [0.694735586643219, 0.305264413356781]
+['quiet', 'noisy'] received scores [0.645801305770874, 0.3541986346244812]
+['soft', 'noisy'] received scores [0.6664581894874573, 0.3335418403148651]
+
+decades/1960s/1967_O/brown_the_profile_of_a_prophet.txt
+
+While the evidences I have mentioned and many others that could be cited may have the effect of giving one an intellectual conviction, only by the whisperings of the Holy Spirit can one come to know the things of God.
+
+['quiet', 'loud'] received scores [0.9010104537010193, 0.09898955374956131]
+['soft', 'loud'] received scores [0.8340463638305664, 0.16595366597175598]
+['quiet', 'noisy'] received scores [0.714218258857727, 0.28578171133995056]
+['soft', 'noisy'] received scores [0.5798208713531494, 0.4201790988445282]
+
+decades/1960s/1967_O/brown_the_profile_of_a_prophet.txt
+
+By those whisperings I say I know that Joseph Smith is a prophet of God.
+
+['quiet', 'loud'] received scores [0.992793083190918, 0.007206926587969065]
+['soft', 'loud'] received scores [0.921251654624939, 0.07874829322099686]
+['quiet', 'noisy'] received scores [0.916702151298523, 0.08329785615205765]
+['noisy', 'soft'] received scores [0.516904354095459, 0.483095645904541]
+
+decades/1960s/1967_O/cullimore_the_road_to_happiness.txt
+
+That man is not at peace who is untrue to the whisperings of Christ, the promptings of his conscience.
+
+['quiet', 'loud'] received scores [0.6306795477867126, 0.36932045221328735]
+['soft', 'loud'] received scores [0.6069148182868958, 0.39308515191078186]
+['noisy', 'quiet'] received scores [0.6204581260681152, 0.37954190373420715]
+['noisy', 'soft'] received scores [0.6438844799995422, 0.35611552000045776]
+
+decades/1960s/1967_O/dunn_engines_and_people.txt
+
+" And I know this from the inner whisperings of the Spirit from on high, and I hear this testimony humbly and gratefully in the name of Jesus Christ.
+
+['quiet', 'loud'] received scores [0.9192148447036743, 0.08078515529632568]
+['soft', 'loud'] received scores [0.8922234773635864, 0.10777653008699417]
+['quiet', 'noisy'] received scores [0.8766338229179382, 0.12336616963148117]
+['soft', 'noisy'] received scores [0.837924063205719, 0.1620759516954422]
+
+decades/1960s/1967_O/kimball_liquor_the_devil_in_solution.txt
+
+He whispers into every man's ears.
+
+['quiet', 'loud'] received scores [0.9162541031837463, 0.08374586701393127]
+['soft', 'loud'] received scores [0.9588435888290405, 0.041156455874443054]
+['noisy', 'quiet'] received scores [0.5963580012321472, 0.4036419689655304]
+['soft', 'noisy'] received scores [0.5903778076171875, 0.4096222519874573]
+
+decades/1960s/1967_O/kimball_liquor_the_devil_in_solution.txt
+
+Satan whispers, "This is no sin.
+
+['quiet', 'loud'] received scores [0.9912627935409546, 0.008737219497561455]
+['soft', 'loud'] received scores [0.9765418171882629, 0.02345818467438221]
+['quiet', 'noisy'] received scores [0.9796620607376099, 0.02033792994916439]
+['soft', 'noisy'] received scores [0.9464514851570129, 0.05354858189821243]
+
+decades/1960s/1968_A/brown_after_high_school,_what.txt
+
+But there will be temptations and down-drag along the way—subtle whisperings intended to induce you to forsake your quest for knowledge and be led into dangerous detours.
+
+['quiet', 'loud'] received scores [0.7637173533439636, 0.23628264665603638]
+['soft', 'loud'] received scores [0.8660211563110352, 0.13397887349128723]
+['noisy', 'quiet'] received scores [0.8629358410835266, 0.13706417381763458]
+['noisy', 'soft'] received scores [0.7589319944381714, 0.2410680502653122]
+
+decades/1960s/1968_A/lee_seek_learning,_even_by_study,_and_also_by_faith.txt
+
+I am conscious of his presence much of the time when I have needed him most; I have known it out of the whisperings of the night, the impressions of the daytime when there were things for which I was responsible and on which I could receive guidance.
+
+['quiet', 'loud'] received scores [0.9180434942245483, 0.08195655792951584]
+['soft', 'loud'] received scores [0.8412980437278748, 0.15870195627212524]
+['quiet', 'noisy'] received scores [0.7272375226020813, 0.2727625370025635]
+['soft', 'noisy'] received scores [0.5578680634498596, 0.44213196635246277]
+
+decades/1960s/1968_A/packer_the_member_and_the_military.txt
+
+"But a soft voice seemed to whisper 	In the twilight's afterglow, 	'I had a son . . . at Calvary . . . 	Two thousand years ago.'"
+
+['quiet', 'loud'] received scores [0.9842578768730164, 0.01574213244020939]
+['soft', 'loud'] received scores [0.9947941303253174, 0.005205892492085695]
+['quiet', 'noisy'] received scores [0.9874407052993774, 0.012559253722429276]
+['soft', 'noisy'] received scores [0.9958556294441223, 0.004144350532442331]
+
+decades/1960s/1968_A/young_the_seventies_as_missionaries.txt
+
+They see our lights go out as we retire to rest, but they do not comprehend our deep abiding joy in the restoration, as the spirit whispers to us peace.
+
+['quiet', 'loud'] received scores [0.9568392634391785, 0.043160732835531235]
+['soft', 'loud'] received scores [0.7018900513648987, 0.29810991883277893]
+['quiet', 'noisy'] received scores [0.9742814302444458, 0.025718608871102333]
+['soft', 'noisy'] received scores [0.8009266257286072, 0.1990734189748764]
+
+decades/1960s/1968_O/hunter_blessed_are_those_who_have_not_seen.txt
+
+Outside those things made by man, all of nature whispers to my reasoning that there was a creator.
+
+['quiet', 'loud'] received scores [0.9380759596824646, 0.06192398816347122]
+['soft', 'loud'] received scores [0.559200644493103, 0.4407992959022522]
+['quiet', 'noisy'] received scores [0.794540524482727, 0.20545946061611176]
+['noisy', 'soft'] received scores [0.7553752660751343, 0.24462470412254333]
+
+decades/1960s/1968_O/mckay_spirituality_in_leading_and_teaching_the_gospel.txt
+
+God help us so to live that we may be found worthy to hear from him the whisperings of his Spirit, the whisperings of his voice, as he guides us and warns us and tells us what to do in order to come back into his presence.
+
+['quiet', 'loud'] received scores [0.9720746278762817, 0.027925308793783188]
+['soft', 'loud'] received scores [0.8703898191452026, 0.12961013615131378]
+['quiet', 'noisy'] received scores [0.91972815990448, 0.0802718997001648]
+['soft', 'noisy'] received scores [0.6885114908218384, 0.311488538980484]
+
+decades/1960s/1969_A/burton_the_giant_system.txt
+
+As we received greater light and knowledge, we had to revise some of our new ideas and concepts until, by listening to the whisperings of the Spirit, a system finally evolved that could be approved for presentation to the people.
+
+['quiet', 'loud'] received scores [0.8366259336471558, 0.16337405145168304]
+['soft', 'loud'] received scores [0.7859062552452087, 0.21409375965595245]
+['quiet', 'noisy'] received scores [0.6958905458450317, 0.30410948395729065]
+['soft', 'noisy'] received scores [0.6212584972381592, 0.3787415027618408]
+
+decades/1960s/1969_A/lee_to_know_god.txt
+
+Me-thinks the Spirit whispers,      No man has found "pure space,"      Nor seen the outside curtains,      Where nothing has a place.
+
+['quiet', 'loud'] received scores [0.9509360790252686, 0.04906390234827995]
+['soft', 'loud'] received scores [0.7955670952796936, 0.2044329047203064]
+['quiet', 'noisy'] received scores [0.8557614088058472, 0.14423859119415283]
+['soft', 'noisy'] received scores [0.5436423420906067, 0.45635759830474854]
+
+decades/1960s/1969_A/mckay_let_virtue_garnish_thy_thoughts.txt
+
+In order to meet these forces, we must depend upon the whisperings of the Holy Spirit, to which you are entitled.
+
+['quiet', 'loud'] received scores [0.9708524942398071, 0.029147520661354065]
+['soft', 'loud'] received scores [0.8457340002059937, 0.15426601469516754]
+['quiet', 'noisy'] received scores [0.9184881448745728, 0.08151181787252426]
+['soft', 'noisy'] received scores [0.649695873260498, 0.35030412673950195]
+
+decades/1960s/1969_A/monson_mrs._patton,_arthur_lives.txt
+
+" Rather, with head erect, courage undaunted, and faith unwavering, you can lift your eyes as you look beyond the gently breaking waves of the blue Pacific and whisper, "Good-bye, Arthur, my precious son.
+
+['quiet', 'loud'] received scores [0.8402329683303833, 0.1597670167684555]
+['soft', 'loud'] received scores [0.6271108388900757, 0.37288910150527954]
+['quiet', 'noisy'] received scores [0.8915984630584717, 0.10840151458978653]
+['soft', 'noisy'] received scores [0.7245317697525024, 0.27546820044517517]
+
+decades/1960s/1969_A/young_a_wayfaring_man_need_not_err.txt
+
+He has peace in his heart and gladness in his soul, while the sweet whispering of the Spirit gives him a taste of what is in store for him.
+
+['quiet', 'loud'] received scores [0.9740625023841858, 0.025937499478459358]
+['soft', 'loud'] received scores [0.9323700070381165, 0.06763000041246414]
+['quiet', 'noisy'] received scores [0.9723120927810669, 0.027687866240739822]
+['soft', 'noisy'] received scores [0.9280139803886414, 0.07198602706193924]
+
+decades/1960s/1969_O/mcconkie_the_rock_of_salvation.txt
+
+I am thankful for the testimony of Jesus, for the whisperings of the Spirit that have come to my soul certifying that this kingdom, the Church, is God's kingdom on earth; and I desire to bear that witness, not in words only but also by my acts, to be in word and in deed a witness to the world of the truth and divinity of the gospel cause—all in harmony with the instructions we have received in our revelations.
+
+['quiet', 'loud'] received scores [0.8968721628189087, 0.1031278446316719]
+['soft', 'loud'] received scores [0.7601866722106934, 0.23981334269046783]
+['quiet', 'noisy'] received scores [0.7906116843223572, 0.2093883603811264]
+['soft', 'noisy'] received scores [0.5791720151901245, 0.4208279550075531]
+
+decades/1960s/1969_O/mcconkie_the_rock_of_salvation.txt
+
+The whisperings of the still small voice have come to my soul, and have told me that there is a God in heaven who is infinite and eternal, from everlasting to everlasting.
+
+['quiet', 'loud'] received scores [0.9941924810409546, 0.005807512905448675]
+['soft', 'loud'] received scores [0.9942696690559387, 0.005730340722948313]
+['quiet', 'noisy'] received scores [0.9937855005264282, 0.006214527413249016]
+['soft', 'noisy'] received scores [0.9938680529594421, 0.00613198010250926]
+
+decades/1960s/1969_O/mcconkie_the_rock_of_salvation.txt
+
+And not alone has the Spirit whispered to me that these great eternal verities, which come by the grace of God, are true; it has certified to my soul that the heavens have been opened in this day; that God has spoken anew; that Joseph Smith was called of him, anointed and empowered and endowed with power from on high, and commissioned to begin the rolling forth of this final, great, glorious dispensation.
+
+['loud', 'quiet'] received scores [0.6398903131484985, 0.3601096570491791]
+['loud', 'soft'] received scores [0.586158812046051, 0.413841187953949]
+['quiet', 'noisy'] received scores [0.5309185981750488, 0.4690813422203064]
+['soft', 'noisy'] received scores [0.5867660045623779, 0.4132339358329773]
+
+decades/1960s/1969_O/romney_the_crucible_of_adversity_and_affliction.txt
+
+Those who have not been enclosed in the walls of prison without cause or provocation, can have but little idea how sweet the voice of a friend is; one token of friendship from any source whatever awakens and calls into action every sympathetic feeling; it brings up in an instant everything that is passed; it seizes the present with the avidity of lightning; it grasps after the future with the fierceness of a tiger; it moves the mind backward and forward, from one thing to another, until finally all enmity, malice and hatred, and past differences, misunderstandings and mismanagements are slain victorious at the feet of hope; and when the heart is sufficiently contrite, then the voice of inspiration steals along and whispers, [My son, peace be unto thy soul; thine adversity and thine afflictions shall be but a small moment; and then if thou endure it well, God shall exalt thee on high].
+
+['loud', 'quiet'] received scores [0.7364915609359741, 0.2635084390640259]
+['loud', 'soft'] received scores [0.7497944831848145, 0.25020551681518555]
+['noisy', 'quiet'] received scores [0.7236788868904114, 0.2763211131095886]
+['noisy', 'soft'] received scores [0.7373980283737183, 0.2626020014286041]
+
+decades/1960s/1969_O/simpson_the_road_back.txt
+
+As we visit the stake conferences each week, few experiences are more satisfying than that little nudge on the arm from the stake president as he points out some good brother just taking his place on the third row, and then he whispers a few choice comments about some recent changes in that man's life.
+
+['loud', 'quiet'] received scores [0.5556908845901489, 0.4443090856075287]
+['loud', 'soft'] received scores [0.5657420754432678, 0.43425798416137695]
+['noisy', 'quiet'] received scores [0.7501580119132996, 0.24984194338321686]
+['noisy', 'soft'] received scores [0.7577279806137085, 0.24227207899093628]
+

@@ -1,0 +1,504 @@
+﻿decades/1870s/14/character_and_condition_of_the_latter-day_saints—infidelity—the_atonement—celestial_marriage_brigham_young.txt
+
+I do believe they can stop their whispering.
+
+['quiet', 'loud'] received scores [0.8689196705818176, 0.1310802847146988]
+['soft', 'loud'] received scores [0.8869046568870544, 0.11309531331062317]
+['noisy', 'quiet'] received scores [0.9044577479362488, 0.09554228186607361]
+['noisy', 'soft'] received scores [0.8889145255088806, 0.11108550429344177]
+
+decades/1870s/14/character_and_condition_of_the_latter-day_saints—infidelity—the_atonement—celestial_marriage_brigham_young.txt
+
+When there is anything said from this Stand that pleases or displeases you, you turn to your neighbor and whisper, and the next one does the same, and directly there are a few thousand whispering, creating a noise like the rushing of many waters.
+
+['loud', 'quiet'] received scores [0.9028037190437317, 0.0971963033080101]
+['loud', 'soft'] received scores [0.7808520793914795, 0.21914789080619812]
+['noisy', 'quiet'] received scores [0.9935927391052246, 0.006407325621694326]
+['noisy', 'soft'] received scores [0.9834674596786499, 0.016532577574253082]
+
+decades/1870s/14/character_and_condition_of_the_latter-day_saints—infidelity—the_atonement—celestial_marriage_brigham_young.txt
+
+Remember and try to keep perfectly quiet, and do not whisper, talk, nor scrape your feet; and do not let your children cry if you can help it.
+
+['quiet', 'loud'] received scores [0.9720828533172607, 0.027917176485061646]
+['soft', 'loud'] received scores [0.7379792332649231, 0.2620207369327545]
+['quiet', 'noisy'] received scores [0.8853264451026917, 0.11467355489730835]
+['noisy', 'soft'] received scores [0.6155825257301331, 0.38441747426986694]
+
+decades/1870s/14/gathering_the_saints—the_providences_of_the_lord—uselessness_of_non-producers—arbitration_better_than_courts—feed_not_fight_the_.txt
+
+I shall not try to talk down the crying of children, the whispering of the congregation, or the shuffling of feet, as I have often done.
+
+['quiet', 'loud'] received scores [0.7815054059028625, 0.21849456429481506]
+['soft', 'loud'] received scores [0.6286470890045166, 0.371352881193161]
+['noisy', 'quiet'] received scores [0.8430956602096558, 0.15690430998802185]
+['noisy', 'soft'] received scores [0.9190484881401062, 0.08095154911279678]
+
+decades/1870s/14/the_character_of_the_savior—the_power_of_the_priesthood—the_unpardonable_sin_brigham_young.txt
+
+No person need wait; whenever the spirit within him yields obedience to the still small voice that whispers, "This is the way, walk ye in it," that Spirit is ready in a moment to teach, guide and direct him in the way of life and salvation.
+
+['quiet', 'loud'] received scores [0.9838482737541199, 0.016151731833815575]
+['soft', 'loud'] received scores [0.921497642993927, 0.0785023421049118]
+['quiet', 'noisy'] received scores [0.988005518913269, 0.011994500644505024]
+['soft', 'noisy'] received scores [0.9407364130020142, 0.059263624250888824]
+
+decades/1870s/14/the_character_of_the_savior—the_power_of_the_priesthood—the_unpardonable_sin_brigham_young.txt
+
+These are the promptings of the devil; but when the spirit in man yields obedience and brings the flesh into subjection the Spirit of the Lord is then ready to whisper to the individual, "This is the way, walk ye in it;" and such individuals can go on their way rejoicing, regardless of those who cry, "Lo!
+
+['quiet', 'loud'] received scores [0.7100120782852173, 0.2899879217147827]
+['soft', 'loud'] received scores [0.5132295489311218, 0.4867704510688782]
+['noisy', 'quiet'] received scores [0.5459531545639038, 0.4540468454360962]
+['noisy', 'soft'] received scores [0.7363037467002869, 0.26369622349739075]
+
+decades/1870s/14/the_training_of_children_brigham_young.txt
+
+Next week the great camp meeting that has been so long contemplated is to commence in the city of Salt Lake, where, I have heard it whispered, there are so many of the "Mormons" to be converted.
+
+['loud', 'quiet'] received scores [0.5641158223152161, 0.4358842074871063]
+['soft', 'loud'] received scores [0.654602587223053, 0.3453974425792694]
+['noisy', 'quiet'] received scores [0.9170200228691101, 0.08297993242740631]
+['noisy', 'soft'] received scores [0.8183658719062805, 0.18163414299488068]
+
+decades/1870s/15/riches—hurry—fashion—helping_the_poor—mysteries_brigham_young.txt
+
+She whispered to a little girl to take her baby out of doors and amuse it; then, when her baby was out of the way, she moved about without the least noise—not a word was heard from her.
+
+['quiet', 'loud'] received scores [0.9878726005554199, 0.012127403169870377]
+['soft', 'loud'] received scores [0.9655883312225342, 0.034411679953336716]
+['quiet', 'noisy'] received scores [0.9817434549331665, 0.01825653575360775]
+['soft', 'noisy'] received scores [0.9487807154655457, 0.05121924728155136]
+
+decades/1870s/15/riches—hurry—fashion—helping_the_poor—mysteries_brigham_young.txt
+
+She brought everything she needed from the buttery and cellar to the kitchen where she spread her table, and she mixed and baked her bread, cooked her fruit and meat, and from the time we alighted from  the carriage until she came and whispered in the ear of her husband, "Dinner is ready," it was just fifty-five minutes.
+
+['quiet', 'loud'] received scores [0.6834450364112854, 0.3165549337863922]
+['loud', 'soft'] received scores [0.5349885821342468, 0.46501147747039795]
+['quiet', 'noisy'] received scores [0.7095386385917664, 0.29046130180358887]
+['noisy', 'soft'] received scores [0.5041719675064087, 0.4958280622959137]
+
+decades/1870s/15/spirit_of_light_and_truth—its_value—its_opposite_necessary—final_triumph_of_light_and_truth_orson_pratt.txt
+
+I can see, also, many times when  the Spirit of the Lord whispered to me, and I scarcely knew whether it was my own thoughts and imaginations or whether it was the revelations of the Spirit; yet it seemed to be the Spirit of the Lord, and I followed the teachings, and was prospered in so doing.
+
+['quiet', 'loud'] received scores [0.7233778834342957, 0.27662208676338196]
+['soft', 'loud'] received scores [0.5207394361495972, 0.4792605936527252]
+['quiet', 'noisy'] received scores [0.7746307849884033, 0.2253691852092743]
+['soft', 'noisy'] received scores [0.5881620049476624, 0.41183802485466003]
+
+decades/1870s/15/the_latter-day_kingdom—the_present_fulfilment_of_ancient_prophecy_orson_pratt.txt
+
+When I look over this vast congregation, assembled in the body of this house as well as in the gallery, it seems to be an impossibility to make all hear; and to give all an opportunity to do so it will be necessary that the closest attention be given and that shuffling of feet and whispering cease.
+
+['quiet', 'loud'] received scores [0.5511049032211304, 0.44889509677886963]
+['soft', 'loud'] received scores [0.5658223628997803, 0.4341776371002197]
+['noisy', 'quiet'] received scores [0.9851779341697693, 0.014822116121649742]
+['noisy', 'soft'] received scores [0.9842805862426758, 0.015719464048743248]
+
+decades/1870s/15/the_lord's_supper—progression—cooperation—independence_brigham_young.txt
+
+Am I not as independent in believing the Gospel as I am in believing in the whisperings and mutterings of these spirits that are floating through the air, rapping at everybody's door, sometimes tearing the clothes off their beds, rapping, thundering and telling this, that and the other?
+
+['loud', 'quiet'] received scores [0.8889462351799011, 0.11105374991893768]
+['loud', 'soft'] received scores [0.6895681619644165, 0.3104317784309387]
+['noisy', 'quiet'] received scores [0.9916754364967346, 0.008324610069394112]
+['noisy', 'soft'] received scores [0.9706381559371948, 0.029361819848418236]
+
+decades/1870s/15/the_lord's_supper—progression—cooperation—independence_brigham_young.txt
+
+You hearken to that still small voice that whispers eternal truth, that opens the visions of eternity to you that you can discern, understand and follow, and the foul spirits that throng the  air, and that fill our houses if we let them in, will not have power over you.
+
+['quiet', 'loud'] received scores [0.9941451549530029, 0.005854906979948282]
+['soft', 'loud'] received scores [0.8969806432723999, 0.1030193641781807]
+['quiet', 'noisy'] received scores [0.9939473271369934, 0.006052721757441759]
+['soft', 'noisy'] received scores [0.8938505053520203, 0.10614946484565735]
+
+decades/1870s/16/distinguishing_characteristics_between_the_latter-day_saints_and_the_various_religious_denominations_of_christendom_orson_pratt.txt
+
+The Spirit may whisper, "It is wise for you to do this thing," —"it is wise for you to do that thing," —"it is wise for you to take such a course, and to do thus and so.
+
+['quiet', 'loud'] received scores [0.9896285533905029, 0.010371417738497257]
+['soft', 'loud'] received scores [0.9840613007545471, 0.01593870483338833]
+['quiet', 'noisy'] received scores [0.8940294981002808, 0.10597044229507446]
+['soft', 'noisy'] received scores [0.8451739549636841, 0.15482603013515472]
+
+decades/1870s/16/extension_of_the_utah_northern_railroad—the_building_of_the_meetinghouse_and_other_public_improvements_urged_on_the_people—faith.txt
+
+But you cannot mention any crime that this people called Latter-day Saints have not been accused of committing by their so-called Christian neighbors; and these stories would generally commence by the priests whispering to some sister—"Did you hear of such and such a thing?
+
+['loud', 'quiet'] received scores [0.8020066022872925, 0.19799339771270752]
+['loud', 'soft'] received scores [0.5930848717689514, 0.40691515803337097]
+['noisy', 'quiet'] received scores [0.9327354431152344, 0.0672646164894104]
+['noisy', 'soft'] received scores [0.8330413103103638, 0.16695868968963623]
+
+decades/1870s/16/purpose_of_god_in_creating_man—man's_agency—duties_of_those_who_have_entered_into_covenant_with_god—reward_of_faithfulness—work_.txt
+
+No, we can go to the Bible, to the revelations of Jesus given in our day; and listen to the whisperings of the Spirit in our own hearts for the testimony of this being the work of God.
+
+['quiet', 'loud'] received scores [0.9349321722984314, 0.06506779044866562]
+['soft', 'loud'] received scores [0.8901844024658203, 0.10981554538011551]
+['quiet', 'noisy'] received scores [0.818138837814331, 0.18186116218566895]
+['soft', 'noisy'] received scores [0.717353343963623, 0.28264671564102173]
+
+decades/1870s/16/purpose_of_god_in_creating_man—man's_agency—duties_of_those_who_have_entered_into_covenant_with_god—reward_of_faithfulness—work_.txt
+
+But still, the Latter-day Saint who has had the whisperings of the Spirit, and yet becomes so negligent as to indulge in these things, proves to the Lord that he has not learned his lesson well—that he has not learned to honor the Lord as he should do, and in consequence thereof he is not so much the recipient of his grace as he might be, and if he persists in evil the time will come when the issues will be barred so that the Spirit will not flow to him, and he will be darkened in the counsel of his mind, and there will be ten chances to one that he makes shipwreck of his most holy faith.
+
+['loud', 'quiet'] received scores [0.6898902654647827, 0.3101097345352173]
+['loud', 'soft'] received scores [0.7922491431236267, 0.2077508121728897]
+['noisy', 'quiet'] received scores [0.6893583536148071, 0.31064167618751526]
+['noisy', 'soft'] received scores [0.7918397784233093, 0.2081601768732071]
+
+decades/1870s/16/the_instructions_given_are_intended_for_all_the_saints—the_latter-day_work_an_individual_work—men_and_women_are_responsible_for_.txt
+
+The road to this knowledge is obedience to his laws and to the whisperings of the still small voice in our own hearts.
+
+['quiet', 'loud'] received scores [0.9933387041091919, 0.00666127959266305]
+['soft', 'loud'] received scores [0.9848479628562927, 0.01515200361609459]
+['quiet', 'noisy'] received scores [0.9858986139297485, 0.01410138700157404]
+['soft', 'noisy'] received scores [0.968227744102478, 0.031772226095199585]
+
+decades/1870s/17/joseph_smith's_first_visions—the_book_of_mormon—american_indians_descendants_of_the_house_of_israel—prophecies_fulfilled_orson_p.txt
+
+"And thou shalt be brought down, and shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust.
+
+['quiet', 'loud'] received scores [0.995077908039093, 0.004922107327729464]
+['soft', 'loud'] received scores [0.9960044026374817, 0.003995571285486221]
+['quiet', 'noisy'] received scores [0.9952490329742432, 0.004750965628772974]
+['soft', 'noisy'] received scores [0.9961435198783875, 0.0038565201684832573]
+
+decades/1870s/17/joseph_smith's_first_visions—the_book_of_mormon—american_indians_descendants_of_the_house_of_israel—prophecies_fulfilled_orson_p.txt
+
+The Lord promised Moroni that, in the latter days, he would bring forth that book out of the ground, that it should whisper out of the dust; that it should speak unto the living as if it were from the dead, and when he should bring it forth this Urim and Thummim, deposited with it, should enable the finder to translate it into the language of the people who should then inherit the land.
+
+['quiet', 'loud'] received scores [0.9662238359451294, 0.03377614542841911]
+['soft', 'loud'] received scores [0.8143966794013977, 0.18560335040092468]
+['quiet', 'noisy'] received scores [0.948512077331543, 0.051487892866134644]
+['soft', 'noisy'] received scores [0.7386073470115662, 0.26139262318611145]
+
+decades/1870s/17/joseph_smith's_first_visions—the_book_of_mormon—american_indians_descendants_of_the_house_of_israel—prophecies_fulfilled_orson_p.txt
+
+Now this record is as if one spoke from the dead; it is the voice of the ancient dead Prophets who once inhabited this great continent; it is the voice of the dead to the living, a warning voice, the everlasting Gospel in all its plainness and purity, speaking out of the ground, whispering out of the dust, just as this passage of Scripture declares.
+
+['loud', 'quiet'] received scores [0.910564124584198, 0.0894358903169632]
+['loud', 'soft'] received scores [0.7266054153442383, 0.27339455485343933]
+['noisy', 'quiet'] received scores [0.9477354288101196, 0.05226457491517067]
+['noisy', 'soft'] received scores [0.8255889415740967, 0.17441107332706451]
+
+decades/1870s/17/joseph_smith's_first_visions—the_book_of_mormon—american_indians_descendants_of_the_house_of_israel—prophecies_fulfilled_orson_p.txt
+
+So, in these latter days, when the Lord God causes a book to come forth out of the ground, and to whisper from the dust, it is for the benefit of the poor among men, and they are to rejoice in the Holy One of Israel.
+
+['quiet', 'loud'] received scores [0.9754980206489563, 0.02450193278491497]
+['soft', 'loud'] received scores [0.7398551106452942, 0.2601448893547058]
+['quiet', 'noisy'] received scores [0.9699435234069824, 0.030056484043598175]
+['soft', 'noisy'] received scores [0.6974488496780396, 0.30255112051963806]
+
+decades/1870s/17/joseph_smith's_first_visions—the_book_of_mormon—american_indians_descendants_of_the_house_of_israel—prophecies_fulfilled_orson_p.txt
+
+And when he should commence this great work, he would bring forth the words of them that have slumbered in the dust, should whisper out of the ground, and their speech should be low out of the dust; and Israel, after that time, should no longer be made ashamed, neither should their faces wax pale.
+
+['quiet', 'loud'] received scores [0.9891690611839294, 0.010830916464328766]
+['soft', 'loud'] received scores [0.9255924820899963, 0.07440754026174545]
+['quiet', 'noisy'] received scores [0.990127444267273, 0.009872549213469028]
+['soft', 'noisy'] received scores [0.9317883849143982, 0.06821156293153763]
+
+decades/1870s/17/nothing_strange_or_new_to_live_and_die—must_die_in_order_to_be_quickened—the_world_of_mankind_ignorant_of_immortality—the_righte.txt
+
+If we could keep constantly in our minds and before us what we really know, what the Lord has taught us, what we have read and what we have received by the whisperings of the Spirit, this would be satisfactory; but many do not retain these things, they pass from them, and when they have passed away doubt seizes their minds, and they are at a loss to determine whether they ever understood anything or not.
+
+['quiet', 'loud'] received scores [0.6556008458137512, 0.3443991541862488]
+['loud', 'soft'] received scores [0.6219226717948914, 0.37807726860046387]
+['quiet', 'noisy'] received scores [0.783451497554779, 0.21654856204986572]
+['soft', 'noisy'] received scores [0.5360440015792847, 0.4639560580253601]
+
+decades/1870s/17/remarks_to_the_young_william_c._dunbar.txt
+
+The gift of the Holy Ghost was conferred upon them, and that Spirit is within them, and if they understood its whisperings and dictates I believe that they would admit they know a great deal more than they now think they do; and if they would heed its teachings it would lead them in the way of eternal life.
+
+['quiet', 'loud'] received scores [0.9487766027450562, 0.05122336372733116]
+['soft', 'loud'] received scores [0.7796925902366638, 0.2203073799610138]
+['quiet', 'noisy'] received scores [0.8557571172714233, 0.14424283802509308]
+['soft', 'noisy'] received scores [0.5313056707382202, 0.4686942994594574]
+
+decades/1870s/17/the_things_of_god_known_by_the_spirit_of_god—the_light_and_intelligence_of_god_without_money_and_price—now_true_religion_without.txt
+
+I have a request to make of each and every Latter-day Saint, or those who profess to be, to so live that the Spirit of the Lord will whisper to them and teach them the truth, and define to their understanding the difference between truth and error, light and darkness, the things of God and the things that are not of God.
+
+['quiet', 'loud'] received scores [0.8738234043121338, 0.12617656588554382]
+['soft', 'loud'] received scores [0.543432891368866, 0.45656710863113403]
+['quiet', 'noisy'] received scores [0.8748250007629395, 0.12517504394054413]
+['soft', 'noisy'] received scores [0.5456934571266174, 0.45430654287338257]
+
+decades/1870s/18/apostolical_succession_and_responsibility—social_position_affords_no_release_from_responsibility—if_the_office_does_not_honor_a_.txt
+
+If we all acted in keeping with its sacred whisperings, there would be little difficulty in the establishment and working of the United Order, for all would then be faithful in the performance of their several duties.
+
+['quiet', 'loud'] received scores [0.9858449101448059, 0.014155086129903793]
+['soft', 'loud'] received scores [0.8314077258110046, 0.16859228909015656]
+['quiet', 'noisy'] received scores [0.9601147770881653, 0.03988516703248024]
+['soft', 'noisy'] received scores [0.6302432417869568, 0.369756817817688]
+
+decades/1870s/18/on_the_dedication_of_the_new_tabernacle_orson_pratt.txt
+
+The Lord our God accepts the dedication, by his servants the Priesthood, of those things which he has ordained and established; and though he may not always manifest that acceptance in a visible manner, so that all the people may see, yet there is a peculiar manifestation that we can feel if we cannot see, which whispers to us that God is manifest in his works, ordinances and institutions, and in his own buildings that are built with an  eye single to his glory, and in his name.
+
+['quiet', 'loud'] received scores [0.9903773069381714, 0.009622665122151375]
+['soft', 'loud'] received scores [0.8872722387313843, 0.11272773146629333]
+['quiet', 'noisy'] received scores [0.975603461265564, 0.024396494030952454]
+['soft', 'noisy'] received scores [0.753585696220398, 0.24641430377960205]
+
+decades/1870s/18/personal_revelation_the_basis_of_personal_knowledge—philosophic_view_of_creation—apostasy_involves_disorganization_and_return_to.txt
+
+Men begin to apostatize by taking to themselves strength, by hearkening to the whisperings of the enemy who leads them astray little by little, until they gather to themselves that which they call the wisdom of man; then they begin to depart from God, and their minds become confused.
+
+['quiet', 'loud'] received scores [0.5201964974403381, 0.47980350255966187]
+['loud', 'soft'] received scores [0.5868186354637146, 0.4131813943386078]
+['noisy', 'quiet'] received scores [0.6795350909233093, 0.32046493887901306]
+['noisy', 'soft'] received scores [0.7655397057533264, 0.2344602644443512]
+
+decades/1870s/18/personal_revelation_the_basis_of_personal_knowledge—philosophic_view_of_creation—apostasy_involves_disorganization_and_return_to.txt
+
+If we hearken to the whisperings of the Spirit of God, we shall feel ourselves under obligations to do so.
+
+['quiet', 'loud'] received scores [0.9176805019378662, 0.0823194608092308]
+['soft', 'loud'] received scores [0.7764047384262085, 0.2235952764749527]
+['quiet', 'noisy'] received scores [0.8417317271232605, 0.15826831758022308]
+['soft', 'noisy'] received scores [0.6235782504081726, 0.3764217495918274]
+
+decades/1870s/18/philosophy_of_man_upon_the_earth—the_great_and_grand_secret_of_salvation—are_we_one—nature_of_stewardship—increase_of_temples—he.txt
+
+This moving of feet, whispering to each other, the crying of children and the noise made by those who are walking, are like the murmuring of many waters.
+
+['loud', 'quiet'] received scores [0.9770733118057251, 0.022926723584532738]
+['loud', 'soft'] received scores [0.8460166454315186, 0.15398332476615906]
+['noisy', 'quiet'] received scores [0.9977236390113831, 0.00227638753131032]
+['noisy', 'soft'] received scores [0.9826100468635559, 0.017389899119734764]
+
+decades/1870s/18/philosophy_of_man_upon_the_earth—the_great_and_grand_secret_of_salvation—are_we_one—nature_of_stewardship—increase_of_temples—he.txt
+
+By obeying the whispering of this Holy Spirit, which we have received by virtue of obedience to the Gospel, which prompts us to purge from within us all sinful desires, we can say we are no more in the world, but we are in Christ, our living head.
+
+['quiet', 'loud'] received scores [0.9708829522132874, 0.02911706268787384]
+['soft', 'loud'] received scores [0.8064864277839661, 0.19351354241371155]
+['quiet', 'noisy'] received scores [0.920752763748169, 0.07924723625183105]
+['soft', 'noisy'] received scores [0.5922023057937622, 0.4077977240085602]
+
+decades/1870s/18/position_of_the_latter-day_saints—protestantism_makes_no_claim_to_revelation—priesthood,_how_restored,_its_purpose—persecution_t.txt
+
+Can I expect to have the sweet whisperings thereof to lead me in the path of life, if I trample under foot his precepts?
+
+['quiet', 'loud'] received scores [0.913942277431488, 0.08605772256851196]
+['soft', 'loud'] received scores [0.7656744718551636, 0.23432552814483643]
+['quiet', 'noisy'] received scores [0.811405599117279, 0.18859438598155975]
+['soft', 'noisy'] received scores [0.569660484790802, 0.430339515209198]
+
+decades/1870s/18/the_blessing_of_life_for_evermore—the_lord_commanded_the_united_states_government_to_purchase_freedom_for_their_slaves—reformati.txt
+
+Let us listen to the voice and the whisperings of the Spirit, and if there be an obstacle in the way let us remove it.
+
+['quiet', 'loud'] received scores [0.9516846537590027, 0.04831532761454582]
+['soft', 'loud'] received scores [0.841768205165863, 0.15823183953762054]
+['quiet', 'noisy'] received scores [0.8724856376647949, 0.12751436233520508]
+['soft', 'noisy'] received scores [0.6488699316978455, 0.35113003849983215]
+
+decades/1870s/18/the_great_privilege_of_having_a_temple_completed—past_efforts_for_this_purpose—remarks_on_conduct—earth,_heaven,_and_hell,_looki.txt
+
+What would they whisper in our ears?
+
+['quiet', 'loud'] received scores [0.9202514886856079, 0.07974845170974731]
+['soft', 'loud'] received scores [0.9350852370262146, 0.064914770424366]
+['quiet', 'noisy'] received scores [0.8624499440193176, 0.13755007088184357]
+['soft', 'noisy'] received scores [0.8867114782333374, 0.113288514316082]
+
+decades/1870s/18/the_lord_rules—the_hand_of_god_in_persecution—the_gospel_embraces_all_truth—no_need_of_worry,_the_lord_will_deal_out_justice—jos.txt
+
+I wish to whisper in the ears of the Latter-day Saints, I mean those who profess to be Saints, Know ye that the Lord reigns, and that the hearts of all living are in his hands.
+
+['quiet', 'loud'] received scores [0.9902231693267822, 0.00977677945047617]
+['soft', 'loud'] received scores [0.8876075148582458, 0.11239252239465714]
+['quiet', 'noisy'] received scores [0.986334502696991, 0.013665499165654182]
+['soft', 'noisy'] received scores [0.8491222858428955, 0.15087775886058807]
+
+decades/1870s/19/blessing_the_result_of_obedience_to_law—our_agency_in_the_flesh—the_advantages_of_union—order_in_the_kingdom_of_god—the_eternal_.txt
+
+The spirit would then whisper, you have not been baptized, you have not obeyed the Gospel; but when I had complied with the law, then I had a perfect claim to the blessings and the promises, and did receive them, and obtained a perfect knowledge of the truth, and could then bear a testimony of it to all the world.
+
+['quiet', 'loud'] received scores [0.9211035966873169, 0.07889647781848907]
+['soft', 'loud'] received scores [0.6406016945838928, 0.3593982458114624]
+['quiet', 'noisy'] received scores [0.5991483926773071, 0.40085166692733765]
+['noisy', 'soft'] received scores [0.8142009377479553, 0.18579907715320587]
+
+decades/1870s/19/enjoyment_in_the_south—the_blessings_of_a_temple—need_of_chastisement—the_redemption_of_the_earth—the_christian_world_concerned_.txt
+
+He is the light of the world that lighteth every man that cometh into the world, and if the whisperings of his Spirit and its dictates were hearkened to and obeyed, all men everywhere would grow in the truth, much faster than we Latter-day Saints are doing.
+
+['quiet', 'loud'] received scores [0.7553296685218811, 0.2446703165769577]
+['soft', 'loud'] received scores [0.5385295748710632, 0.46147042512893677]
+['quiet', 'noisy'] received scores [0.6693782806396484, 0.3306216895580292]
+['noisy', 'soft'] received scores [0.5664651989936829, 0.43353480100631714]
+
+decades/1870s/19/gathering_the_result_of_revelation—temple_building_similar—the_restoration_of_the_priesthood—ministering_for_the_dead—the_gospel.txt
+
+Sometimes it might be contrary to your judgment; never mind that, follow its dictates; and if you be true to its whisperings it will in time become in you a principle of revelation, so that you will know all things.
+
+['quiet', 'loud'] received scores [0.9665467739105225, 0.033453237265348434]
+['soft', 'loud'] received scores [0.8369137644767761, 0.16308625042438507]
+['quiet', 'noisy'] received scores [0.8723320960998535, 0.12766791880130768]
+['soft', 'noisy'] received scores [0.5482489466667175, 0.4517510235309601]
+
+decades/1870s/19/revelation_gradual—hyrum_smith's_experience—the_lord_has_not_shut_down_the_gates_of_revelation—the_church_organization_not_perfe.txt
+
+But when they become obedient students, obedient men and women of God, obedient to my commandments, hearkening to the voice of my servants, giving heed to the whisperings of my spirit, doing away with covetousness, then I will reveal more; I will introduce more and more of the principles of the United Order, necessary to govern the people, and to prepare them for the great day of the Lord, which is to come.
+
+['quiet', 'loud'] received scores [0.895797610282898, 0.10420243442058563]
+['soft', 'loud'] received scores [0.6929254531860352, 0.3070746064186096]
+['quiet', 'noisy'] received scores [0.8550499677658081, 0.14495006203651428]
+['soft', 'noisy'] received scores [0.6075972318649292, 0.3924027979373932]
+
+decades/1870s/19/united_order—tithing—cooperative_labors_in_brigham_city_lorenzo_snow.txt
+
+We are liable to do that which will lead us into trouble and darkness, and those things which will not tend to our good, but with the assistance of that comforter which the Lord has promised his Saints, if we are careful to listen to its whisperings, and understand the nature of its language, we may avoid much trouble and serious difficulty.
+
+['quiet', 'loud'] received scores [0.9544398188591003, 0.04556014761328697]
+['soft', 'loud'] received scores [0.8116142153739929, 0.1883857548236847]
+['quiet', 'noisy'] received scores [0.8044413924217224, 0.1955585926771164]
+['noisy', 'soft'] received scores [0.5417202115058899, 0.4582797884941101]
+
+decades/1870s/20/cleave_to_light—coming_of_christ—abominations_of_the_wicked—welfare_of_the_young_erastus_snow.txt
+
+We expect to call many to labor among these people, as the Lord may dictate, and we want them to be prepared to respond when there is a whisper in their ears to that effect.
+
+['quiet', 'loud'] received scores [0.8267232179641724, 0.17327679693698883]
+['soft', 'loud'] received scores [0.7764483094215393, 0.22355172038078308]
+['quiet', 'noisy'] received scores [0.7256877422332764, 0.2743123173713684]
+['soft', 'noisy'] received scores [0.6582173705101013, 0.34178268909454346]
+
+decades/1870s/20/the_book_of_mormon—promises_to_the_lamanites—objects_of_the_record—the_book_of_abraham—gifts_to_the_church—benefit_of_immediate_.txt
+
+All these things concern every head of a family; therefore, if he had the spirit of revelation, if he could go and inquire of the Lord, if he found it to be the whisperings of his spirit which course to pursue in temporal matters, what a great blessing it would be for him; and then not for that one person only, but for all his sons as they grow up, and for his wives, if he have a number of wives.
+
+['quiet', 'loud'] received scores [0.8563770651817322, 0.1436229795217514]
+['soft', 'loud'] received scores [0.6823804378509521, 0.3176195025444031]
+['quiet', 'noisy'] received scores [0.7464505434036255, 0.2535494267940521]
+['soft', 'noisy'] received scores [0.5147418975830078, 0.4852581322193146]
+
+decades/1870s/21/duties_and_responsibilities_of_the_priesthood_and_saints_generally—zion_shall_not_be_overcome—the_wicked_shall_slay_the_wicked—t.txt
+
+How many of you have had the Spirit of God whisper unto you—the still small voice.
+
+['quiet', 'loud'] received scores [0.9898521900177002, 0.010147753171622753]
+['soft', 'loud'] received scores [0.9914035797119141, 0.008596471510827541]
+['quiet', 'noisy'] received scores [0.9943076372146606, 0.005692327860742807]
+['soft', 'noisy'] received scores [0.9951812028884888, 0.004818829242140055]
+
+decades/1870s/21/effects_of_the_preaching_of_the_gospel—object_of_the_gathering—manifestations_of_the_ancients_to_joseph_smith—the_gospel_to_depa.txt
+
+And while nations shall crumble and thrones be cast down, and the God of heaven arise and shake terribly the earth, while the elements melt with fervent heat in fulfillment of ancient as well as modern prophecy; while these things are going on he will whisper, peace to Zion.
+
+['quiet', 'loud'] received scores [0.5244475603103638, 0.47555243968963623]
+['soft', 'loud'] received scores [0.5501224398612976, 0.4498775899410248]
+['noisy', 'quiet'] received scores [0.7740439772605896, 0.2259560376405716]
+['noisy', 'soft'] received scores [0.7554680109024048, 0.24453198909759521]
+
+decades/1870s/21/insufficiency_of_mere_belief_in_christ—extent_and_application_of_the_atonement—necessity_of_divine_authority_to_enable_man_to_ad.txt
+
+It is the true light that lighteth every man that cometh into the world, and if people would listen to the whispering of that still small voice, be led by that natural light and natural inspiration, they would be led up to God.
+
+['quiet', 'loud'] received scores [0.9969355463981628, 0.003064447082579136]
+['soft', 'loud'] received scores [0.9913931488990784, 0.008606874383985996]
+['quiet', 'noisy'] received scores [0.9968606233596802, 0.003139357315376401]
+['soft', 'noisy'] received scores [0.9911839365959167, 0.008816070854663849]
+
+decades/1870s/21/insufficiency_of_mere_belief_in_christ—extent_and_application_of_the_atonement—necessity_of_divine_authority_to_enable_man_to_ad.txt
+
+By this natural light, by this general inspiration, if people would listen to its whisperings, and be guided thereby, they would be led up to the fountain of light.
+
+['quiet', 'loud'] received scores [0.9923670291900635, 0.007633002940565348]
+['soft', 'loud'] received scores [0.9754921793937683, 0.024507764726877213]
+['quiet', 'noisy'] received scores [0.9604587554931641, 0.03954126313328743]
+['soft', 'noisy'] received scores [0.8814681172370911, 0.11853190511465073]
+
+decades/1870s/21/pre-existence,_in_spiritual_form,_of_man,_the_lower_animals_and_the_earth—the_temporal_probationary_state—the_millennium—the_fin.txt
+
+We should listen to its whisperings, and we should seek after more light, and knowledge, and truth.
+
+['quiet', 'loud'] received scores [0.994594156742096, 0.0054059140384197235]
+['soft', 'loud'] received scores [0.96942138671875, 0.0305786170065403]
+['quiet', 'noisy'] received scores [0.670101523399353, 0.32989850640296936]
+['noisy', 'soft'] received scores [0.7407362461090088, 0.2592637836933136]
+
+decades/1870s/21/revelation,_prophesying,_predictions_of_the_servants_of_god,_etc_wilford_woodruff.txt
+
+How many of you have had the still small voice of the spirit whisper things to you, and when you have followed the dictations of that spirit it has become in you a principle of revelation.
+
+['quiet', 'loud'] received scores [0.9931050539016724, 0.006894893944263458]
+['soft', 'loud'] received scores [0.974025547504425, 0.025974445044994354]
+['quiet', 'noisy'] received scores [0.9950891137123108, 0.004910850897431374]
+['soft', 'noisy'] received scores [0.9813970327377319, 0.018603000789880753]
+
+decades/1870s/21/revelation,_prophesying,_predictions_of_the_servants_of_god,_etc_wilford_woodruff.txt
+
+I would not be here today if I had not listened to the whisperings of that still small voice which has guided me in my journeyings; I never could have passed through the dangerous scenes and incidents of my life had I not followed the whisperings of the spirit of the Lord to me.
+
+['quiet', 'loud'] received scores [0.9893405437469482, 0.010659443214535713]
+['soft', 'loud'] received scores [0.9448037147521973, 0.05519624799489975]
+['quiet', 'noisy'] received scores [0.9937719106674194, 0.006228114943951368]
+['soft', 'noisy'] received scores [0.9671347737312317, 0.032865189015865326]
+
+decades/1870s/21/spiritual_gifts_attainable—unchangeableness_of_god—universality_of_the_right_to_revelation—the_saints_glorify_the_god_of_revelat.txt
+
+When we call upon him, though he may be remote from us, dwelling in his holy habitation in the midst of the eternities, the very thoughts of our hearts, the very conceptions of our minds, the feeble whisperings of our voices, they ascend to him, are carried to him, his ear comprehends them; his bowels of compassion are moved towards us his children, his all-piercing eye penetrates eternity, and the glance of his vision reaches us.
+
+['quiet', 'loud'] received scores [0.8308362364768982, 0.1691637635231018]
+['soft', 'loud'] received scores [0.6347504258155823, 0.36524954438209534]
+['quiet', 'noisy'] received scores [0.7227317690849304, 0.2772681713104248]
+['noisy', 'soft'] received scores [0.5202043056488037, 0.4797956645488739]
+
+decades/1870s/21/sustaining_the_authorities—power_of_the_priesthood—faithfulness_required,_etc_john_taylor.txt
+
+We frequently pass by many of those important things which we have engaged to abide by, and sometimes begin to whisper by way of complaining or finding fault one with another after we have entered into solemn obligations that we will not do it.
+
+['quiet', 'loud'] received scores [0.7673959136009216, 0.23260411620140076]
+['soft', 'loud'] received scores [0.6704539656639099, 0.3295460343360901]
+['noisy', 'quiet'] received scores [0.8794993162155151, 0.12050065398216248]
+['noisy', 'soft'] received scores [0.9220924973487854, 0.0779074877500534]
+
+decades/1870s/21/sustaining_the_authorities—power_of_the_priesthood—faithfulness_required,_etc_john_taylor.txt
+
+And then if anybody in my presence were to whisper something about him disparaging to his reputation, I would say, Look here!
+
+['loud', 'quiet'] received scores [0.8427379131317139, 0.15726213157176971]
+['loud', 'soft'] received scores [0.8233357667922974, 0.17666418850421906]
+['noisy', 'quiet'] received scores [0.8573679327964783, 0.14263206720352173]
+['noisy', 'soft'] received scores [0.8394269347190857, 0.1605730801820755]
+
+decades/1870s/21/the_gospel—a_practical_and_comprehensive_religion,_and_the_means_of_eternal_exaltation_charles_w._penrose.txt
+
+If we live in this kind of spirit, there will always be a voice whispering in our souls telling us that which is right and wrong, and our progress will be onward and upward in the straight and narrow path that leadeth unto the eternal continuation of the lives.
+
+['loud', 'quiet'] received scores [0.5035620927810669, 0.4964379370212555]
+['soft', 'loud'] received scores [0.6390131115913391, 0.3609869182109833]
+['noisy', 'quiet'] received scores [0.733303964138031, 0.2666960656642914]
+['noisy', 'soft'] received scores [0.604946494102478, 0.39505353569984436]
+
+decades/1870s/21/the_object_of_the_gathering_of_the_saints—conflict_between_the_powers_of_god_and_evil—the_world_growing_worse—work_of_god_progre.txt
+
+It is much better to tell things right out as they are than to hear of whisperings about this and the other thing, which in many instances are incorrect.
+
+['quiet', 'loud'] received scores [0.8687713742256165, 0.13122858107089996]
+['soft', 'loud'] received scores [0.6855884194374084, 0.31441161036491394]
+['noisy', 'quiet'] received scores [0.5066311359405518, 0.49336886405944824]
+['noisy', 'soft'] received scores [0.7571451663970947, 0.24285487830638885]
+
+decades/1870s/21/the_word_of_the_lord_to_the_church_given_through_the_authorities—authorities_should_be_sustained—powers_of_the_priesthood—sphere.txt
+
+This is why he has given unto us laws with regard to the marriage relations, that Israel shall not marry Gentiles; that Israel shall wed Israel; that the daughters of God shall marry the sons of God, etc., in order that our children may be heirs to the blessings pertaining to the everlasting covenant, that by and by there may be a race of men and women upon the earth who will be holy unto the Lord, born with natural desires in them to do right, which they have inherited from their parents, who shall train them up in the way they should go, with that holy atmosphere surrounding them, that they may be thoroughly under the influence of the spirit that comes from on high, that their whole natures may be sensitive to the whisperings of Almighty God, that they may grow up, his sons and daughters, and that it may be a mark of honor that such and such men were "born in Zion.
+
+['loud', 'quiet'] received scores [0.5509636998176575, 0.44903630018234253]
+['loud', 'soft'] received scores [0.7788164019584656, 0.2211836278438568]
+['quiet', 'noisy'] received scores [0.6136773228645325, 0.38632264733314514]
+['noisy', 'soft'] received scores [0.6436910629272461, 0.3563089668750763]
+

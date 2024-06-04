@@ -1,0 +1,90 @@
+﻿decades/1900s/IE/1901_O.txt
+
+It  will  be  our  privilege,  if  we  so  desire,  to  express  our  feelings  to  the  Lord  by  offering  up  unto  Him  the  sacred  shout"  — that  great  and  glorious  shout  which  has  been  led  by  President  Snow  upon  many  occasions,  more  particularly  in  the  great  temple  of  the  Lord  standing on  this  block,  at  its  dedication,  and  also  at  Brigham  City,  and  in  this  Tabernacle.
+
+['loud', 'quiet'] received scores [0.9643619656562805, 0.03563801199197769]
+['loud', 'soft'] received scores [0.9277649521827698, 0.07223501801490784]
+['noisy', 'quiet'] received scores [0.9032310843467712, 0.09676890820264816]
+['noisy', 'soft'] received scores [0.8158459067344666, 0.18415415287017822]
+
+decades/1900s/IE/1901_O.txt
+
+He  informed  these  prisoners  for  Christ's  sake  that  it  would  be  their  privilege  to  raise  their  voices  to  the  Lord  in  the  sacred  shout,  if  they  felt  the  spirit  of  it.
+
+['loud', 'quiet'] received scores [0.9172561764717102, 0.08274383097887039]
+['loud', 'soft'] received scores [0.8888494372367859, 0.1111505851149559]
+['noisy', 'quiet'] received scores [0.8883360028266907, 0.11166397482156754]
+['noisy', 'soft'] received scores [0.8516069054603577, 0.14839304983615875]
+
+decades/1900s/IE/1901_O.txt
+
+The  sacred  shout  was  then  offered up  within  those  prison  walls — a  great  and  a  mighty  shout  to  God  and  the  Lamb.
+
+['loud', 'quiet'] received scores [0.993823766708374, 0.00617618951946497]
+['loud', 'soft'] received scores [0.9917858242988586, 0.008214190602302551]
+['noisy', 'quiet'] received scores [0.9464266896247864, 0.05357331410050392]
+['noisy', 'soft'] received scores [0.9298526644706726, 0.07014735788106918]
+
+decades/1900s/IE/1901_O.txt
+
+The  foundations  of  the  prison seemed  to  shake,  and  the  shout  ascended to  heaven.
+
+['loud', 'quiet'] received scores [0.9960395097732544, 0.003960492089390755]
+['loud', 'soft'] received scores [0.9943473935127258, 0.0056525953114032745]
+['noisy', 'quiet'] received scores [0.995703399181366, 0.0042965891771018505]
+['noisy', 'soft'] received scores [0.9938685894012451, 0.006131404545158148]
+
+decades/1900s/IE/1901_O.txt
+
+I  testify  to  you  it  is  my  belief  that  that  great  shout  was  acceptable  to  the  Lord  and  is  recorded  in  the  library  of  the  celestial  kingdom.
+
+['loud', 'quiet'] received scores [0.9910008907318115, 0.008999139070510864]
+['loud', 'soft'] received scores [0.9812495112419128, 0.018750453367829323]
+['noisy', 'quiet'] received scores [0.9702129364013672, 0.029787123203277588]
+['noisy', 'soft'] received scores [0.9393154382705688, 0.060684580355882645]
+
+decades/1900s/IE/1902_O.txt
+
+My  brethren  and  sisters,  during  the  three  days  we  have  been  here,  while  hearing  the  brethren  I  have  felt  several times  like  shouting  Hosanna,  Hosanna,  to  God  and  the  Lamb!
+
+['loud', 'quiet'] received scores [0.9806064963340759, 0.019393518567085266]
+['loud', 'soft'] received scores [0.9679778814315796, 0.03202206641435623]
+['noisy', 'quiet'] received scores [0.97374427318573, 0.026255780830979347]
+['noisy', 'soft'] received scores [0.9568437933921814, 0.04315619543194771]
+
+decades/1900s/IE/1904_A.txt
+
+Job  was  one  of  the  sons  of  Gcd  who  shouted  when  the  morning  stars  sang  together  and  the  sons  of  God  shouted  for  joy.
+
+['loud', 'quiet'] received scores [0.9858652353286743, 0.014134759083390236]
+['loud', 'soft'] received scores [0.9844308495521545, 0.015569156967103481]
+['noisy', 'quiet'] received scores [0.9860776662826538, 0.013922330923378468]
+['noisy', 'soft'] received scores [0.9846644997596741, 0.015335507690906525]
+
+decades/1900s/IE/1907_A.txt
+
+The  Prophet, just  before  going  to  his  death,  speaking  to  the  Nauvoo  Legion  and  denouncing  mob  violence,  said  to  them,  "Will  you  stand  by  me  in  the  vindication  of  these  great  principles which  God  has  committed  to  my  care?"  And  they  threw  up  their  hands  and  shouted  "Yes !"
+
+['loud', 'quiet'] received scores [0.9748777151107788, 0.025122299790382385]
+['loud', 'soft'] received scores [0.945248007774353, 0.05475197732448578]
+['noisy', 'quiet'] received scores [0.975647509098053, 0.02435249648988247]
+['noisy', 'soft'] received scores [0.9468762874603271, 0.053123731166124344]
+
+decades/1900s/IE/1908_O.txt
+
+On  motion,  the  immense  congregation voted  in  favor  of  the  resolution submitted,  proclaiming  "aye"  in  a  unanimous  shout.
+
+['loud', 'quiet'] received scores [0.9914665222167969, 0.008533457294106483]
+['loud', 'soft'] received scores [0.9795146584510803, 0.02048531547188759]
+['noisy', 'quiet'] received scores [0.9894781112670898, 0.010521902702748775]
+['noisy', 'soft'] received scores [0.9748120307922363, 0.025188002735376358]
+
+decades/1900s/IE/1909_O.txt
+
+"And  let  these  thine  anointed  ones  be  clothed  with  salvation,  and  thy  saints  shout  aloud  for  joy.
+
+['loud', 'quiet'] received scores [0.9880325794219971, 0.011967392638325691]
+['loud', 'soft'] received scores [0.9679538607597351, 0.032046105712652206]
+['noisy', 'quiet'] received scores [0.9853935837745667, 0.014606439508497715]
+['noisy', 'soft'] received scores [0.9610615372657776, 0.038938410580158234]
+

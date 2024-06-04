@@ -1,0 +1,396 @@
+﻿decades/1900s/IE/1900_A.txt
+
+By  the  whisperings  of  the  still  small  voice  of  the  spirit  of  the  living  God,  He  gave  to  me  the  testimony  I  possess.
+
+['quiet', 'loud'] received scores [0.9911755919456482, 0.008824440650641918]
+['soft', 'loud'] received scores [0.9856489300727844, 0.014351055026054382]
+['quiet', 'noisy'] received scores [0.9916108846664429, 0.008389069698750973]
+['soft', 'noisy'] received scores [0.9863532185554504, 0.013646773062646389]
+
+decades/1900s/IE/1900_A.txt
+
+Yea  thus  said  the  still  small  voice,  which  whispereth  through  and  pierceth  all  things,  and  often  times  it  maketh  my  bones  to  quake  while  it  maketh  manifest,  saying:   "And  it  shall  come  to  pass  that  I,  the  Lord  God  will  send  one  mighty  and  strong,  holding  the  sceptre  of  power in  his  hand,  clothed  with  light  for  a  covering-,  whose  mouth  shall  utter  words,  eternal  words;  while  his  bowels  shall  be  a  fountain  of  truth,  to  set  in  order  the  house  of  God,  and  to  arrange by  lot  the  inheritances  of  the  Saints  whose  names  are  found,  and  the  names  of  their  fathers,  and  of  their  children,  enrolled  in  the  book  of  the  law  of  God
+
+['quiet', 'loud'] received scores [0.7037193775177002, 0.2962806224822998]
+['loud', 'soft'] received scores [0.5018918514251709, 0.4981081783771515]
+['noisy', 'quiet'] received scores [0.5403435230255127, 0.45965641736984253]
+['noisy', 'soft'] received scores [0.7377614378929138, 0.2622385621070862]
+
+decades/1900s/IE/1900_O.txt
+
+With  one  glance  of  Thine  eternal  eye,  look  over  Europe,  Asia,  Africa,  and  behold  everywhere a  terrible  sight— men  trodden  down  beneath  the  oppressor's  feet,  nations lost  in  blood,  murder  and  superstition walking  hand  in  hand  over  the  graves  of  their  victims,  and  not  a  single  voice  to  whisper  hope  to  man.
+
+['loud', 'quiet'] received scores [0.5778547525405884, 0.4221452474594116]
+['loud', 'soft'] received scores [0.9116880893707275, 0.08831195533275604]
+['quiet', 'noisy'] received scores [0.913336992263794, 0.08666303753852844]
+['soft', 'noisy'] received scores [0.5828850269317627, 0.4171149730682373]
+
+decades/1900s/IE/1901_A.txt
+
+The  Apostles  and  Elders  in  the  Church  of  Christ,  in  this  day  as  in  former  days,  have  had  as  their  especial  guide  the  whisperings  of  the  "still  small  voice"  within  them.
+
+['quiet', 'loud'] received scores [0.9910653829574585, 0.00893456768244505]
+['soft', 'loud'] received scores [0.9862489104270935, 0.013751140795648098]
+['quiet', 'noisy'] received scores [0.9902421236038208, 0.009757873602211475]
+['soft', 'noisy'] received scores [0.9849884510040283, 0.015011562034487724]
+
+decades/1900s/IE/1901_O.txt
+
+I  certainly  feel,  my  brethren  and  sisters, that  to  stand  up  in  the  presence  of  this  vast  congregation  of  people  is  a  very  serious  responsibility,  and  I  could  appreciate  the  words  whispered  to  me  a  few  moments  ago  by  Brother  Golden  Kimball.
+
+['loud', 'quiet'] received scores [0.6149353384971619, 0.3850646913051605]
+['loud', 'soft'] received scores [0.7878316044807434, 0.21216841042041779]
+['noisy', 'quiet'] received scores [0.5869970321655273, 0.41300293803215027]
+['noisy', 'soft'] received scores [0.7676989436149597, 0.23230108618736267]
+
+decades/1900s/IE/1901_O.txt
+
+I  suppose  he  felt  that  I  would  be  called  upon  to  occupy  a  portion  of  the  time  of  this  meeting,  and  he  whispered in  my  ear,  "Brother  Joseph,  brace  up;  you  have  my  sympathy.
+
+['quiet', 'loud'] received scores [0.7840975522994995, 0.2159024327993393]
+['soft', 'loud'] received scores [0.7501835227012634, 0.24981650710105896]
+['quiet', 'noisy'] received scores [0.7096741199493408, 0.2903258502483368]
+['soft', 'noisy'] received scores [0.6690045595169067, 0.33099544048309326]
+
+decades/1900s/IE/1902_A.txt
+
+I  take  this  to  mean  exactly  what  it  says,  that  it  is  the  duty  of  every  father  and  mother  to  so  enlist  the  interest  and  attention  of  their  children  that  they  may  call  them  around  the  family  fireside and  indoctrinate  them  in  the  principles of  the  Gospel,  the  doctrine  of  repentance, and  the  ordinance  of  baptism,  by  immersion,  by  the  time  they  are  eight  years  old,  and  also  the  sacred  ordinance of  the  laying  on  of  hands  for  the  gift  of  the  Holy  Ghost,  and  that  they  shall  understand  it,  to  a  very  great  extent,  so  that,  being  thus  pre  pared when  they  enter  the  sacred  waters of  baptism,  they  are  prepared  to  receive  the  Holy  Ghost,  and  to  enjoy  His  administrations,  His  whisperings  and  His  power,  that  they  may  grow  up  in  the  fear  of  God  and  in  an  understanding of  His  ways.
+
+['loud', 'quiet'] received scores [0.5182594656944275, 0.4817405045032501]
+['loud', 'soft'] received scores [0.6185446381568909, 0.3814554214477539]
+['quiet', 'noisy'] received scores [0.6077313423156738, 0.3922686278820038]
+['soft', 'noisy'] received scores [0.5068698525428772, 0.4931301474571228]
+
+decades/1900s/IE/1902_O.txt
+
+We  have  been  blessed  to  live  in  this  dispensation,  and  to  be  made  acquainted with  the  principles  of  the  Gospel; and  God  has  given  to  us  through  the  whisperings  of  His  Spirit  a  testimony of  the  truthfulness  of  the  same.
+
+['quiet', 'loud'] received scores [0.9781944751739502, 0.021805569529533386]
+['soft', 'loud'] received scores [0.7164143919944763, 0.2835855782032013]
+['quiet', 'noisy'] received scores [0.9655504822731018, 0.034449465572834015]
+['soft', 'noisy'] received scores [0.61216139793396, 0.38783860206604004]
+
+decades/1900s/IE/1902_O.txt
+
+The  whispering  of  the  still  small  voice  of  God  has  told  them  that  Joseph  Smith  was  a  Prophet;  that  his  successors  in  office  at  the  head  of  the  Church  have  been  and  are  Prophets,  Seers  and  Revelators;  that  these  brethren  here  are  Apostles  of  the  Lord  Jesus  Christ,  and  that  the  Gospel  is  true.
+
+['quiet', 'loud'] received scores [0.9946158528327942, 0.005384137853980064]
+['soft', 'loud'] received scores [0.9942313432693481, 0.005768666043877602]
+['quiet', 'noisy'] received scores [0.9895049333572388, 0.010495079681277275]
+['soft', 'noisy'] received scores [0.9887595176696777, 0.011240499094128609]
+
+decades/1900s/IE/1902_O.txt
+
+The  way  was  pointed  out  by  them  whereby  I  could  receive  a  testimony of  the  Gospel  for  myself,  and  I  have  listened  to  the  whisperings  of  the  still  small  voice,  which  has  given  me  a  testimony,  so  that  I  do  know,  as  I  know  that  the  sun  shines,  that  Joseph  Smith  was  a  Prophet  of  God.
+
+['quiet', 'loud'] received scores [0.9941226840019226, 0.005877287592738867]
+['soft', 'loud'] received scores [0.9881975054740906, 0.011802474968135357]
+['quiet', 'noisy'] received scores [0.9939022064208984, 0.006097759585827589]
+['soft', 'noisy'] received scores [0.9877575039863586, 0.01224247831851244]
+
+decades/1900s/IE/1902_O.txt
+
+I  do  not  mean  by  that  that  you  should  follow  it  in  mechanical  detail, but  that  you  should  follow  the  whisperings  of  the  Holy  Spirit;  for  this  is  what  has  been  done  during  this  conference, as  it  has  no  doubt  in  the  conferences of  the  past.
+
+['quiet', 'loud'] received scores [0.9705193042755127, 0.029480701312422752]
+['soft', 'loud'] received scores [0.937282383441925, 0.06271758675575256]
+['quiet', 'noisy'] received scores [0.946498692035675, 0.05350131168961525]
+['soft', 'noisy'] received scores [0.8892704248428345, 0.11072954535484314]
+
+decades/1900s/IE/1903_O.txt
+
+If  I  have  one,  it  is  to  exhort  my  young  brethren  especially  to  faithfulness,  to  diligence  in  duty,  to  listen  to  and  be  guided  by  the  whisperings  of  the  Spirit,  and  to  acquire  learning  and  information  that  will  prepare  them  for  the  duties  of  the  future.
+
+['quiet', 'loud'] received scores [0.8489835858345032, 0.1510164439678192]
+['soft', 'loud'] received scores [0.6597459316253662, 0.3402540981769562]
+['quiet', 'noisy'] received scores [0.6871310472488403, 0.3128689229488373]
+['noisy', 'soft'] received scores [0.5689941048622131, 0.43100589513778687]
+
+decades/1900s/IE/1903_O.txt
+
+And  when  we  live  so  that  we  can  hear  and  understand  the  whisperings  of  the  still  small  voice  of  the  Spirit  of  God,  let  us  do  whatsoever that  Spirit  directs,  without  fear  of  the  consequences.
+
+['quiet', 'loud'] received scores [0.9917886257171631, 0.008211325854063034]
+['soft', 'loud'] received scores [0.9434243440628052, 0.05657565966248512]
+['quiet', 'noisy'] received scores [0.9831653833389282, 0.016834603622555733]
+['soft', 'noisy'] received scores [0.8896609544754028, 0.11033905297517776]
+
+decades/1900s/IE/1904_A.txt
+
+There  is  a  secret  something  that  whispers to  us  we  are  but  strangers  here,  that  dust  we  are  and  to  dust  we  shall  return;  but  "the  spirit  shall  go  back  to  God  who  gave  it.
+
+['quiet', 'loud'] received scores [0.9871124625205994, 0.012887569144368172]
+['soft', 'loud'] received scores [0.8623307347297668, 0.13766926527023315]
+['quiet', 'noisy'] received scores [0.9857584834098816, 0.01424152310937643]
+['soft', 'noisy'] received scores [0.8498612642288208, 0.1501387059688568]
+
+decades/1900s/IE/1904_A.txt
+
+The  other  one,  to  be  given  this  evening,  is  "Whispering Hope.
+
+['quiet', 'loud'] received scores [0.9681284427642822, 0.03187151998281479]
+['soft', 'loud'] received scores [0.8664384484291077, 0.13356149196624756]
+['quiet', 'noisy'] received scores [0.9657350182533264, 0.03426496684551239]
+['soft', 'noisy'] received scores [0.857532262802124, 0.14246773719787598]
+
+decades/1900s/IE/1904_O.txt
+
+I  can  only  pray,  my  brethren  and  sisters,  that  I  may  be  influenced  by  the  whisperings  of  the  Spirit  of  God  for  the  short  time  that  I  shall  address  you,  and  that  the  same  Spirit  may  also  rest  upon  you.
+
+['quiet', 'loud'] received scores [0.9754812121391296, 0.024518810212612152]
+['soft', 'loud'] received scores [0.8778199553489685, 0.1221800372004509]
+['quiet', 'noisy'] received scores [0.9394915699958801, 0.06050843745470047]
+['soft', 'noisy'] received scores [0.7371119260787964, 0.2628880441188812]
+
+decades/1900s/IE/1904_O.txt
+
+Without  the  learning  of  the  world,  by  placing  himself  in  communion with  the  Spirit  of  God,  and  in  saying, "Thus  saith  the  Lord,"  by  the  whisperings  of  the  Spirit.
+
+['quiet', 'loud'] received scores [0.9759707450866699, 0.024029305204749107]
+['soft', 'loud'] received scores [0.9096956849098206, 0.09030428528785706]
+['quiet', 'noisy'] received scores [0.9762580394744873, 0.023741932585835457]
+['soft', 'noisy'] received scores [0.910703182220459, 0.0892968401312828]
+
+decades/1900s/IE/1904_O.txt
+
+If  we  lend  a  willing  ear  to  the  whisperings  of  the  still  small  voice  it  will  lead  us  to  works  of  righteousness.
+
+['quiet', 'loud'] received scores [0.9955101013183594, 0.004489936865866184]
+['soft', 'loud'] received scores [0.9903534054756165, 0.009646553546190262]
+['quiet', 'noisy'] received scores [0.9939740300178528, 0.0060259075835347176]
+['soft', 'noisy'] received scores [0.9870763421058655, 0.012923660688102245]
+
+decades/1900s/IE/1904_O.txt
+
+Therefore,  you  must  remember  that  each  whisper,  each  movement  of  the  body,  or  the  shuffling  of  the  feet  of  any  person  in  the  congregation will  be  reverberated  and'  echoed  throughout  the  building;  and  when  these  sounds  are  multiplied,  then  there  is  noise  and  confusion  in  the  whole  house.
+
+['loud', 'quiet'] received scores [0.7235969305038452, 0.2764030396938324]
+['loud', 'soft'] received scores [0.7142983078956604, 0.285701721906662]
+['noisy', 'quiet'] received scores [0.9752739667892456, 0.024726055562496185]
+['noisy', 'soft'] received scores [0.9741395115852356, 0.02586047723889351]
+
+decades/1900s/IE/1905_A.txt
+
+I know  that  as  long  as  we  receive  the  whisperings  of  the  Spirit  we  will  never  doubt  the  divine  mission  of  the  one  whom  God  places  at  the  head  of  the  Church.
+
+['quiet', 'loud'] received scores [0.9673079252243042, 0.03269210085272789]
+['soft', 'loud'] received scores [0.8775513172149658, 0.12244867533445358]
+['quiet', 'noisy'] received scores [0.9546791911125183, 0.04532081261277199]
+['soft', 'noisy'] received scores [0.8361243009567261, 0.16387571394443512]
+
+decades/1900s/IE/1905_A.txt
+
+I  hope  that  God  will  continue  to  whisper  to  them,  no  matter  whether  it  is  commercialism  or  not.
+
+['quiet', 'loud'] received scores [0.9868847131729126, 0.013115270994603634]
+['soft', 'loud'] received scores [0.8872817158699036, 0.11271823942661285]
+['quiet', 'noisy'] received scores [0.9727774858474731, 0.027222461998462677]
+['soft', 'noisy'] received scores [0.7889500856399536, 0.21104994416236877]
+
+decades/1900s/IE/1905_A.txt
+
+This  morning,  President  Ben  E.  Rich  bore  testimony  to  the  fact  that  he  knew  President  Joseph  F.  Smith  had  his  ears  open  to  hear  the  voice  of  God,  and  was  ever  ready  to  heed  the  whisperings  of  the  Holy  Spirit.
+
+['loud', 'quiet'] received scores [0.7466171383857727, 0.2533828318119049]
+['loud', 'soft'] received scores [0.7541772127151489, 0.24582278728485107]
+['quiet', 'noisy'] received scores [0.5028393268585205, 0.4971607029438019]
+['noisy', 'soft'] received scores [0.5072515606880188, 0.4927484691143036]
+
+decades/1900s/IE/1905_A.txt
+
+He  said  on  more  than  one  occasion that  no  man  had  yet  so  much  as  heard  of  the  Book  of  Mormon  but  what  the  Spirit  of  the  Lord  whispered  quietly to  his  soul  that  that  book  was  true:  no  man  had  so  much  as  heard  of  the  Prophet  Joseph  Smith  but  what  the  "still  small  voice"  whispered  to  him  that  he  was  a  true  prophet.
+
+['quiet', 'loud'] received scores [0.9910802841186523, 0.008919649757444859]
+['soft', 'loud'] received scores [0.9115085005760193, 0.0884915217757225]
+['quiet', 'noisy'] received scores [0.991491436958313, 0.008508582599461079]
+['soft', 'noisy'] received scores [0.9152731895446777, 0.08472684025764465]
+
+decades/1900s/IE/1905_A.txt
+
+There  is  not  a  man  or  woman  who  on  hearing  the  report  of  the  Book  of  Mormon  but  the  spirit  of  the  Almighty  has  testified  to  them  of  its  truth;  neither  have  they  heard  the  name  of  Joseph  Smith  but  the  Spirit  has  whispered  to  them  'He  is  the  true  Prophet.
+
+['quiet', 'loud'] received scores [0.8859785795211792, 0.11402148753404617]
+['loud', 'soft'] received scores [0.5963869094848633, 0.40361303091049194]
+['quiet', 'noisy'] received scores [0.9533265829086304, 0.046673405915498734]
+['soft', 'noisy'] received scores [0.640156626701355, 0.35984334349632263]
+
+decades/1900s/IE/1905_O.txt
+
+Everywhere  the  Spirit  of  the  Lord  whispers  to  the  honest  in  heart  who  are  faithful,  and  gives  to  them  the  assurance  that  His  hand  is  stretched  out  continually  over  His  people;  that  as,  in  the  past,  He  has  preserved  them  and  delivered  them  out  -of  the  hands  of  their  enemies,  so  in  the  future  He  will  continue  to  preserve  and  deliver  them,  and  he  will  make  the  wrath  of  the  wicked  to  praise  Him  and  to  accomplish  the  more  speedily  His  purposes.
+
+['quiet', 'loud'] received scores [0.7789819836616516, 0.2210180014371872]
+['soft', 'loud'] received scores [0.5072042346000671, 0.4927958548069]
+['quiet', 'noisy'] received scores [0.8109635710716248, 0.18903645873069763]
+['soft', 'noisy'] received scores [0.5561022758483887, 0.44389769434928894]
+
+decades/1900s/IE/1905_O.txt
+
+As  Latter-day Saints  we  have  many  duties  to  perform,  and  if  we  are  diligent,  and  learn  to  listen  to  the  whispering  of  the  Good  Spirit,  we  will  not  often  err  in  judgment.
+
+['quiet', 'loud'] received scores [0.9276111721992493, 0.07238885015249252]
+['soft', 'loud'] received scores [0.7921044826507568, 0.20789548754692078]
+['quiet', 'noisy'] received scores [0.9159737825393677, 0.0840262621641159]
+['soft', 'noisy'] received scores [0.7642198801040649, 0.23578014969825745]
+
+decades/1900s/IE/1905_O.txt
+
+In  those  dark  days,  when  clouds  of  spiritual  darkness  (settled  upon  Kirtland,  and  men  whom  the  Prophet had  trusted  fell  upon  the  right  and  upon  the  left  and  were  filled  with  bitterness and  hatred  towards  him — you  remember  how  the  Spirit  whispered  to  him  that  some  new  move  must  be  made  for  the  salvation  of  the  Church,  and  he  was  prompted  by  the  Spirit  to  send  word  to  Heber  C.  Kimball  that  the  voice  of  the  Spirit  of  the  Lord  indicated that  he  must  carry  the  Gospel  message  to  a  foreign  land;  and  it  was  done;  for  Heber  C  Kimball  opened  the  work  in  England.
+
+['loud', 'quiet'] received scores [0.6571187376976013, 0.3428812325000763]
+['loud', 'soft'] received scores [0.7470680475234985, 0.2529318928718567]
+['noisy', 'quiet'] received scores [0.5007195472717285, 0.4992804527282715]
+['noisy', 'soft'] received scores [0.6071704030036926, 0.392829567193985]
+
+decades/1900s/IE/1906_A.txt
+
+Often  in  my  official  duties,  when  people come  to  me  for  their  blessings,  especially young  men  who  are  called  upon missions,  I  admonish  them  to  learn  to  listen  to  the  whisperings  of  the  good  Spirit  and  be  guided  by  it;  to  seek  the  Father  for  the  gift  of  discernment,  that  they  may  not  be  deceived by  the  evil  one,  for  we  understand that  when  we  would  do  good  evil  is  present  with  us.
+
+['quiet', 'loud'] received scores [0.9007510542869568, 0.09924895316362381]
+['soft', 'loud'] received scores [0.5907950401306152, 0.40920495986938477]
+['quiet', 'noisy'] received scores [0.8818264007568359, 0.11817359924316406]
+['soft', 'noisy'] received scores [0.542769193649292, 0.4572307765483856]
+
+decades/1900s/IE/1906_A.txt
+
+It  is  necessary  that  we  should  learn  to  recognize  the  whisperings  of  the  Holy  Spirit,  that  we  may  understand  the  difference  between  it  and  the  evil  one.
+
+['quiet', 'loud'] received scores [0.9853395819664001, 0.014660383574664593]
+['soft', 'loud'] received scores [0.8446938991546631, 0.1553061157464981]
+['quiet', 'noisy'] received scores [0.9524312019348145, 0.04756881669163704]
+['soft', 'noisy'] received scores [0.6183567047119141, 0.38164329528808594]
+
+decades/1900s/IE/1906_A.txt
+
+There  is,  therefore,  no  reason  why  the  Latter-day  Saints  should  do  wrong,  if  they  will  only  be  guided  by  the  whisperings of  God  and  the  Spirit.
+
+['quiet', 'loud'] received scores [0.9812526106834412, 0.018747365102171898]
+['soft', 'loud'] received scores [0.8799038529396057, 0.12009613960981369]
+['quiet', 'noisy'] received scores [0.9673405289649963, 0.03265949338674545]
+['soft', 'noisy'] received scores [0.8056765794754028, 0.19432346522808075]
+
+decades/1900s/IE/1906_O.txt
+
+I  believe  President  Brigham  Young  said  that  no  man  had  ever  heard  the  name  of  the  Prophet  Joseph Smith,  but  what  the  Spirit  of  the  Lord  whispered  to  him-,  that  he  was  a  servant  of  God,,  and  that  no  man  ever  heard  the      name    of    the     Book  of  Mormon  but  what  he  was  impressed that  it  was  of  the  Lord.
+
+['quiet', 'loud'] received scores [0.5765501856803894, 0.4234497547149658]
+['loud', 'soft'] received scores [0.7595838904380798, 0.24041613936424255]
+['quiet', 'noisy'] received scores [0.8114177584648132, 0.18858222663402557]
+['soft', 'noisy'] received scores [0.5000554323196411, 0.4999444782733917]
+
+decades/1900s/IE/1907_A.txt
+
+In  speaking  of  this  remarkable  book,  the  ancient  prophet says  that  "It  whispers  from  the  dust,"  whispers  of  a  people  long  extinct, and  "The  truth  springs  from  the  earth.
+
+['quiet', 'loud'] received scores [0.8910639882087708, 0.10893597453832626]
+['soft', 'loud'] received scores [0.6794099807739258, 0.3205900490283966]
+['quiet', 'noisy'] received scores [0.5608536601066589, 0.4391463100910187]
+['noisy', 'soft'] received scores [0.7513765096664429, 0.2486235350370407]
+
+decades/1900s/IE/1907_O.txt
+
+I  remember at  one  time  when  I  was  afar  off  in  the  missionary  field,  reading  of  the  appointment  of  Brother  Ivins  to  preside  in  Mexico ;  as  I  read  there  came  over  me  the  spirit  of  inspiration,  and  whispered  to  my  soul  that  the  time  would  come  when  Brother  Ivins,  who  was  then  called  to  break  up  his  home  and  go  afar  off  into  an  adjoining  republic,  among  a  people  that  could  hardly  be  deemed  desirable,  when  he  would  much  rather,  I  imagine,  have  remained with  his  own  people,  he,  nevertheless,  broke  up  his  home,  sold  his  possessions  and,  at  the  call  of  the  authorities  of  the  Church  of  Jesus  Christ  of  Latter-day  Saints,  cheerfully  undertook  the  accomplishment of  the  work  allotted  to  him, — I  say,  as  I  read  of  these  things,  and  thought  and  pondered  over  the  sacrifices  that  he  was  willing  to  make,  there  came  into  my  soul  the  testimony  that  God  would  yet  call  him  to  the  ministry  of  the  apostleship.
+
+['quiet', 'loud'] received scores [0.6136990189552307, 0.3863009810447693]
+['loud', 'soft'] received scores [0.5062230229377747, 0.49377700686454773]
+['quiet', 'noisy'] received scores [0.6664606928825378, 0.33353930711746216]
+['soft', 'noisy'] received scores [0.5509325861930847, 0.44906744360923767]
+
+decades/1900s/IE/1908_A.txt
+
+He  has  given  us  a  land  in  which  we  may  dwell  and  keep  His  laws  and  commandments,  and  our  history  is  already  sufficiently  long  to  tell  us  this  one  grand  and  true  story,  that  when  we  have  done  the  will  of  God ;  when  we  have  listened to  the  counsel  of  the  Almighty,  when  we  have  been  obedient  to  those  men  that  the  Lord  has  placed  over  us,  and  have  listened  to  the  whisperings  of  the  Holy  Spirit,  we  have  done  well  and  we  have  prospered in  the  land  which  the  Lord  our  God  has  given  unto  us.
+
+['loud', 'quiet'] received scores [0.6694037318229675, 0.33059626817703247]
+['loud', 'soft'] received scores [0.7904385924339294, 0.20956142246723175]
+['quiet', 'noisy'] received scores [0.6753507852554321, 0.32464921474456787]
+['soft', 'noisy'] received scores [0.5275733470916748, 0.4724266529083252]
+
+decades/1900s/IE/1908_A.txt
+
+For  a  wise  and  glorious  purpose,   Thou  hast  placed  me  here  on  earth,  And  withheld  the  recollection   Of  my  former  friends  and  birth ;  Yet  ofttimes  a  secret  something   Whispered,  "You're  a  stranger  here;.
+
+['quiet', 'loud'] received scores [0.919903576374054, 0.08009646832942963]
+['soft', 'loud'] received scores [0.7836776375770569, 0.21632236242294312]
+['quiet', 'noisy'] received scores [0.8718751668930054, 0.12812480330467224]
+['soft', 'noisy'] received scores [0.682185173034668, 0.31781479716300964]
+
+decades/1900s/IE/1908_A.txt
+
+I  do  not  desire  to  speak  of  my  personal  experience,  but,  aside  from  the  testimony  and  strength  of  the  Spirit,  the  still  small  voice,  the  whispering  that  monitor has  given  to  me,  as  a  result  of  my  obedience  to  the  Gospel,  aside  from  this  I  say,  that  my  father's  life,  his  obedience  to  the  requirements  of  the  Gospel  of  Jesus  Christ,  is  the  most  potent  factor  in  sustaining  me  in  the  faith.
+
+['quiet', 'loud'] received scores [0.9933260083198547, 0.006674025673419237]
+['soft', 'loud'] received scores [0.9702444076538086, 0.029755624011158943]
+['quiet', 'noisy'] received scores [0.9903207421302795, 0.009679203853011131]
+['soft', 'noisy'] received scores [0.9572928547859192, 0.042707134038209915]
+
+decades/1900s/IE/1908_A.txt
+
+When  he  got  through,  I  thought  now  if  he  would  only  devise  some  scheme,  or  give  some  instruction  that  would  help  one  to  overcome  his  inclination  to  stage  fright,  so  that  in  the  first  few  moments,  when  addressing a  congregation  such  as  this,  one  could  tell  whether  he  was  speaking  in  thundering  tones  or  only  in  a  stage  whisper,  I  would  be  everlastingly  grateful  to  him.
+
+['loud', 'quiet'] received scores [0.774836540222168, 0.2251635044813156]
+['loud', 'soft'] received scores [0.8533834218978882, 0.14661656320095062]
+['noisy', 'quiet'] received scores [0.9074417352676392, 0.09255832433700562]
+['noisy', 'soft'] received scores [0.9431255459785461, 0.05687444284558296]
+
+decades/1900s/IE/1908_O.txt
+
+The  principle  of  gathering  is  being taught  by  the  Elders  of  the  Church ;  and  if  it  has  not  been  taught  much  in  public  at  times,  the  Spirit  of  God,  nevertheless,  whispers  to  the  members  that  the  dispensation  of  the  fulness  of  times  is  a  gathering  dispensation,  and  that  it  is  proper  and  profitable  for  the  Saints  to  gather  to  Zion,  as  Brother  Ivins  remarked,  to  learn  more  of  the  ways  of  the  Lord  and  to  walk  more  perfectly  in  His  paths.
+
+['quiet', 'loud'] received scores [0.9407795667648315, 0.05922042578458786]
+['loud', 'soft'] received scores [0.5401221513748169, 0.4598778486251831]
+['quiet', 'noisy'] received scores [0.8962509036064148, 0.10374913364648819]
+['noisy', 'soft'] received scores [0.6835278868675232, 0.3164721727371216]
+
+decades/1900s/IE/1908_O.txt
+
+It  has  taught  me  by  the  whisperings  of  the  Spirit,  that  when  I  depart  from  the  straight  and  narrow  path,  I  may  return  and  get  into  line.
+
+['quiet', 'loud'] received scores [0.9818042516708374, 0.018195755779743195]
+['soft', 'loud'] received scores [0.855411171913147, 0.14458882808685303]
+['quiet', 'noisy'] received scores [0.9486459493637085, 0.05135400593280792]
+['soft', 'noisy'] received scores [0.6694674491882324, 0.3305325508117676]
+
+decades/1900s/IE/1908_O.txt
+
+I  have  listened  attentively  to  the  remarks  which  have  been  made  during  this  conference,  and  I  can  endorse  every  sentiment,  every  word,  and  bear  testimony  that  the  sayings  we  have  listened  to  have  come  from  the  right  source ;  they  have  been  given  to  us  through  the  whisperings  of  the  Good  Spirit  with  which  owe  Father  in  Heaven  has  inspired  those  who  have  spoken  to  us.
+
+['quiet', 'loud'] received scores [0.9439704418182373, 0.05602952837944031]
+['soft', 'loud'] received scores [0.8048400282859802, 0.19515998661518097]
+['quiet', 'noisy'] received scores [0.9440064430236816, 0.055993564426898956]
+['soft', 'noisy'] received scores [0.8049468398094177, 0.19505316019058228]
+
+decades/1900s/IE/1908_O.txt
+
+If  we  as  a  people will  listen  to  the  whisperings  of  the  still  small  voice  we  will  not  often  err  in  judgment;  and  if  we  call  upon  the  Father,  in  humility,  in  a  proper  way,  He  will  hear  our  petitions  and  answer  them.
+
+['quiet', 'loud'] received scores [0.9927339553833008, 0.007266025524586439]
+['soft', 'loud'] received scores [0.9896223545074463, 0.010377693921327591]
+['quiet', 'noisy'] received scores [0.9913303256034851, 0.00866964552551508]
+['soft', 'noisy'] received scores [0.9876251220703125, 0.012374919839203358]
+
+decades/1900s/IE/1908_O.txt
+
+I  often  admonish  the  people  when  they  get  their  blessings  under  my  hands,  and  say  to  them  they  must  first  learn  to  listen  to  the  whisperings  of  the  still  small  voice ;  and  if  they  will  seek  for  the  gift  of  discernment,  they  will  be  guided  by  the  Spirit  of  Truth.
+
+['quiet', 'loud'] received scores [0.9916636943817139, 0.00833631306886673]
+['soft', 'loud'] received scores [0.8703213334083557, 0.1296786665916443]
+['quiet', 'noisy'] received scores [0.9908777475357056, 0.009122244082391262]
+['soft', 'noisy'] received scores [0.8597138524055481, 0.1402861624956131]
+
+decades/1900s/IE/1909_A.txt
+
+Read  it  with  a  prayerful  heart,  and  the  spirit  of  God  will  whisper  to  you,  "This  record  is  true.
+
+['quiet', 'loud'] received scores [0.8451115489006042, 0.15488845109939575]
+['soft', 'loud'] received scores [0.7896643280982971, 0.21033568680286407]
+['quiet', 'noisy'] received scores [0.8376993536949158, 0.16230063140392303]
+['soft', 'noisy'] received scores [0.7802885174751282, 0.21971146762371063]
+
+decades/1900s/IE/1909_O.txt
+
+Should  our  Elders  in  the  field  sin  they  would  never  have  the  heart  to  face  the  world,  and  call  them  to  repentance, because  Satan  will  whisper, "Why  are  you  out  here?
+
+['quiet', 'loud'] received scores [0.6486654877662659, 0.35133445262908936]
+['soft', 'loud'] received scores [0.5089788436889648, 0.49102118611335754]
+['quiet', 'noisy'] received scores [0.5144575238227844, 0.48554253578186035]
+['noisy', 'soft'] received scores [0.6270105242729187, 0.3729894459247589]
+

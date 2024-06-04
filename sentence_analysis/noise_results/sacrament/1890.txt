@@ -1,0 +1,126 @@
+﻿decades/1890s/IE/1897_O.txt
+
+Now  I  believe  that  the  Lord  will  help  us  out  if  we  will  from  this  time  forth  begin  to  observe  the  Sabbath day,  and  if  we  will  go  to  our  sacrament meetings  and  partake  of  that  sacrament  worthily; if  we  will  attend  to  our  prayers;  if  we  will  know  where  our  children  are  after  dark,  and  where  they  are  in  daylight,  our  sons  and  our  daughters;  if  we  do  not  allow  them  to  form  into  clubs,  and  go  riding  horseback, in  carriages,  wagons  and  buggies, on  bicycles  or  on  foot,  wandering  up  the  canyon,  wandering  into  the  hills,  or  off  somewhere  playing  cards,  or  doing  something  of  this  kind.
+
+['quiet', 'loud'] received scores [0.674248456954956, 0.32575154304504395]
+['loud', 'soft'] received scores [0.5485392212867737, 0.4514608085155487]
+['quiet', 'noisy'] received scores [0.7694927453994751, 0.2305072546005249]
+['soft', 'noisy'] received scores [0.5703343152999878, 0.4296656847000122]
+
+decades/1890s/IE/1897_O.txt
+
+When  the  Lord  came,  in  His  day,  He  instituted  the  first  day  of  the  week,  and  ever  since  then  it  has  been  "His  day,"  and  He  says,  that  we  may  keep  ourselves  unspotted  from  the  world,  we  are  required  to  meet  together  on  His  day  and  offer  our  sacraments,  and  make  our  acknowledgements,  and  our  confessions,  paying  our  devotions  to  the  Most  High.
+
+['quiet', 'loud'] received scores [0.9559506773948669, 0.04404939338564873]
+['loud', 'soft'] received scores [0.6085655689239502, 0.3914344012737274]
+['quiet', 'noisy'] received scores [0.9848653674125671, 0.015134649351239204]
+['soft', 'noisy'] received scores [0.658549427986145, 0.3414505422115326]
+
+decades/1890s/IE/1897_O.txt
+
+Is  the  Sacrament  properly  administered ?
+
+['quiet', 'loud'] received scores [0.6257225275039673, 0.3742774724960327]
+['soft', 'loud'] received scores [0.5338321924209595, 0.4661678373813629]
+['quiet', 'noisy'] received scores [0.7673384547233582, 0.23266150057315826]
+['soft', 'noisy'] received scores [0.693167507648468, 0.30683252215385437]
+
+decades/1890s/IE/1898_O.txt
+
+Let  me  refer  you  to  the  revelation  that  was  given  concerning  the  using  of  wine  for  the  Sacrament.
+
+['loud', 'quiet'] received scores [0.6214942932128906, 0.378505676984787]
+['loud', 'soft'] received scores [0.6155505180358887, 0.38444942235946655]
+['quiet', 'noisy'] received scores [0.59636390209198, 0.40363606810569763]
+['soft', 'noisy'] received scores [0.6024127006530762, 0.39758726954460144]
+
+decades/1890s/IE/1899_A.txt
+
+In  Boxelder  Stake  we  have  our  opening  exercises,  then  we  have  the  sacrament,  after  the  sacrament singing  again,  then  a  short  sermon,  then  a  song,  then  another  short  sermon,  and  after  that  the  concluding exercises;  and  that  generally  brings  us  to  half  past  three,  and  we  close  our  meeting.
+
+['quiet', 'loud'] received scores [0.7551746368408203, 0.2448253631591797]
+['soft', 'loud'] received scores [0.6609742641448975, 0.3390257954597473]
+['quiet', 'noisy'] received scores [0.8174752593040466, 0.18252478539943695]
+['soft', 'noisy'] received scores [0.7389598488807678, 0.2610401213169098]
+
+decades/1890s/IE/1899_A.txt
+
+In  Sunday  schools  where  they  are  very  strict  they  will  not  allow  unbaptized  children  over  eight  years  old  to  partake  of  the  Sacrament.
+
+['loud', 'quiet'] received scores [0.5745382308959961, 0.42546170949935913]
+['loud', 'soft'] received scores [0.7129719853401184, 0.2870279848575592]
+['quiet', 'noisy'] received scores [0.6138083934783936, 0.38619157671928406]
+['noisy', 'soft'] received scores [0.5364655256271362, 0.46353450417518616]
+
+decades/1890s/IE/1899_A.txt
+
+In  answer  to  the  question  of  Brother  Bickley,  from  Beaver,  whether  children should  be  allowed  to  partake  of  the  Sacrament  after  they  are  eight  years  of  age  and  are  not  baptized:  Of  course,  the  law  should  be  observed,  and,  in  order  that  this  question  need  not  be  asked  in  regard  to  the  children  of  the  Latter-day  Saints,  we  would  advise  that  the  Bishops,  who  have  the  baptisms under  their  care,  see  to  it  that  arrangements  are  made  in  every  ward  that  the  children  may  be  baptized  when  they  are  eight  years  of  age.
+
+['quiet', 'loud'] received scores [0.7410904765129089, 0.2589094936847687]
+['loud', 'soft'] received scores [0.5143210887908936, 0.48567891120910645]
+['quiet', 'noisy'] received scores [0.8614071607589722, 0.13859285414218903]
+['soft', 'noisy'] received scores [0.6721846461296082, 0.32781538367271423]
+
+decades/1890s/IE/1899_A.txt
+
+We  have  been  lenient  in  this  regard— that  is,  the  rule  of  the  Church  has  been— and  the  children  have  been  allowed  to  partake  of  the  Sacrament  after  they  were  eight  years  of  age  in  order  that  they  might  not  feel  injured  and  their  hearts  hurt.
+
+['quiet', 'loud'] received scores [0.7820472717285156, 0.21795271337032318]
+['soft', 'loud'] received scores [0.9660114049911499, 0.033988580107688904]
+['quiet', 'noisy'] received scores [0.8411133289337158, 0.15888674557209015]
+['soft', 'noisy'] received scores [0.9767073392868042, 0.02329266257584095]
+
+decades/1890s/IE/1899_A.txt
+
+But  until  this  is  done — when  children  are  anxious  and  want  to  be  baptized  and  it  is  not  their  fault  that  they  have  not  been — we  ought  not  to  be  too  stringent  in  refusing  the  Sacrament  to  the  children of  the  Latter-day  Saints.
+
+['quiet', 'loud'] received scores [0.5601152777671814, 0.43988466262817383]
+['soft', 'loud'] received scores [0.6038253903388977, 0.3961746096611023]
+['quiet', 'noisy'] received scores [0.7049962282180786, 0.2950037717819214]
+['soft', 'noisy'] received scores [0.7409677505493164, 0.25903230905532837]
+
+decades/1890s/IE/1899_O.txt
+
+The  scriptures  inform  us  that  he  and  his  wife  had  sold  a  possession  and  he  brought  a  certain  part  of  it  and  laid  it  at  the  feet  of  the  Apostle  Peter,  who  was  the  Presiding  Apostle  of  the  Church  and  who  had  received  the  keys  not  only  to  baptize  for  the  remission  of  sins,  to  lay  on  hands  for  the  gift  of  the  Holy  Ghost  and  to  administer  the  sacrament  of  the  Lord's  supper,  but  also  to  administer  in  those  things  that  pertain  to  the  celestial  kingdom  here  upon  this  earth.
+
+['loud', 'quiet'] received scores [0.7363965511322021, 0.26360344886779785]
+['loud', 'soft'] received scores [0.7113439440727234, 0.288656085729599]
+['quiet', 'noisy'] received scores [0.5851092338562012, 0.4148907959461212]
+['soft', 'noisy'] received scores [0.6151910424232483, 0.38480889797210693]
+
+decades/1890s/IE/1899_O.txt
+
+For,  behold,  I  say  unto  you,  that  it  mattereth  not  what  ye  shall  eat,  or  what  ye  shall  drink,  when  ye  partake  of  the  sacrament,  if  it  so  be  that  ye  do  it  with  an  eye  single  to  my  glory;  remembering  unto  the  Father  my  body  which  was  laid  down  for  you,  and  my  blood  which  was  shed  for  the  remission  of  your  sins.
+
+['quiet', 'loud'] received scores [0.6759792566299438, 0.3240206837654114]
+['loud', 'soft'] received scores [0.7343247532844543, 0.26567521691322327]
+['quiet', 'noisy'] received scores [0.8593531847000122, 0.1406468152999878]
+['soft', 'noisy'] received scores [0.5144700407981873, 0.48552998900413513]
+
+decades/1890s/IE/1899_O.txt
+
+Sins  are  not  forgiven  through  the  payment  of  tithing,  nor  through  the  partaking  of  the  sacrament, nor  observing  the  Word  of  Wisdom, or  prayer.
+
+['quiet', 'loud'] received scores [0.6896227598190308, 0.31037724018096924]
+['soft', 'loud'] received scores [0.5560178160667419, 0.44398218393325806]
+['quiet', 'noisy'] received scores [0.7922077178955078, 0.20779232680797577]
+['soft', 'noisy'] received scores [0.6824262142181396, 0.31757378578186035]
+
+decades/1890s/IE/1899_O.txt
+
+We  refer  to  the  administration  of  the  Sacrament  of  the  Lord's  Supper.
+
+['quiet', 'loud'] received scores [0.7274188995361328, 0.2725811302661896]
+['soft', 'loud'] received scores [0.6487501859664917, 0.3512498438358307]
+['quiet', 'noisy'] received scores [0.8608345985412598, 0.13916535675525665]
+['soft', 'noisy'] received scores [0.8106475472450256, 0.18935242295265198]
+
+decades/1890s/IE/1899_O.txt
+
+That  the  Sacrament  should  be  administered every  Sunday.
+
+['quiet', 'loud'] received scores [0.6777409911155701, 0.32225900888442993]
+['soft', 'loud'] received scores [0.5063781142234802, 0.49362191557884216]
+['quiet', 'noisy'] received scores [0.8332414031028748, 0.16675859689712524]
+['soft', 'noisy'] received scores [0.7090717554092407, 0.2909282147884369]
+

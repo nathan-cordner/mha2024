@@ -1,0 +1,333 @@
+﻿decades/1960s/1960_A/brown_the_five_worlds.txt
+
+When the Lord asked Job where he was when the foundations of the earth were laid, he clearly indicated a pre-existent state of man, and asserted that all the sons of God shouted for joy, doubtless at the prospect of earth life.
+
+['loud', 'quiet'] received scores [0.9846404194831848, 0.015359647572040558]
+['loud', 'soft'] received scores [0.9586020708084106, 0.04139799252152443]
+['noisy', 'quiet'] received scores [0.9723286628723145, 0.027671324089169502]
+['noisy', 'soft'] received scores [0.9269670844078064, 0.07303289324045181]
+
+decades/1960s/1960_A/hunter_man_will_live_again.txt
+
+Then they shouted, "Hosanna! Blessed be the name of the Most High God!"
+
+['loud', 'quiet'] received scores [0.9898684620857239, 0.010131560266017914]
+['loud', 'soft'] received scores [0.9567950963973999, 0.043204836547374725]
+['noisy', 'quiet'] received scores [0.9895814061164856, 0.010418601334095001]
+['noisy', 'soft'] received scores [0.9556130766868591, 0.04438687115907669]
+
+decades/1960s/1960_O/benson_communist_threat_to_the_americas.txt
+
+And last August, even as the Organization of American States met in San José, Costa Rica, Fidel Castro was shouting defiantly: "We shall be friends of the Soviet Union and the People's Republic of China.
+
+['loud', 'quiet'] received scores [0.993999183177948, 0.006000792607665062]
+['loud', 'soft'] received scores [0.9879231452941895, 0.012076851911842823]
+['noisy', 'quiet'] received scores [0.9932299256324768, 0.006770074367523193]
+['noisy', 'soft'] received scores [0.9863855838775635, 0.013614395633339882]
+
+decades/1960s/1961_A/hunter_the_greatest_event_in_ancient_america.txt
+
+After they had all complied with this request, again the Nephites dropped on their knees and worshipped him, shouting: "Hosanna! Blessed be the name of the Most High God!"
+
+['loud', 'quiet'] received scores [0.9895473122596741, 0.010452714748680592]
+['loud', 'soft'] received scores [0.9548743963241577, 0.045125577598810196]
+['noisy', 'quiet'] received scores [0.9884912967681885, 0.01150873489677906]
+['noisy', 'soft'] received scores [0.9504906535148621, 0.04950927570462227]
+
+decades/1960s/1961_A/sill_lift_up_your_eyes.txt
+
+The captain shouted to him to stop looking down, and heeding his superior's command, he turned his eyes upward and soon regained his balance and self-confidence.
+
+['loud', 'quiet'] received scores [0.9440433382987976, 0.055956654250621796]
+['loud', 'soft'] received scores [0.9360107183456421, 0.0639893189072609]
+['noisy', 'quiet'] received scores [0.8029875159263611, 0.1970124989748001]
+['noisy', 'soft'] received scores [0.7794369459152222, 0.22056306898593903]
+
+decades/1960s/1961_O/benson_the_american_heritage_of_freedom—a_plan_of_god.txt
+
+In this retreat from freedom the voices of protesting citizens have been drowned by raucous shouts of intolerance and abuse from those who led the retreat and their millions of gullible youth, who are marching merrily to their doom, carrying banners on which are emblazoned such intriguing and misapplied labels as social justice equality, reform patriotism social welfare."
+
+['loud', 'quiet'] received scores [0.9928454160690308, 0.007154578808695078]
+['loud', 'soft'] received scores [0.9750674366950989, 0.024932578206062317]
+['noisy', 'quiet'] received scores [0.9946419596672058, 0.0053580934181809425]
+['noisy', 'soft'] received scores [0.9812436103820801, 0.0187564417719841]
+
+decades/1960s/1961_O/hunter_an_everyday_religion.txt
+
+Joy existed in the pre-existence before the foundations of the earth were laid, ". . . and all the sons of God shouted for joy."
+
+['loud', 'quiet'] received scores [0.9802156686782837, 0.019784294068813324]
+['loud', 'soft'] received scores [0.9518651366233826, 0.04813484102487564]
+['noisy', 'quiet'] received scores [0.9765596389770508, 0.023440290242433548]
+['noisy', 'soft'] received scores [0.9432733654975891, 0.05672663077712059]
+
+decades/1960s/1962_A/brown_are_the_latter-day_saints...christians.txt
+
+In that primeval council, of which the scriptures speak, when "all the sons of God shouted for joy" Christ offered himself as a ransom.
+
+['loud', 'quiet'] received scores [0.9759207963943481, 0.024079205468297005]
+['loud', 'soft'] received scores [0.9436643123626709, 0.05633566901087761]
+['noisy', 'quiet'] received scores [0.968546986579895, 0.03145299479365349]
+['noisy', 'soft'] received scores [0.9271499514579773, 0.07285001128911972]
+
+decades/1960s/1962_A/young_parents_are_responsible_for_their_children.txt
+
+I felt that I should like to get up and shout, "Please include me in that, also.
+
+['loud', 'quiet'] received scores [0.9647029042243958, 0.03529709205031395]
+['loud', 'soft'] received scores [0.9290471076965332, 0.07095290720462799]
+['noisy', 'quiet'] received scores [0.9254829287528992, 0.07451710850000381]
+['noisy', 'soft'] received scores [0.8561174273490906, 0.14388254284858704]
+
+decades/1960s/1962_O/hanks_substance_or_shadow.txt
+
+Irwin staggered into the pilot's compartment shouting "Window, window.
+
+['loud', 'quiet'] received scores [0.9957221746444702, 0.004277894273400307]
+['loud', 'soft'] received scores [0.98558109998703, 0.014418905600905418]
+['noisy', 'quiet'] received scores [0.9899194836616516, 0.010080493986606598]
+['noisy', 'soft'] received scores [0.9664860367774963, 0.03351394832134247]
+
+decades/1960s/1963_A/taylor_some_rain_must_fall.txt
+
+The Lord once asked the Prophet Job some pertinent questions pertaining to those important events, when he inquired: "Where wast thou when I laid the foundations of the earth?"  "When the morning stars sang together, and all the sons of God shouted for joy?
+
+['loud', 'quiet'] received scores [0.8557395339012146, 0.1442604511976242]
+['loud', 'soft'] received scores [0.8109637498855591, 0.18903623521327972]
+['noisy', 'quiet'] received scores [0.8192947506904602, 0.18070527911186218]
+['noisy', 'soft'] received scores [0.7662964463233948, 0.2337035834789276]
+
+decades/1960s/1963_O/brown_the_fight_between_good_and_evil.txt
+
+On biblical authority we affirm that a divine plan for man's salvation was formulated by God the Father before the foundations of the earth were laid when all the sons of God shouted for joy at the prospect of mortality.
+
+['loud', 'quiet'] received scores [0.9839732050895691, 0.016026796773076057]
+['loud', 'soft'] received scores [0.9220566749572754, 0.07794331759214401]
+['noisy', 'quiet'] received scores [0.9786301851272583, 0.02136981301009655]
+['noisy', 'soft'] received scores [0.8982073068618774, 0.10179266333580017]
+
+decades/1960s/1963_O/vandenberg_a_chosen_generation_..._a_peculiar_people.txt
+
+Upon seeing his son, the father commenced shouting indignantly, informing his son that he was no good, a disgrace.
+
+['loud', 'quiet'] received scores [0.9948522448539734, 0.0051478235982358456]
+['loud', 'soft'] received scores [0.9938333034515381, 0.0061666532419621944]
+['noisy', 'quiet'] received scores [0.9955867528915405, 0.0044132862240076065]
+['noisy', 'soft'] received scores [0.9947124719619751, 0.005287512671202421]
+
+decades/1960s/1964_A/longden_the_second_coming_of_christ.txt
+
+Likewise the Apostle Paul had this firm conviction when he said: "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God."
+
+['loud', 'quiet'] received scores [0.9870350956916809, 0.012964894063770771]
+['loud', 'soft'] received scores [0.98244309425354, 0.017556890845298767]
+['noisy', 'quiet'] received scores [0.9763126373291016, 0.023687370121479034]
+['noisy', 'soft'] received scores [0.9680457711219788, 0.03195417672395706]
+
+decades/1960s/1964_O/smith_how_to_obtain_a_testimony.txt
+
+The Lord said to Job: "Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding.  "Who hath laid the measure thereof, if thou knowest? or who hath stretched the line upon it?  "Whereupon are the foundations thereof fastened? or who laid the corner stone thereof:  "When the morning stars sang together, and all the sons of God shouted for joy?
+
+['loud', 'quiet'] received scores [0.8399892449378967, 0.16001074016094208]
+['loud', 'soft'] received scores [0.8117597699165344, 0.18824027478694916]
+['noisy', 'quiet'] received scores [0.8972725868225098, 0.10272741317749023]
+['noisy', 'soft'] received scores [0.8776774406433105, 0.12232254445552826]
+
+decades/1960s/1964_O/smith_how_to_obtain_a_testimony.txt
+
+Are we not the sons of God who at that time shouted for joy?
+
+['loud', 'quiet'] received scores [0.9845960140228271, 0.015404011122882366]
+['loud', 'soft'] received scores [0.968536913394928, 0.031463053077459335]
+['noisy', 'quiet'] received scores [0.9828583598136902, 0.017141664400696754]
+['noisy', 'soft'] received scores [0.9650520086288452, 0.0349479503929615]
+
+decades/1960s/1965_A/dunn_my_wife's_husband.txt
+
+I shouted, "Don't Kellie," (that's our five-year-old) 43 times.
+
+['loud', 'quiet'] received scores [0.9928147792816162, 0.007185244467109442]
+['loud', 'soft'] received scores [0.9807509779930115, 0.01924898289144039]
+['noisy', 'quiet'] received scores [0.9913288950920105, 0.008671089075505733]
+['noisy', 'soft'] received scores [0.9768287539482117, 0.023171283304691315]
+
+decades/1960s/1965_A/dunn_my_wife's_husband.txt
+
+There was another challenge, to keep one youngster from digging into the cookie box, while another picked up, dropped, and broke a jar of pickles, and the third in the meantime became lost and, in her anxiety to find her father, shouted so that all the neighborhood could hear, "Daddy, where are you?
+
+['loud', 'quiet'] received scores [0.9874676465988159, 0.012532347813248634]
+['loud', 'soft'] received scores [0.9703226685523987, 0.029677340760827065]
+['noisy', 'quiet'] received scores [0.9914281964302063, 0.008571866899728775]
+['noisy', 'soft'] received scores [0.9795892834663391, 0.020410677418112755]
+
+decades/1960s/1965_A/monson_the_precious_gift_of_sight.txt
+
+The removal of the bandages from the others' eyes was accompanied by shouts of joy.
+
+['loud', 'quiet'] received scores [0.9952127933502197, 0.004787176847457886]
+['loud', 'soft'] received scores [0.98227459192276, 0.017725450918078423]
+['noisy', 'quiet'] received scores [0.9970309138298035, 0.0029690703377127647]
+['noisy', 'soft'] received scores [0.9889519214630127, 0.011048106476664543]
+
+decades/1960s/1965_O/hanks_the_many_voices_calling_youth.txt
+
+The choir selected to sing at the conference rose to perform that glorious hymn, "Let the Mountains Shout for Joy.
+
+['loud', 'quiet'] received scores [0.9466161727905273, 0.05338384211063385]
+['loud', 'soft'] received scores [0.866750955581665, 0.13324907422065735]
+['noisy', 'quiet'] received scores [0.7929407954216003, 0.20705921947956085]
+['noisy', 'soft'] received scores [0.5841637253761292, 0.41583624482154846]
+
+decades/1960s/1965_O/sill_ye_are_gods.txt
+
+When given this good news the scripture tells us that ". . . all the sons of God shouted for joy" And I am confident that if we now understood the importance of life as we understood it then, when we walked by sight, we would be willing to crawl on our hands and knees through life for this tremendous privilege which we presently enjoy.
+
+['loud', 'quiet'] received scores [0.9916696548461914, 0.00833036843687296]
+['loud', 'soft'] received scores [0.9468128681182861, 0.05318709835410118]
+['noisy', 'quiet'] received scores [0.99361252784729, 0.0063874428160488605]
+['noisy', 'soft'] received scores [0.9587831497192383, 0.0412168987095356]
+
+decades/1960s/1966_A/brown_he_lives—all_glory_to_his_name.txt
+
+And the Apostle Paul tells us in the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first."
+
+['loud', 'quiet'] received scores [0.9903634190559387, 0.009636580012738705]
+['loud', 'soft'] received scores [0.9833195805549622, 0.016680438071489334]
+['noisy', 'quiet'] received scores [0.9895021319389343, 0.010497881099581718]
+['noisy', 'soft'] received scores [0.9818402528762817, 0.018159762024879456]
+
+decades/1960s/1966_A/jr._a_basic_hard-core_godhead_concept_for_christian_creeds.txt
+
+When Caiaphas on that fateful day of our Savior's trial shouted, "Art thou the Christ, the Son of the Blessed? . . . Jesus said, I am.
+
+['loud', 'quiet'] received scores [0.9648514986038208, 0.0351484976708889]
+['loud', 'soft'] received scores [0.9319385290145874, 0.0680614486336708]
+['noisy', 'quiet'] received scores [0.9514170289039612, 0.04858298972249031]
+['noisy', 'soft'] received scores [0.9071348309516907, 0.09286515414714813]
+
+decades/1960s/1966_A/mcconkie_scriptural_witness_of_jesus_christ.txt
+
+"We see him:   "In sorrow—weeping for his friends, lamenting over doomed Jerusalem;   "In compassion—forgiving sins, caring for his mother, making men whole spiritually and physically;   "In anger—cleansing his Father's house, blazing forth with righteous indignation at its desecration;   "In triumph—entering Jerusalem amid shouts of hosanna to the Son of David, transfigured before his disciples on the mount, standing in resurrected glory on a mountain in Galilee.
+
+['loud', 'quiet'] received scores [0.8899937868118286, 0.11000624299049377]
+['loud', 'soft'] received scores [0.8674187660217285, 0.1325812190771103]
+['noisy', 'quiet'] received scores [0.824821949005127, 0.17517802119255066]
+['noisy', 'soft'] received scores [0.7919984459877014, 0.2080015242099762]
+
+decades/1960s/1966_A/monson_i_know_that_my_redeemer_lives.txt
+
+He was ridiculed, reviled, mocked, jeered, and nailed to a cross amidst shouts of "Let Christ the King of Israel descend now from the cross, that we may see and believe" "He saved others; himself he cannot save."
+
+['loud', 'quiet'] received scores [0.9962599277496338, 0.0037400999572128057]
+['loud', 'soft'] received scores [0.9854189157485962, 0.01458114292472601]
+['noisy', 'quiet'] received scores [0.9971281290054321, 0.0028719224501401186]
+['noisy', 'soft'] received scores [0.9887751936912537, 0.011224821209907532]
+
+decades/1960s/1966_A/smith_can_you_abide_two_hours.txt
+
+Now the opportunity comes for you to go to earth where you can receive such a body and become as he is. Of course, you shouted for joy!
+
+['loud', 'quiet'] received scores [0.9964837431907654, 0.0035162826534360647]
+['loud', 'soft'] received scores [0.9892205595970154, 0.010779422707855701]
+['noisy', 'quiet'] received scores [0.996648907661438, 0.0033510986249893904]
+['noisy', 'soft'] received scores [0.9897233843803406, 0.010276556946337223]
+
+decades/1960s/1966_O/longden_resurrection.txt
+
+For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first.
+
+['loud', 'quiet'] received scores [0.9912571907043457, 0.008742795325815678]
+['loud', 'soft'] received scores [0.9853503108024597, 0.014649693854153156]
+['noisy', 'quiet'] received scores [0.9914896488189697, 0.008510339073836803]
+['noisy', 'soft'] received scores [0.9857375621795654, 0.014262442477047443]
+
+decades/1960s/1967_A/sill_the_earth’s_sabbath.txt
+
+"For the Lord himself shall descend from heaven with a shout, [as] with a voice of the archangel, and with the trump of God; and the dead in Christ shall rise first:   "Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord."
+
+['loud', 'quiet'] received scores [0.9907687902450562, 0.009231192991137505]
+['loud', 'soft'] received scores [0.982567548751831, 0.01743246242403984]
+['noisy', 'quiet'] received scores [0.9902337193489075, 0.009766257368028164]
+['noisy', 'soft'] received scores [0.9815659523010254, 0.01843404956161976]
+
+decades/1960s/1967_O/jr._the_eternal_life_of_man.txt
+
+By exposing the cast to as much evil as possible, he hopes to gain numerical strength so that he might shout when the curtain rolls down at the end of the play, "I have the majority of the heavenly host on my side; numerical strength is my power.
+
+['loud', 'quiet'] received scores [0.9514835476875305, 0.0485164076089859]
+['loud', 'soft'] received scores [0.9212643504142761, 0.07873570173978806]
+['noisy', 'quiet'] received scores [0.7884516716003418, 0.2115483582019806]
+['noisy', 'soft'] received scores [0.6897920966148376, 0.31020793318748474]
+
+decades/1960s/1967_O/jr._the_eternal_life_of_man.txt
+
+". . . the morning stars sang together, and all the sons of God shouted for joy" and the heavens resounded with praise when a strong angel proclaiming with a loud voice" announced curtain time for the first act.
+
+['loud', 'quiet'] received scores [0.9815039038658142, 0.01849614456295967]
+['loud', 'soft'] received scores [0.953036904335022, 0.046963080763816833]
+['noisy', 'quiet'] received scores [0.9850876927375793, 0.014912339858710766]
+['noisy', 'soft'] received scores [0.9619224667549133, 0.03807751461863518]
+
+decades/1960s/1968_A/dyer_the_rebirths_of_life.txt
+
+I shouted at the top of my voice for help, and in spite of the roar of the surf and foggy atmosphere, my cry for help was heard by a lifeguard, who reached me in a rowboat as my strength was nearly exhausted.
+
+['loud', 'quiet'] received scores [0.9866865277290344, 0.0133134750649333]
+['loud', 'soft'] received scores [0.984549343585968, 0.015450694598257542]
+['noisy', 'quiet'] received scores [0.9878346920013428, 0.012165313586592674]
+['noisy', 'soft'] received scores [0.9858791828155518, 0.014120855368673801]
+
+decades/1960s/1968_A/kimball_render_unto_god_that_which_is_god's.txt
+
+The pastures are clothed with flocks . . . they shout for joy, they also sing.
+
+['loud', 'quiet'] received scores [0.9889034032821655, 0.011096598580479622]
+['loud', 'soft'] received scores [0.9620978236198425, 0.03790215402841568]
+['noisy', 'quiet'] received scores [0.9922541379928589, 0.007745849899947643]
+['noisy', 'soft'] received scores [0.9733245372772217, 0.026675492525100708]
+
+decades/1960s/1968_O/monson_the_miracle_of_the_friendly_islands.txt
+
+Then came that speck on the horizon and a shout of joy as the supply ship came into view.
+
+['loud', 'quiet'] received scores [0.9923264384269714, 0.007673559710383415]
+['loud', 'soft'] received scores [0.9552192091941833, 0.044780779629945755]
+['noisy', 'quiet'] received scores [0.9894043803215027, 0.010595614090561867]
+['noisy', 'soft'] received scores [0.9390349984169006, 0.06096497178077698]
+
+decades/1960s/1968_O/monson_the_miracle_of_the_friendly_islands.txt
+
+Quietly I repeated a verse from Kipling's "Recessional":   "The tumult and the shouting dies,      The captains and the kings depart;      Still stands thine ancient sacrifice,      An humble and a contrite heart;      Lord God of hosts, be with us yet,      Lest we forget, lest we forget.
+
+['quiet', 'loud'] received scores [0.995160698890686, 0.004839284811168909]
+['soft', 'loud'] received scores [0.9795074462890625, 0.020492564886808395]
+['quiet', 'noisy'] received scores [0.9903355240821838, 0.009664477780461311]
+['soft', 'noisy'] received scores [0.9597064852714539, 0.04029350355267525]
+
+decades/1960s/1968_O/sill_behold_the_man.txt
+
+the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:   "Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord."
+
+['loud', 'quiet'] received scores [0.9911412596702576, 0.008858760818839073]
+['loud', 'soft'] received scores [0.9848483204841614, 0.01515170931816101]
+['noisy', 'quiet'] received scores [0.9904960989952087, 0.009503930807113647]
+['noisy', 'soft'] received scores [0.9837523698806763, 0.016247671097517014]
+
+decades/1960s/1968_O/stapley_to_love_god.txt
+
+Nephi, an early American prophet, admonished his people: "Wherefore, my beloved brethren, I know that if ye shall follow the Son, with full purpose of heart, acting no hypocrisy and no deception before God, but win real intent, repenting of your sins, witnessing unto the Father that ye are willing to take upon you the name of Christ, by baptism—. . . then shall ye receive the Holy Ghost . . . and then can ye speak with the tongue of angels, and shout praises unto the Holy One of Israel."
+
+['loud', 'quiet'] received scores [0.6655250191688538, 0.33447498083114624]
+['loud', 'soft'] received scores [0.8261539340019226, 0.1738460659980774]
+['quiet', 'noisy'] received scores [0.5730404853820801, 0.4269595444202423]
+['noisy', 'soft'] received scores [0.640222430229187, 0.359777569770813]
+
+decades/1960s/1969_O/ashton_the_significance_of_friendship.txt
+
+At the sight of this perfect three-point landing, if we may refer to it as that, his companion shouted his pleasure and laughed heartily with complete and full enjoyment at the misfortune of his associate.
+
+['loud', 'quiet'] received scores [0.9952932000160217, 0.004706795327365398]
+['loud', 'soft'] received scores [0.9628385305404663, 0.037161439657211304]
+['noisy', 'quiet'] received scores [0.9950857758522034, 0.0049141934141516685]
+['noisy', 'soft'] received scores [0.961256742477417, 0.03874323517084122]
+

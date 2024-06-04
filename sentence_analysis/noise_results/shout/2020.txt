@@ -1,0 +1,216 @@
+﻿decades/2020s/2020_A/gong_hosanna_and_hallelujah﻿—the_living_jesus_christ_the_heart_of_restoration_and_easter.txt
+
+Shout hosanna, to God and the Lamb!
+
+['loud', 'quiet'] received scores [0.987869143486023, 0.012130853720009327]
+['loud', 'soft'] received scores [0.9662855267524719, 0.033714473247528076]
+['noisy', 'quiet'] received scores [0.9898106455802917, 0.010189319960772991]
+['noisy', 'soft'] received scores [0.9715821146965027, 0.02841787226498127]
+
+decades/2020s/2020_A/nelson_go_forward_in_faith.txt
+
+We commemorated the Restoration with the Hosanna Shout.
+
+['loud', 'quiet'] received scores [0.9501667022705078, 0.049833331257104874]
+['loud', 'soft'] received scores [0.8624899387359619, 0.13751006126403809]
+['noisy', 'quiet'] received scores [0.9654337167739868, 0.03456632420420647]
+['noisy', 'soft'] received scores [0.9018428921699524, 0.09815714508295059]
+
+decades/2020s/2020_A/nelson_hosanna_shout.txt
+
+Now, my dear brothers and sisters, as we commemorate Joseph Smith’s First Vision of the Father and the Son, we felt that it would be appropriate to rejoice together by participating in the Hosanna Shout.
+
+['loud', 'quiet'] received scores [0.8763885498046875, 0.1236114427447319]
+['loud', 'soft'] received scores [0.8081327080726624, 0.19186727702617645]
+['noisy', 'quiet'] received scores [0.9416570067405701, 0.05834297463297844]
+['noisy', 'soft'] received scores [0.90555739402771, 0.09444262832403183]
+
+decades/2020s/2020_A/nelson_hosanna_shout.txt
+
+This sacred shout was first given in this dispensation at the dedication of the Kirtland Temple on March 27, 1836.
+
+['loud', 'quiet'] received scores [0.9905515313148499, 0.009448460303246975]
+['loud', 'soft'] received scores [0.9872559309005737, 0.012744014151394367]
+['noisy', 'quiet'] received scores [0.897322952747345, 0.10267705470323563]
+['noisy', 'soft'] received scores [0.8659117817878723, 0.13408826291561127]
+
+decades/2020s/2020_A/nelson_hosanna_shout.txt
+
+I will now demonstrate how the Hosanna Shout is given.
+
+['loud', 'quiet'] received scores [0.890015721321106, 0.10998426377773285]
+['loud', 'soft'] received scores [0.8726723790168762, 0.12732760608196259]
+['noisy', 'quiet'] received scores [0.8662251234054565, 0.13377489149570465]
+['noisy', 'soft'] received scores [0.8457803130149841, 0.15421971678733826]
+
+decades/2020s/2020_A/nelson_hosanna_shout.txt
+
+Brothers and sisters, I now invite you to stand and participate in the Hosanna Shout, following which the “Hosanna Anthem” and “The Spirit of God” will be sung.
+
+['loud', 'quiet'] received scores [0.8906145095825195, 0.10938554257154465]
+['loud', 'soft'] received scores [0.8237344026565552, 0.1762656271457672]
+['noisy', 'quiet'] received scores [0.9052962064743042, 0.0947038009762764]
+['noisy', 'soft'] received scores [0.8458389639854431, 0.15416105091571808]
+
+decades/2020s/2020_A/nelson_opening_message.txt
+
+For example, at the conclusion of the Sunday morning session, we will convene a worldwide solemn assembly when I will lead you in the sacred Hosanna Shout.
+
+['quiet', 'loud'] received scores [0.6669015884399414, 0.333098441362381]
+['loud', 'soft'] received scores [0.775121808052063, 0.22487814724445343]
+['quiet', 'noisy'] received scores [0.925011932849884, 0.07498802989721298]
+['soft', 'noisy'] received scores [0.6412542462348938, 0.3587457239627838]
+
+decades/2020s/2020_A/nelson_opening_message.txt
+
+At the conclusion of the Hosanna Shout, the congregation will join with the choir in singing “The Spirit of God.
+
+['loud', 'quiet'] received scores [0.8862138390541077, 0.11378616094589233]
+['loud', 'soft'] received scores [0.6957891583442688, 0.304210901260376]
+['noisy', 'quiet'] received scores [0.8525896072387695, 0.14741036295890808]
+['noisy', 'soft'] received scores [0.6294238567352295, 0.37057608366012573]
+
+decades/2020s/2020_O/waddell_there_was_bread.txt
+
+The young deacon then sat down on a chair, threw his hands in the air, and shouted, “This is the greatest day of my life!
+
+['loud', 'quiet'] received scores [0.9935941100120544, 0.006405882071703672]
+['loud', 'soft'] received scores [0.9557853937149048, 0.04421458765864372]
+['noisy', 'quiet'] received scores [0.9925123453140259, 0.007487691473215818]
+['noisy', 'soft'] received scores [0.9486485719680786, 0.05135143920779228]
+
+decades/2020s/2020_O/waddell_there_was_bread.txt
+
+Brothers and sisters, I may not throw my hands in the air and shout, but I am eternally grateful for a living prophet and for the direction we receive from prophets, seers, and revelators, especially during these times of challenge.
+
+['quiet', 'loud'] received scores [0.981407880783081, 0.01859213039278984]
+['soft', 'loud'] received scores [0.9241901636123657, 0.07580983638763428]
+['quiet', 'noisy'] received scores [0.9644462466239929, 0.03555377572774887]
+['soft', 'noisy'] received scores [0.8623501062393188, 0.13764989376068115]
+
+decades/2020s/2021_A/corbitt_you_can_gather_israel!.txt
+
+Think of this: you shouted for joy to come to a fallen world where all would face physical and spiritual death.
+
+['loud', 'quiet'] received scores [0.9882104992866516, 0.011789504438638687]
+['loud', 'soft'] received scores [0.9744908809661865, 0.025509050115942955]
+['noisy', 'quiet'] received scores [0.9912068247795105, 0.00879314448684454]
+['noisy', 'soft'] received scores [0.9809067845344543, 0.019093170762062073]
+
+decades/2020s/2021_A/jones_essential_conversations.txt
+
+The drill instructor suddenly shouted orders to drop to the ground and not move.
+
+['loud', 'quiet'] received scores [0.9832541346549988, 0.016745880246162415]
+['loud', 'soft'] received scores [0.9786529541015625, 0.021347034722566605]
+['noisy', 'quiet'] received scores [0.9772266149520874, 0.022773370146751404]
+['noisy', 'soft'] received scores [0.9710181951522827, 0.028981845825910568]
+
+decades/2020s/2021_A/nelson_christ_is_risen;_faith_in_him_will_move_mountains.txt
+
+It takes faith to live a chaste life when the world shouts that God’s law of chastity is now outmoded.
+
+['loud', 'quiet'] received scores [0.9770272374153137, 0.022972695529460907]
+['loud', 'soft'] received scores [0.9711889028549194, 0.02881115861237049]
+['noisy', 'quiet'] received scores [0.9719310998916626, 0.02806892804801464]
+['noisy', 'soft'] received scores [0.9648439884185791, 0.03515597805380821]
+
+decades/2020s/2021_A/walker_the_gospel_light_of_truth_and_love.txt
+
+Angels of glory shout the refrain: Truth is restored again!
+
+['loud', 'quiet'] received scores [0.9956048130989075, 0.004395176190882921]
+['loud', 'soft'] received scores [0.9888156652450562, 0.011184381321072578]
+['noisy', 'quiet'] received scores [0.9954010248184204, 0.004598977044224739]
+['noisy', 'soft'] received scores [0.9883007407188416, 0.011699292808771133]
+
+decades/2020s/2021_O/eyring_the_faith_to_ask_and_then_to_act.txt
+
+The Savior will not shout commands to you and me.
+
+['quiet', 'loud'] received scores [0.9579030275344849, 0.04209693521261215]
+['soft', 'loud'] received scores [0.9597286581993103, 0.04027131199836731]
+['quiet', 'noisy'] received scores [0.8927751183509827, 0.10722490400075912]
+['soft', 'noisy'] received scores [0.897121787071228, 0.10287821292877197]
+
+decades/2020s/2022_O/cook_be_true_to_god_and_his_work.txt
+
+The Old Testament tells us we shouted for joy when we learned we would have physical bodies.
+
+['loud', 'quiet'] received scores [0.9789236783981323, 0.021076321601867676]
+['loud', 'soft'] received scores [0.9325467348098755, 0.06745323538780212]
+['noisy', 'quiet'] received scores [0.9822249412536621, 0.017775090411305428]
+['noisy', 'soft'] received scores [0.9426867961883545, 0.057313185185194016]
+
+decades/2020s/2023_A/andersen_my_mind_caught_hold_upon_this_thought_of_jesus_christ.txt
+
+Matt tenderly shared, “While I feel deep sorrow and grief, I am shouting for joy, knowing my Father’s wonderful plan of salvation.
+
+['loud', 'quiet'] received scores [0.9369666576385498, 0.06303330510854721]
+['soft', 'loud'] received scores [0.8270506262779236, 0.17294937372207642]
+['noisy', 'quiet'] received scores [0.9448021054267883, 0.05519786849617958]
+['soft', 'noisy'] received scores [0.8059334754943848, 0.19406650960445404]
+
+decades/2020s/2023_A/duncan_a_voice_of_gladness!.txt
+
+We all shouted for joy in our premortal life when we heard God’s plan of happiness, and we continue to shout for joy here as we live according to His plan.
+
+['loud', 'quiet'] received scores [0.9676722884178162, 0.03232774883508682]
+['loud', 'soft'] received scores [0.9137681722640991, 0.08623182773590088]
+['noisy', 'quiet'] received scores [0.9615913033485413, 0.03840871900320053]
+['noisy', 'soft'] received scores [0.89860999584198, 0.10138996690511703]
+
+decades/2020s/2023_A/duncan_a_voice_of_gladness!.txt
+
+“And let these … thy saints shout aloud for joy.
+
+['loud', 'quiet'] received scores [0.9824618101119995, 0.017538176849484444]
+['loud', 'soft'] received scores [0.9638700485229492, 0.036129966378211975]
+['noisy', 'quiet'] received scores [0.9824226498603821, 0.017577335238456726]
+['noisy', 'soft'] received scores [0.9637908935546875, 0.0362091064453125]
+
+decades/2020s/2023_A/eyring_finding_personal_peace.txt
+
+It will spread and grow over time, and the Lord’s kingdom on earth will be prepared and ready to greet Him with shouts of hosanna.
+
+['loud', 'quiet'] received scores [0.9009432792663574, 0.09905670583248138]
+['loud', 'soft'] received scores [0.8898249268531799, 0.11017507314682007]
+['noisy', 'quiet'] received scores [0.894202470779419, 0.10579750686883926]
+['noisy', 'soft'] received scores [0.8824262619018555, 0.11757373809814453]
+
+decades/2020s/2023_A/hoyos_the_work_of_the_temple_and_family_history—one_and_the_same_work.txt
+
+Then the choir sang the hymn “The Spirit of God,” and the congregation stood and gave the Hosanna Shout “with such [force that it] seemed … to raise the roof from the building.”
+
+['loud', 'quiet'] received scores [0.9955383539199829, 0.004461632110178471]
+['loud', 'soft'] received scores [0.9934417605400085, 0.0065581644885241985]
+['noisy', 'quiet'] received scores [0.9954118132591248, 0.004588198848068714]
+['noisy', 'soft'] received scores [0.993256151676178, 0.006743802689015865]
+
+decades/2020s/2023_A/rasband_hosanna_to_the_most_high_god.txt
+
+Some who earlier had shouted, “Hosanna,” soon turned and cried, “Crucify him.
+
+['loud', 'quiet'] received scores [0.9746390581130981, 0.025360984727740288]
+['loud', 'soft'] received scores [0.9455377459526062, 0.0544622540473938]
+['noisy', 'quiet'] received scores [0.9865366816520691, 0.013463337905704975]
+['noisy', 'soft'] received scores [0.9706769585609436, 0.029323019087314606]
+
+decades/2020s/2023_A/rasband_hosanna_to_the_most_high_god.txt
+
+My heart and soul, like yours, longs to shout, “Hosanna to the Most High God.
+
+['loud', 'quiet'] received scores [0.9035505056381226, 0.09644947946071625]
+['loud', 'soft'] received scores [0.833659291267395, 0.16634070873260498]
+['noisy', 'quiet'] received scores [0.869811475276947, 0.13018850982189178]
+['noisy', 'soft'] received scores [0.7813869118690491, 0.21861308813095093]
+
+decades/2020s/2023_O/stevenson_promptings_of_the_spirit.txt
+
+President Boyd K. Packer stated: “The Spirit does not get our attention by shouting or shaking us with a heavy hand.
+
+['quiet', 'loud'] received scores [0.9655597805976868, 0.03444020450115204]
+['soft', 'loud'] received scores [0.9619089365005493, 0.038091059774160385]
+['quiet', 'noisy'] received scores [0.9652968645095825, 0.034703101962804794]
+['soft', 'noisy'] received scores [0.9616192579269409, 0.03838071972131729]
+

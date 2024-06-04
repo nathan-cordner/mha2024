@@ -1,0 +1,2358 @@
+﻿decades/1850s/1/believing_the_bible—the_gospel—persecution—spirit-rapping,_etc_heber_c._kimball.txt
+
+The reason we are here in these silent valleys is, because we could not have the privilege of worshipping God according to His requirements in our native country.
+
+['quiet', 'loud'] received scores [0.9978114366531372, 0.002188565209507942]
+['soft', 'loud'] received scores [0.9544790387153625, 0.045521002262830734]
+['quiet', 'noisy'] received scores [0.9974847435951233, 0.0025152931921184063]
+['soft', 'noisy'] received scores [0.9480202198028564, 0.051979776471853256]
+
+decades/1850s/1/celestial_marriage_orson_pratt.txt
+
+Notice, this does not say, that God, whom we serve and worship, was actually the Father Himself, in His own person, of all these sons and daughters of the different worlds; but they "are begotten sons and daughters unto God;" that is, begotten by those who are made like Him, after His image, and in His likeness; they begat sons and daughters, and begat them unto God, to inhabit these different worlds we have been speaking of.
+
+['quiet', 'loud'] received scores [0.8866870403289795, 0.1133129894733429]
+['soft', 'loud'] received scores [0.8046999573707581, 0.19530010223388672]
+['quiet', 'noisy'] received scores [0.8813483715057373, 0.1186516135931015]
+['soft', 'noisy'] received scores [0.7963855862617493, 0.20361444354057312]
+
+decades/1850s/1/comprehensiveness_of_true_religion—the_saints_but_stewards_brigham_young.txt
+
+If, on the Sabbath day, when we are assembled here to worship the Lord, one of the Elders should be prompted to give us a lecture on any branch of education with which he is acquainted, is it outside the pale of our religion?
+
+['quiet', 'loud'] received scores [0.5621536374092102, 0.4378463327884674]
+['loud', 'soft'] received scores [0.5249924063682556, 0.475007563829422]
+['quiet', 'noisy'] received scores [0.6466262936592102, 0.3533736765384674]
+['soft', 'noisy'] received scores [0.5632302165031433, 0.4367697834968567]
+
+decades/1850s/1/effects_and_privileges_of_the_gospel—the_latter-day_saints_and_the_christian_world_brigham_young.txt
+
+Christ and Belial cannot be made friends, neither can the Church of Christ and the worshippers of Belial unite together.
+
+['quiet', 'loud'] received scores [0.6943391561508179, 0.30566084384918213]
+['loud', 'soft'] received scores [0.5340671539306641, 0.46593281626701355]
+['quiet', 'noisy'] received scores [0.859277606010437, 0.140722393989563]
+['soft', 'noisy'] received scores [0.7010574340820312, 0.29894253611564636]
+
+decades/1850s/1/elder_john_taylor's_mission_to_europe_in_1849-1852_john_taylor.txt
+
+You will find nothing but women in the places of worship there, while on the other hand, if you go out to the public promenades, and theaters, and public amusements on Sunday, you will see men by thousands; and if you judge of their religion by their actions, you would consider that the theater and public amusements are their places of worship; at the same time, that the Church is the place to do penance, and that the women do it.
+
+['quiet', 'loud'] received scores [0.5523316264152527, 0.4476684331893921]
+['loud', 'soft'] received scores [0.6409608721733093, 0.35903915762901306]
+['quiet', 'noisy'] received scores [0.6933374404907227, 0.30666258931159973]
+['soft', 'noisy'] received scores [0.5065336227416992, 0.4934663772583008]
+
+decades/1850s/1/gathering_the_poor—the_perpetual_emigrating_fund—ingratitude_brigham_young.txt
+
+The most pious could do nothing more than some did in the days of the Apostles; they could erect an image to the unknown God, and worship somebody, or something, but they knew not what.
+
+['quiet', 'loud'] received scores [0.8209898471832275, 0.17901010811328888]
+['soft', 'loud'] received scores [0.522740364074707, 0.4772595763206482]
+['quiet', 'noisy'] received scores [0.8912976980209351, 0.10870232433080673]
+['soft', 'noisy'] received scores [0.6619555950164795, 0.3380444049835205]
+
+decades/1850s/1/knowledge_of_the_doctrine_of_christ—the_religions_of_men,_and_the_religion_of_god—joseph_smith—persecutions,_etc_brigham_young.txt
+
+There are a few minutes more of time allotted to us for worship this morning, which I will occupy for the consolation of my hearers, and for my own.
+
+['quiet', 'loud'] received scores [0.8122591376304626, 0.18774081766605377]
+['soft', 'loud'] received scores [0.7151261568069458, 0.2848738729953766]
+['quiet', 'noisy'] received scores [0.8464913368225098, 0.15350861847400665]
+['soft', 'noisy'] received scores [0.761877179145813, 0.2381228506565094]
+
+decades/1850s/1/liberty_and_persecution—conduct_of_the_u._s._government,_etc_george_a._smith.txt
+
+Ought we not, then, to rejoice, that there is a spot upon the footstool of God, where law is respected; where the Constitution for which our fathers bled is revered; where the people who dwell here can enjoy liberty, and worship God in three or in twenty different ways, and no man be permitted to plague his head about it?
+
+['quiet', 'loud'] received scores [0.5630207061767578, 0.43697935342788696]
+['loud', 'soft'] received scores [0.8301810026168823, 0.16981898248195648]
+['quiet', 'noisy'] received scores [0.82098388671875, 0.17901611328125]
+['noisy', 'soft'] received scores [0.5786694288253784, 0.42133063077926636]
+
+decades/1850s/1/liberty_and_persecution—conduct_of_the_u._s._government,_etc_george_a._smith.txt
+
+I know that there is no "Mormonism" known in the constitution of the U.S., but all men are there considered equal, and free to worship God according to the dictates of their own consciences, and enjoy equal rights and privileges.
+
+['quiet', 'loud'] received scores [0.6835140585899353, 0.3164859414100647]
+['loud', 'soft'] received scores [0.520972728729248, 0.47902727127075195]
+['quiet', 'noisy'] received scores [0.7586934566497803, 0.24130654335021973]
+['soft', 'noisy'] received scores [0.5723929405212402, 0.4276070296764374]
+
+decades/1850s/1/motives_and_feelings_of_the_saints—experience_necessary—the_state_of_the_world—infidels—religions_and_works_of_men,_and_the_reli.txt
+
+In rising to address you this morning, I do it with feelings of peculiar pleasure, for I always love to meet with the Saints of the Most High; I always loved to speak or to hear of the things associated with the kingdom of God; and consequently, as we are all engaged in the worship of the Almighty, and meet together from time to time, to sing, to pray, to speak, to edify, and be edified, it is of little importance to me what part I take in the drama, I am pleased at all times to hear my brethren speak, and it likewise gives me pleasure to address the Saints for their edification.
+
+['quiet', 'loud'] received scores [0.5884948968887329, 0.4115050733089447]
+['soft', 'loud'] received scores [0.5200963020324707, 0.4799037277698517]
+['quiet', 'noisy'] received scores [0.7759203910827637, 0.22407962381839752]
+['soft', 'noisy'] received scores [0.7240678071975708, 0.2759321928024292]
+
+decades/1850s/1/motives_and_feelings_of_the_saints—experience_necessary—the_state_of_the_world—infidels—religions_and_works_of_men,_and_the_reli.txt
+
+Why do we together worship the Most High in the valleys of the mountains, if these have not been our feelings?
+
+['quiet', 'loud'] received scores [0.6922146081924438, 0.30778542160987854]
+['loud', 'soft'] received scores [0.5674824714660645, 0.43251749873161316]
+['quiet', 'noisy'] received scores [0.7419216632843018, 0.25807830691337585]
+['noisy', 'soft'] received scores [0.5065245032310486, 0.49347543716430664]
+
+decades/1850s/1/motives_and_feelings_of_the_saints—experience_necessary—the_state_of_the_world—infidels—religions_and_works_of_men,_and_the_reli.txt
+
+And notwithstanding we may have a few trials and difficulties, and various things that frequently perplex and annoy our minds, and disturb our feelings, yet the polar star of our minds, the strong and deep feeling of affection, and the principle of truth within us, still point to the same thing for which we started at the commencement of our career; and when we bow down before our God, when we enter into our closet and call upon the Lord, when associated with our families to supplicate the Most High, when we mingle with the Saints in public worship, or whenever we are led seriously to reflect upon the true position of this kingdom, our rejoicing is, that our face is Zion ward, that our hopes are placed upon God, and we know that He is our Father and Friend.
+
+['quiet', 'loud'] received scores [0.5568912029266357, 0.44310879707336426]
+['loud', 'soft'] received scores [0.7515650987625122, 0.2484349012374878]
+['quiet', 'noisy'] received scores [0.8177209496498108, 0.1822790652513504]
+['soft', 'noisy'] received scores [0.5412685871124268, 0.45873144268989563]
+
+decades/1850s/1/motives_and_feelings_of_the_saints—experience_necessary—the_state_of_the_world—infidels—religions_and_works_of_men,_and_the_reli.txt
+
+I confess, myself, that if I knew no other religion, than the religions that are propagated abroad, I would not be a religious man at all, but I would lay it all aside, as something beneath my notice, and worship God as the great Supreme of the Universe, according to my own judgment, independent of the opinions of man, and without having any regard to the ridiculous dogmas taught in the world.
+
+['quiet', 'loud'] received scores [0.6622592210769653, 0.33774080872535706]
+['loud', 'soft'] received scores [0.6678187847137451, 0.3321812152862549]
+['quiet', 'noisy'] received scores [0.7621561884880066, 0.23784379661083221]
+['noisy', 'soft'] received scores [0.5516098737716675, 0.4483901560306549]
+
+decades/1850s/1/motives_and_feelings_of_the_saints—experience_necessary—the_state_of_the_world—infidels—religions_and_works_of_men,_and_the_reli.txt
+
+What can there be more ridiculous, for instance, at the present day, than two Christian nations fighting with each other, and both worshipping the same God, and whose ministers call upon God, as they say, in sincerity.
+
+['loud', 'quiet'] received scores [0.9522727131843567, 0.0477273091673851]
+['loud', 'soft'] received scores [0.8483602404594421, 0.15163972973823547]
+['noisy', 'quiet'] received scores [0.9624242782592773, 0.03757568448781967]
+['noisy', 'soft'] received scores [0.8777773380279541, 0.1222226694226265]
+
+decades/1850s/1/motives_and_feelings_of_the_saints—experience_necessary—the_state_of_the_world—infidels—religions_and_works_of_men,_and_the_reli.txt
+
+There are Catholicism, Presbyterianism, and all other isms, the advocates of which worship the same God, though their doctrine, precepts, and belief are not the same; they think differently, and worship differently, and each party sends to hell, in a wholesale manner, all who differ from them!
+
+['loud', 'quiet'] received scores [0.7124510407447815, 0.28754889965057373]
+['loud', 'soft'] received scores [0.7017010450363159, 0.2982989549636841]
+['noisy', 'quiet'] received scores [0.6492108702659607, 0.3507891595363617]
+['noisy', 'soft'] received scores [0.6373001933097839, 0.36269983649253845]
+
+decades/1850s/1/motives_and_feelings_of_the_saints—experience_necessary—the_state_of_the_world—infidels—religions_and_works_of_men,_and_the_reli.txt
+
+I would worship God the best way I knew how, and act justly and honorably with my neighbor; which I believe thousands of that class of men called Infidels do at the present day.
+
+['loud', 'quiet'] received scores [0.622724711894989, 0.3772753179073334]
+['loud', 'soft'] received scores [0.5832383632659912, 0.4167616665363312]
+['noisy', 'quiet'] received scores [0.5174470543861389, 0.4825529456138611]
+['soft', 'noisy'] received scores [0.5237898826599121, 0.4762101173400879]
+
+decades/1850s/1/motives_and_feelings_of_the_saints—experience_necessary—the_state_of_the_world—infidels—religions_and_works_of_men,_and_the_reli.txt
+
+I do not want to make a profession, and worship a God because this one, that one, or the other one does it, and I not know whether I am right, and those whom I imitate not know, anymore than myself, whether they are right or wrong.
+
+['quiet', 'loud'] received scores [0.6084652543067932, 0.3915347456932068]
+['loud', 'soft'] received scores [0.5867540836334229, 0.4132458567619324]
+['quiet', 'noisy'] received scores [0.6396481394767761, 0.36035189032554626]
+['noisy', 'soft'] received scores [0.5541841983795166, 0.445815771818161]
+
+decades/1850s/1/motives_and_feelings_of_the_saints—experience_necessary—the_state_of_the_world—infidels—religions_and_works_of_men,_and_the_reli.txt
+
+I do not believe that all the nations that worship various kinds of idols, in different parts of the earth, and know nothing about the true God, will be consigned to be burned in fire hereafter, because they know no better than worship as they do.
+
+['quiet', 'loud'] received scores [0.5533912777900696, 0.4466087520122528]
+['loud', 'soft'] received scores [0.6758297085762024, 0.32417023181915283]
+['quiet', 'noisy'] received scores [0.6833963990211487, 0.31660357117652893]
+['noisy', 'soft'] received scores [0.5447871685028076, 0.45521286129951477]
+
+decades/1850s/1/persecutions_of_the_church—apostates—_freedom—self-defense_parley_p._pratt.txt
+
+The Presbyterians, Methodists, Quakers, &c., have here the liberty to worship God in their own way, and so has every man in the world.
+
+['loud', 'quiet'] received scores [0.5246737003326416, 0.4753262996673584]
+['loud', 'soft'] received scores [0.599024772644043, 0.40097522735595703]
+['quiet', 'noisy'] received scores [0.665612518787384, 0.3343874514102936]
+['soft', 'noisy'] received scores [0.5952661633491516, 0.4047338366508484]
+
+decades/1850s/1/persecutions_of_the_church—apostates—_freedom—self-defense_parley_p._pratt.txt
+
+People have the privilege of apostatizing from this Church, and of worshipping devils, snakes, toads, or geese, if they please, and only let their neighbors alone.
+
+['quiet', 'loud'] received scores [0.7666562795639038, 0.2333436906337738]
+['soft', 'loud'] received scores [0.5898128747940063, 0.41018709540367126]
+['quiet', 'noisy'] received scores [0.8605100512504578, 0.13948993384838104]
+['soft', 'noisy'] received scores [0.7297192811965942, 0.27028074860572815]
+
+decades/1850s/1/persecutions_of_the_church—apostates—_freedom—self-defense_parley_p._pratt.txt
+
+If the people of a neighborhood, ward, or city, wish to speak, hear, or worship, or to discuss any subject, they have public and private buildings, schoolhouses, churches, or assembly rooms in abundance.
+
+['loud', 'quiet'] received scores [0.6126133799552917, 0.38738659024238586]
+['soft', 'loud'] received scores [0.6521338820457458, 0.3478661775588989]
+['noisy', 'quiet'] received scores [0.5370648503303528, 0.462935209274292]
+['soft', 'noisy'] received scores [0.7187381386756897, 0.2812618315219879]
+
+decades/1850s/1/persecutions_of_the_church—apostates—_freedom—self-defense_parley_p._pratt.txt
+
+It is not enough for people to have liberty to worship according to sectarianism, Judaism, heathenism, and  everything else, but they wish the liberty to stab you to the heart.
+
+['loud', 'quiet'] received scores [0.881493091583252, 0.11850687861442566]
+['loud', 'soft'] received scores [0.8438230156898499, 0.15617699921131134]
+['noisy', 'quiet'] received scores [0.8399767875671387, 0.1600232571363449]
+['noisy', 'soft'] received scores [0.792220413684845, 0.20777960121631622]
+
+decades/1850s/1/recreation,_and_the_proper_use_of_it_brigham_young.txt
+
+We often meet together and worship the Lord by singing, praying, and preaching, fasting, and communing with each other in the Sacrament of the Lord's Supper.
+
+['loud', 'quiet'] received scores [0.6266101598739624, 0.37338986992836]
+['soft', 'loud'] received scores [0.6113314628601074, 0.3886685073375702]
+['noisy', 'quiet'] received scores [0.5436171889305115, 0.45638278126716614]
+['soft', 'noisy'] received scores [0.689054012298584, 0.31094595789909363]
+
+decades/1850s/1/recreation,_and_the_proper_use_of_it_brigham_young.txt
+
+But I pause here, and for this reason—I want it distinctly understood, that fiddling and dancing are no part of our worship.
+
+['quiet', 'loud'] received scores [0.9968645572662354, 0.003135435516014695]
+['soft', 'loud'] received scores [0.7947744727134705, 0.20522546768188477]
+['quiet', 'noisy'] received scores [0.9925868511199951, 0.007413183804601431]
+['soft', 'noisy'] received scores [0.619907796382904, 0.38009220361709595]
+
+decades/1850s/1/the_pioneers—capabilities_and_settlement_of_the_great_basin—exhortation_to_faithfulness_brigham_young.txt
+
+Where could a place have been found where we might enjoy freedom of thought, freedom of speech, and freedom of worship?
+
+['loud', 'quiet'] received scores [0.7203032970428467, 0.2796967029571533]
+['loud', 'soft'] received scores [0.5352845788002014, 0.46471548080444336]
+['noisy', 'quiet'] received scores [0.5821427702903748, 0.41785725951194763]
+['soft', 'noisy'] received scores [0.6160976886749268, 0.38390228152275085]
+
+decades/1850s/1/the_standard_and_ensign_for_the_people_parley_p._pratt.txt
+
+For instance—does any man in his senses, believe that the government of the eternal heavens in the presence of God, consists of a variety of kingdoms, empires, republics, and states, governed by various principles, ruled by aspirants, and sometimes by tyrants, that differ widely one from another in the principles by which they rule, one jarring with, and encroaching upon, the other, and frequently going to war with him, having a thousand different ways of worship, and of religious and political administration?
+
+['loud', 'quiet'] received scores [0.7871301174163818, 0.21286985278129578]
+['loud', 'soft'] received scores [0.7946884036064148, 0.2053116410970688]
+['noisy', 'quiet'] received scores [0.8141071200370789, 0.18589282035827637]
+['noisy', 'soft'] received scores [0.8209254741668701, 0.17907455563545227]
+
+decades/1850s/1/the_standard_and_ensign_for_the_people_parley_p._pratt.txt
+
+A system shall be developed from heaven, by which the people are to be planted in one, that is, those who embrace it; by which shall be developed among them all, one spirit, one doctrine, one order of Priesthood, worship, power, and government, to lead, direct, control, and say what religion they shall adopt, including every department of government, sufficient for all the affairs of state, both internal and external, and that would contribute to their enlightenment, improvement, defense, exaltation, and their relations with all the world.
+
+['loud', 'quiet'] received scores [0.5284656882286072, 0.4715343117713928]
+['loud', 'soft'] received scores [0.7119352221488953, 0.28806477785110474]
+['quiet', 'noisy'] received scores [0.6736777424812317, 0.3263222575187683]
+['noisy', 'soft'] received scores [0.5164812803268433, 0.4835187494754791]
+
+decades/1850s/1/the_temple_cornerstones—the_apostleship,_&c_brigham_young.txt
+
+We came together for the purpose of worshipping the Lord, and many have come from a distance, who wished to come up here and join with their brethren in contemplating the work of the last days, and in speaking to each other comforting words, for it is a very agreeable exercise, on occasions like this, as well as in other meetings, to rehearse over to each other the scenes of life, the feelings of the heart, the tragedies that have passed among us, the difficulties we have surmounted, and the days, months, and years we have been brought through.
+
+['quiet', 'loud'] received scores [0.6153656840324402, 0.3846343457698822]
+['soft', 'loud'] received scores [0.5562041997909546, 0.443795770406723]
+['quiet', 'noisy'] received scores [0.8227522969245911, 0.1772477626800537]
+['soft', 'noisy'] received scores [0.784308671951294, 0.21569137275218964]
+
+decades/1850s/1/the_temple_cornerstones—the_apostleship,_&c_brigham_young.txt
+
+If a man should come and tell you he had had a vision, and could appear to substantiate his testimony that he had had the heavens opened to him, you would be ready to bow down and worship him; and he might be, at the same time, perfectly calculated to destroy the people—one of the biggest devils on earth.
+
+['loud', 'quiet'] received scores [0.807828426361084, 0.19217154383659363]
+['loud', 'soft'] received scores [0.6789950132369995, 0.3210050165653229]
+['noisy', 'quiet'] received scores [0.6867150664329529, 0.31328490376472473]
+['noisy', 'soft'] received scores [0.5244809985160828, 0.4755190312862396]
+
+decades/1850s/1/uniformity_jedediah_m._grant.txt
+
+While Moses was upon the mount conversing with the Most High God, Aaron took the gold offered to him by the people, and made a calf for Israel to worship, and they said, "These be thy gods, O Israel, which brought thee up out of the land of Egypt.
+
+['loud', 'quiet'] received scores [0.8006891012191772, 0.19931092858314514]
+['loud', 'soft'] received scores [0.8157735466957092, 0.18422646820545197]
+['noisy', 'quiet'] received scores [0.6161035299301147, 0.38389649987220764]
+['noisy', 'soft'] received scores [0.6388569474220276, 0.3611430823802948]
+
+decades/1850s/1/uniformity_jedediah_m._grant.txt
+
+He was not contented with the fair daughters of Israel, but the queen of Sheba, and the women of nations afar off, captivated this wise king—by whom he was led astray, and desecrated the altars of God, the sanctuaries of Israel, and the Urim and Thummim, by introducing the idolatrous worship of the strange gods of his wives and concubines.
+
+['loud', 'quiet'] received scores [0.6736965179443359, 0.32630348205566406]
+['loud', 'soft'] received scores [0.7398551106452942, 0.2601449191570282]
+['noisy', 'quiet'] received scores [0.6029917597770691, 0.3970082402229309]
+['noisy', 'soft'] received scores [0.6766043305397034, 0.32339563965797424]
+
+decades/1850s/1/uniformity_jedediah_m._grant.txt
+
+Were sublimity, uniformity, and beauty seen at the time when the King of righteousness, the anointed of God, was carried up unto an exceeding high mountain by Lucifer, who showed him the kingdoms of the world, and the glory of them, saying, "All these things will I give thee, if thou wilt fall down and worship me.
+
+['quiet', 'loud'] received scores [0.5102377533912659, 0.48976224660873413]
+['soft', 'loud'] received scores [0.8295243978500366, 0.17047563195228577]
+['quiet', 'noisy'] received scores [0.6215553283691406, 0.378444641828537]
+['soft', 'noisy'] received scores [0.8846742510795593, 0.11532578617334366]
+
+decades/1850s/1/weaknesses_of_man—loyalty_of_the_saints—corruption_of_the_world—true_liberty—conduct_of_the_american_people_brigham_young.txt
+
+Another may say he believes in and worships a white dog, for he has lived with the nations who have a tradition teaching them to do so.
+
+['loud', 'quiet'] received scores [0.6250004172325134, 0.37499961256980896]
+['soft', 'loud'] received scores [0.6329386830329895, 0.3670613467693329]
+['quiet', 'noisy'] received scores [0.605002760887146, 0.39499714970588684]
+['soft', 'noisy'] received scores [0.8148784637451172, 0.1851215362548828]
+
+decades/1850s/1/weaknesses_of_man—loyalty_of_the_saints—corruption_of_the_world—true_liberty—conduct_of_the_american_people_brigham_young.txt
+
+It is all right; you are as welcome to worship a white dog as the God I do, if it is your wish.
+
+['quiet', 'loud'] received scores [0.8699955940246582, 0.13000443577766418]
+['soft', 'loud'] received scores [0.7865050435066223, 0.2134948968887329]
+['quiet', 'noisy'] received scores [0.9225069284439087, 0.07749302685260773]
+['soft', 'noisy'] received scores [0.8676080703735352, 0.13239189982414246]
+
+decades/1850s/1/weaknesses_of_man—loyalty_of_the_saints—corruption_of_the_world—true_liberty—conduct_of_the_american_people_brigham_young.txt
+
+I am willing every man should worship God as he pleases, and be happy.
+
+['quiet', 'loud'] received scores [0.6517901420593262, 0.34820979833602905]
+['loud', 'soft'] received scores [0.5700913667678833, 0.4299086630344391]
+['quiet', 'noisy'] received scores [0.790480375289917, 0.2095196694135666]
+['soft', 'noisy'] received scores [0.6031677722930908, 0.3968321979045868]
+
+decades/1850s/1/weaknesses_of_man—loyalty_of_the_saints—corruption_of_the_world—true_liberty—conduct_of_the_american_people_brigham_young.txt
+
+I shall not exult in the miseries that will come upon them, but weep over them; whereas I have seen a mob with their rifles pointed at me by hundreds, and could not be moved to tears, but I felt like Daniel of old,"I will worship my God, and pray with my windows open, if my life  should be the penalty.
+
+['loud', 'quiet'] received scores [0.6359139084815979, 0.3640861511230469]
+['loud', 'soft'] received scores [0.6874356865882874, 0.31256434321403503]
+['noisy', 'quiet'] received scores [0.5721394419670105, 0.4278606176376343]
+['noisy', 'soft'] received scores [0.6273980736732483, 0.3726019561290741]
+
+decades/1850s/1/weakness_and_impotence_of_men—condition_of_the_saints—dedication_to_the_lord—the_millennium_brigham_young.txt
+
+We have now a commodious place in which we can worship the Lord, without the fear of being driven from our seats by wet and cold, or of standing exposed to the weather.
+
+['quiet', 'loud'] received scores [0.647743284702301, 0.352256715297699]
+['soft', 'loud'] received scores [0.5881772041320801, 0.4118227958679199]
+['quiet', 'noisy'] received scores [0.8894269466400146, 0.11057306826114655]
+['soft', 'noisy'] received scores [0.8620238304138184, 0.13797618448734283]
+
+decades/1850s/1/weakness_and_impotence_of_men—condition_of_the_saints—dedication_to_the_lord—the_millennium_brigham_young.txt
+
+I shall say to the brethren, Come, let us build  a house that we may enter within its walls, and there offer our prayers and thanksgivings before the Lord, and worship Him as long as we please, without the fear of being driven home with storms of wind, rain, and snow.
+
+['quiet', 'loud'] received scores [0.7940462231636047, 0.20595376193523407]
+['loud', 'soft'] received scores [0.5492319464683533, 0.45076805353164673]
+['quiet', 'noisy'] received scores [0.8785545229911804, 0.121445432305336]
+['soft', 'noisy'] received scores [0.606292724609375, 0.3937073349952698]
+
+decades/1850s/1/weakness_and_impotence_of_men—condition_of_the_saints—dedication_to_the_lord—the_millennium_brigham_young.txt
+
+I said, "If the Lord blesses me with life and health, I shall put forth my hand to rear an edifice, in which the people can comfortably assemble, as large as we can build at present, and dedicate it to the Lord, that the people may say in their heart, Let us go up to the house of the Lord to worship.
+
+['loud', 'quiet'] received scores [0.5594401359558105, 0.44055983424186707]
+['loud', 'soft'] received scores [0.7372258901596069, 0.26277410984039307]
+['quiet', 'noisy'] received scores [0.68758624792099, 0.31241375207901]
+['noisy', 'soft'] received scores [0.5009626150131226, 0.49903738498687744]
+
+decades/1850s/1/weakness_and_impotence_of_men—condition_of_the_saints—dedication_to_the_lord—the_millennium_brigham_young.txt
+
+I saw that when we should obtain this commodious building, some would wish to be excused from engaging in the pleasing duty of worshipping here, and say, "My cattle, my farm, or my business will be forsaken, I must take care of my family, for the Lord gave them to me to take care of;" or, "I must attend to my affairs here and there, and I cannot therefore stay to worship the Lord.
+
+['loud', 'quiet'] received scores [0.6378398537635803, 0.3621601164340973]
+['loud', 'soft'] received scores [0.6475169658660889, 0.35248303413391113]
+['quiet', 'noisy'] received scores [0.5236401557922363, 0.4763598144054413]
+['soft', 'noisy'] received scores [0.5131193995475769, 0.4868806302547455]
+
+decades/1850s/1/weakness_and_impotence_of_men—condition_of_the_saints—dedication_to_the_lord—the_millennium_brigham_young.txt
+
+I say to such, Go! but as for me, though all the world should sink into oblivion, I will go up to worship the Lord.
+
+['quiet', 'loud'] received scores [0.5538415312767029, 0.4461584687232971]
+['loud', 'soft'] received scores [0.7652949094772339, 0.2347051352262497]
+['quiet', 'noisy'] received scores [0.7637446522712708, 0.23625531792640686]
+['noisy', 'soft'] received scores [0.5559682250022888, 0.4440317451953888]
+
+decades/1850s/1/weakness_and_impotence_of_men—condition_of_the_saints—dedication_to_the_lord—the_millennium_brigham_young.txt
+
+The Lord Almighty, who made it, is able to take care of it, and He may do with it what He pleases; but He has commanded me to worship Him, which is one of the greatest privileges that could be conferred upon man.
+
+['quiet', 'loud'] received scores [0.6940573453903198, 0.3059426546096802]
+['loud', 'soft'] received scores [0.5196583271026611, 0.4803416430950165]
+['quiet', 'noisy'] received scores [0.8519984483718872, 0.14800158143043518]
+['soft', 'noisy'] received scores [0.7010977864265442, 0.2989022433757782]
+
+decades/1850s/1/weakness_and_impotence_of_men—condition_of_the_saints—dedication_to_the_lord—the_millennium_brigham_young.txt
+
+If you will hearken to the counsel of your humble servant, you will say to the fields, the flocks, and the herds, to the gold and the silver, to the goods and chattels, to the tenements and the possessions, and to all the world—Stand aside, get away from my thoughts, for I am going up to worship the Lord.
+
+['quiet', 'loud'] received scores [0.8074091672897339, 0.19259080290794373]
+['loud', 'soft'] received scores [0.6380867958068848, 0.36191317439079285]
+['quiet', 'noisy'] received scores [0.8661434054374695, 0.1338566094636917]
+['noisy', 'soft'] received scores [0.5332138538360596, 0.46678614616394043]
+
+decades/1850s/2/arguments_of_modern_christian_sects_against_the_latter-day_saints_george_a._smith.txt
+
+When the Romans carried on their persecution of the Apostles, the laws of their country and senate supported them, for the proclamation of the disciples of Christ was defaming the gods that the laws of their country commanded to be worshipped; but in this instance it was entirely another thing, for freedom of thought, freedom of speech, and freedom of conscience in religious matters is guaranteed to all people who might choose to come there; and in the face and eyes of all this, not only were their privileges taken away as citizens, but the laws and Constitution of their very country, the country in which many of their fathers fought and bled, were treated with utter contempt.
+
+['loud', 'quiet'] received scores [0.8041921854019165, 0.1958077847957611]
+['loud', 'soft'] received scores [0.8430090546607971, 0.15699094533920288]
+['noisy', 'quiet'] received scores [0.6616578102111816, 0.33834215998649597]
+['noisy', 'soft'] received scores [0.7188522219657898, 0.28114771842956543]
+
+decades/1850s/2/consecration_brigham_young.txt
+
+When they bow down to worship the Lord, they acknowledge that the earth is His, and the cattle upon a thousand hills; and tell the Lord there is no sacrifice they are not willing to make for the sake of the religion of Jesus Christ.
+
+['loud', 'quiet'] received scores [0.6466995477676392, 0.35330045223236084]
+['loud', 'soft'] received scores [0.8018909096717834, 0.19810910522937775]
+['quiet', 'noisy'] received scores [0.601389467716217, 0.39861053228378296]
+['noisy', 'soft'] received scores [0.5944358706474304, 0.40556418895721436]
+
+decades/1850s/2/gathering_and_sanctification_of_the_people_of_god_george_a._smith.txt
+
+They would not receive it; and although God had delivered them from the plagues of Egypt, from the hands of Pharaoh, brought them through the Red Sea, and led them by a cloud by day and a pillar of fire by night, yet, when Moses went into the presence of God to receive His law, to receive those principles that were to magnify them, and make them a kingdom of Priests, a holy people, they, a whole people, concluded that it was best to worship a calf.
+
+['loud', 'quiet'] received scores [0.6944609880447388, 0.3055390417575836]
+['loud', 'soft'] received scores [0.8389170169830322, 0.16108299791812897]
+['noisy', 'quiet'] received scores [0.5714622139930725, 0.4285378158092499]
+['noisy', 'soft'] received scores [0.7534230947494507, 0.24657689034938812]
+
+decades/1850s/2/gathering_and_sanctification_of_the_people_of_god_george_a._smith.txt
+
+"Why," said they, "our neighbors worship calves, they have gods, they have idols, and we wish to worship something that we can see, for we do not know what has become of this Moses, and we want a god that we can see and handle.
+
+['loud', 'quiet'] received scores [0.6241976022720337, 0.3758024275302887]
+['loud', 'soft'] received scores [0.7097965478897095, 0.29020339250564575]
+['quiet', 'noisy'] received scores [0.5215438604354858, 0.47845613956451416]
+['noisy', 'soft'] received scores [0.5746293067932129, 0.4253706932067871]
+
+decades/1850s/2/gathering_and_sanctification_of_the_people_of_god_george_a._smith.txt
+
+Father Johnson asked him to pray in their family worship in the evening, and he got on such a high key, and hallooed so loud that he alarmed the whole village.
+
+['loud', 'quiet'] received scores [0.9950364232063293, 0.004963533487170935]
+['loud', 'soft'] received scores [0.9941192865371704, 0.005880707874894142]
+['noisy', 'quiet'] received scores [0.9957298040390015, 0.004270170349627733]
+['noisy', 'soft'] received scores [0.9949401021003723, 0.0050598750822246075]
+
+decades/1850s/2/gathering_the_saints—perpetual_emigrating_fund_orson_hyde.txt
+
+Even the servants of God in the days of old, when they saw one of those celestial spirits, began to bow down and worship him, as though he were the God who created the heavens and the earth; but they were commanded to worship God.
+
+['loud', 'quiet'] received scores [0.6887437105178833, 0.3112562596797943]
+['loud', 'soft'] received scores [0.7121264338493347, 0.2878735661506653]
+['quiet', 'noisy'] received scores [0.5052213072776794, 0.49477872252464294]
+['noisy', 'soft'] received scores [0.5226333737373352, 0.47736656665802]
+
+decades/1850s/2/necessity_of_building_temples—the_endowment_brigham_young.txt
+
+Make you a golden calf, and worship it.
+
+['loud', 'quiet'] received scores [0.5845565795898438, 0.41544342041015625]
+['loud', 'soft'] received scores [0.6384826898574829, 0.3615173101425171]
+['quiet', 'noisy'] received scores [0.6875913143157959, 0.3124086856842041]
+['soft', 'noisy'] received scores [0.6368237733840942, 0.363176167011261]
+
+decades/1850s/2/necessity_of_opposition_ezra_t._benson.txt
+
+Here we are, eating, and drinking, and sleeping in peace, "with none to molest, or make us afraid," worshipping God according to the dictates of our consciences.
+
+['quiet', 'loud'] received scores [0.9954664707183838, 0.004533549305051565]
+['soft', 'loud'] received scores [0.712627649307251, 0.287372350692749]
+['quiet', 'noisy'] received scores [0.9990848898887634, 0.0009150677942670882]
+['soft', 'noisy'] received scores [0.9249836802482605, 0.07501628994941711]
+
+decades/1850s/2/obedience—the_priesthood—spiritual_communication—the_saints_and_the_world_heber_c._kimball.txt
+
+They declared the Saints would be gathered in the last days, and we are gathering to build a city to the name of our God, and we are going to build a Temple, and houses of worship, that when you come here you may worship with us, and when you are among the "Mormons" do as the "Mormons" do, do right, and keep the commandments of God.
+
+['loud', 'quiet'] received scores [0.5332385897636414, 0.46676141023635864]
+['loud', 'soft'] received scores [0.7700144648551941, 0.2299855500459671]
+['quiet', 'noisy'] received scores [0.8094912171363831, 0.19050876796245575]
+['soft', 'noisy'] received scores [0.5918130278587341, 0.4081869423389435]
+
+decades/1850s/2/persecutions,_duties,_and_privileges_of_the_saints_daniel_h._wells.txt
+
+We now have the privilege of worshipping God according to the dictates of our own consciences, and no one to disturb, or make us afraid.
+
+['quiet', 'loud'] received scores [0.9845897555351257, 0.015410268679261208]
+['soft', 'loud'] received scores [0.7387310266494751, 0.2612689435482025]
+['quiet', 'noisy'] received scores [0.9913468360900879, 0.00865314994007349]
+['soft', 'noisy'] received scores [0.8352543711662292, 0.16474561393260956]
+
+decades/1850s/2/persecutions,_duties,_and_privileges_of_the_saints_daniel_h._wells.txt
+
+My friends, this is a day of rejoicing with the Saints, and here in this sacred place of worship, we mingle together, the old and the young, in offering to our God, praise and thanksgiving for His kind mercies and blessings.
+
+['loud', 'quiet'] received scores [0.7358704805374146, 0.2641294598579407]
+['loud', 'soft'] received scores [0.6391216516494751, 0.3608783781528473]
+['quiet', 'noisy'] received scores [0.5021567344665527, 0.4978432357311249]
+['soft', 'noisy'] received scores [0.6134145855903625, 0.3865854740142822]
+
+decades/1850s/2/persecutions,_position,_prospects,_and_agency_of_the_saints_edward_hunter.txt
+
+Thus has it ever been with this people—in the midst of enemies have they struggled to build up cities, wherein they might inhabit; erect temples unto the name of the God whom they serve, wherein to worship, and receive their holy anointings and endowments.
+
+['loud', 'quiet'] received scores [0.6482424139976501, 0.35175758600234985]
+['loud', 'soft'] received scores [0.7702537178993225, 0.22974634170532227]
+['quiet', 'noisy'] received scores [0.5758429169654846, 0.42415711283683777]
+['noisy', 'soft'] received scores [0.5726547241210938, 0.42734524607658386]
+
+decades/1850s/2/persecutions,_position,_prospects,_and_agency_of_the_saints_edward_hunter.txt
+
+We have a house wherein we can hold our Councils, a tabernacle wherein to worship, storehouses to contain the tithing of the people, and shops, and machinery in full operation.
+
+['loud', 'quiet'] received scores [0.5005363821983337, 0.4994637072086334]
+['soft', 'loud'] received scores [0.5309348702430725, 0.4690651297569275]
+['quiet', 'noisy'] received scores [0.6021819710731506, 0.397817999124527]
+['soft', 'noisy'] received scores [0.6319538950920105, 0.3680461347103119]
+
+decades/1850s/2/progress_of_the_work—consecration—preaching_to_israel—the_times_of_the_gentiles—sanctification_of_the_saints_orson_pratt.txt
+
+But you know that property is the Gentiles' god; it is sought after more eagerly than any other thing by the Gentile nations; it is worshipped by them, and their hearts are set on their treasures; and their treasures are of the earth and of an earthy nature; and it will take a long time for the Saints to get rid of their old idols—their idolatrous notions and traditions.
+
+['loud', 'quiet'] received scores [0.5760666728019714, 0.4239332973957062]
+['loud', 'soft'] received scores [0.6331130862236023, 0.3668869137763977]
+['quiet', 'noisy'] received scores [0.5129457712173462, 0.4870542883872986]
+['noisy', 'soft'] received scores [0.5466522574424744, 0.45334768295288086]
+
+decades/1850s/2/progress_of_the_work—consecration—preaching_to_israel—the_times_of_the_gentiles—sanctification_of_the_saints_orson_pratt.txt
+
+And those that bow down and worship the works of their own hands will forsake their idols when the day of the Lord's power shall be made manifest in and through the chosen seed.
+
+['loud', 'quiet'] received scores [0.6477032899856567, 0.35229671001434326]
+['loud', 'soft'] received scores [0.7054117918014526, 0.294588178396225]
+['quiet', 'noisy'] received scores [0.6221106052398682, 0.37788933515548706]
+['soft', 'noisy'] received scores [0.5583016276359558, 0.4416983723640442]
+
+decades/1850s/2/saints_subject_to_temptation—true_riches,_virtue,_and_sanctification—mormonism—gladdenites,_apostles,_and_saints—devils_without.txt
+
+How long shall we enjoy the happiness we now enjoy, in coming to this house to worship the Lord, and in associating in other capacities with our dear friends?
+
+['quiet', 'loud'] received scores [0.6695603728294373, 0.33043959736824036]
+['loud', 'soft'] received scores [0.5774891376495361, 0.42251086235046387]
+['quiet', 'noisy'] received scores [0.8264965415000916, 0.17350345849990845]
+['soft', 'noisy'] received scores [0.6323533654212952, 0.36764660477638245]
+
+decades/1850s/2/spiritual_gifts—hell—the_spirit_world—the_elders_and_the_nations—the_lamanites—the_temple_brigham_young.txt
+
+People who fall down beneath the wheels of Juggernaut, and are crushed to death; who sacrifice their children in the worship of idols; if they act according to the best of their knowledge, there is a chance for their salvation, as much as there is for the salvation of any other person.
+
+['loud', 'quiet'] received scores [0.8073793649673462, 0.1926206648349762]
+['loud', 'soft'] received scores [0.7693630456924438, 0.23063698410987854]
+['noisy', 'quiet'] received scores [0.6459875106811523, 0.35401254892349243]
+['noisy', 'soft'] received scores [0.5922066569328308, 0.4077933728694916]
+
+decades/1850s/2/the_church_and_kingdom_of_god,_and_the_churches_and_kingdoms_of_men_wilford_woodruff.txt
+
+This man to whom the angel appeared obeyed the Gospel; he received it in meekness and humility, and bowed down before the Lord and worshipped Him, and did the best he could in his illiterate state; he was as it were but a mere plowboy.
+
+['quiet', 'loud'] received scores [0.9614351987838745, 0.038564760237932205]
+['soft', 'loud'] received scores [0.97831130027771, 0.021688666194677353]
+['quiet', 'noisy'] received scores [0.9727631211280823, 0.02723688818514347]
+['soft', 'noisy'] received scores [0.984760582447052, 0.015239342115819454]
+
+decades/1850s/2/the_church_and_kingdom_of_god,_and_the_churches_and_kingdoms_of_men_wilford_woodruff.txt
+
+It matters not what the minds and feelings of men are, the Lord is determined to raise up a people that will worship Him; and if He has to whip, and scourge, and drive us through a whole generation, He will chastise us until we are willing to submit to righteousness and truth, or until we are like clay in the hands of the potter.
+
+['loud', 'quiet'] received scores [0.6282366514205933, 0.37176334857940674]
+['soft', 'loud'] received scores [0.5234248042106628, 0.47657522559165955]
+['quiet', 'noisy'] received scores [0.5685027241706848, 0.4314972460269928]
+['soft', 'noisy'] received scores [0.7097504138946533, 0.2902495861053467]
+
+decades/1850s/2/the_constitutions_of_the_united_states_and_illinois—nauvoo_charter_and_municipal_court—writ_of_habeas_corpus_joseph_smith.txt
+
+After we had been deprived of our rights and privileges of citizenship, driven from town to town, place to place, and State to State, with the sacrifice of our homes and lands, our blood has been shed, many having been murdered; and all this because of our religion—because we worship Almighty God according to the dictates of our own consciences.
+
+['loud', 'quiet'] received scores [0.820318877696991, 0.17968110740184784]
+['loud', 'soft'] received scores [0.8170852065086365, 0.1829148232936859]
+['noisy', 'quiet'] received scores [0.7094917893409729, 0.29050830006599426]
+['noisy', 'soft'] received scores [0.7049808502197266, 0.2950192391872406]
+
+decades/1850s/2/the_constitution_and_government_of_the_united_states—rights_and_policy_of_the_latter-day_saints_brigham_young.txt
+
+For this cause were Adams, Jefferson, Franklin, Washington, and a host of others inspired to deeds of resistance to the acts of the King of Great Britain, who might also have been led to those aggressive acts, for aught we know, to bring to pass the purposes of God, in thus establishing a new government upon a principle of greater freedom, a basis of self-government allowing the free exercise of religious worship.
+
+['loud', 'quiet'] received scores [0.9072591662406921, 0.09274085611104965]
+['loud', 'soft'] received scores [0.848905622959137, 0.15109433233737946]
+['noisy', 'quiet'] received scores [0.7935979962348938, 0.2064020186662674]
+['noisy', 'soft'] received scores [0.6882983446121216, 0.3117016553878784]
+
+decades/1850s/2/the_constitution_and_government_of_the_united_states—rights_and_policy_of_the_latter-day_saints_brigham_young.txt
+
+It was in this government, formed by men inspired of God, although at the time they knew it not, after it was firmly established in the seat of power and influence, where liberty of conscience, and the free exercise of religious worship were a fundamental principle guaranteed in the Constitution, and interwoven with all the feelings, traditions, and sympathies of the people, that the Lord sent forth His angel to reveal the truths of heaven as in times past, even as in ancient days.
+
+['loud', 'quiet'] received scores [0.5373885035514832, 0.4626114070415497]
+['loud', 'soft'] received scores [0.7754963636398315, 0.22450362145900726]
+['quiet', 'noisy'] received scores [0.6248155236244202, 0.37518441677093506]
+['noisy', 'soft'] received scores [0.6410072445869446, 0.35899272561073303]
+
+decades/1850s/2/the_constitution_and_government_of_the_united_states—rights_and_policy_of_the_latter-day_saints_brigham_young.txt
+
+I pause now to ask, had not Joseph Smith a right to promulgate and establish a different, a new religion and form of worship in this government?
+
+['quiet', 'loud'] received scores [0.5831282734870911, 0.41687169671058655]
+['loud', 'soft'] received scores [0.7080113887786865, 0.29198864102363586]
+['quiet', 'noisy'] received scores [0.6006321907043457, 0.3993678092956543]
+['noisy', 'soft'] received scores [0.6928067207336426, 0.30719324946403503]
+
+decades/1850s/2/the_constitution_and_government_of_the_united_states—rights_and_policy_of_the_latter-day_saints_brigham_young.txt
+
+Why should he and his followers be debarred the privilege of worshipping God according to the dictates of their consciences?
+
+['loud', 'quiet'] received scores [0.6473761796951294, 0.352623850107193]
+['loud', 'soft'] received scores [0.6539426445960999, 0.34605732560157776]
+['quiet', 'noisy'] received scores [0.5169095993041992, 0.4830904006958008]
+['soft', 'noisy'] received scores [0.5096924304962158, 0.4903075695037842]
+
+decades/1850s/2/the_holy_spirit_and_the_godhead_orson_pratt.txt
+
+But the attributes of Deity are one; and they constitute the one God that the Prophets speak of, and that the children of men in all worlds worship.
+
+['quiet', 'loud'] received scores [0.6557905673980713, 0.34420937299728394]
+['soft', 'loud'] received scores [0.5482237935066223, 0.4517762362957001]
+['quiet', 'noisy'] received scores [0.7994555234909058, 0.20054452121257782]
+['soft', 'noisy'] received scores [0.7174402475357056, 0.28255969285964966]
+
+decades/1850s/2/the_holy_spirit_and_the_godhead_orson_pratt.txt
+
+One world has a personal God or Father, and the inhabitants thereof worship the attributes of that God, another world has another, and they worship His attributes, and besides Him there is no other; and when they worship Him they are at the same time worshipping the same attributes that dwell in all the personal Gods who fill immensity.
+
+['quiet', 'loud'] received scores [0.6521879434585571, 0.34781211614608765]
+['soft', 'loud'] received scores [0.5159542560577393, 0.48404577374458313]
+['quiet', 'noisy'] received scores [0.7261673212051392, 0.27383267879486084]
+['soft', 'noisy'] received scores [0.6011914014816284, 0.39880865812301636]
+
+decades/1850s/2/the_holy_spirit_and_the_godhead_orson_pratt.txt
+
+If man is the tabernacle of God, then God dwells in them all, being only one God; but when we speak of them in their personal capacity, we say that John saw a hundred and forty-four thousand Gods; if we speak of the light or truth in each that governs them all then there is but one God, and He is in all worlds, and throughout all space, wherever the same identical light or truth is found; and all beings, from all eternity to all eternity, have to worship and adore the same one God, and always will have to worship Him; though they worship Him in so many different tabernacles, yet it is the one God, or in other words, the same light or truth that is worshipped by all.
+
+['quiet', 'loud'] received scores [0.7491565346717834, 0.25084346532821655]
+['loud', 'soft'] received scores [0.5550559759140015, 0.4449440538883209]
+['quiet', 'noisy'] received scores [0.8618138432502747, 0.13818611204624176]
+['soft', 'noisy'] received scores [0.6260243654251099, 0.37397560477256775]
+
+decades/1850s/2/the_holy_spirit_and_the_godhead_orson_pratt.txt
+
+It was because God was with him; God was in the work; and we would just as soon worship that Holy Spirit or intelligence in Joseph Smith or in any person else,  not the person, but the God that is in him, as to worship the same attributes somewhere else.
+
+['quiet', 'loud'] received scores [0.602779746055603, 0.3972202241420746]
+['loud', 'soft'] received scores [0.5058223009109497, 0.4941776692867279]
+['quiet', 'noisy'] received scores [0.7685668468475342, 0.23143315315246582]
+['soft', 'noisy'] received scores [0.6813287734985352, 0.31867119669914246]
+
+decades/1850s/2/the_holy_spirit_and_the_godhead_orson_pratt.txt
+
+And when we find the Father of Jesus Christ, we will worship Him, not the flesh and bones, but the attributes.
+
+['loud', 'quiet'] received scores [0.506901204586029, 0.49309879541397095]
+['loud', 'soft'] received scores [0.5415091514587402, 0.45849084854125977]
+['quiet', 'noisy'] received scores [0.6507691144943237, 0.3492308259010315]
+['soft', 'noisy'] received scores [0.6185996532440186, 0.38140031695365906]
+
+decades/1850s/2/the_holy_spirit_and_the_godhead_orson_pratt.txt
+
+The Savior tells us that he has revealed a great many things, that we may know how to worship in spirit and in truth.
+
+['loud', 'quiet'] received scores [0.7050523161888123, 0.29494768381118774]
+['loud', 'soft'] received scores [0.5521462559700012, 0.4478537440299988]
+['noisy', 'quiet'] received scores [0.5189912915229797, 0.48100873827934265]
+['soft', 'noisy'] received scores [0.6424757838249207, 0.35752421617507935]
+
+decades/1850s/2/the_holy_spirit_and_the_godhead_orson_pratt.txt
+
+How can the poor ignorant Indians of the forest worship acceptably until they are taught about God and about Jesus?
+
+['loud', 'quiet'] received scores [0.5851647257804871, 0.41483527421951294]
+['loud', 'soft'] received scores [0.7206349968910217, 0.2793649733066559]
+['quiet', 'noisy'] received scores [0.5628424882888794, 0.4371574819087982]
+['noisy', 'soft'] received scores [0.5868346691131592, 0.41316530108451843]
+
+decades/1850s/2/the_holy_spirit_and_the_godhead_orson_pratt.txt
+
+If we would worship the Father and the Son, we must know something about them.
+
+['quiet', 'loud'] received scores [0.5180078744888306, 0.48199212551116943]
+['loud', 'soft'] received scores [0.5498167872428894, 0.4501832127571106]
+['quiet', 'noisy'] received scores [0.6357004642486572, 0.3642995059490204]
+['soft', 'noisy'] received scores [0.5707123279571533, 0.42928770184516907]
+
+decades/1850s/2/the_judgments_of_god_on_the_united_states—the_saints_and_the_world_orson_hyde.txt
+
+Is it because the true God is more correctly and devoutly worshipped?
+
+['loud', 'quiet'] received scores [0.7569595575332642, 0.24304048717021942]
+['loud', 'soft'] received scores [0.7834455966949463, 0.21655437350273132]
+['noisy', 'quiet'] received scores [0.6915459632873535, 0.3084540367126465]
+['noisy', 'soft'] received scores [0.7225478291511536, 0.2774522006511688]
+
+decades/1850s/2/the_judgments_of_god_on_the_united_states—the_saints_and_the_world_orson_hyde.txt
+
+All that I have to say in reply to that charge is this—they worship a Savior that is too pure and holy to fulfil the commands of his Father.
+
+['quiet', 'loud'] received scores [0.6870391964912415, 0.31296083331108093]
+['loud', 'soft'] received scores [0.668813943862915, 0.33118605613708496]
+['quiet', 'noisy'] received scores [0.8100827932357788, 0.1899172067642212]
+['noisy', 'soft'] received scores [0.509646475315094, 0.4903535544872284]
+
+decades/1850s/2/the_judgments_of_god_on_the_united_states—the_saints_and_the_world_orson_hyde.txt
+
+I worship one that is just pure and holy enough "to fulfil all righteousness;" not only the righteous law of baptism, but the still more righteous and important law "to multiply and replenish the earth.
+
+['loud', 'quiet'] received scores [0.508873701095581, 0.4911263585090637]
+['loud', 'soft'] received scores [0.6491727232933044, 0.35082733631134033]
+['quiet', 'noisy'] received scores [0.728095293045044, 0.27190470695495605]
+['soft', 'noisy'] received scores [0.5999061465263367, 0.40009385347366333]
+
+decades/1850s/2/the_kingdom_of_god_brigham_young.txt
+
+These are the gods we worship, and do not believe in any other god or gods" —even they would be preserved in their individual rights and belief, as much so as the Latter-day Saints.
+
+['quiet', 'loud'] received scores [0.558906614780426, 0.4410933256149292]
+['loud', 'soft'] received scores [0.5318419337272644, 0.4681580364704132]
+['quiet', 'noisy'] received scores [0.6928470730781555, 0.3071529269218445]
+['soft', 'noisy'] received scores [0.6104483008384705, 0.38955163955688477]
+
+decades/1850s/2/the_kingdom_of_god_brigham_young.txt
+
+When the Kingdom of God is fully set up and established on the face of the earth, and takes the pre-eminence over all other nations and kingdoms, it will protect the people in the enjoyment of all their rights, no matter what they believe, what they profess, or what they worship.
+
+['quiet', 'loud'] received scores [0.540012001991272, 0.4599880278110504]
+['loud', 'soft'] received scores [0.7048473358154297, 0.2951526641845703]
+['quiet', 'noisy'] received scores [0.7268723845481873, 0.27312758564949036]
+['noisy', 'soft'] received scores [0.5130139589309692, 0.48698604106903076]
+
+decades/1850s/2/the_kingdom_of_god_brigham_young.txt
+
+If they wish to worship a god of their own workmanship, instead of the true and living God, all right, if they will mind their own business and let other people alone.
+
+['quiet', 'loud'] received scores [0.7864046096801758, 0.21359539031982422]
+['soft', 'loud'] received scores [0.6239729523658752, 0.37602704763412476]
+['quiet', 'noisy'] received scores [0.7986622452735901, 0.2013377994298935]
+['soft', 'noisy'] received scores [0.6413003206253052, 0.3586997389793396]
+
+decades/1850s/2/the_kingdom_of_god_brigham_young.txt
+
+O yes, anything you wish to be, but remember that you must not persecute your neighbors, but must mind your own business, and let your neighbors alone, and let them worship the sun, moon, a white dog, or anything else they please, being mindful that every knee has got to bow and every tongue confess.
+
+['quiet', 'loud'] received scores [0.8431002497673035, 0.15689976513385773]
+['soft', 'loud'] received scores [0.5939730405807495, 0.4060268998146057]
+['quiet', 'noisy'] received scores [0.9040183424949646, 0.0959816426038742]
+['soft', 'noisy'] received scores [0.719428539276123, 0.28057152032852173]
+
+decades/1850s/2/the_kingdom_of_god_brigham_young.txt
+
+When you have paid this tribute to the Most High, who created you and preserves you, you may then go and worship what you please, or do what you please, if you do not infringe upon your neighbors.
+
+['quiet', 'loud'] received scores [0.8021544218063354, 0.19784560799598694]
+['soft', 'loud'] received scores [0.8180204629898071, 0.18197953701019287]
+['quiet', 'noisy'] received scores [0.8145867586135864, 0.18541328608989716]
+['soft', 'noisy'] received scores [0.8296675086021423, 0.17033250629901886]
+
+decades/1850s/2/the_perpetual_emigrating_fund—emigration_of_the_saints_and_the_nations_orson_pratt.txt
+
+The Lord is going to gather His Saints, and we are already gathered, a great host of us, into this territory; but let me tell you this is hardly a beginning; many nations are yet to be gathered unto the name of the Lord of Hosts, unto Mount Zion, where they can be taught in the ways of the Lord, and be instructed to walk in His paths, and understand the principles of true government, and their duties towards one another, and towards the God whom they profess to worship and serve.
+
+['loud', 'quiet'] received scores [0.6599084734916687, 0.3400915265083313]
+['loud', 'soft'] received scores [0.8357515335083008, 0.16424843668937683]
+['quiet', 'noisy'] received scores [0.5938134789466858, 0.4061864912509918]
+['noisy', 'soft'] received scores [0.6420589685440063, 0.35794103145599365]
+
+decades/1850s/2/the_perpetual_emigrating_fund—emigration_of_the_saints_and_the_nations_orson_pratt.txt
+
+It was not the invention of man, nor the power and wisdom of man, that organized this kingdom, but the God we worship and serve, who made the heavens and the earth.
+
+['loud', 'quiet'] received scores [0.5364967584609985, 0.46350327134132385]
+['loud', 'soft'] received scores [0.6218999624252319, 0.37810006737709045]
+['quiet', 'noisy'] received scores [0.6758618354797363, 0.32413819432258606]
+['soft', 'noisy'] received scores [0.5947037935256958, 0.4052962064743042]
+
+decades/1850s/3/comprehensiveness_of_the_gospel—truth_the_bond_of_union—men_must_work_out_their_own_salvation_amasa_m._lyman.txt
+
+This review of the matter has led me to conclude that it is not the heathen nations alone—as we denominate them in contradistinction to the Christian world—that are groveling in darkness, that are worshiping they know not what, and that are seeing they know not what, but that it is actually the case with thousands who have subscribed to the doctrine God has revealed in the last days, even the Gospel as a system of truth and salvation.
+
+['loud', 'quiet'] received scores [0.5567383170127869, 0.44326168298721313]
+['loud', 'soft'] received scores [0.6750494241714478, 0.32495060563087463]
+['noisy', 'quiet'] received scores [0.5842715501785278, 0.4157284200191498]
+['noisy', 'soft'] received scores [0.6992042064666748, 0.3007957935333252]
+
+decades/1850s/3/disinclination_of_men_to_learn_through_the_teachings_and_experience_of_others—latter-day_saints_compared_with_those_of_former_da.txt
+
+And if I wished to go to meeting and worship God, it was just as acceptable to do so on Saturday as on Sunday.
+
+['quiet', 'loud'] received scores [0.6811483502388, 0.31885167956352234]
+['soft', 'loud'] received scores [0.6056197881698608, 0.3943801820278168]
+['quiet', 'noisy'] received scores [0.7996463179588318, 0.20035366714000702]
+['soft', 'noisy'] received scores [0.7415362000465393, 0.2584637999534607]
+
+decades/1850s/3/elders_called_to_go_on_missions—existence_of_good_and_evil_spirits,_and_of_holy_angels_heber_c._kimball.txt
+
+I know that men come here and act on a principle of policy to get trade, but with us, dollars and dimes are not objects of worship, for we love to deal with the true principles of righteousness.
+
+['quiet', 'loud'] received scores [0.5581415295600891, 0.44185853004455566]
+['loud', 'soft'] received scores [0.5337806344032288, 0.466219425201416]
+['quiet', 'noisy'] received scores [0.6725165247917175, 0.3274834156036377]
+['soft', 'noisy'] received scores [0.5867722630500793, 0.41322770714759827]
+
+decades/1850s/3/eternal_increase_of_knowledge—necessity_of_cleaving_to_every_good_principle—men_are_not_made_saints_by_miraculous_gifts,_but_thr.txt
+
+When your spirit wishes to worship the Father, and your body is so full of weakness or wickedness, that you feel as though you could not do it, go to and bring your body into subjection; bow the knee and confess that Jesus is the Christ, if it is darker than 10,000 midnights in your minds; say, "I am for the Lord anyhow.
+
+['quiet', 'loud'] received scores [0.6229377388954163, 0.37706226110458374]
+['soft', 'loud'] received scores [0.5072556734085083, 0.4927443563938141]
+['quiet', 'noisy'] received scores [0.7117562890052795, 0.28824377059936523]
+['soft', 'noisy'] received scores [0.6060927510261536, 0.39390724897384644]
+
+decades/1850s/3/eternal_increase_of_knowledge—necessity_of_cleaving_to_every_good_principle—men_are_not_made_saints_by_miraculous_gifts,_but_thr.txt
+
+No, but get down knees, bend yourselves upon the floor, and mouth, open; tongue, speak; and we will see what will come forth, and you shall worship the Lord God of Israel, even when you feel as though you could not say a word in His favor.
+
+['quiet', 'loud'] received scores [0.8763507008552551, 0.12364933639764786]
+['soft', 'loud'] received scores [0.7049888372421265, 0.29501116275787354]
+['quiet', 'noisy'] received scores [0.8758364319801331, 0.12416359037160873]
+['soft', 'noisy'] received scores [0.7040026783943176, 0.29599741101264954]
+
+decades/1850s/3/faith—practical_religion—chastisement—necessity_of_devils_brigham_young.txt
+
+If Saints, assembled to worship the Lord and transact business pertaining to His kingdom, should not have the aid of His Spirit they would be likely to commit errors, it would be strange indeed if they did not, and to do that which they ought not, even in business transactions; they would fall short of accomplishing their own wishes, and of course far short of fulfilling the designs of heaven.
+
+['quiet', 'loud'] received scores [0.525911271572113, 0.4740886986255646]
+['loud', 'soft'] received scores [0.6845977306365967, 0.3154022991657257]
+['quiet', 'noisy'] received scores [0.7333493232727051, 0.2666506767272949]
+['soft', 'noisy'] received scores [0.5331916213035583, 0.4668083190917969]
+
+decades/1850s/3/iniquity—saints_living_their_religion—early_marriages_heber_c._kimball.txt
+
+Joseph would many times ostensibly hold men up to see whether this people would worship them, to see whether they had discernment enough to know the difference between a righteous man and a wicked one, and if we preferred the society of a blackleg, or of a whoremaster, or of any other abominable character, he was perfectly willing that we should have the opportunity to prove ourselves.
+
+['loud', 'quiet'] received scores [0.7316188812255859, 0.26838114857673645]
+['loud', 'soft'] received scores [0.8141970038414001, 0.18580298125743866]
+['noisy', 'quiet'] received scores [0.5331556797027588, 0.4668443500995636]
+['noisy', 'soft'] received scores [0.6473660469055176, 0.35263389348983765]
+
+decades/1850s/3/irrigation—every_saint_should_labor_for_the_interest_of_the_community—it_is_the_lord_that_gives_the_increase—etc_brigham_young.txt
+
+I know when I sow the wheat and water it that I cannot give the increase, for that is in the hands of the Almighty; and when it is time to worship the Lord, I will leave all and worship Him.
+
+['quiet', 'loud'] received scores [0.704064667224884, 0.29593533277511597]
+['soft', 'loud'] received scores [0.5037964582443237, 0.4962035119533539]
+['quiet', 'noisy'] received scores [0.8607632517814636, 0.1392367035150528]
+['soft', 'noisy'] received scores [0.7251396179199219, 0.27486035227775574]
+
+decades/1850s/3/irrigation—every_saint_should_labor_for_the_interest_of_the_community—it_is_the_lord_that_gives_the_increase—etc_brigham_young.txt
+
+As I said yesterday to a Bishop who was mending a breach in the canal, and expressed a wish to continue his labor on the following Sabbath, as his wheat was burning up, let it burn, when the time comes that is set apart for worship, go up and worship the Lord.
+
+['loud', 'quiet'] received scores [0.6871129870414734, 0.3128870129585266]
+['loud', 'soft'] received scores [0.7834351062774658, 0.21656487882137299]
+['quiet', 'noisy'] received scores [0.6116885542869568, 0.3883114457130432]
+['noisy', 'soft'] received scores [0.5111795663833618, 0.4888203740119934]
+
+decades/1850s/3/literal_fulfillment_of_prophecy—destruction_of_jerusalem—restoration_of_israel—the_coming_of_christ_parley_p._pratt.txt
+
+Some of the disciples, feeling proud of their great temple, or national house of God, and feeling to rejoice in its workmanship, beauty, grandeur, and probably flattering themselves it would endure forever as the great center of the Jewish worship for all nations, they called the attention of Jesus to it, saying, "Master, see what manner of stones and buildings are here.
+
+['loud', 'quiet'] received scores [0.840848445892334, 0.15915150940418243]
+['loud', 'soft'] received scores [0.700352668762207, 0.29964733123779297]
+['noisy', 'quiet'] received scores [0.6203747987747192, 0.3796251118183136]
+['soft', 'noisy'] received scores [0.5804053544998169, 0.4195947051048279]
+
+decades/1850s/3/literal_fulfillment_of_prophecy—destruction_of_jerusalem—restoration_of_israel—the_coming_of_christ_parley_p._pratt.txt
+
+They were looking for this, and they had rejected the true Messiah, and were about to kill him, and were looking for another to fulfil what all men were in the expectation of; for the old Prophets had told them that such a day would come, in relation to that nation, and their city Jerusalem, and the temple; that the throne of God would be there; that the tabernacle of God would be there; that there would be one king and one Lord, and his name one; that all the nations of the earth would come up to worship—the nations they were acquainted with in that country.
+
+['loud', 'quiet'] received scores [0.5746082663536072, 0.42539167404174805]
+['loud', 'soft'] received scores [0.7502631545066833, 0.24973683059215546]
+['quiet', 'noisy'] received scores [0.6813042759895325, 0.31869569420814514]
+['noisy', 'soft'] received scores [0.5098901391029358, 0.49010980129241943]
+
+decades/1850s/3/literal_fulfillment_of_prophecy—destruction_of_jerusalem—restoration_of_israel—the_coming_of_christ_parley_p._pratt.txt
+
+And it is said, in the history written by Josephus, that one million and a half of Jews perished in that siege, that is, in that one city, in putting an end to a  national polity; a national corrupted form of government, a national priesthood, a national house of worship.
+
+['loud', 'quiet'] received scores [0.9421989321708679, 0.05780106037855148]
+['loud', 'soft'] received scores [0.7889280915260315, 0.2110719382762909]
+['noisy', 'quiet'] received scores [0.8853653073310852, 0.11463466286659241]
+['noisy', 'soft'] received scores [0.6391131281852722, 0.3608868718147278]
+
+decades/1850s/3/mahometanism_and_christianity_parley_p._pratt.txt
+
+Mahometanism included the doctrine that there was one God—that He was great, even the creator of all things, and that the people by right should worship Him.
+
+['quiet', 'loud'] received scores [0.6891492009162903, 0.3108508586883545]
+['soft', 'loud'] received scores [0.5569586753845215, 0.4430413544178009]
+['quiet', 'noisy'] received scores [0.7726381421089172, 0.22736184298992157]
+['soft', 'noisy'] received scores [0.65835040807724, 0.3416496515274048]
+
+decades/1850s/3/mahometanism_and_christianity_parley_p._pratt.txt
+
+History abundantly shows the followers of Mahomet did not take the sword, either to enforce their religion or to defend themselves, until compelled to do so by the persecutions of their enemies, and then it was the only alternative that presented itself, to take up the sword and put down idolatry, and establish the worship of the one God; or, on the other hand, be crushed and cease to be, on account of the idolatrous nations around them; they  seemed to act on the defensive, although it might legally be considered aggression.
+
+['loud', 'quiet'] received scores [0.8421373963356018, 0.1578626185655594]
+['loud', 'soft'] received scores [0.774890124797821, 0.22510986030101776]
+['noisy', 'quiet'] received scores [0.6836293935775757, 0.31637054681777954]
+['noisy', 'soft'] received scores [0.5823472142219543, 0.41765278577804565]
+
+decades/1850s/3/mahometanism_and_christianity_parley_p._pratt.txt
+
+The Greek and Roman Churches, which have been called Christian, and which take the name of Christians as a cloak, have worshipped innumerable idols.
+
+['loud', 'quiet'] received scores [0.6666495203971863, 0.33335044980049133]
+['soft', 'loud'] received scores [0.5681530237197876, 0.4318470358848572]
+['noisy', 'quiet'] received scores [0.566336452960968, 0.4336635172367096]
+['soft', 'noisy'] received scores [0.6682919859886169, 0.33170801401138306]
+
+decades/1850s/3/mahometanism_and_christianity_parley_p._pratt.txt
+
+On this account, on the simple subject of the Deity and His worship, if nothing more, I should rather incline, of the two, after all my early traditions, education, and prejudices, to the side of Mahomet, for on this point he is on the side of truth, and the Christian world on the side of idolatry and heathenism.
+
+['loud', 'quiet'] received scores [0.7608104944229126, 0.2391895204782486]
+['loud', 'soft'] received scores [0.7816368937492371, 0.21836313605308533]
+['noisy', 'quiet'] received scores [0.5340567827224731, 0.46594321727752686]
+['noisy', 'soft'] received scores [0.5632939338684082, 0.4367060661315918]
+
+decades/1850s/3/mahometanism_and_christianity_parley_p._pratt.txt
+
+Jesus Christ, whom we worship as the Son of God, and the Savior of the world, has body, parts, and passions, and he is like his Father; he is the express image of his Father's person and the brightness of His glory, whom we also worship.
+
+['loud', 'quiet'] received scores [0.9178425073623657, 0.08215747028589249]
+['loud', 'soft'] received scores [0.8350427746772766, 0.164957195520401]
+['noisy', 'quiet'] received scores [0.6657838821411133, 0.33421602845191956]
+['soft', 'noisy'] received scores [0.5255810618400574, 0.474418967962265]
+
+decades/1850s/3/mahometanism_and_christianity_parley_p._pratt.txt
+
+Therefore, in that sense, in the very foundation of their creeds they are idolaters; and instead of saying that Mahometanism prevailed against Christianity, and that Christianity was in danger of being done away by its prevalence, we would rather say, that where Mahometanism prevailed, it taught and established one truth at least, viz., the true and living God, and so far as this went, it did preserve people from worshipping idols.
+
+['quiet', 'loud'] received scores [0.5380663275718689, 0.4619337022304535]
+['loud', 'soft'] received scores [0.5295400023460388, 0.47046002745628357]
+['quiet', 'noisy'] received scores [0.5999805927276611, 0.40001946687698364]
+['soft', 'noisy'] received scores [0.5335808396339417, 0.46641913056373596]
+
+decades/1850s/3/mahometanism_and_christianity_parley_p._pratt.txt
+
+And had the crescent waved on the tower of London, or on the church of St. Paul, instead of the cross, and had the Mahometan religion been enforced instead of the Roman religion that was enforced for a series of generations, and had tradition riveted what the sword enforced, then that nation and the surrounding nations would have been worshippers of one true God instead of idols; they would have recognized it in theory at least, whether they would have worshipped Him in spirit and in truth or not.
+
+['loud', 'quiet'] received scores [0.6271995902061462, 0.37280046939849854]
+['loud', 'soft'] received scores [0.7388100028038025, 0.2611900269985199]
+['noisy', 'quiet'] received scores [0.528640866279602, 0.47135916352272034]
+['noisy', 'soft'] received scores [0.6534547805786133, 0.3465452194213867]
+
+decades/1850s/3/mahometanism_and_christianity_parley_p._pratt.txt
+
+Setting aside this one point, they acknowledge and worship innumerable idols, pictures, images, &c., amounting almost to an infinite number, in every place where Christianity has been blended with the civil power, and enforced and established by law under the one great standard called Catholic—imaginary deities that are the works of men's hands, and to which they actually and literally bow down.
+
+['quiet', 'loud'] received scores [0.5344164967536926, 0.46558353304862976]
+['loud', 'soft'] received scores [0.6125531792640686, 0.38744691014289856]
+['noisy', 'quiet'] received scores [0.5257270932197571, 0.4742729365825653]
+['noisy', 'soft'] received scores [0.6679527163505554, 0.3320472538471222]
+
+decades/1850s/3/mahometanism_and_christianity_parley_p._pratt.txt
+
+In such countries, you can contemplate that religion in all its open and unveiled idolatry; it is there you will see more fully exhibited the practice of worshipping images, of bowing down to dumb idols in the shape of pictures, images, saint worship, angel worship, &c., &c.
+
+['loud', 'quiet'] received scores [0.8538366556167603, 0.14616335928440094]
+['loud', 'soft'] received scores [0.7528645992279053, 0.24713538587093353]
+['noisy', 'quiet'] received scores [0.7963610291481018, 0.2036389410495758]
+['noisy', 'soft'] received scores [0.6709838509559631, 0.32901614904403687]
+
+decades/1850s/3/mahometanism_and_christianity_parley_p._pratt.txt
+
+This is the idolatry that prevails more manifestly in the countries where religion is the law, but it also prevails right in our own country, because there is a liberty of conscience to worship what you please.
+
+['loud', 'quiet'] received scores [0.9790018200874329, 0.020998183637857437]
+['loud', 'soft'] received scores [0.95783531665802, 0.0421646311879158]
+['noisy', 'quiet'] received scores [0.9040305018424988, 0.09596949815750122]
+['noisy', 'soft'] received scores [0.8211016654968262, 0.17889833450317383]
+
+decades/1850s/3/mahometanism_and_christianity_parley_p._pratt.txt
+
+Now, if we take Mahometanism during those dark ages, and the corruptions that are so universally prevalent over the earth, and the idolatrous systems of religion, falsely called Christianity, and weigh them in a balance; with all my education in favor of Christian nations and Christian powers, and Christian institutions, so called, with all my prejudices of early youth, and habits of thought and reading, my rational faculties would compel me to admit that the Mahometan history and Mahometan doctrine was a standard raised against the most corrupt and abominable idolatry that ever perverted our earth, found in the creeds and worship of Christians, falsely so named.
+
+['quiet', 'loud'] received scores [0.5753747820854187, 0.4246251583099365]
+['loud', 'soft'] received scores [0.7185112237930298, 0.2814887762069702]
+['quiet', 'noisy'] received scores [0.6946495771408081, 0.3053504228591919]
+['noisy', 'soft'] received scores [0.6032334566116333, 0.3967665135860443]
+
+decades/1850s/3/mahometanism_and_christianity_parley_p._pratt.txt
+
+If such institutions actually professed wickedness, they would go for what they were worth; but when a thing professes to be holy, and takes the name of Christ as its founder, and the holy Prophets and Apostles, to carry out all manner of oppression, all manner of idolatry and idol worship, all manner of priestcraft and kingcraft, and more or less instigating division among nations and governments, all to carry out bloodshed, cruelty, the rack, the inquisition, and holding of men in bondage, ruling them with a rod of iron, it is a mystery of iniquity calculated to deceive millions.
+
+['loud', 'quiet'] received scores [0.7021875381469727, 0.29781240224838257]
+['soft', 'loud'] received scores [0.5547682642936707, 0.44523176550865173]
+['noisy', 'quiet'] received scores [0.7195066809654236, 0.2804933786392212]
+['soft', 'noisy'] received scores [0.5338671803474426, 0.466132789850235]
+
+decades/1850s/3/mahometanism_and_christianity_parley_p._pratt.txt
+
+So far as that one point is concerned, of worshipping the one true God under the name of Mahometanism, together with many moral precepts, and in war only acting on the defensive, I think they have exceeded in righteousness and truthfulness of religion, the idolatrous and corrupt church that has borne the name of Christianity.
+
+['loud', 'quiet'] received scores [0.7908642888069153, 0.2091357409954071]
+['loud', 'soft'] received scores [0.8533953428268433, 0.14660464227199554]
+['noisy', 'quiet'] received scores [0.5833654403686523, 0.41663452982902527]
+['noisy', 'soft'] received scores [0.6830762028694153, 0.3169237971305847]
+
+decades/1850s/3/necessity_of_home_missions—purification_of_the_saints—chastisement—honesty_in_business_brigham_young.txt
+
+When all the male members of Israel were obliged to go up to Jerusalem twice a year to worship, pay tribute, &c., probably their congregations were larger than the one today, but no other denomination in all Christendom assembles so many people, at one meeting, as we now have in this Conference.
+
+['loud', 'quiet'] received scores [0.8494401574134827, 0.15055984258651733]
+['loud', 'soft'] received scores [0.8983014822006226, 0.10169848054647446]
+['noisy', 'quiet'] received scores [0.5660619735717773, 0.43393799662590027]
+['noisy', 'soft'] received scores [0.6713017225265503, 0.3286982774734497]
+
+decades/1850s/3/the_advantages_of_the_latter-day_saints,_compared_with_the_disadvantages_under_which_noah_labored,_etc_orson_pratt.txt
+
+Again, we are told that where two or three are assembled to worship the Lord in the right and proper way, they have claim to greater blessings than the man that bows down to worship by himself; and why is this?
+
+['loud', 'quiet'] received scores [0.7574123740196228, 0.2425876259803772]
+['loud', 'soft'] received scores [0.6720390915870667, 0.32796090841293335]
+['quiet', 'noisy'] received scores [0.5304489731788635, 0.46955105662345886]
+['soft', 'noisy'] received scores [0.632526159286499, 0.367473840713501]
+
+decades/1850s/3/the_advantages_of_the_latter-day_saints,_compared_with_the_disadvantages_under_which_noah_labored,_etc_orson_pratt.txt
+
+No wonder, then, that there should be power enough centered among the Latter-day Saints to excite the distant nations of the earth, and cause many of them to come from afar to worship in His house upon the tops of the mountains!
+
+['loud', 'quiet'] received scores [0.9889795184135437, 0.011020500212907791]
+['loud', 'soft'] received scores [0.9868566989898682, 0.013143264688551426]
+['noisy', 'quiet'] received scores [0.9741312265396118, 0.025868721306324005]
+['noisy', 'soft'] received scores [0.9692374467849731, 0.030762583017349243]
+
+decades/1850s/3/the_advantages_of_the_latter-day_saints,_compared_with_the_disadvantages_under_which_noah_labored,_etc_orson_pratt.txt
+
+You that have searched into the history of this Church; you that have read the sacred, pure, and heavenly principles contained in the Book of Mormon, and in the Book of Doctrine and Covenants; you that have heard the sacred principles proclaimed from Sabbath to Sabbath by the mouths of the servants of God, holding the authority of heaven, the living Priesthood in your midst—you that have seen the power of the Almighty working with an invisible hand among the nations of the earth, but very visible to you in bringing about His purposes, establishing you as a free people, organizing you according to the laws of the land, breaking off your yokes and enabling you to worship God according to the great revelations and commandments that He has given; you, that have been so highly blessed, ought never to doubt.
+
+['loud', 'quiet'] received scores [0.6203364133834839, 0.3796635568141937]
+['loud', 'soft'] received scores [0.7884716391563416, 0.21152839064598083]
+['quiet', 'noisy'] received scores [0.7178069949150085, 0.28219303488731384]
+['soft', 'noisy'] received scores [0.5271853804588318, 0.472814679145813]
+
+decades/1850s/3/the_faith_and_visions_of_the_ancient_saints—the_same_great_blessings_to_be_enjoyed_by_the_latter-day_saints_orson_pratt.txt
+
+We have a circumstance in relation to Moses' being tempted; when the vision withdrew, and the heavens closed, the devil presented himself and said, "Moses, son of man, worship me.
+
+['loud', 'quiet'] received scores [0.8871541023254395, 0.11284586042165756]
+['loud', 'soft'] received scores [0.7302367687225342, 0.2697632610797882]
+['noisy', 'quiet'] received scores [0.8395911455154419, 0.1604088842868805]
+['noisy', 'soft'] received scores [0.6431396007537842, 0.3568603992462158]
+
+decades/1850s/3/the_first_principles_of_the_gospel_parley_p._pratt.txt
+
+Says he, "The God of Abraham, Isaac, and Jacob, is the God you profess to worship; but," says he, "I want you to understand that He is not the God of the dead, for what glory would their be in that?
+
+['loud', 'quiet'] received scores [0.7269324064254761, 0.2730675935745239]
+['loud', 'soft'] received scores [0.8223521709442139, 0.17764779925346375]
+['quiet', 'noisy'] received scores [0.5489553809165955, 0.45104461908340454]
+['noisy', 'soft'] received scores [0.5882657766342163, 0.4117341935634613]
+
+decades/1850s/3/the_gospel_of_salvation—a_vision—redemption_of_the_earth_and_all_that_pertains_to_it_brigham_young.txt
+
+And we beheld the glory of the Son, on the right hand of the Father, and received of his fulness; And saw the holy angels, and them who are sanctified before his throne, worshipping God, and the Lamb, who worship him forever and ever.
+
+['loud', 'quiet'] received scores [0.7222281098365784, 0.277771919965744]
+['loud', 'soft'] received scores [0.7025397419929504, 0.29746028780937195]
+['quiet', 'noisy'] received scores [0.5901187062263489, 0.40988126397132874]
+['soft', 'noisy'] received scores [0.6131507158279419, 0.3868492543697357]
+
+decades/1850s/3/the_gospel_of_salvation—a_vision—redemption_of_the_earth_and_all_that_pertains_to_it_brigham_young.txt
+
+I have been used to this method of worship, or that; and have heard the good old tone, all the days of my life.
+
+['quiet', 'loud'] received scores [0.7122818231582642, 0.28771817684173584]
+['soft', 'loud'] received scores [0.7881442308425903, 0.21185576915740967]
+['quiet', 'noisy'] received scores [0.8775017857551575, 0.12249815464019775]
+['soft', 'noisy'] received scores [0.9149994850158691, 0.08500050753355026]
+
+decades/1850s/3/the_history_of_mahomedanism_george_a._smith.txt
+
+We also read that when the Savior was taken by the tempter on to an exceeding high mountain, he showed him the kingdoms of the world, and the glory of them, saying, "All these will I give unto thee, if thou wilt fall down and worship me," although "the poor devil" did not own a single foot of it.
+
+['loud', 'quiet'] received scores [0.8106474876403809, 0.18935252726078033]
+['loud', 'soft'] received scores [0.687400221824646, 0.312599778175354]
+['noisy', 'quiet'] received scores [0.6625017523765564, 0.3374982476234436]
+['noisy', 'soft'] received scores [0.5020582675933838, 0.4979417324066162]
+
+decades/1850s/3/the_history_of_mahomedanism_george_a._smith.txt
+
+This proves that Satan considered himself so much in possession of the earth, as to actually exclude the Savior's supremacy entirely, and wished to place him in a position that it might never be acknowledged; but the Savior said, "Get thee behind me, Satan: Thou shalt worship the Lord thy God, and him only shalt thou serve.
+
+['loud', 'quiet'] received scores [0.7742820978164673, 0.2257179319858551]
+['loud', 'soft'] received scores [0.7709199786186218, 0.2290799915790558]
+['noisy', 'quiet'] received scores [0.5728117227554321, 0.4271882474422455]
+['noisy', 'soft'] received scores [0.5681226253509521, 0.43187740445137024]
+
+decades/1850s/3/the_history_of_mahomedanism_george_a._smith.txt
+
+He was set upon by that powerful and popular tribe, the Koreish, who were determined to destroy him, as he proclaimed that their idol gods were all a humbug, and setting forth but one true and living God for them to worship.
+
+['loud', 'quiet'] received scores [0.8556786775588989, 0.1443212926387787]
+['loud', 'soft'] received scores [0.8730104565620422, 0.12698952853679657]
+['noisy', 'quiet'] received scores [0.7944478988647461, 0.2055521160364151]
+['noisy', 'soft'] received scores [0.8175652027130127, 0.1824348121881485]
+
+decades/1850s/3/the_history_of_mahomedanism_george_a._smith.txt
+
+Mahomet continued preaching; there was nothing in his religion to license iniquity or corruption; he preached the moral doctrines which the Savior taught; viz., to do as they would be done by; and not to do violence to any man, nor to render evil for evil; and to worship one God.
+
+['loud', 'quiet'] received scores [0.715195894241333, 0.2848041355609894]
+['loud', 'soft'] received scores [0.6181913614273071, 0.38180869817733765]
+['quiet', 'noisy'] received scores [0.5993871688842773, 0.4006127715110779]
+['soft', 'noisy'] received scores [0.6988418102264404, 0.3011581599712372]
+
+decades/1850s/3/the_history_of_mahomedanism_george_a._smith.txt
+
+He destroyed the idols in the Kaaba, the temple of Mecca, and dedicated it to be the great temple of Mahomet, and the center of Mahometan worship, which position it has held up to the present time.
+
+['quiet', 'loud'] received scores [0.5023717284202576, 0.49762827157974243]
+['loud', 'soft'] received scores [0.6465089321136475, 0.3534910976886749]
+['quiet', 'noisy'] received scores [0.6641941070556641, 0.3358059227466583]
+['soft', 'noisy'] received scores [0.5171995162963867, 0.4828004539012909]
+
+decades/1850s/3/the_leaven_of_the_gospel—the_saints_should_divest_themselves_of_old_traditions—policy_of_making_good_farms_and_storing_up_grain_.txt
+
+Thus you must see that some temporal arrangements are necessary, to enable men to enjoy that quiet which would be desirable in attempting to worship our Heavenly Father.
+
+['quiet', 'loud'] received scores [0.9596186876296997, 0.0403812974691391]
+['soft', 'loud'] received scores [0.7504489421844482, 0.24955111742019653]
+['quiet', 'noisy'] received scores [0.9194736480712891, 0.08052632212638855]
+['soft', 'noisy'] received scores [0.5909891128540039, 0.4090108871459961]
+
+decades/1850s/3/the_necessity_of_the_saints_having_the_spirit_of_revelation—faith_and_works—the_power_of_god_and_of_the_devil_brigham_young.txt
+
+Your own Bible teaches you that Samuel was a Prophet of God, and that she had power to raise him from the dead; then, why don't you worship her as a great saint?
+
+['loud', 'quiet'] received scores [0.6782897710800171, 0.3217101991176605]
+['soft', 'loud'] received scores [0.5023199915885925, 0.49768003821372986]
+['noisy', 'quiet'] received scores [0.5490172505378723, 0.4509827792644501]
+['soft', 'noisy'] received scores [0.636106014251709, 0.363893985748291]
+
+decades/1850s/3/the_present_scarcity_of_food—exhortation_to_the_bishops_to_take_care_of_the_poor—the_failure_of_the_crops_will_prove_a_blessing_.txt
+
+We are enjoying happiness, we can worship our God and keep His commandments, and listen to the voice of His servants without molestation, without being afraid or annoyed, without expecting a mob on the right hand and on the left.
+
+['quiet', 'loud'] received scores [0.9468712210655212, 0.05312876030802727]
+['soft', 'loud'] received scores [0.8210835456848145, 0.17891643941402435]
+['quiet', 'noisy'] received scores [0.9724810123443604, 0.027518944814801216]
+['soft', 'noisy'] received scores [0.9009867906570435, 0.09901322424411774]
+
+decades/1850s/3/the_present_scarcity_of_food—exhortation_to_the_bishops_to_take_care_of_the_poor—the_failure_of_the_crops_will_prove_a_blessing_.txt
+
+We have no old recruits, in one sense, but we are all new recruits, enlisted under the same banner, worshipping the same God, and united under the same brotherhood of Latter-day Saints which always pertains to the Priesthood of God.
+
+['quiet', 'loud'] received scores [0.6284968256950378, 0.37150323390960693]
+['loud', 'soft'] received scores [0.661186933517456, 0.3388131260871887]
+['quiet', 'noisy'] received scores [0.7792399525642395, 0.2207600176334381]
+['soft', 'noisy'] received scores [0.5167141556739807, 0.4832858443260193]
+
+decades/1850s/3/those_saints_who_have_not_seen_the_wickedness_of_the_world_cannot_appreciate_their_blessings—be_just_in_all_things—the_evil_resu.txt
+
+And we all say, that when we return home we shall know how to prize our fathers and mothers, and the society of the Saints, where we can sit down and  worship God with none to molest nor make afraid.
+
+['loud', 'quiet'] received scores [0.5488939881324768, 0.4511060118675232]
+['loud', 'soft'] received scores [0.7821801900863647, 0.21781976521015167]
+['quiet', 'noisy'] received scores [0.7908064126968384, 0.20919358730316162]
+['soft', 'noisy'] received scores [0.56158047914505, 0.43841949105262756]
+
+decades/1850s/3/times_for_all_things—prayer—chastisement—unity—faithfulness—reverence_for_sacred_things—reformation_brigham_young.txt
+
+I request those who profess to be Saints to exercise faith, and to endeavor to realize that the worship of God is sacred, and beneficial to His people.
+
+['loud', 'quiet'] received scores [0.5352188348770142, 0.46478116512298584]
+['loud', 'soft'] received scores [0.5918909907341003, 0.40810903906822205]
+['quiet', 'noisy'] received scores [0.6912551522254944, 0.3087448477745056]
+['soft', 'noisy'] received scores [0.6399886012077332, 0.36001133918762207]
+
+decades/1850s/3/times_for_all_things—prayer—chastisement—unity—faithfulness—reverence_for_sacred_things—reformation_brigham_young.txt
+
+Inasmuch as there is a time for all things, and as this is the time that we have unitedly set apart for the express purpose of worshipping the Lord, and of enjoying His Holy Spirit by calling in our reflections pertaining to earthly things and objects, that we may attend more immediately to a deep reflection and contemplation of heavenly things, it is necessary for these my brethren, who have accompanied me, to this place, to bring their thoughts to bear upon the things that are present, and while we are here, to let Great Salt Lake City remain where it is—don't bring it here.
+
+['quiet', 'loud'] received scores [0.8640162944793701, 0.13598372042179108]
+['loud', 'soft'] received scores [0.5057144165039062, 0.49428561329841614]
+['quiet', 'noisy'] received scores [0.888386607170105, 0.11161339282989502]
+['soft', 'noisy'] received scores [0.5504405498504639, 0.44955942034721375]
+
+decades/1850s/3/times_for_all_things—prayer—chastisement—unity—faithfulness—reverence_for_sacred_things—reformation_brigham_young.txt
+
+Those who have left their families at home, and are away from their houses, cattle, fields, flocks, herds, and other possessions, and also all who have assembled from the different settlements in this county, one and all, let all your affairs, those that you were obliged to leave at home, stay where they are, and you stay here and worship the Lord.
+
+['quiet', 'loud'] received scores [0.776792049407959, 0.2232079654932022]
+['loud', 'soft'] received scores [0.7109097242355347, 0.2890903353691101]
+['quiet', 'noisy'] received scores [0.9102616310119629, 0.0897383838891983]
+['soft', 'noisy'] received scores [0.5423876643180847, 0.45761239528656006]
+
+decades/1850s/3/times_for_all_things—prayer—chastisement—unity—faithfulness—reverence_for_sacred_things—reformation_brigham_young.txt
+
+When people assemble to worship they should leave their worldly cares where they belong, then their minds are in a proper condition to worship the Lord, to call upon Him in the name of Jesus, and to get His Holy Spirit, that they may hear and understand things as they are in eternity, and know how to comprehend the providences of our God.
+
+['quiet', 'loud'] received scores [0.52546626329422, 0.47453370690345764]
+['loud', 'soft'] received scores [0.6131711602210999, 0.38682883977890015]
+['quiet', 'noisy'] received scores [0.7980899214744568, 0.2019100934267044]
+['soft', 'noisy'] received scores [0.6924894452095032, 0.3075105547904968]
+
+decades/1850s/3/times_for_all_things—prayer—chastisement—unity—faithfulness—reverence_for_sacred_things—reformation_brigham_young.txt
+
+Let all leave the cares of their work behind them; let the kitchens take care of themselves, and let the barns, the flocks and herds take care of themselves, and if they are destroyed while you are praying, be able to freely say, "Go, they are the Lord's; He gave them to me, and I will worship Him; I will assemble my family and call upon the name of my God.
+
+['quiet', 'loud'] received scores [0.8041465282440186, 0.19585351645946503]
+['soft', 'loud'] received scores [0.5144480466842651, 0.4855518937110901]
+['quiet', 'noisy'] received scores [0.903925359249115, 0.09607461839914322]
+['soft', 'noisy'] received scores [0.7082739472389221, 0.29172608256340027]
+
+decades/1850s/3/times_for_all_things—prayer—chastisement—unity—faithfulness—reverence_for_sacred_things—reformation_brigham_young.txt
+
+By leaving business and the cares thereof where they belong, and attending strictly to worship in its season, if not at first, you soon will be united,  and be able to bring every evil principle into subjection.
+
+['quiet', 'loud'] received scores [0.6440391540527344, 0.3559608459472656]
+['loud', 'soft'] received scores [0.634137749671936, 0.36586230993270874]
+['quiet', 'noisy'] received scores [0.7996715903282166, 0.20032842457294464]
+['soft', 'noisy'] received scores [0.5600327849388123, 0.43996718525886536]
+
+decades/1850s/3/times_for_all_things—prayer—chastisement—unity—faithfulness—reverence_for_sacred_things—reformation_brigham_young.txt
+
+That is not the right way to pray, but let everyone throw off care for their effects, for the Lord knows all about them; He protects them while we are with them; and He is equally able to protect them while we are absent; therefore, while engaged in worshipping Him, let every heart be concentrated upon the subject before them.
+
+['quiet', 'loud'] received scores [0.7067980170249939, 0.2932020425796509]
+['soft', 'loud'] received scores [0.7605271935462952, 0.23947279155254364]
+['quiet', 'noisy'] received scores [0.828376293182373, 0.17162372171878815]
+['soft', 'noisy'] received scores [0.8641097545623779, 0.13589024543762207]
+
+decades/1850s/4/application_of_the_words_of_helaman_to_the_condition_of_the_latter-day_saints_heber_c._kimball.txt
+
+And when we read the Bible and the Book of Mormon, we are led to contrast the proceedings of the former-day Saints on this continent with the travels and course of this people; and to reflect that many of us have been rooted up and driven some five or six times, and that last of all we are driven here into the Valleys of the Mountains, a thousand miles from everybody, where God has let us come to worship Him, to carry out His designs, to establish His ordinances, and to qualify a people that they may obtain a celestial glory.
+
+['loud', 'quiet'] received scores [0.8011146783828735, 0.19888535141944885]
+['loud', 'soft'] received scores [0.7977992296218872, 0.202200785279274]
+['noisy', 'quiet'] received scores [0.6964401602745056, 0.3035597801208496]
+['noisy', 'soft'] received scores [0.692050576210022, 0.30794939398765564]
+
+decades/1850s/4/a_prayer_jedediah_m._grant.txt
+
+Our Father and our God, in the name of the Lord Jesus Christ, we bow before thee, and thank thee that we have the privilege of coming to the tops of these mountains to worship thee our God, and to celebrate the liberty of thy people, and their entrance into these peaceful valleys and mountains.
+
+['quiet', 'loud'] received scores [0.7986932992935181, 0.20130667090415955]
+['loud', 'soft'] received scores [0.5284268856048584, 0.4715731143951416]
+['quiet', 'noisy'] received scores [0.9780119061470032, 0.021988114342093468]
+['soft', 'noisy'] received scores [0.9091286659240723, 0.09087133407592773]
+
+decades/1850s/4/journey_to_the_north—unanimity_and_peaceful_order_of_the_company—geographical_character_of_the_country_traversed—good_condition_.txt
+
+We have accomplished our short and speedy journey to the North in safety and in peace, and again have the privilege of assembling with you in this Bowery for the purpose of worshipping the Lord our God, for which we are thankful.
+
+['quiet', 'loud'] received scores [0.8545839190483093, 0.14541609585285187]
+['loud', 'soft'] received scores [0.5365328192710876, 0.46346721053123474]
+['quiet', 'noisy'] received scores [0.9545260071754456, 0.045473989099264145]
+['soft', 'noisy'] received scores [0.7552232146263123, 0.24477674067020416]
+
+decades/1850s/4/man_the_head_of_woman—kingdom_of_god—the_seed_of_christ—polygamy—society_in_utah_orson_hyde.txt
+
+The kings and rulers of the earth will not willingly cast their crowns and scepters at the feet of the Priesthood, and worship the God of Hosts.
+
+['quiet', 'loud'] received scores [0.5294252634048462, 0.4705747067928314]
+['loud', 'soft'] received scores [0.7106488347053528, 0.2893511652946472]
+['quiet', 'noisy'] received scores [0.6796830892562866, 0.3203169107437134]
+['noisy', 'soft'] received scores [0.5656337738037109, 0.43436622619628906]
+
+decades/1850s/4/man_the_head_of_woman—kingdom_of_god—the_seed_of_christ—polygamy—society_in_utah_orson_hyde.txt
+
+We are to worship God in spirit and in truth, and with the understanding also.
+
+['quiet', 'loud'] received scores [0.6694818735122681, 0.33051809668540955]
+['loud', 'soft'] received scores [0.5022066831588745, 0.49779337644577026]
+['quiet', 'noisy'] received scores [0.7860320210456848, 0.213967964053154]
+['soft', 'noisy'] received scores [0.6425620913505554, 0.3574378788471222]
+
+decades/1850s/4/necessity_for_reformation_a_disgrace—intelligence_a_gift,_increased_by_imparting—spirit_of_god—variety_in_spiritual_as_well_as_i.txt
+
+When Aaron gathered up the earrings, and finger rings, and jewels, and made a calf, and led the children of Israel astray to worship an image, and say, "These be thy Gods, O Israel, which have brought thee up out of the land of Egypt, out of the house of bondage," while Moses was in the mountain talking to the Lord, Caleb and Joshua did not turn away; and if they were in that company, their souls shuddered while the people were making that calf.
+
+['loud', 'quiet'] received scores [0.8739257454872131, 0.12607423961162567]
+['loud', 'soft'] received scores [0.8879244327545166, 0.11207554489374161]
+['noisy', 'quiet'] received scores [0.7772932648658752, 0.22270673513412476]
+['noisy', 'soft'] received scores [0.7995607256889343, 0.20043931901454926]
+
+decades/1850s/4/necessity_of_obeying_the_instructions_and_revelations_given—the_importance_of_obtaining_the_holy_ghost—the_labors_of_the_saints_.txt
+
+By serving the devil as fast as they can, and almost the last being or thing that the children of men worship, and the last being whose laws they want to keep are the laws of the God of heaven.
+
+['loud', 'quiet'] received scores [0.705899178981781, 0.294100821018219]
+['loud', 'soft'] received scores [0.727873682975769, 0.27212631702423096]
+['noisy', 'quiet'] received scores [0.6313062906265259, 0.36869367957115173]
+['noisy', 'soft'] received scores [0.6561392545700073, 0.3438606858253479]
+
+decades/1850s/4/necessity_of_obeying_the_instructions_and_revelations_given—the_importance_of_obtaining_the_holy_ghost—the_labors_of_the_saints_.txt
+
+They will not worship God nor honor His name, nor keep His laws, but blaspheme His name, from day to day and nearly all the world are seeking for happiness by committing sins, breaking the law of God, and blaspheming His name and rejecting the only source whence happiness flows.
+
+['loud', 'quiet'] received scores [0.8215926885604858, 0.17840731143951416]
+['loud', 'soft'] received scores [0.8350717425346375, 0.16492828726768494]
+['noisy', 'quiet'] received scores [0.719566285610199, 0.2804337739944458]
+['noisy', 'soft'] received scores [0.738298237323761, 0.2617017924785614]
+
+decades/1850s/4/obedience_produces_confidence—consecration—concentration_of_interests—etc_heber_c._kimball.txt
+
+I feel well, because there are some trying to live their religion, and worship their God in spirit and in truth.
+
+['loud', 'quiet'] received scores [0.6076313257217407, 0.3923686444759369]
+['loud', 'soft'] received scores [0.6173470616340637, 0.3826529383659363]
+['quiet', 'noisy'] received scores [0.5912198424339294, 0.40878015756607056]
+['soft', 'noisy'] received scores [0.5812907218933105, 0.4187093675136566]
+
+decades/1850s/4/obedience_produces_confidence—consecration—concentration_of_interests—etc_heber_c._kimball.txt
+
+I want to get you to live your religion, and worship our God.
+
+['quiet', 'loud'] received scores [0.6718286275863647, 0.32817137241363525]
+['loud', 'soft'] received scores [0.5454202890396118, 0.45457980036735535]
+['quiet', 'noisy'] received scores [0.7458457350730896, 0.2541542649269104]
+['soft', 'noisy'] received scores [0.5443647503852844, 0.45563530921936035]
+
+decades/1850s/4/practical_religion—simplicity—temporal_salvation—advantages_of_utah_as_a_settlement_for_the_saints—false_reports,_etc_brigham_yo.txt
+
+I am thankful for the privilege of assembling with the congregation of the Saints on another day that is set apart to worship God.
+
+['loud', 'quiet'] received scores [0.5925369262695312, 0.40746310353279114]
+['loud', 'soft'] received scores [0.5235306620597839, 0.4764693081378937]
+['quiet', 'noisy'] received scores [0.6949887871742249, 0.30501124262809753]
+['soft', 'noisy'] received scores [0.7509746551513672, 0.24902527034282684]
+
+decades/1850s/4/reformation_necessary_among_the_saints—infidel_philosophy_brigham_young.txt
+
+I am thankful that we have the privilege of assembling here to worship the Lord in so comfortable a building, and in quite a moderate climate.
+
+['quiet', 'loud'] received scores [0.9876390695571899, 0.012360900640487671]
+['soft', 'loud'] received scores [0.9934273362159729, 0.006572676356881857]
+['quiet', 'noisy'] received scores [0.9925791025161743, 0.0074208383448421955]
+['soft', 'noisy'] received scores [0.9960633516311646, 0.00393667072057724]
+
+decades/1850s/4/testimony_to_the_divinity_of_joseph_smith's_mission—elders_should_go_to_their_missions_without_purse_or_scrip—the_lord_deals_wit.txt
+
+Brother Robbins also spoke of what they term the "nigger drivers and nigger worshippers," and observed how keen their feelings are upon their favorite topic slavery.
+
+['loud', 'quiet'] received scores [0.9003285765647888, 0.09967142343521118]
+['loud', 'soft'] received scores [0.8106275200843811, 0.1893724948167801]
+['noisy', 'quiet'] received scores [0.8428400158882141, 0.15716002881526947]
+['noisy', 'soft'] received scores [0.717627763748169, 0.2823723256587982]
+
+decades/1850s/4/testimony_to_the_divinity_of_joseph_smith's_mission—elders_should_go_to_their_missions_without_purse_or_scrip—the_lord_deals_wit.txt
+
+If we are Mormons or Methodists, or worship the sun or a white dog, or if we worship a dumb idol, or all turn Shaking Quakers and have no wife, it is not their prerogative to meddle with these affairs, for in so doing they would violate the Constitution.
+
+['quiet', 'loud'] received scores [0.6328147053718567, 0.3671852648258209]
+['soft', 'loud'] received scores [0.5191073417663574, 0.48089271783828735]
+['quiet', 'noisy'] received scores [0.6489769816398621, 0.3510230779647827]
+['soft', 'noisy'] received scores [0.5366095304489136, 0.4633904695510864]
+
+decades/1850s/4/the_body_of_christ—parable_of_the_vine—a_wild_enthusiastic_spirit_not_of_god—the_saints_should_not_unwisely_expose_each_others'_.txt
+
+And now, Zerahemnah, I command you, in the name of that all-powerful God, who has strengthened our arms that we have gained power over you, by our faith, by our religion, and by our rites of worship, and by our church, and by the sacred support which we owe to our wives and our children, by that liberty which binds us to our lands and our country; yea, and also by the maintenance of the sacred word of God, to which we owe all our happiness; and by all that is most dear unto us—Yea, and that is not all; I command you by all the desires which ye have for life, that ye deliver up your weapons of war unto us, and we will seek not your blood, but we will spare your lives, if ye will go your way and come not again to war against us.
+
+['quiet', 'loud'] received scores [0.5086346864700317, 0.4913652837276459]
+['loud', 'soft'] received scores [0.8248662352561951, 0.1751338094472885]
+['quiet', 'noisy'] received scores [0.7686534523963928, 0.23134656250476837]
+['noisy', 'soft'] received scores [0.5947145223617554, 0.40528547763824463]
+
+decades/1850s/4/utility_of_correction—necessity_of_living_our_religion—our_own_character_affecting_posterity—the_saints_blessed_above_all_other_.txt
+
+The Devil is stirring them up because we have commenced that Temple; and we will build it, and they cannot help themselves; and we will lay up the grain for seven years, and thousands of them will worship us for a little johnny cake, and I will live to see it: so will you.
+
+['loud', 'quiet'] received scores [0.9667779803276062, 0.03322207182645798]
+['loud', 'soft'] received scores [0.8739538788795471, 0.12604613602161407]
+['noisy', 'quiet'] received scores [0.983659029006958, 0.01634097471833229]
+['noisy', 'soft'] received scores [0.9348216652870178, 0.06517832726240158]
+
+decades/1850s/5/a_visit_to_the_house_of_congress—corruption_of_the_united_states,_etc_george_a._smith.txt
+
+To be sure there are meetinghouses and temples of worship for the Catholics, for the Presbyterians, for the Methodists, for the Episcopalians, and for the various sects of Protestants; and there were chaplains who prayed a few minutes in the Senate Chamber and in the Hall of Representatives.
+
+['loud', 'quiet'] received scores [0.6716243028640747, 0.3283756971359253]
+['soft', 'loud'] received scores [0.5632582306861877, 0.43674182891845703]
+['noisy', 'quiet'] received scores [0.5736293196678162, 0.42637068033218384]
+['soft', 'noisy'] received scores [0.662233293056488, 0.33776676654815674]
+
+decades/1850s/5/benefit_of_experience—patience_under_sufferings—recognition_of_the_hand_of_god_in_the_vicissitudes_of_his_saints,_etc_amasa_m._l.txt
+
+The circumstances of our meeting this morning has brought me to this place to occupy a portion of the time allotted for the worship of today.
+
+['quiet', 'loud'] received scores [0.5487587451934814, 0.45124128460884094]
+['soft', 'loud'] received scores [0.5550056099891663, 0.44499436020851135]
+['quiet', 'noisy'] received scores [0.7084027528762817, 0.29159730672836304]
+['soft', 'noisy'] received scores [0.7135929465293884, 0.2864069640636444]
+
+decades/1850s/5/communism—sectarianism—the_gospel_and_its_effects,_etc_john_taylor.txt
+
+The society that I represent comes with the fear of God—the worship of the great Eloheim: they offer the simple plan ordained of God—viz., repentance, baptism for the remission of sins, and the laying on of hands for the gift of the Holy Ghost.
+
+['loud', 'quiet'] received scores [0.6238929033279419, 0.3761071264743805]
+['loud', 'soft'] received scores [0.6237756609916687, 0.3762243390083313]
+['quiet', 'noisy'] received scores [0.6419498324394226, 0.3580501079559326]
+['soft', 'noisy'] received scores [0.6420646905899048, 0.3579353094100952]
+
+decades/1850s/5/joseph_smith's_family—details_of_george_a._smith's_own_experience,_etc_george_a._smith.txt
+
+I said that Massachusetts was the hotbed of superstition and religious intolerance, and that Maryland was the first State that by her laws and institutions allowed men to worship God as they pleased.
+
+['loud', 'quiet'] received scores [0.8668079376220703, 0.1331920325756073]
+['loud', 'soft'] received scores [0.7638453841209412, 0.23615458607673645]
+['noisy', 'quiet'] received scores [0.8227744102478027, 0.17722566425800323]
+['noisy', 'soft'] received scores [0.6976456046104431, 0.3023543953895569]
+
+decades/1850s/5/joseph_smith's_family—details_of_george_a._smith's_own_experience,_etc_george_a._smith.txt
+
+There have been men, and women, and children enough who have died through the oppression and tyranny of our enemies to damn any nation under heaven; and now a nation of 25,000,000 of people must exercise its wealth in violation of its  own principles and the rights guaranteed by the blood of their fathers—blood that is more sacred than their own heart springs; and this they are doing to crush down a little handful who dwell in the midst of these mountains, and who dare to worship God as they please, and who dare to sing, pray, preach, think, and act as they please.
+
+['loud', 'quiet'] received scores [0.9105635285377502, 0.08943649381399155]
+['loud', 'soft'] received scores [0.9247441291809082, 0.07525583356618881]
+['noisy', 'quiet'] received scores [0.8801147937774658, 0.11988512426614761]
+['noisy', 'soft'] received scores [0.8985856771469116, 0.10141437500715256]
+
+decades/1850s/5/necessity_of_adhering_to_the_priesthood_in_preference_to_science_and_art_wilford_woodruff.txt
+
+I felt, when I first learned of the justice of God in relation to his rewarding all men according to their deeds, that such a God was reasonable; and I felt I could worship such a God; and I was just so when I heard of baptism for the dead.
+
+['quiet', 'loud'] received scores [0.5565813183784485, 0.44341862201690674]
+['loud', 'soft'] received scores [0.6427964568138123, 0.35720354318618774]
+['quiet', 'noisy'] received scores [0.7468862533569336, 0.2531137466430664]
+['soft', 'noisy'] received scores [0.5664182901382446, 0.433581680059433]
+
+decades/1850s/5/necessity_of_adhering_to_the_priesthood_in_preference_to_science_and_art_wilford_woodruff.txt
+
+We can walk into this Tabernacle and our places of worship, and sing, and pray, and preach, and praise the Lord, with none to molest us.
+
+['quiet', 'loud'] received scores [0.8084537386894226, 0.1915462762117386]
+['soft', 'loud'] received scores [0.5531061291694641, 0.4468938410282135]
+['quiet', 'noisy'] received scores [0.9342069029808044, 0.06579307466745377]
+['soft', 'noisy'] received scores [0.806342601776123, 0.19365739822387695]
+
+decades/1850s/5/organization—destruction_of_zion's_enemies—oneness_of_spirit_in_the_priesthood,_etc_heber_c._kimball.txt
+
+But we are at peace and in harmony; we are worshipping and serving God.
+
+['quiet', 'loud'] received scores [0.9694425463676453, 0.030557528138160706]
+['soft', 'loud'] received scores [0.7608577013015747, 0.2391422688961029]
+['quiet', 'noisy'] received scores [0.9952607750892639, 0.004739237017929554]
+['soft', 'noisy'] received scores [0.9546704292297363, 0.045329589396715164]
+
+decades/1850s/5/persecution_of_the_saints—redemption_of_zion,_and_the_downfall_of_her_enemies—a_vision,_etc_orson_hyde.txt
+
+After apostatizing from this Church, some may join some of the sects for popularity's sake, or for the sake of making money or a living, and profess to believe all about the God without body, parts, or passions: but secretly they say, You are fools—you are in the dark—you worship, you know not what.
+
+['quiet', 'loud'] received scores [0.5413785576820374, 0.45862147212028503]
+['loud', 'soft'] received scores [0.5259871482849121, 0.4740128517150879]
+['noisy', 'quiet'] received scores [0.5833486318588257, 0.41665133833885193]
+['noisy', 'soft'] received scores [0.6471353769302368, 0.3528645932674408]
+
+decades/1850s/5/religious_worship_a_natural_and_universal_principle—sincerity_no_test_of_truth—priestly_authority,_etc_george_a._smith.txt
+
+We find it among the untutored savages; we find it among what are denominated  the heathen nations—among those who are considered pagans, bowing down to worship images, the workmanship of their own hands.
+
+['loud', 'quiet'] received scores [0.7435916066169739, 0.2564084231853485]
+['loud', 'soft'] received scores [0.5484957695007324, 0.45150426030158997]
+['noisy', 'quiet'] received scores [0.7210665941238403, 0.27893340587615967]
+['noisy', 'soft'] received scores [0.5198976397514343, 0.4801023006439209]
+
+decades/1850s/5/religious_worship_a_natural_and_universal_principle—sincerity_no_test_of_truth—priestly_authority,_etc_george_a._smith.txt
+
+He said that it was not understood with them that a person bowing before a likeness or a picture of a saint did so with the intention of worshipping that saint or picture; but that the design was to inspire in the heart of the worshipper a disposition to emulate the virtuous deeds and good actions of that saint.
+
+['quiet', 'loud'] received scores [0.6732227206230164, 0.32677727937698364]
+['loud', 'soft'] received scores [0.5157012939453125, 0.4842987060546875]
+['quiet', 'noisy'] received scores [0.8270590305328369, 0.1729409098625183]
+['soft', 'noisy'] received scores [0.685529887676239, 0.3144701421260834]
+
+decades/1850s/5/religious_worship_a_natural_and_universal_principle—sincerity_no_test_of_truth—priestly_authority,_etc_george_a._smith.txt
+
+You ask the priest of a heathen temple if the real intent is to worship that stone or that image of gold, silver, brass, or iron, and he would tell you that it was only a representative of something—that you could not see the real god, and the image was introduced as a substitute.
+
+['quiet', 'loud'] received scores [0.51767498254776, 0.4823249578475952]
+['soft', 'loud'] received scores [0.520547091960907, 0.479452908039093]
+['quiet', 'noisy'] received scores [0.501812219619751, 0.498187780380249]
+['soft', 'noisy'] received scores [0.5046883821487427, 0.4953116476535797]
+
+decades/1850s/5/religious_worship_a_natural_and_universal_principle—sincerity_no_test_of_truth—priestly_authority,_etc_george_a._smith.txt
+
+Hence, we find Jupiter is represented as the king of gods, or as the god of thunder, more particularly—the thunder, representing his weapon, being the most powerful agent they had any idea of; and his image or statue was worshipped by the early inhabitants of the earth as the representative of that power.
+
+['loud', 'quiet'] received scores [0.95830237865448, 0.04169759526848793]
+['loud', 'soft'] received scores [0.9215763211250305, 0.07842368632555008]
+['noisy', 'quiet'] received scores [0.936123251914978, 0.06387675553560257]
+['noisy', 'soft'] received scores [0.8822624087333679, 0.11773757636547089]
+
+decades/1850s/5/religious_worship_a_natural_and_universal_principle—sincerity_no_test_of_truth—priestly_authority,_etc_george_a._smith.txt
+
+The Greeks were about as united in the worship of their gods as the Christians are who profess to worship Jesus.
+
+['quiet', 'loud'] received scores [0.5913410186767578, 0.4086590111255646]
+['soft', 'loud'] received scores [0.60036301612854, 0.3996369540691376]
+['quiet', 'noisy'] received scores [0.7395740151405334, 0.26042598485946655]
+['soft', 'noisy'] received scores [0.7467251420021057, 0.2532748579978943]
+
+decades/1850s/5/religious_worship_a_natural_and_universal_principle—sincerity_no_test_of_truth—priestly_authority,_etc_george_a._smith.txt
+
+They went in, however, for worshipping all the deities, and some of them to a great extreme.
+
+['loud', 'quiet'] received scores [0.8607769012451172, 0.13922308385372162]
+['loud', 'soft'] received scores [0.8052427172660828, 0.19475725293159485]
+['noisy', 'quiet'] received scores [0.8302313089370728, 0.16976863145828247]
+['noisy', 'soft'] received scores [0.7658277153968811, 0.23417234420776367]
+
+decades/1850s/5/religious_worship_a_natural_and_universal_principle—sincerity_no_test_of_truth—priestly_authority,_etc_george_a._smith.txt
+
+There was a God they did not know; but they were determined to hit every case and be prepared to worship everybody, like the man in a storm at sea—it was good Lord and good Devil with him, for he knew not in whose hands he should fall: therefore, to be sure that they worshipped all, they set up an altar to the unknown God, that, if they should fall into his hands, they could claim that they had worshipped him; and that is about the sum and substance of the so-called Christian worship of the present age.
+
+['loud', 'quiet'] received scores [0.6019038558006287, 0.39809614419937134]
+['loud', 'soft'] received scores [0.7747932076454163, 0.22520680725574493]
+['quiet', 'noisy'] received scores [0.5637037754058838, 0.4362962245941162]
+['noisy', 'soft'] received scores [0.6378316879272461, 0.3621683120727539]
+
+decades/1850s/5/religious_worship_a_natural_and_universal_principle—sincerity_no_test_of_truth—priestly_authority,_etc_george_a._smith.txt
+
+You may go into any society of people, almost, and ask them what they worship, and they would as soon tell you they worship the unknown God as not.
+
+['quiet', 'loud'] received scores [0.5694116950035095, 0.43058833479881287]
+['soft', 'loud'] received scores [0.5259193181991577, 0.47408074140548706]
+['quiet', 'noisy'] received scores [0.7117975354194641, 0.2882024049758911]
+['soft', 'noisy'] received scores [0.6744649410247803, 0.3255350887775421]
+
+decades/1850s/5/religious_worship_a_natural_and_universal_principle—sincerity_no_test_of_truth—priestly_authority,_etc_george_a._smith.txt
+
+You may take up their creeds, and they give it out that they worship a God that has neither body, parts, nor passions, and yet has three persons.
+
+['loud', 'quiet'] received scores [0.5873164534568787, 0.41268354654312134]
+['loud', 'soft'] received scores [0.6139239072799683, 0.38607609272003174]
+['quiet', 'noisy'] received scores [0.5775404572486877, 0.4224594831466675]
+['soft', 'noisy'] received scores [0.550262451171875, 0.449737548828125]
+
+decades/1850s/5/religious_worship_a_natural_and_universal_principle—sincerity_no_test_of_truth—priestly_authority,_etc_george_a._smith.txt
+
+Unless there is a principle in the organization of the Church inspired from the Almighty—unless there is an authority that is governed by the power of God and his Spirit, men might just as well worship dumb idols, the fancy gods of the ancient heathen, or the pictures of the Catholics, as to go to meeting or perform any other kind of worship.
+
+['quiet', 'loud'] received scores [0.6326209306716919, 0.3673790395259857]
+['soft', 'loud'] received scores [0.5209007859230042, 0.47909924387931824]
+['quiet', 'noisy'] received scores [0.7702316641807556, 0.229768306016922]
+['soft', 'noisy'] received scores [0.6791338920593262, 0.32086607813835144]
+
+decades/1850s/5/reminiscences_and_testimony_of_parley_p._pratt_parley_p._pratt.txt
+
+Otherwise, all they could do would be to rejoice in the truth, worship God, obey his moral precepts, and wait for some messenger to come and organize them; and if they were obliged to live without the Priesthood, they would have to receive its ministrations in the next world.
+
+['quiet', 'loud'] received scores [0.7404448390007019, 0.2595551311969757]
+['loud', 'soft'] received scores [0.6334184408187866, 0.366581529378891]
+['quiet', 'noisy'] received scores [0.8406468033790588, 0.15935322642326355]
+['soft', 'noisy'] received scores [0.5169574618339539, 0.48304247856140137]
+
+decades/1850s/5/testimony_of_the_spirit—revelation_given_according_to_requirements—spiritual_warfare_and_conquest,_etc_brigham_young.txt
+
+There will be a kingdom on the earth that will be controlled upon the same basis, in part, as that of the Government of the United States; and it will govern and protect in their rights the various classes of men, irrespective of their different modes of worship; for the law must go forth from Zion, and the word of the Lord from Jerusalem, and the Lord Jesus will govern every nation and kingdom upon the earth.
+
+['quiet', 'loud'] received scores [0.5033770799636841, 0.49662289023399353]
+['loud', 'soft'] received scores [0.7428096532821655, 0.2571903169155121]
+['quiet', 'noisy'] received scores [0.7194840312004089, 0.28051596879959106]
+['noisy', 'soft'] received scores [0.5330089926719666, 0.46699100732803345]
+
+decades/1850s/5/testimony_of_the_spirit—revelation_given_according_to_requirements—spiritual_warfare_and_conquest,_etc_brigham_young.txt
+
+Nobles once told a Methodist priest, after hearing him describe his god, that the god they worshipped was the "Mormons'" Devil—a being without a body, whereas our God has a body, parts, and passions.
+
+['loud', 'quiet'] received scores [0.750032901763916, 0.24996709823608398]
+['loud', 'soft'] received scores [0.7862760424613953, 0.21372395753860474]
+['noisy', 'quiet'] received scores [0.6800603270530701, 0.3199397027492523]
+['noisy', 'soft'] received scores [0.722697913646698, 0.277302086353302]
+
+decades/1850s/5/the_rights_of_mormonism_john_taylor.txt
+
+We have a right to worship God according to the dictates of our own conscience; and no man, legally, in this land, has a right to interfere with us for so doing.
+
+['quiet', 'loud'] received scores [0.5577239990234375, 0.4422760307788849]
+['loud', 'soft'] received scores [0.6225976347923279, 0.37740233540534973]
+['quiet', 'noisy'] received scores [0.7330296039581299, 0.2669704258441925]
+['soft', 'noisy'] received scores [0.5689404606819153, 0.4310595393180847]
+
+decades/1850s/5/the_rights_of_mormonism_john_taylor.txt
+
+Just what I said a few minutes ago; it was the right to think, the right to speak, the right to act, the right to legislate, and the right to worship God according to the dictates of their own consciences, and the right to do their own business without being interfered with.
+
+['quiet', 'loud'] received scores [0.6587936878204346, 0.3412063419818878]
+['loud', 'soft'] received scores [0.5224313139915466, 0.477568656206131]
+['quiet', 'noisy'] received scores [0.8396627902984619, 0.1603371948003769]
+['soft', 'noisy'] received scores [0.7125933766365051, 0.28740668296813965]
+
+decades/1850s/5/the_rights_of_mormonism_john_taylor.txt
+
+Such is the feeling of the people and the condition of the world, and yet they profess to worship God that rules on high.
+
+['loud', 'quiet'] received scores [0.8982737064361572, 0.10172629356384277]
+['loud', 'soft'] received scores [0.6036664843559265, 0.3963334858417511]
+['noisy', 'quiet'] received scores [0.8002213835716248, 0.19977861642837524]
+['soft', 'noisy'] received scores [0.591397225856781, 0.4086027443408966]
+
+decades/1850s/5/the_rights_of_mormonism_john_taylor.txt
+
+There is no religion nor priesthood connected with it nationally, only they allow, or profess to allow, everybody to worship God according to the dictates of their own consciences; but nationally they are a nation of infidels.
+
+['quiet', 'loud'] received scores [0.6573232412338257, 0.34267672896385193]
+['soft', 'loud'] received scores [0.5551754832267761, 0.4448244571685791]
+['quiet', 'noisy'] received scores [0.7824757099151611, 0.2175242304801941]
+['soft', 'noisy'] received scores [0.7006444931030273, 0.29935547709465027]
+
+decades/1850s/5/the_united_states'_administration_and_utah_army_brigham_young.txt
+
+I have been in this kingdom a good while—twenty-five years and upwards, and I have been driven from place to place; my brethren have been driven, my sisters have been driven; we have been scattered and peeled, and every time without any provocation upon our part, only that we were united, obedient to the laws of the land, and striving to worship God.
+
+['loud', 'quiet'] received scores [0.7386361360549927, 0.2613639235496521]
+['loud', 'soft'] received scores [0.7346293330192566, 0.265370637178421]
+['noisy', 'quiet'] received scores [0.7720588445663452, 0.22794121503829956]
+['noisy', 'soft'] received scores [0.7684037685394287, 0.2315962165594101]
+
+decades/1850s/5/true_happiness—fruits_of_not_following_counsel—popular_prejudice_against_the_mormons—the_coming_army—punishment_of_evildoers_bri.txt
+
+I am careful about touching anything that is the object of people's worship—the gold, the goods, and the things of this world, which please the eyes and entice the affections of the people.
+
+['quiet', 'loud'] received scores [0.6472861766815186, 0.35271385312080383]
+['soft', 'loud'] received scores [0.575839638710022, 0.42416033148765564]
+['quiet', 'noisy'] received scores [0.7080768346786499, 0.2919231653213501]
+['soft', 'noisy'] received scores [0.6421362161636353, 0.35786375403404236]
+
+decades/1850s/6/attention_and_reflection_necessary_to_an_increase_of_knowledge—self-control—unity_of_the_godhead_and_of_the_people_of_god_brigha.txt
+
+After he had been with the Lord forty days in the mountain, he came down and saw the idolatry of the people, and smashed to pieces the tables that were written by the finger  of God, and ground up the golden image they were worshipping, and scattered it to the four winds; and the Lord slew many of the idolaters.
+
+['loud', 'quiet'] received scores [0.7931455969810486, 0.2068544328212738]
+['loud', 'soft'] received scores [0.8329669833183289, 0.16703303158283234]
+['noisy', 'quiet'] received scores [0.5967997312545776, 0.40320026874542236]
+['noisy', 'soft'] received scores [0.6581271886825562, 0.3418728709220886]
+
+decades/1850s/6/blessings_of_the_saints,_etc_wilford_woodruff.txt
+
+There are millions of the human family who assemble in various houses, in cathedrals, churches, and chapels for the purpose of worshipping God; but is there one of those numerous congregations who come together with an understanding of the truth, except there be some Latter-day Saint Elder who is called to preach to the inhabitants of the earth?
+
+['loud', 'quiet'] received scores [0.5407572388648987, 0.45924273133277893]
+['loud', 'soft'] received scores [0.7380232810974121, 0.2619766891002655]
+['quiet', 'noisy'] received scores [0.6692191958427429, 0.3307808041572571]
+['noisy', 'soft'] received scores [0.541820228099823, 0.4581797420978546]
+
+decades/1850s/6/blessings_of_the_saints—hindrances_to_progress—object_and_benefit_of_trials—acknowledgment_of_god's_hand,_spirit,_and_priesthood.txt
+
+that we are the only people that can stretch back to ages that are past, and look forward to those that are to come, and that can act understandingly in relation to our worship and the ordinances of the house of God, having a knowledge of the past, the present, and the future
+
+['quiet', 'loud'] received scores [0.5219871997833252, 0.47801274061203003]
+['loud', 'soft'] received scores [0.6757100224494934, 0.324290007352829]
+['quiet', 'noisy'] received scores [0.6206811666488647, 0.37931880354881287]
+['noisy', 'soft'] received scores [0.5816842317581177, 0.4183157980442047]
+
+decades/1850s/6/building_up_the_kingdom_of_god—how_to_treat_immigrant_saints,_etc_brigham_young.txt
+
+Now, it is just as necessary to come to these valleys, build houses, make fences, erect schoolhouses, rear up places of worship, and prepare for the gathering of Israel, as it is to go and preach to Israel to influence them to gather.
+
+['quiet', 'loud'] received scores [0.5461954474449158, 0.45380452275276184]
+['loud', 'soft'] received scores [0.661629855632782, 0.33837008476257324]
+['quiet', 'noisy'] received scores [0.7249011397361755, 0.2750988304615021]
+['soft', 'noisy'] received scores [0.5282270908355713, 0.4717729091644287]
+
+decades/1850s/6/dedication_prayer_willard_richards.txt
+
+When thy people have called upon thee in their extremities, thou hast not been slow to hear, but hast exerted thine almighty power and encircled them in the arms of love and of mercy, until thy people have been permitted and enabled to build and inhabit, to labor and enjoy the fruits thereof, and to come forth from our comfortable habitations this morning to worship and praise the Lord God of Abraham, Isaac, and Jacob, Jesus and Joseph, in this commodious edifice, erected for the assembling and worship of thy people.
+
+['loud', 'quiet'] received scores [0.9113659858703613, 0.08863398432731628]
+['loud', 'soft'] received scores [0.958402693271637, 0.041597332805395126]
+['noisy', 'quiet'] received scores [0.5820977091789246, 0.41790223121643066]
+['noisy', 'soft'] received scores [0.757347822189331, 0.24265217781066895]
+
+decades/1850s/6/dedication_prayer_willard_richards.txt
+
+Here, in this place ap pointed for the assembly of the Saints on this the anniversary of the birthday of thy Church and kingdom upon the earth, in this last dispensation from the heavens, and in the midst of the congregation of the Most High God, we thy servants, O our Father in heaven, in the name of thy Son Jesus, dedicate and consecrate this house unto thee and unto thy cause, for the assembling of thy Saints to worship before thee and to partake of the sacrament of the Lord's Supper, for prayer, for praise and thanksgiving, for fasting and mourning, for transacting business relating to thy Church and kingdom, or for whatever purpose thy people shall assemble themselves together in thy name.
+
+['loud', 'quiet'] received scores [0.6281606554985046, 0.37183934450149536]
+['loud', 'soft'] received scores [0.7682992815971375, 0.23170067369937897]
+['quiet', 'noisy'] received scores [0.7359736561775208, 0.26402637362480164]
+['soft', 'noisy'] received scores [0.5867986083030701, 0.4132014513015747]
+
+decades/1850s/6/dedication_prayer_willard_richards.txt
+
+May no unclean thing be permitted to enter into any part of this Tabernacle; but may it be preserved, with the vestry thereof, and the doorkeepers thereof, and with everything pertaining thereunto or round about, a holy and sacred sanctuary, wherein the pure in heart may rejoice forever, and no foul spirit ever be permitted to disturb their worship.
+
+['quiet', 'loud'] received scores [0.8702996373176575, 0.12970036268234253]
+['soft', 'loud'] received scores [0.5056648254394531, 0.4943351447582245]
+['quiet', 'noisy'] received scores [0.942843496799469, 0.05715649947524071]
+['soft', 'noisy'] received scores [0.7154814004898071, 0.28451862931251526]
+
+decades/1850s/6/extensive_character_of_the_gospel—comprehensiveness_of_divine_revelation,_etc_brigham_young.txt
+
+They are idolatrous worshippers; yet their religion is as sacred to them as ours is to us.
+
+['loud', 'quiet'] received scores [0.6545504331588745, 0.3454495966434479]
+['loud', 'soft'] received scores [0.5393911600112915, 0.4606088101863861]
+['noisy', 'quiet'] received scores [0.5100213885307312, 0.4899785816669464]
+['soft', 'noisy'] received scores [0.6085256338119507, 0.3914743661880493]
+
+decades/1850s/6/heirship—necessity_of_adherence_to_the_instructions_of_the_priesthood—counsel_to_departing_missionaries_orson_hyde.txt
+
+The people of that city worshipped all the gods of the nations; and for fear there should be one whom they did not worship, they erected an altar to the "UNKNOWN GOD.
+
+['loud', 'quiet'] received scores [0.5174791812896729, 0.48252081871032715]
+['loud', 'soft'] received scores [0.6412047743797302, 0.3587951958179474]
+['quiet', 'noisy'] received scores [0.6834729313850403, 0.31652703881263733]
+['soft', 'noisy'] received scores [0.5644215941429138, 0.43557843565940857]
+
+decades/1850s/6/heirship—necessity_of_adherence_to_the_instructions_of_the_priesthood—counsel_to_departing_missionaries_orson_hyde.txt
+
+"Whom you ignorantly worship," says Paul, "him declare I unto you.
+
+['loud', 'quiet'] received scores [0.7668359279632568, 0.23316411674022675]
+['loud', 'soft'] received scores [0.6820344924926758, 0.317965567111969]
+['noisy', 'quiet'] received scores [0.5597214698791504, 0.4402785301208496]
+['soft', 'noisy'] received scores [0.5467038154602051, 0.45329615473747253]
+
+decades/1850s/6/human_and_divine_government—the_latter-day_kingdom,_&c_brigham_young.txt
+
+If that government was now reigning upon this land of Joseph, you would see the Roman Catholic, the Greek Catholic, the Episcopalian, the Presbyterian, the Methodist, the Baptist, the Quaker, the Shaker, the Hindoo, the Mahometan, and every class of worshippers most strictly protected in all their municipal rights and in the privilege of worshipping who, what, and when they pleased, not infringing upon the rights of others.
+
+['loud', 'quiet'] received scores [0.7305118441581726, 0.2694881558418274]
+['loud', 'soft'] received scores [0.6915124654769897, 0.30848756432533264]
+['noisy', 'quiet'] received scores [0.5554819107055664, 0.4445180594921112]
+['noisy', 'soft'] received scores [0.5082052946090698, 0.49179473519325256]
+
+decades/1850s/6/human_and_divine_government—the_latter-day_kingdom,_&c_brigham_young.txt
+
+One community would not be permitted to array itself in opposition to another to coerce them to their standard; one denomination would not be suffered to persecute another because they differed in religious belief and mode of worship.
+
+['quiet', 'loud'] received scores [0.5557987093925476, 0.44420126080513]
+['loud', 'soft'] received scores [0.5491541624069214, 0.4508458375930786]
+['quiet', 'noisy'] received scores [0.7277083992958069, 0.2722916305065155]
+['soft', 'noisy'] received scores [0.6368329524993896, 0.36316701769828796]
+
+decades/1850s/6/human_and_divine_government—the_latter-day_kingdom,_&c_brigham_young.txt
+
+The municipal laws of that kingdom are designed for the protection of all classes of people in their legitimate rights; and were it now in its fulness upon the earth, and the New Jerusalem built upon this continent, which is the land of Zion, the Latter-day Saints would not alone enjoy its blessings, but all denominations and communities would be alike protected in their rights, whether they worshipped the Supreme Author of our existence, or the sun, or the moon, or, as do some of our aborigines, a white dog; and none will be permitted to infringe upon their neighbors, though every knee shall bow and every tongue confess that Jesus is the Christ.
+
+['quiet', 'loud'] received scores [0.5523023009300232, 0.4476976990699768]
+['loud', 'soft'] received scores [0.6838628053665161, 0.3161371648311615]
+['quiet', 'noisy'] received scores [0.7378683090209961, 0.2621316909790039]
+['soft', 'noisy'] received scores [0.5133367776870728, 0.48666319251060486]
+
+decades/1850s/6/human_and_divine_government—the_latter-day_kingdom,_&c_brigham_young.txt
+
+The Hindoos would have the privilege of erecting their temples and of worshipping as they pleased; but they would not be permitted to compel other worshippers to conform to their mode of worship, nor to burn their companions upon the funeral pyre; for that would interfere with individual rights.
+
+['quiet', 'loud'] received scores [0.5964029431343079, 0.4035971164703369]
+['loud', 'soft'] received scores [0.5355132222175598, 0.4644867777824402]
+['quiet', 'noisy'] received scores [0.7221580743789673, 0.2778419554233551]
+['soft', 'noisy'] received scores [0.6040573120117188, 0.3959426283836365]
+
+decades/1850s/6/idolatry,_&c_brigham_young.txt
+
+What is commonly termed idolatry has arisen from a few sincere men, full of faith and having a little knowledge, urging upon a backsliding people to preserve some customs—to cling to some fashions or figures, to put them in mind of that God with whom their fathers were acquainted, without designing or wishing the people to worship an idol—to worship stocks, stones, beasts, and birds.
+
+['quiet', 'loud'] received scores [0.6046576499938965, 0.3953423798084259]
+['soft', 'loud'] received scores [0.5583329796791077, 0.4416670501232147]
+['quiet', 'noisy'] received scores [0.6123862862586975, 0.3876136839389801]
+['soft', 'noisy'] received scores [0.5663177371025085, 0.43368229269981384]
+
+decades/1850s/6/idolatry,_&c_brigham_young.txt
+
+Idols have been introduced, which are now worshipped, and have been for centuries and thousands of years; but they were  not introduced at once.
+
+['quiet', 'loud'] received scores [0.5160802006721497, 0.48391979932785034]
+['soft', 'loud'] received scores [0.5361610651016235, 0.46383893489837646]
+['quiet', 'noisy'] received scores [0.5891484618186951, 0.41085147857666016]
+['soft', 'noisy'] received scores [0.6084974408149719, 0.3915025591850281]
+
+decades/1850s/6/idolatry,_&c_brigham_young.txt
+
+Yet it can readily be understood that if this people should backslide, they would, as others have, introduce an idolatrous worship.
+
+['loud', 'quiet'] received scores [0.5349156856536865, 0.4650842547416687]
+['soft', 'loud'] received scores [0.6129151582717896, 0.38708484172821045]
+['quiet', 'noisy'] received scores [0.5495094060897827, 0.4504905939102173]
+['soft', 'noisy'] received scores [0.6895811557769775, 0.31041884422302246]
+
+decades/1850s/6/idolatry,_&c_brigham_young.txt
+
+All Protestants accuse the Roman Catholic Church of worshipping idols.
+
+['loud', 'quiet'] received scores [0.7449769973754883, 0.25502294301986694]
+['loud', 'soft'] received scores [0.6847066879272461, 0.3152932822704315]
+['noisy', 'quiet'] received scores [0.6878228783607483, 0.3121771216392517]
+['noisy', 'soft'] received scores [0.6209183931350708, 0.3790816366672516]
+
+decades/1850s/6/idolatry,_&c_brigham_young.txt
+
+It is the practice of its members to carry a cross with them to worship the Virgin Mary.
+
+['quiet', 'loud'] received scores [0.5278660655021667, 0.47213390469551086]
+['soft', 'loud'] received scores [0.6371912360191345, 0.3628087639808655]
+['quiet', 'noisy'] received scores [0.6949812769889832, 0.30501866340637207]
+['soft', 'noisy'] received scores [0.7816189527511597, 0.21838103234767914]
+
+decades/1850s/6/idolatry,_&c_brigham_young.txt
+
+They have paintings and images in their chapels and other places of worship; and they are accused of worshipping these paintings and images, and that they are idolatrous worshippers.
+
+['loud', 'quiet'] received scores [0.7702406048774719, 0.22975943982601166]
+['loud', 'soft'] received scores [0.5657934546470642, 0.4342065453529358]
+['noisy', 'quiet'] received scores [0.6663402318954468, 0.3336597681045532]
+['soft', 'noisy'] received scores [0.5629843473434448, 0.4370156228542328]
+
+decades/1850s/6/idolatry,_&c_brigham_young.txt
+
+Now, let those children, when saying their prayers, have that representation before them, and how long would it be before some of their neighbors' children would tell their mothers that those children were worshipping a picture or image?
+
+['loud', 'quiet'] received scores [0.7632092833518982, 0.23679077625274658]
+['loud', 'soft'] received scores [0.6392161846160889, 0.36078381538391113]
+['noisy', 'quiet'] received scores [0.6200090646743774, 0.37999090552330017]
+['soft', 'noisy'] received scores [0.5271744132041931, 0.47282564640045166]
+
+decades/1850s/6/idolatry,_&c_brigham_young.txt
+
+This is the way that idolatry has sprung up in the world, through a method established to keep the people in remembrance of the God they once worshipped and were acquainted with.
+
+['loud', 'quiet'] received scores [0.9006487727165222, 0.09935122728347778]
+['loud', 'soft'] received scores [0.7743655443191528, 0.22563447058200836]
+['noisy', 'quiet'] received scores [0.8270533084869385, 0.17294670641422272]
+['noisy', 'soft'] received scores [0.6441814303398132, 0.35581859946250916]
+
+decades/1850s/6/idolatry,_&c_brigham_young.txt
+
+Were the Lord to give us peace for a few years, so that we should have no sorrow or trouble from without, with the land producing abundantly, with the fine weather and the healthy climate, how long would it be before many of you would again want to go  to California to get gold, and turn away from your holy religion to worship an idol?
+
+['quiet', 'loud'] received scores [0.5389584898948669, 0.46104151010513306]
+['loud', 'soft'] received scores [0.642385721206665, 0.3576142191886902]
+['quiet', 'noisy'] received scores [0.6423627734184265, 0.3576372265815735]
+['noisy', 'soft'] received scores [0.5389833450317383, 0.4610166549682617]
+
+decades/1850s/6/idolatry,_&c_brigham_young.txt
+
+Rather than neglect your holy religion entirely, you had better keep your images right before your eyes and say your prayers to an idol, whether it be cut out of wood or is a dog's skull, so that you believe there is something behind that which will actually point your affections to look beyond that which you see with your natural eyes, and cause you to believe in a Supreme Being, in an Overruling Hand, in an All-wise Providence, or to worship even a god without body or parts.
+
+['quiet', 'loud'] received scores [0.6782098412513733, 0.32179009914398193]
+['loud', 'soft'] received scores [0.5694235563278198, 0.4305764138698578]
+['quiet', 'noisy'] received scores [0.7541218996047974, 0.24587813019752502]
+['soft', 'noisy'] received scores [0.5238970518112183, 0.47610291838645935]
+
+decades/1850s/6/idolatry,_&c_brigham_young.txt
+
+I would as soon see a man worshipping a little god made of brass or of wood as to see him worship his property.
+
+['quiet', 'loud'] received scores [0.6051731705665588, 0.39482682943344116]
+['soft', 'loud'] received scores [0.5324365496635437, 0.4675634503364563]
+['quiet', 'noisy'] received scores [0.7749260067939758, 0.22507400810718536]
+['soft', 'noisy'] received scores [0.7189379930496216, 0.2810620665550232]
+
+decades/1850s/6/idolatry,_&c_brigham_young.txt
+
+I have a number of such gods brought to me from the East Indies and from the islands; and I would as soon see one of my brethren worship one of those brass idols as to see him worship his property; and he would be as much justified in the sight of God.
+
+['loud', 'quiet'] received scores [0.6217011213302612, 0.3782988488674164]
+['loud', 'soft'] received scores [0.6485344767570496, 0.3514655530452728]
+['quiet', 'noisy'] received scores [0.5492987036705017, 0.4507012963294983]
+['soft', 'noisy'] received scores [0.5204907655715942, 0.47950926423072815]
+
+decades/1850s/6/idolatry,_&c_brigham_young.txt
+
+And instead of disfellowshipping a man for worshipping an idol, I would exhort him to have exceeding great faith in his idols, upon the same principle that I exhort the brethren here to have faith in our God.
+
+['loud', 'quiet'] received scores [0.566016435623169, 0.43398362398147583]
+['loud', 'soft'] received scores [0.5597781538963318, 0.4402218461036682]
+['quiet', 'noisy'] received scores [0.6613532304763794, 0.338646799325943]
+['soft', 'noisy'] received scores [0.6670083403587341, 0.33299171924591064]
+
+decades/1850s/6/idolatry,_&c_brigham_young.txt
+
+I am not for cutting people off from the Church that worship their property instead of their God, but for bearing with them until they shall gain light and knowledge so as to see their errors and turn to the God of truth.
+
+['quiet', 'loud'] received scores [0.5847822427749634, 0.41521772742271423]
+['loud', 'soft'] received scores [0.5007081627845764, 0.4992918074131012]
+['quiet', 'noisy'] received scores [0.6837174296379089, 0.31628257036209106]
+['soft', 'noisy'] received scores [0.6048319339752197, 0.3951680660247803]
+
+decades/1850s/6/idolatry,_&c_brigham_young.txt
+
+Yes, just as quickly as you are prepared; but you must cease worshipping idols.
+
+['quiet', 'loud'] received scores [0.5707258582115173, 0.4292740821838379]
+['loud', 'soft'] received scores [0.6361145973205566, 0.36388546228408813]
+['quiet', 'noisy'] received scores [0.6442906856536865, 0.3557092845439911]
+['noisy', 'soft'] received scores [0.5620083212852478, 0.4379917085170746]
+
+decades/1850s/6/idolatry,_&c_brigham_young.txt
+
+Then they will be apt to cast their idols behind them, and will not so worship and covet a beautiful span of horses that they will not let them go to save the whole house of Israel.
+
+['loud', 'quiet'] received scores [0.5582289695739746, 0.4417710602283478]
+['loud', 'soft'] received scores [0.7003982663154602, 0.2996017336845398]
+['quiet', 'noisy'] received scores [0.6067915558815002, 0.39320847392082214]
+['noisy', 'soft'] received scores [0.5452191829681396, 0.45478081703186035]
+
+decades/1850s/6/idolatry,_&c_brigham_young.txt
+
+We must stop worshipping idols.
+
+['loud', 'quiet'] received scores [0.5077964663505554, 0.49220356345176697]
+['loud', 'soft'] received scores [0.7034537196159363, 0.2965463399887085]
+['quiet', 'noisy'] received scores [0.6238210797309875, 0.3761788606643677]
+['noisy', 'soft'] received scores [0.5809833407402039, 0.41901665925979614]
+
+decades/1850s/6/idolatry,_&c_brigham_young.txt
+
+If this people had understood what they ought, the early Elders might have lived in foreign nations and preached the Gospel until this day, and they would then have been better prepared to worship God acceptably than many are now; and this people would have been more cautious, better prepared, and more contented to practice what they know, instead of searching after things that do not concern them.
+
+['loud', 'quiet'] received scores [0.6017149090766907, 0.3982850909233093]
+['loud', 'soft'] received scores [0.6304484009742737, 0.36955156922340393]
+['quiet', 'noisy'] received scores [0.6502956748008728, 0.3497043550014496]
+['soft', 'noisy'] received scores [0.6221805214881897, 0.3778195083141327]
+
+decades/1850s/6/increase_in_saving_principles—dedication—home_produce_and_manufacture,_etc_heber_c._kimball.txt
+
+I intend to take a course to worship God acceptably, and I never saw greater necessity than there is at the present time for us to live our religion and be one; and this is not anything new with me, for I have seen it all the time.
+
+['quiet', 'loud'] received scores [0.5826247334480286, 0.4173753261566162]
+['loud', 'soft'] received scores [0.6493412256240845, 0.3506587743759155]
+['quiet', 'noisy'] received scores [0.7709574103355408, 0.22904260456562042]
+['soft', 'noisy'] received scores [0.5656249523162842, 0.4343750476837158]
+
+decades/1850s/6/knowledge_obtained_from_history_george_a._smith.txt
+
+It was for something more precious than gold: it was for the privilege of worshipping God under our own vine; and it was with the greatest difficulty that we could raise a vine to worship under, and there was scarcely a tree grew in the valleys.
+
+['quiet', 'loud'] received scores [0.5794530510902405, 0.4205469787120819]
+['loud', 'soft'] received scores [0.7201491594314575, 0.2798508405685425]
+['quiet', 'noisy'] received scores [0.7865060567855835, 0.21349388360977173]
+['soft', 'noisy'] received scores [0.5095643997192383, 0.4904356300830841]
+
+decades/1850s/6/knowledge_obtained_from_history_george_a._smith.txt
+
+Here we could worship, and here we remain, and what is the result?
+
+['quiet', 'loud'] received scores [0.7826460003852844, 0.217353954911232]
+['loud', 'soft'] received scores [0.5099619030952454, 0.49003806710243225]
+['quiet', 'noisy'] received scores [0.9021952748298645, 0.09780470281839371]
+['soft', 'noisy'] received scores [0.71112459897995, 0.28887543082237244]
+
+decades/1850s/6/opposition_of_state_governments_to_the_saints,_etc_erastus_snow.txt
+
+To their unsought and uncalled for protection, our answer should be—"When the State of Missouri, in obedience to her own laws, shall have hung up by the neck ex-Governor Boggs, Austin A. King, old Generals Lucas, Clark, and Wilson, and about twenty-five hundred of her citizens, who were engaged in murdering the Saints, plundering them and driving them from their homes—when they have repudiated the acts of their corrupt Legislature and returned fourfold to all whom they have robbed, with the lawful interest thereon until the time of payment, reinstating those who have been driven from their homes and possessions, making good, as far as money and means can do it, their losses—when Illinois shall have done the same, and the General Government shall take action to maintain the citizens of this Territory in the rightful possession of all the land they  have purchased of them, from which they have been driven by the force of mobs, and then admit this people, without a groan or complaint, but with brotherly love, kindness, and fatherly care, to the free and undisturbed enjoyment of life, liberty, and all those political rights that belong to American citizens in common, of which the chief is the right of being governed by men of their own choice and of worshipping God according to the dictates of their own consciences, the principle thing for which our fathers fought—when our Government shall do all this and cease their threats and menaces to intimidate free men, call home their "dogs of war," and set them to administering justice on the scoundrels at home, and keep away their mean, dirty sycophants, whom they wish to force on this people for their rulers at the point of the bayonet—then we may begin to think of having a little confidence in their high pretensions; then they may talk to us about their boasted protection and their regard for the rights of mankind."
+
+['loud', 'quiet'] received scores [0.6408047676086426, 0.3591952621936798]
+['loud', 'soft'] received scores [0.6884642243385315, 0.3115357756614685]
+['noisy', 'quiet'] received scores [0.5066495537757874, 0.49335041642189026]
+['noisy', 'soft'] received scores [0.5598837733268738, 0.44011619687080383]
+
+decades/1850s/6/polygamy_orson_pratt.txt
+
+In obedience to this commandment, many have gone forth and taken upon themselves a plurality of wives; consequently, they are not condemned in this thing, so far as the Book of Mormon is concerned; and we consider this book to be a part and portion of our religious creed; and the Constitution of America gives people a right to worship God according to the dictates of their own consciences.
+
+['loud', 'quiet'] received scores [0.7100081443786621, 0.2899918556213379]
+['loud', 'soft'] received scores [0.7276738882064819, 0.2723260819911957]
+['noisy', 'quiet'] received scores [0.5550639033317566, 0.4449361264705658]
+['noisy', 'soft'] received scores [0.5765390396118164, 0.4234609603881836]
+
+decades/1850s/6/polygamy_orson_pratt.txt
+
+If we should embrace adultery in our religious creed, then we may be condemned as criminals by the laws of God and man; but when it comes to polygamy, which is not condemned by the Bible any more than monogamy, and embrace that as a part and portion of our creed, the Constitution gives us an undeniable right of worshipping God in this respect as in all others.
+
+['loud', 'quiet'] received scores [0.625923752784729, 0.3740762770175934]
+['soft', 'loud'] received scores [0.6265397071838379, 0.3734602928161621]
+['noisy', 'quiet'] received scores [0.5329127311706543, 0.4670873284339905]
+['soft', 'noisy'] received scores [0.7110168933868408, 0.2889831066131592]
+
+decades/1850s/6/polygamy_orson_pratt.txt
+
+The Government of the United States has no right to say you shall not live in celibacy, but you shall comply with American institutions; neither have they a right to say that sprinkling infants or worshipping a Chinese idol is criminal.
+
+['quiet', 'loud'] received scores [0.5007643699645996, 0.4992356300354004]
+['loud', 'soft'] received scores [0.5674280524253845, 0.4325719177722931]
+['quiet', 'noisy'] received scores [0.6152185201644897, 0.3847814202308655]
+['soft', 'noisy'] received scores [0.5485662221908569, 0.4514337480068207]
+
+decades/1850s/6/the_lord's_providential_care_and_protection_of_his_people—fulfillment_of_prophecy,_etc_lorenzo_d._young.txt
+
+They were glad of the dawning privilege of worshipping God in their own way, and of worshipping that God they chose to worship, whether it was the God of Abraham, Isaac, and Jacob, or none at all.
+
+['quiet', 'loud'] received scores [0.7027761936187744, 0.297223836183548]
+['loud', 'soft'] received scores [0.5232791900634766, 0.4767208695411682]
+['quiet', 'noisy'] received scores [0.7943727374076843, 0.20562726259231567]
+['soft', 'noisy'] received scores [0.5981471538543701, 0.4018528461456299]
+
+decades/1850s/6/the_lord_at_the_head_of_his_kingdom—self-discipline—necessity_of_cultivating_a_knowledge_of_science,_and_particularly_of_theolog.txt
+
+He never had known anything about the character of the God he worshipped; but, like the Athenians, had raised an altar with the inscription, "To the unknown God.
+
+['loud', 'quiet'] received scores [0.5656281113624573, 0.4343718886375427]
+['loud', 'soft'] received scores [0.6036159992218018, 0.39638397097587585]
+['quiet', 'noisy'] received scores [0.6216315031051636, 0.3783684968948364]
+['soft', 'noisy'] received scores [0.5841807723045349, 0.4158192276954651]
+
+decades/1850s/6/the_sacrament—the_sabbath—sectarian_opposition_to_the_doctrines_and_ordinances_of_the_gospel,_etc_brigham_young.txt
+
+We have a comfortable house to meet in, where we can preach, sing, pray, exhort, and exercise ourselves in our several capacities, according to our calling, in the worship of God.
+
+['loud', 'quiet'] received scores [0.5301082134246826, 0.46989184617996216]
+['soft', 'loud'] received scores [0.6348617672920227, 0.3651382327079773]
+['quiet', 'noisy'] received scores [0.7159891724586487, 0.2840108275413513]
+['soft', 'noisy'] received scores [0.8317893743515015, 0.16821059584617615]
+
+decades/1850s/6/the_work_of_reformation—the_united_states'_army—labors_of_mormon_missionaries—judgments_of_god,_etc_orson_hyde.txt
+
+He never has much difficulty with his neighbors, readily yields to the counsel of his Bishop or other superior officer, worships no horse, ox, mule, ass, farm, or house, but worships the true God of heaven.
+
+['quiet', 'loud'] received scores [0.9887095093727112, 0.011290543712675571]
+['soft', 'loud'] received scores [0.7122255563735962, 0.2877744436264038]
+['quiet', 'noisy'] received scores [0.9960241317749023, 0.003975897096097469]
+['soft', 'noisy'] received scores [0.8762408494949341, 0.12375914305448532]
+
+decades/1850s/6/the_work_of_reformation—the_united_states'_army—labors_of_mormon_missionaries—judgments_of_god,_etc_orson_hyde.txt
+
+Thieves and iniquitous persons do not, as a general thing, like to attend the house of worship.
+
+['quiet', 'loud'] received scores [0.7831836342811584, 0.21681639552116394]
+['soft', 'loud'] received scores [0.5579583048820496, 0.4420417547225952]
+['quiet', 'noisy'] received scores [0.8548901081085205, 0.1451098918914795]
+['soft', 'noisy'] received scores [0.6730571985244751, 0.3269427716732025]
+
+decades/1850s/6/the_work_of_reformation—the_united_states'_army—labors_of_mormon_missionaries—judgments_of_god,_etc_orson_hyde.txt
+
+Slothful, prayerless, and worldly-minded persons often calculate to go to or return from the canyons on the Sabbath, or go visiting on that day, or manage to hunt cattle on the range, or transact some business by which they can have a plausible excuse for not attending the house of worship.
+
+['quiet', 'loud'] received scores [0.9455246329307556, 0.0544753335416317]
+['soft', 'loud'] received scores [0.8702949285507202, 0.12970510125160217]
+['quiet', 'noisy'] received scores [0.9688365459442139, 0.031163429841399193]
+['soft', 'noisy'] received scores [0.9231848120689392, 0.0768151730298996]
+
+decades/1850s/7/dependence_on_god_as_the_fountain_of_all_wisdom,_etc_brigham_young.txt
+
+How frequently we have heard prayers offered in public that God would make one in their midst—that the Holy Ghost would rest upon them while they endeavored to worship the Lord Almighty; and, as soon as the prayers were over, endeavor to prove that the Holy Ghost is not given in our days as anciently—that the Spirit of revelation is not on the earth—is not among the children men!
+
+['loud', 'quiet'] received scores [0.938087522983551, 0.06191246956586838]
+['loud', 'soft'] received scores [0.872671365737915, 0.12732858955860138]
+['noisy', 'quiet'] received scores [0.9468945860862732, 0.0531054325401783]
+['noisy', 'soft'] received scores [0.8896896243095398, 0.11031036078929901]
+
+decades/1850s/7/devotedness_to_mormonism—responsibility_daniel_h._wells.txt
+
+Our forms of worship are similar to theirs; but this abiding faith they do not have.
+
+['quiet', 'loud'] received scores [0.6222214102745056, 0.3777786195278168]
+['soft', 'loud'] received scores [0.6568295359611511, 0.3431704640388489]
+['quiet', 'noisy'] received scores [0.7167412042617798, 0.2832588255405426]
+['soft', 'noisy'] received scores [0.7462220191955566, 0.25377798080444336]
+
+decades/1850s/7/diligence_in_preaching_to_the_world—providences_of_god_around_the_saints—charity—god's_spirit_distributed_among_all_mankind—tria.txt
+
+The Pagan is as fervent in his desires to his god for a good and holy influence to attend him in the worship of his idols, as we are to the God of heaven—the Father of us all—the Being who has brought all mankind into existence and sustains them by his providence and fatherly care.
+
+['loud', 'quiet'] received scores [0.8348181247711182, 0.16518191993236542]
+['loud', 'soft'] received scores [0.7581561803817749, 0.2418438345193863]
+['noisy', 'quiet'] received scores [0.7082965970039368, 0.29170340299606323]
+['noisy', 'soft'] received scores [0.6009814143180847, 0.3990185260772705]
+
+decades/1850s/7/early_events_of_the_church,_etc_wilford_woodruff.txt
+
+I look upon these things; I reflect upon our Government in the manner which has been referred to today; I look at the liberal laws and Constitution that exist in our land, upon which our Government is founded; and yet, in the midst of all this, we have not had the privilege of enjoying our rights, or worshipping God, or enjoying our religion, without persecution and oppression.
+
+['loud', 'quiet'] received scores [0.7248700261116028, 0.27512994408607483]
+['loud', 'soft'] received scores [0.7435994148254395, 0.25640055537223816]
+['noisy', 'quiet'] received scores [0.6061416864395142, 0.39385831356048584]
+['noisy', 'soft'] received scores [0.6288147568702698, 0.3711852729320526]
+
+decades/1850s/7/elijah's_latter-day_mission_orson_pratt.txt
+
+If any person supposes this, he is greatly mistaken; but if he tries to fulfil the commandments of God, making himself extensively acquainted with the attributes of that Being whom he worships—if he tries to become acquainted with all useful subjects, he will then have faith.
+
+['quiet', 'loud'] received scores [0.5753418803215027, 0.4246581494808197]
+['loud', 'soft'] received scores [0.5237095952033997, 0.47629034519195557]
+['quiet', 'noisy'] received scores [0.6983446478843689, 0.3016553819179535]
+['soft', 'noisy'] received scores [0.6084586381912231, 0.39154133200645447]
+
+decades/1850s/7/elijah's_latter-day_mission_orson_pratt.txt
+
+You gather together all the prophets of Baal into one assembly, and let them offer an offering unto their god Baal; and I, as a Prophet of the other God, will offer an offering: and if Baal answers by fire, then he shall be the true God; but if the God that I, Elijah, worship answers by fire, then he shall be the true God.
+
+['quiet', 'loud'] received scores [0.5884246826171875, 0.4115753173828125]
+['loud', 'soft'] received scores [0.6235758662223816, 0.37642407417297363]
+['quiet', 'noisy'] received scores [0.7582685947418213, 0.2417314201593399]
+['soft', 'noisy'] received scores [0.5697911977767944, 0.4302087724208832]
+
+decades/1850s/7/evidences_of_the_bible_and_book_of_mormon_compared_orson_pratt.txt
+
+Brethren and Friends—I appear before you today for the first time for many months, feeling grateful to our Father in heaven for his condescension and mercy unto us as a people, that we are once more, through his kind providence, permitted to assemble ourselves together in this Tabernacle for the purpose of public worship.
+
+['quiet', 'loud'] received scores [0.6184482574462891, 0.3815518021583557]
+['loud', 'soft'] received scores [0.5342119932174683, 0.46578800678253174]
+['quiet', 'noisy'] received scores [0.8031099438667297, 0.19689011573791504]
+['soft', 'noisy'] received scores [0.6869324445724487, 0.31306761503219604]
+
+decades/1850s/7/evidences_of_the_bible_and_book_of_mormon_compared_orson_pratt.txt
+
+The probability is, there would have been no settlements formed in this Territory, no cities to adorn these dreary wastes, no tabernacles erected for Divine worship, and no congregations assembled to hear the words of life.
+
+['quiet', 'loud'] received scores [0.8894580602645874, 0.11054196953773499]
+['loud', 'soft'] received scores [0.6055750250816345, 0.3944249153137207]
+['quiet', 'noisy'] received scores [0.9472642540931702, 0.05273573100566864]
+['soft', 'noisy'] received scores [0.5925019383430481, 0.4074980318546295]
+
+decades/1850s/7/intelligence,_etc_brigham_young.txt
+
+This statement is not only true of the nations termed civilized—those who profess to worship the true God, but is equally applicable to pagans of all countries, for in their religious rights and ceremonies may be found a great many truths which we will also gather home to Zion.
+
+['loud', 'quiet'] received scores [0.6051424741744995, 0.3948575556278229]
+['loud', 'soft'] received scores [0.7514142394065857, 0.2485857456922531]
+['quiet', 'noisy'] received scores [0.7307066321372986, 0.2692933678627014]
+['soft', 'noisy'] received scores [0.5790756940841675, 0.42092427611351013]
+
+decades/1850s/7/intelligence,_etc_brigham_young.txt
+
+Yes; and they, no doubt, see it as John Wesley does, and are willing to worship God according to the best knowledge they have.
+
+['loud', 'quiet'] received scores [0.5671271085739136, 0.4328729212284088]
+['loud', 'soft'] received scores [0.6911868453025818, 0.3088131248950958]
+['quiet', 'noisy'] received scores [0.6404094099998474, 0.3595905900001526]
+['soft', 'noisy'] received scores [0.5104002356529236, 0.4895997643470764]
+
+decades/1850s/7/intelligence,_etc_brigham_young.txt
+
+As death left him, so judgment will find him, trying to worship God in the best manner he was acquainted with.
+
+['loud', 'quiet'] received scores [0.5672993063926697, 0.4327006936073303]
+['loud', 'soft'] received scores [0.5961188673973083, 0.40388116240501404]
+['quiet', 'noisy'] received scores [0.6711955070495605, 0.32880452275276184]
+['soft', 'noisy'] received scores [0.6445386409759521, 0.3554612696170807]
+
+decades/1850s/7/intelligence,_etc_brigham_young.txt
+
+Abraham was ordained to be the father of the faithful—that is, he was ordained to come forth at a certain period; and when he had proved himself faithful to his God, and would resist the worship of idols, and trample them under his feet in the presence of their king, and set up the worship of the true God, he obtained the appellation of "father of the faithful.
+
+['loud', 'quiet'] received scores [0.6696691513061523, 0.33033084869384766]
+['loud', 'soft'] received scores [0.8017247915267944, 0.19827523827552795]
+['noisy', 'quiet'] received scores [0.5102439522743225, 0.4897560477256775]
+['noisy', 'soft'] received scores [0.675112783908844, 0.3248871862888336]
+
+decades/1850s/7/intelligence,_etc_brigham_young.txt
+
+Let every man and woman worship their God with all their heart.
+
+['quiet', 'loud'] received scores [0.5113387703895569, 0.48866114020347595]
+['loud', 'soft'] received scores [0.7676212787628174, 0.2323787361383438]
+['quiet', 'noisy'] received scores [0.7436324954032898, 0.2563675045967102]
+['noisy', 'soft'] received scores [0.5437270402908325, 0.4562729597091675]
+
+decades/1850s/7/oneness_of_the_priesthood—independence_of_zion—time_and_eternity—evil_habits_and_practices,_&c_heber_c._kimball.txt
+
+We cannot live too long, if we live our religion, worship the Lord our God in the way that pleases him, and continue to be his friends.
+
+['quiet', 'loud'] received scores [0.5422974824905396, 0.4577024281024933]
+['loud', 'soft'] received scores [0.6164553165435791, 0.3835446536540985]
+['quiet', 'noisy'] received scores [0.7234068512916565, 0.2765931785106659]
+['soft', 'noisy'] received scores [0.5786657929420471, 0.4213342070579529]
+
+decades/1850s/7/oneness_of_the_priesthood—independence_of_zion—time_and_eternity—evil_habits_and_practices,_&c_heber_c._kimball.txt
+
+Money was not made to worship, but to be a convenience.
+
+['quiet', 'loud'] received scores [0.757939875125885, 0.2420600950717926]
+['soft', 'loud'] received scores [0.7919626832008362, 0.2080373764038086]
+['quiet', 'noisy'] received scores [0.8137655854225159, 0.18623441457748413]
+['soft', 'noisy'] received scores [0.8415817618370056, 0.15841823816299438]
+
+decades/1850s/7/personal_reminiscences_and_testimony_concerning_the_prophet_joseph_and_the_church,_etc_orson_pratt.txt
+
+And so they did, and fell down and worshipped it, and said, "These be thy gods, O Israel, &c.
+
+['loud', 'quiet'] received scores [0.8683608174324036, 0.13163915276527405]
+['loud', 'soft'] received scores [0.7125366926193237, 0.28746333718299866]
+['noisy', 'quiet'] received scores [0.7485455870628357, 0.2514544129371643]
+['noisy', 'soft'] received scores [0.5279866456985474, 0.4720134139060974]
+
+decades/1850s/7/possession_of_the_spirit,_&c_brigham_young.txt
+
+I need that spirit in my business, as well as in my worship; and I surely would need it, if I had to go to the canyons and drive cattle: I would need a double portion of it.
+
+['loud', 'quiet'] received scores [0.538568377494812, 0.4614316523075104]
+['loud', 'soft'] received scores [0.685600757598877, 0.31439924240112305]
+['quiet', 'noisy'] received scores [0.64070725440979, 0.3592926859855652]
+['noisy', 'soft'] received scores [0.511651873588562, 0.4883481562137604]
+
+decades/1850s/7/possession_of_the_spirit,_&c_brigham_young.txt
+
+Shame on men and women, professing to be Saints, who worship and love the perishing things of earth.
+
+['loud', 'quiet'] received scores [0.9243054389953613, 0.07569456845521927]
+['loud', 'soft'] received scores [0.9193494915962219, 0.08065055310726166]
+['noisy', 'quiet'] received scores [0.7871526479721069, 0.21284735202789307]
+['noisy', 'soft'] received scores [0.7753989100456238, 0.2246011644601822]
+
+decades/1850s/7/priesthood_and_eternal_life_brigham_young.txt
+
+If the Latter-day Saints assemble to worship merely because our fathers did, or because we have been so taught by our schoolmasters, we have not a correct view of the subject.
+
+['quiet', 'loud'] received scores [0.6159865856170654, 0.3840133249759674]
+['soft', 'loud'] received scores [0.598314106464386, 0.4016859531402588]
+['quiet', 'noisy'] received scores [0.7070243954658508, 0.29297563433647156]
+['soft', 'noisy'] received scores [0.6914427876472473, 0.3085572123527527]
+
+decades/1850s/7/priesthood_and_eternal_life_brigham_young.txt
+
+That Being placed within us a principle that has been among all the nations of men  from the beginning—the principle of reverence, of worship, of seeking after something superior to what we possess.
+
+['loud', 'quiet'] received scores [0.6730591058731079, 0.3269409239292145]
+['loud', 'soft'] received scores [0.7654376029968262, 0.23456238210201263]
+['noisy', 'quiet'] received scores [0.5224679112434387, 0.47753214836120605]
+['noisy', 'soft'] received scores [0.6342758536338806, 0.3657241761684418]
+
+decades/1850s/7/priesthood_and_eternal_life_brigham_young.txt
+
+And when we meet to worship, we do or should meet to speak of those principles and to strengthen our faith.
+
+['loud', 'quiet'] received scores [0.5018205642700195, 0.49817943572998047]
+['loud', 'soft'] received scores [0.5202165246009827, 0.4797835350036621]
+['quiet', 'noisy'] received scores [0.6633340716362, 0.33666592836380005]
+['soft', 'noisy'] received scores [0.6466988325119019, 0.35330116748809814]
+
+decades/1850s/7/priesthood_and_eternal_life_brigham_young.txt
+
+But should it please the Almighty to place us in circumstances that would preclude our assembling to worship, if we understand these principles, they are as dear to us in our closets, in our homes, and when we are laboring in our fields, our shops, or in the canyons, as when we are in this Tabernacle.
+
+['quiet', 'loud'] received scores [0.6029891967773438, 0.39701080322265625]
+['loud', 'soft'] received scores [0.6221067309379578, 0.37789326906204224]
+['quiet', 'noisy'] received scores [0.8448094129562378, 0.1551906019449234]
+['soft', 'noisy'] received scores [0.6852535009384155, 0.3147464990615845]
+
+decades/1850s/7/priesthood_and_eternal_life_brigham_young.txt
+
+When we undertake to worship the Lord, it is eternal principles that we desire to learn.
+
+['quiet', 'loud'] received scores [0.5867810249328613, 0.4132189452648163]
+['loud', 'soft'] received scores [0.532663106918335, 0.4673369228839874]
+['quiet', 'noisy'] received scores [0.679785966873169, 0.32021403312683105]
+['soft', 'noisy'] received scores [0.5674060583114624, 0.43259397149086]
+
+decades/1850s/7/privileges_and_experience_of_the_saints,_etc_orson_pratt.txt
+
+It is through the united faith of the people of God—through that confidence which they have in the Being whom they worship, that he, for their edification and benefit, will grant his Spirit unto his humble and faithful Saints.
+
+['loud', 'quiet'] received scores [0.5902861952781677, 0.40971383452415466]
+['loud', 'soft'] received scores [0.6939725279808044, 0.30602753162384033]
+['quiet', 'noisy'] received scores [0.6379603743553162, 0.36203962564468384]
+['soft', 'noisy'] received scores [0.5281984806060791, 0.4718014895915985]
+
+decades/1850s/7/privileges_and_experience_of_the_saints,_etc_orson_pratt.txt
+
+It is not because we are not worshipping the same Being whom the Saints worshipped in ancient days.
+
+['quiet', 'loud'] received scores [0.7202531099319458, 0.2797468304634094]
+['soft', 'loud'] received scores [0.5477145314216614, 0.452285498380661]
+['quiet', 'noisy'] received scores [0.85859215259552, 0.14140787720680237]
+['soft', 'noisy'] received scores [0.7406536340713501, 0.2593463957309723]
+
+decades/1850s/7/sanctification_heber_c._kimball.txt
+
+Brethren and sisters, let your minds be composed and settled down in the Spirit of the Lord, and have his Spirit to be with you always, and especially when you come to the house of worship.
+
+['quiet', 'loud'] received scores [0.8772922158241272, 0.1227077841758728]
+['soft', 'loud'] received scores [0.558191180229187, 0.4418088495731354]
+['quiet', 'noisy'] received scores [0.9182090759277344, 0.08179095387458801]
+['soft', 'noisy'] received scores [0.6648645401000977, 0.3351355195045471]
+
+decades/1850s/7/theocracy_orson_pratt.txt
+
+If we do not transgress the law, then let us be free, like any other American citizens, and let us worship God according to the dictates of our own conscience.
+
+['quiet', 'loud'] received scores [0.5795562863349915, 0.42044374346733093]
+['loud', 'soft'] received scores [0.5066466331481934, 0.49335333704948425]
+['quiet', 'noisy'] received scores [0.6864024996757507, 0.31359753012657166]
+['soft', 'noisy'] received scores [0.6072610020637512, 0.3927389979362488]
+
+decades/1850s/7/theocracy_orson_pratt.txt
+
+Can the idolater come here and build a temple to worship idols in?
+
+['loud', 'quiet'] received scores [0.5237944722175598, 0.4762054979801178]
+['soft', 'loud'] received scores [0.5182065963745117, 0.48179346323013306]
+['quiet', 'noisy'] received scores [0.6032290458679199, 0.39677098393440247]
+['soft', 'noisy'] received scores [0.6426870822906494, 0.3573129177093506]
+
+decades/1850s/7/theocracy_orson_pratt.txt
+
+Go into California and you will find one erected by the Chinese: they are worshipping dumb idols there.
+
+['loud', 'quiet'] received scores [0.8464155793190002, 0.15358440577983856]
+['soft', 'loud'] received scores [0.543891429901123, 0.45610857009887695]
+['noisy', 'quiet'] received scores [0.7123903632164001, 0.28760963678359985]
+['soft', 'noisy'] received scores [0.7262654304504395, 0.2737344801425934]
+
+decades/1850s/7/theocracy_orson_pratt.txt
+
+The people undertook to punish them by law; but judgment was given that inasmuch as they did not infringe upon the rights of others, they had a right to worship idols.
+
+['loud', 'quiet'] received scores [0.6042838096618652, 0.39571619033813477]
+['soft', 'loud'] received scores [0.503048837184906, 0.496951162815094]
+['quiet', 'noisy'] received scores [0.5768334865570068, 0.42316654324531555]
+['soft', 'noisy'] received scores [0.6781603097915649, 0.32183969020843506]
+
+decades/1850s/7/theocracy_orson_pratt.txt
+
+Is it the privilege of the idolater to worship here?
+
+['loud', 'quiet'] received scores [0.6912038922309875, 0.30879610776901245]
+['soft', 'loud'] received scores [0.5309270024299622, 0.46907302737236023]
+['noisy', 'quiet'] received scores [0.5860547423362732, 0.4139452278614044]
+['soft', 'noisy'] received scores [0.6415137648582458, 0.35848626494407654]
+
+decades/1850s/7/the_gospel_john_taylor.txt
+
+John said, among other things, "And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people, Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.
+
+['loud', 'quiet'] received scores [0.9918521046638489, 0.00814791675657034]
+['loud', 'soft'] received scores [0.9800801873207092, 0.01991978846490383]
+['noisy', 'quiet'] received scores [0.9916743636131287, 0.008325668051838875]
+['noisy', 'soft'] received scores [0.9796509146690369, 0.020349081605672836]
+
+decades/1850s/7/the_gospel_of_salvation,_&c_amasa_m._lyman.txt
+
+Simply this: We learn that Jesus—the individual whom we have been taught to adore from our infancy—to worship and revere—God our Father, possessed of an infinitude of power, ability, and capacity for happiness and glory, and for the accomplishment of his own will and pleasure, was once as we are.
+
+['quiet', 'loud'] received scores [0.9447321891784668, 0.05526776239275932]
+['loud', 'soft'] received scores [0.5660253763198853, 0.43397462368011475]
+['quiet', 'noisy'] received scores [0.993854284286499, 0.006145732942968607]
+['soft', 'noisy'] received scores [0.8788375854492188, 0.12116243690252304]
+
+decades/1850s/7/the_gospel—tithing—religion_in_the_home_circle_amasa_m._lyman.txt
+
+I am glad this morning, brethren and sisters, to enjoy the privilege again of meeting with you, with the opportunity that is afforded me of occupying a portion of time devoted to worship; and I would indulge a hope that the little time we are together may be so devoted as to be a benefit to us all.
+
+['quiet', 'loud'] received scores [0.6785573959350586, 0.321442574262619]
+['loud', 'soft'] received scores [0.5622726082801819, 0.4377273619174957]
+['quiet', 'noisy'] received scores [0.8704286217689514, 0.12957137823104858]
+['soft', 'noisy'] received scores [0.7124295234680176, 0.28757041692733765]
+
+decades/1850s/7/the_gospel—tithing—religion_in_the_home_circle_amasa_m._lyman.txt
+
+You suppose, then, that, if the Tithing goes to feed the poor, build up temples and houses of worship, to establish institutions of learning, to forward the cause of education in our midst, that the great object of its institution is reached.
+
+['loud', 'quiet'] received scores [0.5735323429107666, 0.426467627286911]
+['loud', 'soft'] received scores [0.6306633353233337, 0.36933669447898865]
+['quiet', 'noisy'] received scores [0.5434417128562927, 0.45655831694602966]
+['noisy', 'soft'] received scores [0.5161392688751221, 0.48386067152023315]
+
+decades/1850s/7/the_people_of_god_in_all_ages_led_by_one_spirit,_and_subject_to_persecution—condition_of_the_world_john_taylor.txt
+
+Because we dared worship God according to the dictates of our conscience.
+
+['loud', 'quiet'] received scores [0.5327743887901306, 0.46722567081451416]
+['loud', 'soft'] received scores [0.7787730693817139, 0.22122696042060852]
+['quiet', 'noisy'] received scores [0.6988687515258789, 0.3011312186717987]
+['noisy', 'soft'] received scores [0.5708520412445068, 0.42914801836013794]
+
+decades/1850s/7/the_people_of_god_in_all_ages_led_by_one_spirit,_and_subject_to_persecution—condition_of_the_world_john_taylor.txt
+
+And yet we have lived in this model republic, where they proclaim liberty to every man—where they have declared that all men shall worship God according to the dictates of their conscience.
+
+['loud', 'quiet'] received scores [0.7025195956230164, 0.29748040437698364]
+['loud', 'soft'] received scores [0.7397836446762085, 0.2602163851261139]
+['quiet', 'noisy'] received scores [0.6167768239974976, 0.38322311639785767]
+['soft', 'noisy'] received scores [0.5720868706703186, 0.427913099527359]
+
+decades/1850s/7/want_of_governing_capacities_among_men—elements_of_the_sacrament—apostasy,_etc_brigham_young.txt
+
+Not that the Latter-day Saints ever endeavored to interrupt any person in their faith and worship; and on this point I will call to witness all men who have been acquainted with us.
+
+['quiet', 'loud'] received scores [0.9293431043624878, 0.07065688073635101]
+['soft', 'loud'] received scores [0.6919177174568176, 0.3080822229385376]
+['quiet', 'noisy'] received scores [0.980307400226593, 0.019692588597536087]
+['soft', 'noisy'] received scores [0.8947383165359497, 0.10526169836521149]
+

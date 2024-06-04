@@ -1,0 +1,324 @@
+﻿decades/1930s/IE/1930_A.txt
+
+The  heavens  were  illuminated  by  the  glory  of  the  Lord,  the  heavenly  host  shouted  hosannas  as  the  Babe  of  Bethlehem,  the  Son  of  God,  the  Only  Begotten  of  the  Father  in  the  flesh,  he  who  was  to  become  the  Savior  of  mankind,  was  born  into  the  world.
+
+['loud', 'quiet'] received scores [0.9904640913009644, 0.009535937570035458]
+['loud', 'soft'] received scores [0.9462623000144958, 0.05373770743608475]
+['noisy', 'quiet'] received scores [0.99061119556427, 0.009388795122504234]
+['noisy', 'soft'] received scores [0.9470550417900085, 0.052944980561733246]
+
+decades/1930s/IE/1930_A.txt
+
+Immediately  following  the  sustaining  of  the  General  Authorities,  the  entire  assembly  arose  to  their  feet,  and  under  the  leadership  of  President  Heber  J. Grant,  gave  the  Hosanna  Shout,  waving  their  handkerchiefs  while  doing  so.
+
+['loud', 'quiet'] received scores [0.9737333655357361, 0.02626662328839302]
+['loud', 'soft'] received scores [0.9272246956825256, 0.07277529686689377]
+['noisy', 'quiet'] received scores [0.9776223301887512, 0.022377638146281242]
+['noisy', 'soft'] received scores [0.937558114528656, 0.06244190037250519]
+
+decades/1930s/IE/1930_A.txt
+
+The  words  of  the  Shout  are  as  follows :   Hosanna ! Hosanna !   Hosanna !  To  God  and  the  Lamb  Amen,  amen,  and  amen.
+
+['loud', 'quiet'] received scores [0.9782848358154297, 0.021715214475989342]
+['loud', 'soft'] received scores [0.9626367092132568, 0.03736329823732376]
+['noisy', 'quiet'] received scores [0.9872861504554749, 0.012713838368654251]
+['noisy', 'soft'] received scores [0.977978527545929, 0.022021502256393433]
+
+decades/1930s/IE/1930_A.txt
+
+The  waving  of  the  white  handkerchiefs  in  almost  perfect  unison  and  the  shouting  of  praises  to  God  and  the  Lamb  by  the  thousands  of  people  assembled  in  the  great  tabernacle,  was  perhaps  the  most  thrilling  and  impressive  religious  solemnity  that  those  present  had  ever  witnessed.
+
+['loud', 'quiet'] received scores [0.9941093325614929, 0.005890612956136465]
+['loud', 'soft'] received scores [0.9873492121696472, 0.012650757096707821]
+['noisy', 'quiet'] received scores [0.9825162291526794, 0.017483806237578392]
+['noisy', 'soft'] received scores [0.9629474878311157, 0.037052564322948456]
+
+decades/1930s/IE/1930_A.txt
+
+Have  I  not  combed  the  universe  and  drawn   The  choice  of  nations  to  this  favored  land,   Where  homing  tribes  shall  shout  to  trembling  hills,   And  lift  hosannas  to  the  listening  skies   That  light  the  towers  of  New  Jerusalem?
+
+['loud', 'quiet'] received scores [0.9433856010437012, 0.05661435052752495]
+['loud', 'soft'] received scores [0.9327687621116638, 0.0672312006354332]
+['noisy', 'quiet'] received scores [0.9362106919288635, 0.06378933042287827]
+['noisy', 'soft'] received scores [0.92435622215271, 0.07564381510019302]
+
+decades/1930s/IE/1930_A.txt
+
+"Let  the  mountains  shout  for  joy,  and  all  ye  valleys  cry  aloud,  and  all  ye  seas  and  dry  land  tell  the  wonders  of  your  Eternal  King!
+
+['loud', 'quiet'] received scores [0.9872247576713562, 0.012775200419127941]
+['loud', 'soft'] received scores [0.9709216952323914, 0.029078293591737747]
+['noisy', 'quiet'] received scores [0.9918330311775208, 0.008166961371898651]
+['noisy', 'soft'] received scores [0.9812993407249451, 0.01870064064860344]
+
+decades/1930s/IE/1930_A.txt
+
+And  let  the  sun,  moon,  and  the  morning  stars  sing  together,  and  let  all  the  sons  of  God  shout  for  joy!
+
+['loud', 'quiet'] received scores [0.9785611629486084, 0.02143879048526287]
+['loud', 'soft'] received scores [0.9054936170578003, 0.09450638294219971]
+['noisy', 'quiet'] received scores [0.9770861268043518, 0.022913850843906403]
+['noisy', 'soft'] received scores [0.8995075821876526, 0.10049246996641159]
+
+decades/1930s/IE/1930_A.txt
+
+As  we  rent  the  heavens  with  the  glad  shout  of  hosanna  to  God  and  the  Lamb,  it  seemed  heavenly.
+
+['loud', 'quiet'] received scores [0.9940775632858276, 0.005922394338995218]
+['loud', 'soft'] received scores [0.9873791933059692, 0.01262082438915968]
+['noisy', 'quiet'] received scores [0.9880338907241821, 0.011966063641011715]
+['noisy', 'soft'] received scores [0.9746740460395813, 0.025325937196612358]
+
+decades/1930s/IE/1931_O.txt
+
+I  appeal  to  you  as  citizens  of  our  nation,  to  decide  whether  you  are  ready  to  follow  the  dignified  and  glorious  example  of  our  Pilgrim  fathers,  who  went  to  Church  carrying  their  Bibles ;  or  whether  you  will  follow  the  leadership  of  the  few  of  our  American  Legion  who  recently  rode  through  the  streets  of  Detroit  swinging  their  bottles  and  shouting  for  beer.
+
+['loud', 'quiet'] received scores [0.9143832325935364, 0.08561673760414124]
+['loud', 'soft'] received scores [0.9050103425979614, 0.09498967230319977]
+['noisy', 'quiet'] received scores [0.9626340866088867, 0.03736589848995209]
+['noisy', 'soft'] received scores [0.9583025574684143, 0.0416974313557148]
+
+decades/1930s/IE/1932_A.txt
+
+The  Lord  said  to  his  servant  Job:   "Where  wast  thou  when  I  laid  the  foundations  of  the  earth?  declare,  if  thou  hast  understanding.  "When  the  morning  stars  sang  together,  and  all  the  sons  of  God  shouted  for  joy?
+
+['loud', 'quiet'] received scores [0.8971829414367676, 0.10281701385974884]
+['loud', 'soft'] received scores [0.8649387359619141, 0.13506124913692474]
+['noisy', 'quiet'] received scores [0.8864321112632751, 0.11356785148382187]
+['noisy', 'soft'] received scores [0.8513748645782471, 0.14862512052059174]
+
+decades/1930s/IE/1932_A.txt
+
+They  tell  of  a  time  when  the  sons  of  God  were  assembled  together  and  shouted  for  joy.
+
+['loud', 'quiet'] received scores [0.983552098274231, 0.01644786447286606]
+['loud', 'soft'] received scores [0.9686012864112854, 0.0313987135887146]
+['noisy', 'quiet'] received scores [0.9878621697425842, 0.012137837707996368]
+['noisy', 'soft'] received scores [0.9767363667488098, 0.023263605311512947]
+
+decades/1930s/IE/1932_A.txt
+
+That  particular phrase  does  not  state  exactly  what  it  was  they  shouted  for,  but  in  modern  revelation  that  is  made  clear.
+
+['loud', 'quiet'] received scores [0.7441902756690979, 0.2558097541332245]
+['soft', 'loud'] received scores [0.5669806599617004, 0.4330193102359772]
+['noisy', 'quiet'] received scores [0.8280512094497681, 0.17194882035255432]
+['noisy', 'soft'] received scores [0.5583510398864746, 0.441648930311203]
+
+decades/1930s/IE/1932_A.txt
+
+But,  although  we  were  born  of  God  in  the  spirit  before  the  foundation of  this  earth  was  laid,  when  the  sons  and  daughters  of  God  sang  together  and  shouted  for  joy  upon  the  promulgation  of  the  divine  purpose,  it  still  remained  necessary  in  order  to  be  in  very  deed  his  sons  and  daughters,  that  we  should  be  born  in  these  mortal  bodies  of  the  blood  and  of  the  flesh,  which  were  not  begotten  of  him  but  of  our  natural  parents.
+
+['loud', 'quiet'] received scores [0.9778507947921753, 0.02214915119111538]
+['loud', 'soft'] received scores [0.8692930936813354, 0.13070690631866455]
+['noisy', 'quiet'] received scores [0.978820264339447, 0.02117971144616604]
+['noisy', 'soft'] received scores [0.874403715133667, 0.1255963146686554]
+
+decades/1930s/IE/1932_O.txt
+
+Ask  Professor  Lund  to  have  opening  hymn  this  morning  'An  angel  from  on  high,'  next  'Let  the  mountains  shout  for  joy.
+
+['loud', 'quiet'] received scores [0.9113485813140869, 0.08865140378475189]
+['loud', 'soft'] received scores [0.8136598467826843, 0.18634015321731567]
+['noisy', 'quiet'] received scores [0.8603253364562988, 0.13967469334602356]
+['noisy', 'soft'] received scores [0.7234719395637512, 0.2765280604362488]
+
+decades/1930s/IE/1933_O.txt
+
+If  everybody  who  says  that  would  get  up  on  top  of  a  house  and  shout :  "I  do  not  keep  the  Word  of  Wisdom,"  he  could  not  give  himself  away  any  more  perfectly.
+
+['loud', 'quiet'] received scores [0.953880786895752, 0.04611923545598984]
+['loud', 'soft'] received scores [0.9477190971374512, 0.052280884236097336]
+['noisy', 'quiet'] received scores [0.9347692728042603, 0.06523072719573975]
+['noisy', 'soft'] received scores [0.9262516498565674, 0.07374832034111023]
+
+decades/1930s/IE/1933_O.txt
+
+"When   the  morning  stars   sang  together,   and  all  the  sons   of   God  shouted  for  joy?
+
+['loud', 'quiet'] received scores [0.978845477104187, 0.02115446701645851]
+['loud', 'soft'] received scores [0.9418026804924011, 0.058197274804115295]
+['noisy', 'quiet'] received scores [0.9785729646682739, 0.02142699994146824]
+['noisy', 'soft'] received scores [0.9410816431045532, 0.0589183047413826]
+
+decades/1930s/IE/1933_O.txt
+
+And  what  was  it  that  we  were  shouting  about  ?
+
+['loud', 'quiet'] received scores [0.9901354908943176, 0.009864501655101776]
+['loud', 'soft'] received scores [0.9846467971801758, 0.015353204682469368]
+['noisy', 'quiet'] received scores [0.9918283820152283, 0.008171623572707176]
+['noisy', 'soft'] received scores [0.9872694611549377, 0.01273050345480442]
+
+decades/1930s/IE/1933_O.txt
+
+Our  hearts  were  filled  with  joy  and  gladness  and  we  shouted  for  joy,  at  the  prospect  of  becoming  like  God  and  dwelling  in  his  presence  forever.
+
+['loud', 'quiet'] received scores [0.9922731518745422, 0.007726894225925207]
+['loud', 'soft'] received scores [0.9725403189659119, 0.027459660544991493]
+['noisy', 'quiet'] received scores [0.9947029948234558, 0.005296996328979731]
+['noisy', 'soft'] received scores [0.9810571670532227, 0.018942808732390404]
+
+decades/1930s/IE/1933_O.txt
+
+That  was  what  we  were  shouting  about.
+
+['loud', 'quiet'] received scores [0.991146445274353, 0.008853554725646973]
+['loud', 'soft'] received scores [0.991730809211731, 0.00826923456043005]
+['noisy', 'quiet'] received scores [0.9899522662162781, 0.010047722607851028]
+['noisy', 'soft'] received scores [0.9906147122383118, 0.009385336190462112]
+
+decades/1930s/IE/1935_O.txt
+
+Now  you  know  that if  you  were  to  get  up  on  top  of  a  house  and  shout,  your  voice  would  carry  only  a  few  hundred  feet.
+
+['loud', 'quiet'] received scores [0.5364296436309814, 0.46357032656669617]
+['loud', 'soft'] received scores [0.5585360527038574, 0.4414639472961426]
+['noisy', 'quiet'] received scores [0.7902740836143494, 0.20972588658332825]
+['noisy', 'soft'] received scores [0.8046829104423523, 0.1953171044588089]
+
+decades/1930s/IE/1935_O.txt
+
+At  a  great  national  convention  the  people  shouted,  "Hurrah! Hurrah!  We  want  our  beer;  we  want  our  beer;  we  want  our  beer!"  And  they  got  it.
+
+['loud', 'quiet'] received scores [0.9951016306877136, 0.004898336715996265]
+['loud', 'soft'] received scores [0.9922819137573242, 0.007718128152191639]
+['noisy', 'quiet'] received scores [0.9962078332901001, 0.003792137373238802]
+['noisy', 'soft'] received scores [0.9940210580825806, 0.005978957284241915]
+
+decades/1930s/IE/1935_O.txt
+
+The  people  were  quiet,  there  were  no  great  gatherings  on  the  streets,  in  the  parks,  or  shouting  at  baseball  games  or  other  sports.
+
+['quiet', 'loud'] received scores [0.9940966367721558, 0.005903331097215414]
+['soft', 'loud'] received scores [0.9269815683364868, 0.07301843911409378]
+['quiet', 'noisy'] received scores [0.9913114309310913, 0.008688594214618206]
+['soft', 'noisy'] received scores [0.8958482146263123, 0.10415180027484894]
+
+decades/1930s/IE/1935_O.txt
+
+Are  we  the  people  of  this  great  nation  whose  motto  is  "In  God  We  Trust,"  are  we  the  people  of  this  land  of  liberty  who  sing,  "Protect  us  by  thy  might,  great  God  our  King,"  are  we  in  this  chosen  land  following the  example  of  a  drunken  few  who  are  swinging  their  bottles  and  shouting  for  liquor,  or  are  we  following  the  example  of  our  Pilgrim  fathers  who,  Bible  in  hand,  wended  their  way  to  their  places  of  worship  and  there  upon  bended  knees  prayed  for  strength  to  resist  temptation?
+
+['loud', 'quiet'] received scores [0.8421772122383118, 0.15782275795936584]
+['loud', 'soft'] received scores [0.6420778632164001, 0.35792213678359985]
+['noisy', 'quiet'] received scores [0.9874710440635681, 0.012528976425528526]
+['noisy', 'soft'] received scores [0.9636306166648865, 0.036369431763887405]
+
+decades/1930s/IE/1935_O.txt
+
+In  this  prologue  the  purpose  of  the  Almighty  with  reference  to  his  sons  and  daughters  who  had  been  begotten  of  him  in  the  spirit  before  the  world  was  made,  was  vividly  portrayed — unfolding  the  divine  plan  of  life  and  salvation — greatly  to  the  delight  of  his  children,  especially  those  great  and  noble  ones  of  that  primeval  day,  the  morning  stars,  for  their  hearts  were  filled  with  joy  and  gladness  and  they  sang  together  in  a  mighty  chorus  and  shouted  for  joy.
+
+['loud', 'quiet'] received scores [0.9885900020599365, 0.011410018429160118]
+['loud', 'soft'] received scores [0.9733352065086365, 0.02666480839252472]
+['noisy', 'quiet'] received scores [0.988071858882904, 0.011928149498999119]
+['noisy', 'soft'] received scores [0.9721438884735107, 0.027856143191456795]
+
+decades/1930s/IE/1935_O.txt
+
+And  again:   Where  wast  thou  when  I  laid  the  foundations  of  the  earth?  declare,  if  thou  hast  understanding. When  the  morning  stars  sang  together,  and  all  the  sons  of  God  shouted  for  joy?
+
+['loud', 'quiet'] received scores [0.9622818827629089, 0.03771815821528435]
+['loud', 'soft'] received scores [0.9041299819946289, 0.0958700180053711]
+['noisy', 'quiet'] received scores [0.9567659497261047, 0.04323410987854004]
+['noisy', 'soft'] received scores [0.8910724520683289, 0.10892752557992935]
+
+decades/1930s/IE/1935_O.txt
+
+"You  know  that  is  a  lie,  young  man,"  said  he,  "because  if  you  get  up  on  top  of  a  house  and  shout,  your  voice  can  be  heard  only  a  short  distance.
+
+['loud', 'quiet'] received scores [0.7211928963661194, 0.2788071036338806]
+['loud', 'soft'] received scores [0.6359144449234009, 0.36408549547195435]
+['noisy', 'quiet'] received scores [0.8448855876922607, 0.15511439740657806]
+['noisy', 'soft'] received scores [0.7862263917922974, 0.21377363801002502]
+
+decades/1930s/IE/1936_A.txt
+
+Rejoice  greatly,  O  daughter  of  Zion;  Shout,  O  daughter  of  Jerusalem:  behold,  thy  king  cometh  unto  thee.
+
+['loud', 'quiet'] received scores [0.9897714257240295, 0.010228544473648071]
+['loud', 'soft'] received scores [0.9805992245674133, 0.01940074749290943]
+['noisy', 'quiet'] received scores [0.9904862642288208, 0.009513708762824535]
+['noisy', 'soft'] received scores [0.9819433689117432, 0.01805659383535385]
+
+decades/1930s/IE/1936_A.txt
+
+For  the  Lord  himself  shall  descend  from  heaven  with  a  shout,  with  the  voice  of  the  archangel,  and  with  the  trump  of  God :  and  the  dead  in  Christ  shall  rise  first:   Then  we  which  are  alive  and  remain  shall  be  caught  up  together  with  them  in  the  clouds,  to  meet  the  Lord  in  the  air:  and  so  shall  we  ever  be  with  the  Lord.
+
+['loud', 'quiet'] received scores [0.9886075258255005, 0.01139247976243496]
+['loud', 'soft'] received scores [0.9614802002906799, 0.03851979225873947]
+['noisy', 'quiet'] received scores [0.9891024231910706, 0.010897614061832428]
+['noisy', 'soft'] received scores [0.9631094336509705, 0.03689054027199745]
+
+decades/1930s/IE/1936_O.txt
+
+May  I  read  to  you  in  conclusion  a  text  that  came  to  me  as  I  was  called  so  unexpectedly  to  the  stand  to  speak  to  you  this  morning :   Wherefore,  my  beloved  brethren,  I  know  that  if  ye  shall  follow  the  Son,  with  full  purpose  of  heart,  acting  no  hypocrisy  and  no  deception  before  God,  but  with  real  intent,  repenting  of  your  sins,  witnessing  unto  the  Father  that  ye  are  willing  to  take  upon  you  the  name  of  Christ,  by  baptism —  yea,  by  following  your  Lord  and  your  Savior  down  into  the  water,  according  to  his  word,  behold,  then  shall  ye  receive  the  Holy  Ghost ;  yea,  then  cometh  the  baptism  of  fire  and  of  the  Holy  Ghost ;  and  then  can  ye  speak  with  the  tongue  of  angels,  and  shout  praises  unto  the  Holy  One  of  Israel.
+
+['loud', 'quiet'] received scores [0.6024665832519531, 0.39753344655036926]
+['loud', 'soft'] received scores [0.7237772941589355, 0.27622267603874207]
+['quiet', 'noisy'] received scores [0.6095690727233887, 0.39043086767196655]
+['noisy', 'soft'] received scores [0.5254833698272705, 0.4745166301727295]
+
+decades/1930s/IE/1937_O.txt
+
+It  thrilled  me  to  hear  that  audience  cheering  and  shouting,  "Saints! Saints!  Saints!"   I  confess  I  was  greatly  pleased.
+
+['loud', 'quiet'] received scores [0.9949463605880737, 0.005053655710071325]
+['loud', 'soft'] received scores [0.9709970951080322, 0.029002908617258072]
+['noisy', 'quiet'] received scores [0.9949705004692078, 0.005029534455388784]
+['noisy', 'soft'] received scores [0.971132218837738, 0.02886779233813286]
+
+decades/1930s/IE/1937_O.txt
+
+No  wonder  then  that  the  sons  and  daughters  of  God,  especially  those  who  were  valiant  in  their  first  Estate — the  great  and  the  noble — "the  morning  stars  sang  together,  and  all  the  sons  of  God  shouted  for  joy.
+
+['loud', 'quiet'] received scores [0.9881953001022339, 0.011804734356701374]
+['loud', 'soft'] received scores [0.9740375280380249, 0.02596248686313629]
+['noisy', 'quiet'] received scores [0.9915518164634705, 0.008448230102658272]
+['noisy', 'soft'] received scores [0.9813436269760132, 0.018656432628631592]
+
+decades/1930s/IE/1938_A.txt
+
+Parenthetically  may  I  remark  that  in  this  sabre-rattling,  demagogue-shouting,  Deity-banishing  age  of  arrogant  self-sufficiency,  it  is  refreshing  to  hear  words  of  humility  issuing  from  the  mouth  of  one  in  high  station.
+
+['quiet', 'loud'] received scores [0.6867306232452393, 0.31326937675476074]
+['soft', 'loud'] received scores [0.6239885687828064, 0.376011461019516]
+['noisy', 'quiet'] received scores [0.542716383934021, 0.4572835862636566]
+['noisy', 'soft'] received scores [0.6105558276176453, 0.38944411277770996]
+
+decades/1930s/IE/1938_A.txt
+
+Then  came  the  king's  son,  wounded,  sore  bestead,   And  weaponless,  and  saw  the  broken  sword,   Hilt-buried  in  the  dry  and  trodden  sand,   And  ran  and  snatched  it,  and  with  battle-shout   Lifted  afresh  he  hewed  his  enemy  down,   And  saved  a  great  cause  that  heroic  day.
+
+['loud', 'quiet'] received scores [0.977811336517334, 0.022188665345311165]
+['loud', 'soft'] received scores [0.9742477536201477, 0.02575223334133625]
+['noisy', 'quiet'] received scores [0.9785619378089905, 0.02143809199333191]
+['noisy', 'soft'] received scores [0.9751158356666565, 0.024884184822440147]
+
+decades/1930s/IE/1938_O.txt
+
+This  is  undoubtedly  the  circumstance  to  which  the  Lord  referred  when  he  asked  his  servant  Job :  "Where  wast  thou  when  I  laid  the  foundations of  the  earth?  Declare  if  thou  hast  understanding  When   the  morning  stars  sang  together  and  all  the  sons  of  God  shouted  for  joy.
+
+['loud', 'quiet'] received scores [0.9426507949829102, 0.057349249720573425]
+['loud', 'soft'] received scores [0.9470033645629883, 0.052996616810560226]
+['noisy', 'quiet'] received scores [0.9408925175666809, 0.059107501059770584]
+['noisy', 'soft'] received scores [0.9453708529472351, 0.05462915450334549]
+
+decades/1930s/IE/1938_O.txt
+
+The  music  of  the  choir  and  the  organ  prepares  the  hearts  of  those  who  listen  for  the  reception  of  the  spoken  messages,  and  it  is  very  encouraging  to  me  to  realize  that  a  truth  does  not  need  to  be  shouted  to  be  appreciated — that  a  truth  quietly  spoken  has  much  greater  effect  than  an  untruth  shouted  from  the  housetops.
+
+['quiet', 'loud'] received scores [0.9758970141410828, 0.02410299703478813]
+['soft', 'loud'] received scores [0.922436535358429, 0.07756350934505463]
+['quiet', 'noisy'] received scores [0.9764667749404907, 0.023533163592219353]
+['soft', 'noisy'] received scores [0.9241719841957092, 0.07582799345254898]
+
+decades/1930s/IE/1939_A.txt
+
+Since  prehistoric  times  the  shout  has  come  down  on  the  wave  of  centuries  and  the  series  of  generations,  'Woe  to  the  weak'.
+
+['loud', 'quiet'] received scores [0.9936942458152771, 0.006305747665464878]
+['loud', 'soft'] received scores [0.976929247379303, 0.023070696741342545]
+['noisy', 'quiet'] received scores [0.9910513162612915, 0.00894866231828928]
+['noisy', 'soft'] received scores [0.9674896001815796, 0.03251037746667862]
+

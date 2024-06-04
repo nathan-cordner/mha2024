@@ -1,0 +1,261 @@
+﻿decades/2020s/2020_A/nelson_hear_him.txt
+
+We also hear Him more clearly as we refine our ability to recognize the whisperings of the Holy Ghost.
+
+['quiet', 'loud'] received scores [0.8975512981414795, 0.10244869440793991]
+['soft', 'loud'] received scores [0.8169758319854736, 0.18302413821220398]
+['quiet', 'noisy'] received scores [0.8656571507453918, 0.13434284925460815]
+['soft', 'noisy'] received scores [0.7665222883224487, 0.23347769677639008]
+
+decades/2020s/2020_O/camargo_ask,_seek,_and_knock.txt
+
+However, what we might feel more often is the still, small voice of the Lord whispering to our mind and heart: “I am here.
+
+['quiet', 'loud'] received scores [0.9885318279266357, 0.011468205600976944]
+['soft', 'loud'] received scores [0.9764604568481445, 0.02353954315185547]
+['quiet', 'noisy'] received scores [0.9928930997848511, 0.00710685271769762]
+['soft', 'noisy'] received scores [0.985344409942627, 0.014655527658760548]
+
+decades/2020s/2020_O/craig_eyes_to_see.txt
+
+‘Hi, Rozlyn,’ I whispered.
+
+['quiet', 'loud'] received scores [0.99388587474823, 0.006114152260124683]
+['soft', 'loud'] received scores [0.9930528402328491, 0.006947206798940897]
+['quiet', 'noisy'] received scores [0.956173837184906, 0.0438261553645134]
+['soft', 'noisy'] received scores [0.9504586458206177, 0.049541354179382324]
+
+decades/2020s/2020_O/holland_the_exquisite_gift_of_the_son.txt
+
+So guard against the satanic whispering that if you were a better person, you would avoid such trials.
+
+['quiet', 'loud'] received scores [0.6007527112960815, 0.39924728870391846]
+['soft', 'loud'] received scores [0.5550934672355652, 0.4449065029621124]
+['noisy', 'quiet'] received scores [0.8736814260482788, 0.12631858885288239]
+['noisy', 'soft'] received scores [0.8929504156112671, 0.1070496141910553]
+
+decades/2020s/2020_O/renlund_do_justly,_love_mercy,_and_walk_humbly_with_god.txt
+
+Cohen’s emphatic response was spoken in almost a whisper.
+
+['quiet', 'loud'] received scores [0.9721498489379883, 0.027850093320012093]
+['soft', 'loud'] received scores [0.9462459683418274, 0.053754016757011414]
+['quiet', 'noisy'] received scores [0.8582343459129333, 0.14176568388938904]
+['soft', 'noisy'] received scores [0.7532668709754944, 0.2467331439256668]
+
+decades/2020s/2020_O/whiting_becoming_like_him.txt
+
+If we are honest with ourselves, the Light of Christ within us whispers that there is distance between where we are in comparison with the desired character of the Savior.
+
+['quiet', 'loud'] received scores [0.8778859376907349, 0.12211404740810394]
+['soft', 'loud'] received scores [0.6999117136001587, 0.3000882863998413]
+['quiet', 'noisy'] received scores [0.756324052810669, 0.24367594718933105]
+['soft', 'noisy'] received scores [0.5017367005348206, 0.49826326966285706]
+
+decades/2020s/2021_A/nelson_what_we_are_learning_and_will_never_forget.txt
+
+In contrast, the voice of the Lord is not “a voice of a great tumultuous noise, but … it [is] a still voice of perfect mildness, [like] a whisper, and it [pierces] even to the very soul.
+
+['quiet', 'loud'] received scores [0.9577456116676331, 0.04225433990359306]
+['soft', 'loud'] received scores [0.9781791567802429, 0.02182084321975708]
+['quiet', 'noisy'] received scores [0.9108259677886963, 0.0891740545630455]
+['soft', 'noisy'] received scores [0.9528315663337708, 0.04716841131448746]
+
+decades/2020s/2021_A/nelson_what_we_are_learning_and_will_never_forget.txt
+
+Or we can use our time to hear the voice of the Lord whispering His guidance, comfort, and peace.
+
+['quiet', 'loud'] received scores [0.9795387387275696, 0.02046128362417221]
+['soft', 'loud'] received scores [0.9034719467163086, 0.09652809798717499]
+['quiet', 'noisy'] received scores [0.9796338081359863, 0.020366206765174866]
+['soft', 'noisy'] received scores [0.9038857221603394, 0.09611424058675766]
+
+decades/2020s/2021_A/palmer_our_sorrow_shall_be_turned_into_joy.txt
+
+I promise that if you desire to believe, then act in faith and follow the whisperings of the Spirit, you will find joy in this life and in the world to come.
+
+['quiet', 'loud'] received scores [0.9511301517486572, 0.04886983707547188]
+['soft', 'loud'] received scores [0.7548825740814209, 0.2451174408197403]
+['quiet', 'noisy'] received scores [0.8904231786727905, 0.1095767691731453]
+['soft', 'noisy'] received scores [0.5625224709510803, 0.4374775290489197]
+
+decades/2020s/2021_O/eubank_i_pray_he’ll_use_us.txt
+
+This humble man, a devout Catholic, whispered a prayer that God might send someone to help him.
+
+['quiet', 'loud'] received scores [0.9973341822624207, 0.0026658675633370876]
+['soft', 'loud'] received scores [0.9816073179244995, 0.018392669036984444]
+['quiet', 'noisy'] received scores [0.9980925917625427, 0.0019073706353083253]
+['soft', 'noisy'] received scores [0.986781120300293, 0.013218866661190987]
+
+decades/2020s/2021_O/eyring_the_faith_to_ask_and_then_to_act.txt
+
+If your faith in Jesus Christ has led to a heart softened through the effects of His Atonement, you will be more able to feel the whisperings of the Spirit in answer to your prayers.
+
+['quiet', 'loud'] received scores [0.9282795786857605, 0.0717204287648201]
+['soft', 'loud'] received scores [0.9939303398132324, 0.006069677881896496]
+['quiet', 'noisy'] received scores [0.8819382786750793, 0.11806166917085648]
+['soft', 'noisy'] received scores [0.9895300269126892, 0.010469965636730194]
+
+decades/2020s/2021_O/nelson_make_time_for_the_lord.txt
+
+If most of the information you get comes from social or other media, your ability to hear the whisperings of the Spirit will be diminished.
+
+['quiet', 'loud'] received scores [0.9036022424697876, 0.09639781713485718]
+['soft', 'loud'] received scores [0.7812460660934448, 0.2187539041042328]
+['quiet', 'noisy'] received scores [0.5577524900436401, 0.44224756956100464]
+['noisy', 'soft'] received scores [0.6754451394081116, 0.32455483078956604]
+
+decades/2020s/2021_O/valenzuela_deepening_our_conversion_to_jesus_christ.txt
+
+He inspires in us the desire to live according to the truth and whispers to us ways to do so.
+
+['quiet', 'loud'] received scores [0.9572271704673767, 0.0427728034555912]
+['soft', 'loud'] received scores [0.5939202308654785, 0.4060797691345215]
+['quiet', 'noisy'] received scores [0.9663206338882446, 0.033679354935884476]
+['soft', 'noisy'] received scores [0.6521873474121094, 0.347812682390213]
+
+decades/2020s/2022_A/porter_lessons_at_the_well.txt
+
+As she concluded her prayer, the Spirit whispered to her that God knew her pain.
+
+['quiet', 'loud'] received scores [0.7104185819625854, 0.28958141803741455]
+['soft', 'loud'] received scores [0.5900149941444397, 0.4099850356578827]
+['quiet', 'noisy'] received scores [0.7161905169487, 0.28380951285362244]
+['soft', 'noisy'] received scores [0.5968248248100281, 0.4031752049922943]
+
+decades/2020s/2022_O/caussé_our_earthly_stewardship.txt
+
+I pray that we will then hear His loving words whispered to our hearts: “Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.
+
+['quiet', 'loud'] received scores [0.9528264999389648, 0.047173481434583664]
+['soft', 'loud'] received scores [0.7767460942268372, 0.22325390577316284]
+['quiet', 'noisy'] received scores [0.8994970321655273, 0.10050296783447266]
+['soft', 'noisy'] received scores [0.6065543293952942, 0.3934457004070282]
+
+decades/2020s/2023_A/andersen_my_mind_caught_hold_upon_this_thought_of_jesus_christ.txt
+
+Nelson’s counsel to “hear Him,” we are refining our ability to recognize the whisperings of the Holy Ghost and to see the hand of the Lord in our lives.
+
+['quiet', 'loud'] received scores [0.7441602349281311, 0.2558397352695465]
+['soft', 'loud'] received scores [0.6228179931640625, 0.3771819472312927]
+['quiet', 'noisy'] received scores [0.6534802317619324, 0.34651973843574524]
+['soft', 'noisy'] received scores [0.5170418620109558, 0.4829580783843994]
+
+decades/2020s/2023_A/cook_just_keep_going—with_faith.txt
+
+I leaned over to the stake president and whispered, “This is a wonderful stake.
+
+['quiet', 'loud'] received scores [0.936249315738678, 0.06375064700841904]
+['soft', 'loud'] received scores [0.7175701260566711, 0.28242984414100647]
+['quiet', 'noisy'] received scores [0.9787091016769409, 0.021290896460413933]
+['soft', 'noisy'] received scores [0.8883000612258911, 0.11169999092817307]
+
+decades/2020s/2023_A/haynie_a_living_prophet_for_the_latter_days.txt
+
+Our seemingly small deviations, quiet neglect, or whispered criticisms in response to prophetic counsel may result in our only walking dangerously near the edge of the covenant path; but when magnified by the adversary in the lives of the rising generation, such actions may influence them to leave that path altogether.
+
+['quiet', 'loud'] received scores [0.9893578886985779, 0.010642096400260925]
+['soft', 'loud'] received scores [0.8843260407447815, 0.11567399650812149]
+['quiet', 'noisy'] received scores [0.9742834568023682, 0.025716572999954224]
+['soft', 'noisy'] received scores [0.7570139765739441, 0.24298596382141113]
+
+decades/2020s/2023_O/choi_do_you_want_to_be_happy.txt
+
+The voice whispered to her, “Because it was too hard for you to walk, I called him as a bishop in order to hold you and walk for you.
+
+['quiet', 'loud'] received scores [0.9833272099494934, 0.016672804951667786]
+['soft', 'loud'] received scores [0.9589622020721436, 0.04103778302669525]
+['quiet', 'noisy'] received scores [0.9714169502258301, 0.028583014383912086]
+['soft', 'noisy'] received scores [0.9308704733848572, 0.06912950426340103]
+
+decades/2020s/2023_O/gong_love_is_spoken_here.txt
+
+Each covenant whispers, “Love is spoken here.
+
+['quiet', 'loud'] received scores [0.9765510559082031, 0.023448944091796875]
+['soft', 'loud'] received scores [0.9781484007835388, 0.021851560100913048]
+['quiet', 'noisy'] received scores [0.9724103212356567, 0.027589714154601097]
+['soft', 'noisy'] received scores [0.9742823243141174, 0.025717681273818016]
+
+decades/2020s/2023_O/jr._eternal_truth.txt
+
+Alarmed, I went to our son and whispered, “Hey, let’s remember to refer to the missionaries as Elder or Sister.
+
+['quiet', 'loud'] received scores [0.86928391456604, 0.13071607053279877]
+['loud', 'soft'] received scores [0.522772490978241, 0.4772275686264038]
+['quiet', 'noisy'] received scores [0.6462039947509766, 0.35379600524902344]
+['noisy', 'soft'] received scores [0.7995365262031555, 0.2004634439945221]
+
+decades/2020s/2023_O/nelson_think_celestial!.txt
+
+Seek guidance from voices you can trust—from prophets, seers, and revelators and from the whisperings of the Holy Ghost, who “will show unto you all things what ye should do.
+
+['quiet', 'loud'] received scores [0.916351318359375, 0.08364871889352798]
+['soft', 'loud'] received scores [0.8448799848556519, 0.15512003004550934]
+['quiet', 'noisy'] received scores [0.7949079275131226, 0.20509208738803864]
+['soft', 'noisy'] received scores [0.6583588123321533, 0.34164121747016907]
+
+decades/2020s/2023_O/stevenson_promptings_of_the_spirit.txt
+
+Following a moment of meditative silence in the celestial room, emotional and deeply touched he whispered in my ear, “Even the air that I breathe in this room feels different.
+
+['quiet', 'loud'] received scores [0.9880678057670593, 0.011932209134101868]
+['soft', 'loud'] received scores [0.8780748248100281, 0.12192515283823013]
+['quiet', 'noisy'] received scores [0.992706835269928, 0.00729313213378191]
+['soft', 'noisy'] received scores [0.9221063852310181, 0.07789359986782074]
+
+decades/2020s/2023_O/stevenson_promptings_of_the_spirit.txt
+
+It is “not a voice of thunder” but rather “a still voice of perfect mildness, as if it had been a whisper,” and yet it can “pierce even to the very soul.
+
+['quiet', 'loud'] received scores [0.98477703332901, 0.015223000198602676]
+['soft', 'loud'] received scores [0.9880159497261047, 0.011984038166701794]
+['quiet', 'noisy'] received scores [0.990641176700592, 0.009358844719827175]
+['soft', 'noisy'] received scores [0.9926417469978333, 0.0073582627810537815]
+
+decades/2020s/2023_O/stevenson_promptings_of_the_spirit.txt
+
+President Boyd K. Packer stated: “The Spirit does not get our attention by shouting or shaking us with a heavy hand. Rather it whispers. It caresses so gently that if we are preoccupied we may not feel it at all.”
+
+['quiet', 'loud'] received scores [0.9867751598358154, 0.013224889524281025]
+['soft', 'loud'] received scores [0.9928218126296997, 0.007178195286542177]
+['quiet', 'noisy'] received scores [0.9890249967575073, 0.010974983684718609]
+['soft', 'noisy'] received scores [0.9940491914749146, 0.00595078943297267]
+
+decades/2020s/2023_O/stevenson_promptings_of_the_spirit.txt
+
+Her father stood next to her, offering encouragement and assisting with soft whispers to her ear as she proudly shared, “I am a child of God.
+
+['quiet', 'loud'] received scores [0.9229772090911865, 0.07702286541461945]
+['soft', 'loud'] received scores [0.9884772896766663, 0.011522729881107807]
+['quiet', 'noisy'] received scores [0.9371229410171509, 0.06287705153226852]
+['soft', 'noisy'] received scores [0.9907145500183105, 0.009285475127398968]
+
+decades/2020s/2023_O/stevenson_promptings_of_the_spirit.txt
+
+The next testimony that followed came from a young adult who began with a nervous quip: “I wish I had someone whispering in my ear like that.
+
+['loud', 'quiet'] received scores [0.536442756652832, 0.46355730295181274]
+['soft', 'loud'] received scores [0.6757396459579468, 0.3242603540420532]
+['noisy', 'quiet'] received scores [0.6641846299171448, 0.3358153998851776]
+['soft', 'noisy'] received scores [0.5494112968444824, 0.4505886733531952]
+
+decades/2020s/2023_O/stevenson_promptings_of_the_spirit.txt
+
+Then she had a flash of inspiration and testified, “I do have someone whispering in my ear like that—the Holy Ghost!
+
+['loud', 'quiet'] received scores [0.798984944820404, 0.20101511478424072]
+['loud', 'soft'] received scores [0.7278656959533691, 0.27213430404663086]
+['noisy', 'quiet'] received scores [0.7288805842399597, 0.27111944556236267]
+['noisy', 'soft'] received scores [0.6440094709396362, 0.35599055886268616]
+
+decades/2020s/2023_O/wright_abide_the_day_in_christ.txt
+
+The Holy Ghost whispered, “Everything is going to be OK.
+
+['quiet', 'loud'] received scores [0.9872531890869141, 0.012746804393827915]
+['soft', 'loud'] received scores [0.948570191860199, 0.05142981931567192]
+['quiet', 'noisy'] received scores [0.9743953347206116, 0.025604713708162308]
+['soft', 'noisy'] received scores [0.9006199836730957, 0.0993800163269043]
+

@@ -1,0 +1,243 @@
+﻿decades/1940s/1942_A/lyman_who_will_win_the_war.txt
+
+I had seen in the morning paper a picture of the members of the American Legion marching down Woodward Avenue in the City of Detroit where I marched in my boyhood with my classmates and shouted vigorously for the football team of the University of Michigan.
+
+['loud', 'quiet'] received scores [0.9842537641525269, 0.01574622467160225]
+['loud', 'soft'] received scores [0.9738020896911621, 0.026197880506515503]
+['noisy', 'quiet'] received scores [0.9817069172859192, 0.018293052911758423]
+['noisy', 'soft'] received scores [0.9696170091629028, 0.030383000150322914]
+
+decades/1940s/1942_A/lyman_who_will_win_the_war.txt
+
+The paper said members of the American Legion were marching down Woodward Avenue swinging their bottles and shouting for beer.
+
+['loud', 'quiet'] received scores [0.9935908317565918, 0.00640916358679533]
+['loud', 'soft'] received scores [0.9663366675376892, 0.03366335481405258]
+['noisy', 'quiet'] received scores [0.9951598048210144, 0.004840196575969458]
+['noisy', 'soft'] received scores [0.9744055867195129, 0.025594409555196762]
+
+decades/1940s/1942_A/lyman_who_will_win_the_war.txt
+
+Are they following the lead of those who are swinging their bottles and shouting for beer, or are they following the example of the Pilgrim fathers who remembered the Sabbath day to keep it holy, and with bowed heads, Bible in hand, wended their way to their places of worship.
+
+['loud', 'quiet'] received scores [0.971808910369873, 0.028191061690449715]
+['loud', 'soft'] received scores [0.9760774374008179, 0.02392255701124668]
+['noisy', 'quiet'] received scores [0.9924577474594116, 0.00754228001460433]
+['noisy', 'soft'] received scores [0.9936202764511108, 0.006379752419888973]
+
+decades/1940s/1942_O/lyman_liquor,_immorality,_and_our_armed_forces.txt
+
+"Who is to blame for my condition?" shouted the boy.
+
+['loud', 'quiet'] received scores [0.9963901042938232, 0.0036099294666200876]
+['loud', 'soft'] received scores [0.9944108128547668, 0.005589209031313658]
+['noisy', 'quiet'] received scores [0.9942122101783752, 0.005787782371044159]
+['noisy', 'soft'] received scores [0.991049587726593, 0.008950425311923027]
+
+decades/1940s/1942_O/lyman_liquor,_immorality,_and_our_armed_forces.txt
+
+You are the one," shouted the boy, "that is responsible for my condition.
+
+['loud', 'quiet'] received scores [0.9975104928016663, 0.002489524893462658]
+['loud', 'soft'] received scores [0.9969425201416016, 0.0030574575066566467]
+['noisy', 'quiet'] received scores [0.9949504733085632, 0.005049494560807943]
+['noisy', 'soft'] received scores [0.9938021898269653, 0.006197801791131496]
+
+decades/1940s/1943_A/ashton_untitled.txt
+
+If you were going down a lonely street and were waylaid by ruffians and you called and shouted, and the police came to your assistance, you would believe in the police, wouldn't you?
+
+['loud', 'quiet'] received scores [0.6345552206039429, 0.36544471979141235]
+['loud', 'soft'] received scores [0.7353821396827698, 0.2646178603172302]
+['noisy', 'quiet'] received scores [0.5117598176002502, 0.48824021220207214]
+['noisy', 'soft'] received scores [0.6265260577201843, 0.3734739422798157]
+
+decades/1940s/1943_A/callis_millennial_hope.txt
+
+The Apostle Paul tells us that when the Savior comes to reign in power and in great glory, from the very headwaters of immortality there is going to flow a stream of immortality, for he says:  For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:  Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.
+
+['loud', 'quiet'] received scores [0.9590839147567749, 0.04091610014438629]
+['loud', 'soft'] received scores [0.9461135268211365, 0.05388643965125084]
+['noisy', 'quiet'] received scores [0.9534331560134888, 0.04656687378883362]
+['noisy', 'soft'] received scores [0.9387858510017395, 0.06121417135000229]
+
+decades/1940s/1943_A/richards_valiant_in_the_covenants.txt
+
+He was chosen as the Savior of the world and by Him, under the Father, the world was created and made and all things therein We sanctioned the plan of salvation and our resolves without a doubt were that we would abide by that plan in all particulars, that in the end we might be like our Father and dwell with Him in His kingdom; and the morning stars sang, and we, the sons of God, shouted for joy in this great plan, all looking toward the saving of the souls of our Father's children—all of us, for the Prophet Joseph tells us that we were all there in the Council of Heaven, that we saw the Savior chosen and appointed and the plan of salvation made, and we sanctioned it.
+
+['loud', 'quiet'] received scores [0.9925587773323059, 0.007441171444952488]
+['loud', 'soft'] received scores [0.9730223417282104, 0.02697763405740261]
+['noisy', 'quiet'] received scores [0.989112913608551, 0.010887027718126774]
+['noisy', 'soft'] received scores [0.9608860611915588, 0.03911391645669937]
+
+decades/1940s/1943_O/kirkham_untitled.txt
+
+We were hailed with songs and shouting and other tokens of joy.
+
+['loud', 'quiet'] received scores [0.9939143657684326, 0.006085596978664398]
+['loud', 'soft'] received scores [0.9705501198768616, 0.02944989502429962]
+['noisy', 'quiet'] received scores [0.9950613379478455, 0.0049386597238481045]
+['noisy', 'soft'] received scores [0.9759941101074219, 0.02400590106844902]
+
+decades/1940s/1944_A/bowen_“he_is_risen_from_the_dead”.txt
+
+But apparently for once exercising his power in his own behalf he passed through them and went his way There would pass in review before her mind his triumphal entry into Jerusalem when the people thronged to meet Him and strewed the way with their garments and with palm branches and shouted: "Hosanna to the son of David: Blessed is he that cometh in the name of the Lord."
+
+['loud', 'quiet'] received scores [0.9836509227752686, 0.01634911820292473]
+['loud', 'soft'] received scores [0.9348215460777283, 0.06517847627401352]
+['noisy', 'quiet'] received scores [0.9901137948036194, 0.009886201471090317]
+['noisy', 'soft'] received scores [0.9597980976104736, 0.040201883763074875]
+
+decades/1940s/1944_A/merrill_efficacy_of_prayer.txt
+
+I sprang from my knees, and jumped as high as I could, and shouted: "O Father, I thank thee.
+
+['loud', 'quiet'] received scores [0.9863001108169556, 0.013699926435947418]
+['loud', 'soft'] received scores [0.9687476754188538, 0.031252358108758926]
+['noisy', 'quiet'] received scores [0.9749940037727356, 0.025005951523780823]
+['noisy', 'soft'] received scores [0.9437819123268127, 0.05621808394789696]
+
+decades/1940s/1944_O/bennion_untitled.txt
+
+He further said to Job:  Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding . . . . Whereupon are the foundations thereof fastened? or who laid the comer stone thereof. . . and all the sons of God shouted for joy?
+
+['loud', 'quiet'] received scores [0.9561974406242371, 0.04380260035395622]
+['loud', 'soft'] received scores [0.9108249545097351, 0.08917505294084549]
+['noisy', 'quiet'] received scores [0.94629967212677, 0.053700316697359085]
+['noisy', 'soft'] received scores [0.891834557056427, 0.1081654503941536]
+
+decades/1940s/1944_O/lee_on_detecting_truth_from_error.txt
+
+In these days hardly do we listen to the radio to one who gives a political speech but what we hear the shouts of "Untruth!" and opposing speakers being called untruthful.
+
+['loud', 'quiet'] received scores [0.8078611493110657, 0.1921388804912567]
+['loud', 'soft'] received scores [0.8987935185432434, 0.10120651870965958]
+['noisy', 'quiet'] received scores [0.9545766711235046, 0.04542334005236626]
+['noisy', 'soft'] received scores [0.9779675602912903, 0.022032445296645164]
+
+decades/1940s/1946_A/callis_spiritual_safety.txt
+
+The Apostle Paul said:  . . .  the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first: Then we which are alive, and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.
+
+['loud', 'quiet'] received scores [0.9509382843971252, 0.04906167834997177]
+['loud', 'soft'] received scores [0.935827374458313, 0.0641726478934288]
+['noisy', 'quiet'] received scores [0.9558444023132324, 0.04415562003850937]
+['noisy', 'soft'] received scores [0.9421525001525879, 0.05784744769334793]
+
+decades/1940s/1946_O/richards_love_for_mankind.txt
+
+No doubt we with them rejoiced and were happy together, When the morning stars sang together, and all the sons of God shouted for joy that the plan of salvation had been made and that the Savior had been chosen.
+
+['loud', 'quiet'] received scores [0.9840475916862488, 0.015952417626976967]
+['loud', 'soft'] received scores [0.9277022480964661, 0.07229775190353394]
+['noisy', 'quiet'] received scores [0.9801477193832397, 0.019852282479405403]
+['noisy', 'soft'] received scores [0.9112697839736938, 0.08873023837804794]
+
+decades/1940s/1947_A/hunter_untitled.txt
+
+Regarding this experience, Elder Snow recorded the following in his journal:  From the view we had of the valley from the top of the mountain, we supposed it to be only an arm of prairie extending up from the Utah valley, but on ascending this butte we involuntarily, both at the same instant, uttered a shout of joy at finding it to be the very place of our destination, and beheld the broad bosom of the Salt Lake spreading itself before us.
+
+['loud', 'quiet'] received scores [0.9828017354011536, 0.01719823107123375]
+['loud', 'soft'] received scores [0.9588726758956909, 0.04112737625837326]
+['noisy', 'quiet'] received scores [0.9862858653068542, 0.013714076951146126]
+['noisy', 'soft'] received scores [0.9670420289039612, 0.032958030700683594]
+
+decades/1940s/1947_A/mckay_honoring_the_utah_pioneers—and_lasting_values.txt
+
+Truly, in this centennial celebration, we can re-echo the words of the great composer, Evan Stephens:  Zion's children sing for joy. Praise the great and guiding hand That led you to the chosen land, Oh, dauntless pioneers!  Sing His praise who made you free In the land of liberty, Thank the Lord, who raised a band Of noble pioneers. Zion's children, shout for joy, Make the hills and valleys ring. Great the theme the song ye sing, Immortal pioneers.
+
+['loud', 'quiet'] received scores [0.9888843894004822, 0.011115610599517822]
+['loud', 'soft'] received scores [0.9749311804771423, 0.025068825110793114]
+['noisy', 'quiet'] received scores [0.9857454895973206, 0.014254490844905376]
+['noisy', 'soft'] received scores [0.9679797291755676, 0.03202029690146446]
+
+decades/1940s/1948_O/widtsoe_hunger_in_the_midst_of_plenty.txt
+
+Why not shout the way to peace from the housetops?
+
+['loud', 'quiet'] received scores [0.9847568869590759, 0.01524314470589161]
+['loud', 'soft'] received scores [0.9561471343040466, 0.043852828443050385]
+['noisy', 'quiet'] received scores [0.9751923084259033, 0.02480774000287056]
+['noisy', 'soft'] received scores [0.9299086332321167, 0.0700913667678833]
+
+decades/1940s/1949_A/lee_the_power_of_truth.txt
+
+At the beginning of the war there was an interesting newspaper account of a boy flying in from a training trip over the air field who suddenly shouted through his radio device to the man in the control tower below: "I can't see.
+
+['loud', 'quiet'] received scores [0.9837877154350281, 0.016212306916713715]
+['loud', 'soft'] received scores [0.9545419812202454, 0.045458000153303146]
+['noisy', 'quiet'] received scores [0.9764215350151062, 0.02357848919928074]
+['noisy', 'soft'] received scores [0.9347688555717468, 0.06523109972476959]
+
+decades/1940s/1949_A/mckay_choose_you_this_day_whom_ye_will_serve.txt
+
+Two ways lie open to you—one leading to an ever lower and lower plain, where are heard the cries of despair and the curses of the poor, where manhood shrivels and possession rots down the possessor; and the other leading to the highlands of the morning, where are heard the glad shouts of humanity and where honest effort is rewarded with immortality.
+
+['loud', 'quiet'] received scores [0.7643852829933167, 0.23561468720436096]
+['loud', 'soft'] received scores [0.7171850800514221, 0.2828148901462555]
+['noisy', 'quiet'] received scores [0.8344232439994812, 0.1655767410993576]
+['noisy', 'soft'] received scores [0.7975373268127441, 0.20246265828609467]
+
+decades/1940s/IE/1940_A.txt
+
+In  the  pre-existent  state  when  the  sons  of  God  shouted  for  joy  it  is  my  firm  belief  that  Jesus  Christ  was  the  only  one  who  was  willing  to  pay  the  price  for  the  redemption  of  the  children  of  God.
+
+['loud', 'quiet'] received scores [0.9847797155380249, 0.015220318920910358]
+['loud', 'soft'] received scores [0.956631600856781, 0.04336845129728317]
+['noisy', 'quiet'] received scores [0.989500105381012, 0.010499910451471806]
+['noisy', 'soft'] received scores [0.9698141813278198, 0.03018580935895443]
+
+decades/1940s/IE/1940_O.txt
+
+That  tells,  in  those  beautiful  lines  of  Eliza  R.  Snow,  what  occurred  before  the  world  was  made,  to  which  the  Lord  referred  when  He  said  unto  His  servant  Job :   Where  wast  thou  when  I  laid  the  foundations  of  the  earth?  Declare,  if  thou  hast  understanding When  the  morning  stars  sang  together,  and  all  the  sons  of  God  shouted  for  joy.
+
+['loud', 'quiet'] received scores [0.85732501745224, 0.14267505705356598]
+['loud', 'soft'] received scores [0.7541599273681641, 0.24584010243415833]
+['noisy', 'quiet'] received scores [0.7971752882003784, 0.20282471179962158]
+['noisy', 'soft'] received scores [0.6673909425735474, 0.33260905742645264]
+
+decades/1940s/IE/1940_O.txt
+
+The  Lord  made  it  known  to  the  Prophet  Joseph  Smith,  as  you  will  find  it  recorded  in  Section  66,  paragraph  2,  of  the  Doctrine  and  Covenants, that  the  "new  and  everlasting  covenant"  is  nothing  more  or  less  than  the  Gospel  of  the  Lord  Jesus  Christ  in  its  fulness,  as  it  was  revealed and  proclaimed  in  that  primeval  day  when  the  great  and  noble  ones,  or  the  "morning  stars,"  sang  together  and  all  the  sons  of  God  shouted  for  joy — the  day  the  Lord  made  known  to  them  the  terms  of  His  everlasting  covenant,  setting  forth  what  He  expects  us  to  do,  and  also  informing  us  what  He  will  do  if  we  comply.
+
+['loud', 'quiet'] received scores [0.9705330729484558, 0.029466893523931503]
+['loud', 'soft'] received scores [0.9389923810958862, 0.06100759655237198]
+['noisy', 'quiet'] received scores [0.9589309096336365, 0.04106909781694412]
+['noisy', 'soft'] received scores [0.9160457253456116, 0.08395427465438843]
+
+decades/1940s/IE/1940_O.txt
+
+It  is  just  such  an  agreement  that  the  Lord  promulgated  and  announced  to  His  spirit  children,  that  filled  their  hearts  with  joy  and  gladness,  and  whereupon  the  morning  stars,  the  great  and  noble  ones,  sang  together  and  all  of  the  sons  and  daughters  of  God  made  the  heavens  ring  with  the  shouts  of  joy  and  gladness  over  these  glad  tidings.
+
+['loud', 'quiet'] received scores [0.9952565431594849, 0.004743458237498999]
+['loud', 'soft'] received scores [0.9781036376953125, 0.02189631201326847]
+['noisy', 'quiet'] received scores [0.9932717680931091, 0.006728205364197493]
+['noisy', 'soft'] received scores [0.9691641926765442, 0.030835751444101334]
+
+decades/1940s/IE/1940_O.txt
+
+It  will  also  be  apparent  that  the  everlasting  covenant,  or  in  other  words  "the  Gospel  of  Jesus  Christ"  has  been  the  very  essence  of  God's  dealings  with  mankind,  even  from  the  days  of  Adam  until  now — yes,  and  even  antedating  the  creation  of  this  earth  to  that  primeval  day  "when  the  morning  stars  sang  together  and  all  the  sons  of  God  shouted  for    It  will  also  be  noted  that  after  each  and  every  one  of  the  various  dispensations  there  has  been  a  falling  away  and  darkness  has  covered  the  earth  and  gross  darkness  the  minds  of  the  people,  as  prophesied  by  Isaiah  the  prophet.
+
+['loud', 'quiet'] received scores [0.8165756464004517, 0.18342435359954834]
+['loud', 'soft'] received scores [0.8395013213157654, 0.1604986935853958]
+['noisy', 'quiet'] received scores [0.849449872970581, 0.15055017173290253]
+['noisy', 'soft'] received scores [0.8689261674880981, 0.13107381761074066]
+
+decades/1940s/IE/1941_A.txt
+
+I  believe  with  all  my  heart  in  the  testimony  of  the  great  prophets,  that  we  were  in  that  world,  and  that  we  shouted  for  joy  at  the  time  when  the  Son  of  Man  was  selected  to  go  into  the  world  and  preach  the  Gospel  of  peace  among  the  children  of  men,  that  men  who  would  might  have  a  chance  to  prove  themselves  while  they  were  in  mortality.
+
+['loud', 'quiet'] received scores [0.9905815124511719, 0.009418509900569916]
+['loud', 'soft'] received scores [0.976220965385437, 0.023779038339853287]
+['noisy', 'quiet'] received scores [0.985484778881073, 0.014515199698507786]
+['noisy', 'soft'] received scores [0.9636385440826416, 0.03636147081851959]
+
+decades/1940s/IE/1941_O.txt
+
+I  am  aware  that  we  live  in  an  age  of  great  exaggeration,  of  unguarded statement,  of  propaganda,  as  has  so  frequently  been  spoken  of  in  this  conference — that  shouting  is  sometimes  thought  to  be  a  substitute for  truth,  that  there  are  those,  the  type  of  which  you  know  as  well  as  I,  who  believe  if  they  shout  a  thing  long  enough  and  loud  enough  some  of  it  will  be  believed  regardless  of  its  inherent  truth  or  falsity.
+
+['loud', 'quiet'] received scores [0.9774226546287537, 0.022577308118343353]
+['loud', 'soft'] received scores [0.9502504467964172, 0.04974959418177605]
+['noisy', 'quiet'] received scores [0.9789095520973206, 0.021090475842356682]
+['noisy', 'soft'] received scores [0.9534413814544678, 0.046558551490306854]
+

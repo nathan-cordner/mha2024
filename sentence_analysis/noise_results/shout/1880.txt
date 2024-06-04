@@ -1,0 +1,81 @@
+﻿decades/1880s/23/how_to_find_out_god—how_man_may_know_himself—necessity_of_divine_revelation—how_and_by_what_means_received—testimony_of_the_latt.txt
+
+These spiritual beings now sojourning upon the earth in mortal tabernacles, dwelt in the bosom of eternity and were with the Eternal Father "when the morning stars sang together and the sons of God shouted for joy" on beholding the organization of this earth.
+
+['loud', 'quiet'] received scores [0.9677823781967163, 0.032217636704444885]
+['loud', 'soft'] received scores [0.9226803779602051, 0.07731963694095612]
+['noisy', 'quiet'] received scores [0.9265079498291016, 0.07349203526973724]
+['noisy', 'soft'] received scores [0.8335623145103455, 0.16643770039081573]
+
+decades/1880s/24/truth_always_the_same—duties_of_the_saints—officers_present—where_the_principles_of_the_gospel_originated—character_of_abraham—h.txt
+
+They prophesied about it as the grand and great consummation in the accomplishment of the purposes of God; purposes which He designed before the morning stars sang together, or the sons of God shouted for joy, or this world itself rolled into existence.
+
+['loud', 'quiet'] received scores [0.9671027660369873, 0.032897256314754486]
+['loud', 'soft'] received scores [0.9122856259346008, 0.08771440386772156]
+['noisy', 'quiet'] received scores [0.974757194519043, 0.025242824107408524]
+['noisy', 'soft'] received scores [0.9317952394485474, 0.06820480525493622]
+
+decades/1880s/25/design_of_god_in_relation_to_the_earth_and_its_inhabitants—power_of_satan—the_two_zions—what_is_required_of_the_saints—a_priesth.txt
+
+Job speaks of a time at the creation of this earth when "the morning stars sang together, and all the sons of God shouted for joy."
+
+['loud', 'quiet'] received scores [0.9723323583602905, 0.027667639777064323]
+['loud', 'soft'] received scores [0.9143028855323792, 0.08569714426994324]
+['noisy', 'quiet'] received scores [0.9595688581466675, 0.04043114557862282]
+['noisy', 'soft'] received scores [0.8781248927116394, 0.12187512964010239]
+
+decades/1880s/25/object_of_assembling—a_peculiar_people—saints_misrepresented_in_all_ages—statistics—opposition_expected—plural_marriage—early_pe.txt
+
+While the crowds were ready sometimes to cover his path with olive branches and with their garments, and to shout "Hosanna! Blessed is he that cometh in the name of the Lord," yet with the very next breath they were ready to cry, "Crucify Him! Crucify Him! It is not fit that He should live."
+
+['loud', 'quiet'] received scores [0.9738954305648804, 0.026104584336280823]
+['loud', 'soft'] received scores [0.9312591552734375, 0.06874077767133713]
+['noisy', 'quiet'] received scores [0.9876415133476257, 0.0123584670946002]
+['noisy', 'soft'] received scores [0.9666887521743774, 0.033311281353235245]
+
+decades/1880s/26/the_gathering—our_territorial_condition_and_organization—the_eternal_nature_of_our_covenants—the_law_of_ancient_israel,_which_re.txt
+
+"Whereupon are the foundations thereof fastened? or who laid the corner stone thereof; "When the morning stars sang together, and all the sons of God shouted for joy?
+
+['loud', 'quiet'] received scores [0.9646920561790466, 0.03530791401863098]
+['loud', 'soft'] received scores [0.9302631616592407, 0.06973682343959808]
+['noisy', 'quiet'] received scores [0.9612328410148621, 0.03876718133687973]
+['noisy', 'soft'] received scores [0.9236975908279419, 0.07630244642496109]
+
+decades/1880s/26/the_personality_of_god—vagueness_of_the_common_idea_of_deity—who_and_what_god_is—the_spirits_of_men_the_offspring_of_god—spirit_.txt
+
+We existed in our first estate among the sons of God in the presence of our Father,  "when the morning sears sang together, and the sons of God shouted for joy.
+
+['loud', 'quiet'] received scores [0.9770752191543579, 0.022924765944480896]
+['loud', 'soft'] received scores [0.9297455549240112, 0.0702543705701828]
+['noisy', 'quiet'] received scores [0.9702927470207214, 0.029707254841923714]
+['noisy', 'soft'] received scores [0.9102465510368347, 0.08975344151258469]
+
+decades/1880s/26/visit_to_the_south—persecution_in_arizona—an_american_siberia—persecutions_in_missouri_and_illinois_not_the_result_of_polygamy—a.txt
+
+I feel every day to bless the name of the God of Israel, and feel like shouting, "Hosanna!
+
+['loud', 'quiet'] received scores [0.9160993099212646, 0.08390073478221893]
+['loud', 'soft'] received scores [0.8081251382827759, 0.1918749064207077]
+['noisy', 'quiet'] received scores [0.8370922803878784, 0.16290779411792755]
+['noisy', 'soft'] received scores [0.6646605134010315, 0.3353395164012909]
+
+decades/1880s/IE/1880_IE.txt
+
+For  instance,  I  hear  of  people  calling  themselves  Latter-day  Saints  who  make  a  practice  of  taking  their  wives  and  children  to  beer  saloons,  and  while  in  such  places  they  get  so  happy  that  they  shout  out  the  songs  of  Zion,  and  seem  to  enjoy  themselves  to  a  great  degree.
+
+['loud', 'quiet'] received scores [0.9744164347648621, 0.02558353915810585]
+['loud', 'soft'] received scores [0.9343324899673462, 0.06566749513149261]
+['noisy', 'quiet'] received scores [0.984455406665802, 0.01554465014487505]
+['noisy', 'soft'] received scores [0.9594455361366272, 0.04055442288517952]
+
+decades/1880s/IE/1880_IE.txt
+
+I  should  not  think  so,  indeed ;  although  to  hear  them  sing  one  might  be  led  to  believe  them  the  best  of  people,  for  they  select  the  choicest  of  hymns,  and  they  shout  them  out  before  men  who  make  a  living  by  selling  intoxicating  liquors.
+
+['loud', 'quiet'] received scores [0.9632067084312439, 0.03679328411817551]
+['loud', 'soft'] received scores [0.9050366878509521, 0.09496328979730606]
+['noisy', 'quiet'] received scores [0.9180746674537659, 0.08192528784275055]
+['noisy', 'soft'] received scores [0.8031347990036011, 0.19686518609523773]
+

@@ -1,0 +1,9 @@
+﻿decades/1890s/IE/1898_A.txt
+
+The  extension  of  these  sentiments  and  these  views  lie  dearest  to  the  heart  of  every  man  and  every  woman  who  has  become  conversant  with  the  Gospel  of  the  Lord  Jesus  Christ,  and  I  trust  that  we  will  not  permit  ourselves  in  the  midst  of  the  excitement  that  arises  to  shout  for  bloodshed,  but  on  the  contrary to  desire  that  God  shall  direct  the  hand  that  has  been  placed  to  guide  the  destinies  of  this  nation  at  the  present time,  and  make  the  minds  of  leading  men  of  the  nation  wise  and  broad  and  firm  upon  the  principles of  right.
+
+['loud', 'quiet'] received scores [0.603995144367218, 0.396004855632782]
+['loud', 'soft'] received scores [0.6502662897109985, 0.3497336506843567]
+['noisy', 'quiet'] received scores [0.80853670835495, 0.19146326184272766]
+['noisy', 'soft'] received scores [0.8373444676399231, 0.16265557706356049]
+

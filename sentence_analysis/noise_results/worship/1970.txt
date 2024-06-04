@@ -1,0 +1,2565 @@
+﻿decades/1970s/1970_A/brown_the_birth_of_truth.txt
+
+They would be stunned by radio and television and the marvelous achievements of science, the harnessing of electricity and other powers by which we bring to servitude the great forces of nature which in their day men feared and were wont to worship.
+
+['loud', 'quiet'] received scores [0.8367071747779846, 0.163292795419693]
+['loud', 'soft'] received scores [0.7947647571563721, 0.2052353024482727]
+['noisy', 'quiet'] received scores [0.686927855014801, 0.31307217478752136]
+['noisy', 'soft'] received scores [0.623810887336731, 0.37618914246559143]
+
+decades/1970s/1970_A/burton_honesty_is_the_best_policy.txt
+
+Honesty is a fundamental principle in the true worship of a kind, loving Father in heaven.
+
+['loud', 'quiet'] received scores [0.5345595479011536, 0.46544042229652405]
+['loud', 'soft'] received scores [0.6287806034088135, 0.3712194263935089]
+['quiet', 'noisy'] received scores [0.7690996527671814, 0.230900377035141]
+['soft', 'noisy'] received scores [0.6931110620498657, 0.30688899755477905]
+
+decades/1970s/1970_A/hunter_the_reality_of_god.txt
+
+Innate urge to worship  Man has an innate urge to worship.
+
+['quiet', 'loud'] received scores [0.6475574374198914, 0.35244253277778625]
+['soft', 'loud'] received scores [0.582952082157135, 0.4170478582382202]
+['quiet', 'noisy'] received scores [0.7051671743392944, 0.29483285546302795]
+['soft', 'noisy'] received scores [0.6453382968902588, 0.3546616733074188]
+
+decades/1970s/1970_A/hunter_the_reality_of_god.txt
+
+There is profound truth in the doctrine that runs all the way through sacred history that no man can worship more than one God.
+
+['loud', 'quiet'] received scores [0.7229248881340027, 0.2770751416683197]
+['loud', 'soft'] received scores [0.7492625713348389, 0.25073742866516113]
+['quiet', 'noisy'] received scores [0.5858375430107117, 0.41416242718696594]
+['soft', 'noisy'] received scores [0.5525842905044556, 0.4474157392978668]
+
+decades/1970s/1970_A/hunter_the_reality_of_god.txt
+
+To worship one God is to have one supreme loyalty in one's life.
+
+['loud', 'quiet'] received scores [0.5416350364685059, 0.45836490392684937]
+['loud', 'soft'] received scores [0.7350884675979614, 0.2649115025997162]
+['quiet', 'noisy'] received scores [0.6264397501945496, 0.37356024980545044]
+['noisy', 'soft'] received scores [0.5833874940872192, 0.41661256551742554]
+
+decades/1970s/1970_A/hunter_the_reality_of_god.txt
+
+What causes people to have the urge to worship?
+
+['quiet', 'loud'] received scores [0.6156502366065979, 0.3843497335910797]
+['soft', 'loud'] received scores [0.7082051038742065, 0.29179486632347107]
+['quiet', 'noisy'] received scores [0.6814992427825928, 0.31850069761276245]
+['soft', 'noisy'] received scores [0.7642687559127808, 0.23573122918605804]
+
+decades/1970s/1970_A/hunter_witnesses_to_the_book_of_mormon.txt
+
+So impressive was the influence of the resurrected Lord on the ancient Americans that when the Spaniards came, they found all the Indian tribes throughout the western hemisphere ardently worshiping his memory.
+
+['loud', 'quiet'] received scores [0.9653018712997437, 0.034698087722063065]
+['loud', 'soft'] received scores [0.9647146463394165, 0.03528537601232529]
+['noisy', 'quiet'] received scores [0.877962589263916, 0.1220373883843422]
+['noisy', 'soft'] received scores [0.8760868310928345, 0.12391318380832672]
+
+decades/1970s/1970_A/monson_only_a_teacher.txt
+
+Whom therefore ye ignorantly worship, him declare I unto you.
+
+['quiet', 'loud'] received scores [0.6958540678024292, 0.3041459619998932]
+['soft', 'loud'] received scores [0.5257824659347534, 0.4742174744606018]
+['quiet', 'noisy'] received scores [0.8305615186691284, 0.1694384664297104]
+['soft', 'noisy'] received scores [0.7037462592124939, 0.2962537407875061]
+
+decades/1970s/1970_A/packer_the_path_to_manhood.txt
+
+We did go to Phoenix that weekend, but we sought the other kind of spirit in association with brethren in the priesthood and with members of the Church in worship service.
+
+['quiet', 'loud'] received scores [0.6493010520935059, 0.35069891810417175]
+['soft', 'loud'] received scores [0.638451099395752, 0.36154890060424805]
+['quiet', 'noisy'] received scores [0.7625811100006104, 0.23741893470287323]
+['soft', 'noisy'] received scores [0.7539075016975403, 0.2460925281047821]
+
+decades/1970s/1970_A/petersen_the_role_of_a_prophet.txt
+
+It is a great privilege to worship with you here, my brothers and sisters and friends, on this the Lord's Sabbath day.
+
+['quiet', 'loud'] received scores [0.6291358470916748, 0.3708641231060028]
+['loud', 'soft'] received scores [0.5646633505821228, 0.4353366196155548]
+['quiet', 'noisy'] received scores [0.8542378544807434, 0.14576216042041779]
+['soft', 'noisy'] received scores [0.7270311713218689, 0.2729688286781311]
+
+decades/1970s/1970_A/smith_a_prayer_for_peace.txt
+
+We came to worship the Lord, to affirm our love for him and our devotion to his cause, and we came desiring in our hearts to keep the commandment which says: "Thou shalt love the Lord thy God with all thy heart, with all thy might, mind, and strength; and in the name of Jesus Christ thou shalt serve him.
+
+['quiet', 'loud'] received scores [0.5794289708137512, 0.42057108879089355]
+['loud', 'soft'] received scores [0.7013757228851318, 0.2986242473125458]
+['quiet', 'noisy'] received scores [0.8259440660476685, 0.17405590415000916]
+['soft', 'noisy'] received scores [0.5945635437965393, 0.4054364860057831]
+
+decades/1970s/1970_A/smith_choose_ye_this_day.txt
+
+He said: "Behold Satan hath come among the children of men, and tempteth them to worship him; and men have become carnal, sensual, and devilish, and are shut out from the presence of God.
+
+['loud', 'quiet'] received scores [0.873472273349762, 0.12652775645256042]
+['loud', 'soft'] received scores [0.8375970125198364, 0.16240303218364716]
+['noisy', 'quiet'] received scores [0.7145583033561707, 0.28544166684150696]
+['noisy', 'soft'] received scores [0.6515974402427673, 0.34840261936187744]
+
+decades/1970s/1970_A/smith_our_concern_for_all_our_father's_children.txt
+
+The God we worship is a glorified Being in whom all power and perfection dwell, and he has created man in his own image and likeness with those characteristics and attributes which he himself possesses.
+
+['quiet', 'loud'] received scores [0.5993369221687317, 0.4006631076335907]
+['soft', 'loud'] received scores [0.5310323238372803, 0.46896764636039734]
+['quiet', 'noisy'] received scores [0.7165452837944031, 0.28345468640327454]
+['soft', 'noisy'] received scores [0.6567795276641846, 0.34322047233581543]
+
+decades/1970s/1970_A/smith_our_concern_for_all_our_father's_children.txt
+
+We feel an obligation to do what he would have us do, to keep his commandments and live in harmony with the standards of his gospel—all of which are essential parts of true worship.
+
+['quiet', 'loud'] received scores [0.5298338532447815, 0.4701661765575409]
+['loud', 'soft'] received scores [0.536176323890686, 0.4638236165046692]
+['quiet', 'noisy'] received scores [0.7247075438499451, 0.27529245615005493]
+['soft', 'noisy'] received scores [0.6689629554748535, 0.33103710412979126]
+
+decades/1970s/1970_A/smith_our_concern_for_all_our_father's_children.txt
+
+And because all men are our brothers, we have a desire to love and bless and fellowship them—and this too we accept as an essential part of true worship.
+
+['loud', 'quiet'] received scores [0.5160873532295227, 0.4839126467704773]
+['loud', 'soft'] received scores [0.5970750451087952, 0.40292492508888245]
+['quiet', 'noisy'] received scores [0.6778149604797363, 0.32218506932258606]
+['soft', 'noisy'] received scores [0.6022447943687439, 0.3977551758289337]
+
+decades/1970s/1970_A/smith_our_concern_for_all_our_father's_children.txt
+
+Thus everything we do in the Church centers around the divine law that we are to love and worship God and serve our fellowmen.
+
+['loud', 'quiet'] received scores [0.5562541484832764, 0.44374585151672363]
+['loud', 'soft'] received scores [0.6159490942955017, 0.38405096530914307]
+['quiet', 'noisy'] received scores [0.6449471712112427, 0.3550528585910797]
+['soft', 'noisy'] received scores [0.5867354273796082, 0.41326454281806946]
+
+decades/1970s/1970_A/smith_our_concern_for_all_our_father's_children.txt
+
+It is our hope and prayer that in all nations men may live in peace, respecting each other's beliefs and forms of worship, and that the spirit of unity and brotherhood may abound on every side.
+
+['quiet', 'loud'] received scores [0.5953691601753235, 0.4046308994293213]
+['loud', 'soft'] received scores [0.5677027702331543, 0.4322972595691681]
+['quiet', 'noisy'] received scores [0.7940586805343628, 0.20594128966331482]
+['soft', 'noisy'] received scores [0.6661615967750549, 0.3338383734226227]
+
+decades/1970s/1970_A/smith_our_concern_for_all_our_father's_children.txt
+
+We know there are many people who seek to live upright lives and who desire to maintain substantially the same standards to which we adhere We welcome their encouragement and hope they will feel to accept the hand of Christian fellowship from us, as all of us seek those great goals so basic to true worship and unity.
+
+['loud', 'quiet'] received scores [0.5798024535179138, 0.42019757628440857]
+['loud', 'soft'] received scores [0.6357901692390442, 0.3642098307609558]
+['quiet', 'noisy'] received scores [0.5791128873825073, 0.4208871126174927]
+['soft', 'noisy'] received scores [0.5209768414497375, 0.47902312874794006]
+
+decades/1970s/1970_A/tanner_the_blessings_of_obedience.txt
+
+Keeping the Sabbath day holy gives us an opportunity to learn and understand the teachings of the gospel through worship and study, and to learn to know God, which is essential to our eternal destiny.
+
+['quiet', 'loud'] received scores [0.7123609781265259, 0.2876390516757965]
+['loud', 'soft'] received scores [0.6652339100837708, 0.33476611971855164]
+['quiet', 'noisy'] received scores [0.8999996185302734, 0.10000037401914597]
+['soft', 'noisy'] received scores [0.6464876532554626, 0.35351240634918213]
+
+decades/1970s/1970_A/vandenberg_in_search_of_truth.txt
+
+Whom therefore ye ignorantly worship, him declare I unto you.
+
+['quiet', 'loud'] received scores [0.6958540678024292, 0.3041459619998932]
+['soft', 'loud'] received scores [0.5257824659347534, 0.4742174744606018]
+['quiet', 'noisy'] received scores [0.8305615186691284, 0.1694384664297104]
+['soft', 'noisy'] received scores [0.7037462592124939, 0.2962537407875061]
+
+decades/1970s/1970_O/brown_upon_you_my_fellow_servants....txt
+
+"I was called and ordained one Sunday morning, without any previous notice; and that afternoon was placed as a sentinel at the door of the house in which the Saints had met for worship.
+
+['quiet', 'loud'] received scores [0.7396885752677917, 0.26031139492988586]
+['loud', 'soft'] received scores [0.5711120367050171, 0.4288879930973053]
+['quiet', 'noisy'] received scores [0.876518964767456, 0.12348110973834991]
+['soft', 'noisy'] received scores [0.6522921323776245, 0.3477078676223755]
+
+decades/1970s/1970_O/burton_the_spirit_and_power_of_elijah.txt
+
+This devout worship of Jesus Christ is in accord with the instruction given in the Book of Mormon, where King Benjamin taught his people: "And under this head ye are made free, and there is no other head whereby ye can be made free.
+
+['quiet', 'loud'] received scores [0.6168934106826782, 0.3831065893173218]
+['loud', 'soft'] received scores [0.6201258301734924, 0.37987419962882996]
+['quiet', 'noisy'] received scores [0.6798218488693237, 0.3201781213283539]
+['noisy', 'soft'] received scores [0.5531761646270752, 0.4468238949775696]
+
+decades/1970s/1970_O/cullimore_how_do_you_draw_god.txt
+
+As Paul came to the Athenian saints, he found them worshiping false gods and called them to repentance.
+
+['loud', 'quiet'] received scores [0.8373308777809143, 0.16266915202140808]
+['loud', 'soft'] received scores [0.8453513383865356, 0.15464861690998077]
+['noisy', 'quiet'] received scores [0.6225821375846863, 0.37741783261299133]
+['noisy', 'soft'] received scores [0.6365956664085388, 0.3634043335914612]
+
+decades/1970s/1970_O/cullimore_how_do_you_draw_god.txt
+
+Whom therefore ye ignorantly worship, him declare I unto you.
+
+['quiet', 'loud'] received scores [0.6958540678024292, 0.3041459619998932]
+['soft', 'loud'] received scores [0.5257824659347534, 0.4742174744606018]
+['quiet', 'noisy'] received scores [0.8305615186691284, 0.1694384664297104]
+['soft', 'noisy'] received scores [0.7037462592124939, 0.2962537407875061]
+
+decades/1970s/1970_O/hanks_bear_ye_one_another's_burdens.txt
+
+He was respectfully responsive as he viewed the lovely chapel where our people worship and then became increasingly interested as he was conducted through the rest of the building.
+
+['quiet', 'loud'] received scores [0.6225351691246033, 0.37746477127075195]
+['soft', 'loud'] received scores [0.820318877696991, 0.17968110740184784]
+['quiet', 'noisy'] received scores [0.8163455724716187, 0.18365442752838135]
+['soft', 'noisy'] received scores [0.9248377084732056, 0.07516230642795563]
+
+decades/1970s/1970_O/hanks_bear_ye_one_another's_burdens.txt
+
+It is in the young man wading through the red dust of Takhli or Nakhon Phanom or the heat or rain of the Delta to get to his group meeting with three or four or a dozen other members of the Church to partake of the sacrament of the Lord's Supper and to participate in the worship service that will strengthen him against envelopment by the hollow world around him.
+
+['loud', 'quiet'] received scores [0.6136746406555176, 0.38632532954216003]
+['loud', 'soft'] received scores [0.7258118391036987, 0.27418816089630127]
+['quiet', 'noisy'] received scores [0.635734498500824, 0.36426544189453125]
+['soft', 'noisy'] received scores [0.511549711227417, 0.4884503185749054]
+
+decades/1970s/1970_O/hinckley_from_my_generation_to_yours,_with_love.txt
+
+A wise writer has observed that "a new religion is emerging throughout the world, a religion in which the body is the supreme object of worship to the exclusion of all other aspects of existence.
+
+['loud', 'quiet'] received scores [0.861012876033783, 0.13898710906505585]
+['loud', 'soft'] received scores [0.7203576564788818, 0.27964234352111816]
+['noisy', 'quiet'] received scores [0.8148077130317688, 0.18519227206707]
+['noisy', 'soft'] received scores [0.6465859413146973, 0.3534140884876251]
+
+decades/1970s/1970_O/hunter_where,_then,_is_hope.txt
+
+We need to love, honor, and worship him.
+
+['loud', 'quiet'] received scores [0.5616338849067688, 0.4383661150932312]
+['loud', 'soft'] received scores [0.6735118627548218, 0.3264881372451782]
+['quiet', 'noisy'] received scores [0.6553214192390442, 0.3446786105632782]
+['soft', 'noisy'] received scores [0.5414538979530334, 0.45854607224464417]
+
+decades/1970s/1970_O/mcconkie_our_belief_in_christ.txt
+
+Nephi said: ". . . we talk of Christ, we rejoice in Christ, we preach of Christ, we prophesy of Christ . . . [for] the right way is to believe in Christ, and deny him not; and Christ is the Holy One of Israel; wherefore ye must bow down before him, and worship him with all your might, mind, and strength, and your whole soul; and if ye do this ye shall in nowise be cast out.
+
+['loud', 'quiet'] received scores [0.655733585357666, 0.3442663848400116]
+['loud', 'soft'] received scores [0.8092343807220459, 0.19076566398143768]
+['noisy', 'quiet'] received scores [0.5461684465408325, 0.45383161306381226]
+['noisy', 'soft'] received scores [0.7282783389091492, 0.27172163128852844]
+
+decades/1970s/1970_O/packer_families_and_fences.txt
+
+Let me list some of the other titles: "Our Family Government," "Learning to Worship," "Speaking Words of Purity," "Family Finances," "Parenthood, a Sacred Opportunity," "Respect for Authority," "The Value of Humor," "So You're Going to Move," "When the Unexpected Happens," "The Birth and Infancy of the Savior.
+
+['loud', 'quiet'] received scores [0.7777411341667175, 0.2222587913274765]
+['soft', 'loud'] received scores [0.6104181408882141, 0.3895818591117859]
+['noisy', 'quiet'] received scores [0.7325636744499207, 0.26743632555007935]
+['soft', 'noisy'] received scores [0.6668456792831421, 0.3331543207168579]
+
+decades/1970s/1970_O/petersen_who_was_the_great_white_god.txt
+
+Social and economic systems were organized, cities grew, religion developed, and temples were built for worship.
+
+['loud', 'quiet'] received scores [0.6726007461547852, 0.32739922404289246]
+['soft', 'loud'] received scores [0.6042900085449219, 0.39570993185043335]
+['noisy', 'quiet'] received scores [0.5778573751449585, 0.4221425950527191]
+['soft', 'noisy'] received scores [0.6962196826934814, 0.30378028750419617]
+
+decades/1970s/1970_O/petersen_who_was_the_great_white_god.txt
+
+This personage, as he taught his religion, urged the people to build temples for worship, and his followers became very devout.
+
+['loud', 'quiet'] received scores [0.8644769787788391, 0.1355230212211609]
+['loud', 'soft'] received scores [0.7988436818122864, 0.20115630328655243]
+['quiet', 'noisy'] received scores [0.5631007552146912, 0.43689924478530884]
+['soft', 'noisy'] received scores [0.6742907166481018, 0.3257092833518982]
+
+decades/1970s/1970_O/petersen_who_was_the_great_white_god.txt
+
+And they did fall down at the feet of Jesus, and did worship him.
+
+['loud', 'quiet'] received scores [0.7268210053443909, 0.2731790542602539]
+['loud', 'soft'] received scores [0.7165513038635254, 0.2834486961364746]
+['noisy', 'quiet'] received scores [0.5021212100982666, 0.4978788197040558]
+['soft', 'noisy'] received scores [0.5106607675552368, 0.48933932185173035]
+
+decades/1970s/1970_O/smith_that_the_fulness_of_my_gospel_might_be_proclaimed.txt
+
+We are grateful that the Lord has given us this privilege of coming together again to worship him in spirit and in truth and we pray that there may be a great outpouring of his Spirit in the sessions of this conference.
+
+['loud', 'quiet'] received scores [0.7013794183731079, 0.2986206114292145]
+['loud', 'soft'] received scores [0.6163511872291565, 0.3836488127708435]
+['noisy', 'quiet'] received scores [0.5087907314300537, 0.4912092685699463]
+['soft', 'noisy'] received scores [0.5853121876716614, 0.414687842130661]
+
+decades/1970s/1970_O/smith_that_the_fulness_of_my_gospel_might_be_proclaimed.txt
+
+We plead with them to accept the Lord as their God and to come and worship him in spirit and in truth and in the name of Jesus Christ our Lord.
+
+['loud', 'quiet'] received scores [0.7329758405685425, 0.2670241892337799]
+['loud', 'soft'] received scores [0.8218516707420349, 0.1781483143568039]
+['quiet', 'noisy'] received scores [0.5538290143013, 0.44617095589637756]
+['noisy', 'soft'] received scores [0.5751796960830688, 0.42482033371925354]
+
+decades/1970s/1970_O/tanner_woe_unto_you..._hypocrites.txt
+
+I can worship God on the lake or in the mountains, communing with nature.
+
+['quiet', 'loud'] received scores [0.7635030746459961, 0.23649689555168152]
+['soft', 'loud'] received scores [0.6138639450073242, 0.3861360251903534]
+['quiet', 'noisy'] received scores [0.8930447101593018, 0.10695525258779526]
+['soft', 'noisy'] received scores [0.8043689727783203, 0.1956310272216797]
+
+decades/1970s/1971_A/benson_life_is_eternal.txt
+
+I have had the privilege of meeting with them in large and small meetings, worshiping with them in their churches, including a small Baptist chapel filled to overflowing in Moscow, Russia.
+
+['loud', 'quiet'] received scores [0.8264937400817871, 0.1735062450170517]
+['loud', 'soft'] received scores [0.5389971137046814, 0.461002916097641]
+['noisy', 'quiet'] received scores [0.7761332988739014, 0.22386674582958221]
+['soft', 'noisy'] received scores [0.5402625799179077, 0.45973747968673706]
+
+decades/1970s/1971_A/benson_life_is_eternal.txt
+
+Without him we would be lost in a mirage of beliefs and worships, born in fear and darkness where the sensual and materialistic hold sway.
+
+['loud', 'quiet'] received scores [0.6980677247047424, 0.30193233489990234]
+['loud', 'soft'] received scores [0.7529476881027222, 0.24705231189727783]
+['noisy', 'quiet'] received scores [0.5934890508651733, 0.40651094913482666]
+['noisy', 'soft'] received scores [0.6580666303634644, 0.34193336963653564]
+
+decades/1970s/1971_A/brockbank_love_of_god.txt
+
+The pagans, the Buddhists, the Hindus, the Mohammedans, the sun and nature worshipers, and many others have their way of praying.
+
+['quiet', 'loud'] received scores [0.6377065181732178, 0.3622935116291046]
+['soft', 'loud'] received scores [0.6450397372245789, 0.35496026277542114]
+['quiet', 'noisy'] received scores [0.725182056427002, 0.27481797337532043]
+['soft', 'noisy'] received scores [0.7314901947975159, 0.26850980520248413]
+
+decades/1970s/1971_A/burton_kingdom_of_god.txt
+
+Qualify yourselves as rapidly as you can by righteous living to go to the temple often and there worship and serve the true and living God.
+
+['loud', 'quiet'] received scores [0.5456559658050537, 0.4543439745903015]
+['loud', 'soft'] received scores [0.5813075304031372, 0.4186924397945404]
+['quiet', 'noisy'] received scores [0.6705960631370544, 0.32940396666526794]
+['soft', 'noisy'] received scores [0.6378103494644165, 0.3621896803379059]
+
+decades/1970s/1971_A/hanks_practicing_what_we_preach.txt
+
+We are taught to meet together in a weekly family home evening, to pray together as families, to give an account together of the tithes we pay, to attend sacrament meeting and worship together as a family.
+
+['loud', 'quiet'] received scores [0.5228559374809265, 0.4771440625190735]
+['loud', 'soft'] received scores [0.5849201083183289, 0.41507992148399353]
+['quiet', 'noisy'] received scores [0.7485603094100952, 0.25143963098526]
+['soft', 'noisy'] received scores [0.6983456015586853, 0.3016543686389923]
+
+decades/1970s/1971_A/hunter_“thou_shalt_not_commit_adultery”.txt
+
+In ancient times, the people worshiped fertility gods and goddesses.
+
+['quiet', 'loud'] received scores [0.5970941781997681, 0.40290582180023193]
+['soft', 'loud'] received scores [0.6596367359161377, 0.3403632342815399]
+['quiet', 'noisy'] received scores [0.6501657962799072, 0.34983423352241516]
+['soft', 'noisy'] received scores [0.7084921002388, 0.29150789976119995]
+
+decades/1970s/1971_A/richards_the_law_of_abundance.txt
+
+As we consider ourselves trustees of wealth for the benefit of God’s children, we should not worship property, whether it be of great or small value.
+
+['quiet', 'loud'] received scores [0.6065159440040588, 0.3934840261936188]
+['soft', 'loud'] received scores [0.5595587491989136, 0.4404412508010864]
+['quiet', 'noisy'] received scores [0.7243537306785583, 0.27564626932144165]
+['soft', 'noisy'] received scores [0.6841354370117188, 0.31586456298828125]
+
+decades/1970s/1971_A/richards_the_law_of_abundance.txt
+
+If we are guilty of worshiping property, then we have need to repent and straighten out our values.
+
+['loud', 'quiet'] received scores [0.6919069290161133, 0.3080931007862091]
+['loud', 'soft'] received scores [0.7006574273109436, 0.2993426024913788]
+['quiet', 'noisy'] received scores [0.5223007202148438, 0.47769930958747864]
+['soft', 'noisy'] received scores [0.5119680166244507, 0.4880319833755493]
+
+decades/1970s/1971_A/romney_satan—the_great_deceiver.txt
+
+At the beginning of the Mosaic dispensation, “Satan came tempting him, saying: Moses, son of man, worship me.
+
+['loud', 'quiet'] received scores [0.834511935710907, 0.16548800468444824]
+['loud', 'soft'] received scores [0.682613730430603, 0.31738629937171936]
+['noisy', 'quiet'] received scores [0.7906949520111084, 0.2093050181865692]
+['noisy', 'soft'] received scores [0.6170346736907959, 0.3829652667045593]
+
+decades/1970s/1971_A/smith_a_witness_and_a_blessing.txt
+
+We have feasted upon the word of Christ; our minds have been quickened by the power of the Holy Spirit; and we have worshiped the Lord in spirit and in truth.
+
+['loud', 'quiet'] received scores [0.7885879278182983, 0.21141202747821808]
+['loud', 'soft'] received scores [0.8551607728004456, 0.14483921229839325]
+['noisy', 'quiet'] received scores [0.5191975235939026, 0.480802446603775]
+['noisy', 'soft'] received scores [0.6308949589729309, 0.3691050112247467]
+
+decades/1970s/1971_A/smith_out_of_the_darkness.txt
+
+We are here today to wait upon the Lord, to worship him in spirit and in truth, to be fed the bread of life, and to receive counsel and instruction from those whom he has chosen to administer in the affairs of his church.
+
+['quiet', 'loud'] received scores [0.7655765414237976, 0.2344234436750412]
+['loud', 'soft'] received scores [0.5613194108009338, 0.43868061900138855]
+['quiet', 'noisy'] received scores [0.872157096862793, 0.12784291803836823]
+['soft', 'noisy'] received scores [0.6201414465904236, 0.3798585534095764]
+
+decades/1970s/1971_A/tuttle_the_message_of_the_restoration.txt
+
+My dear brothers and sisters, you have joined this meeting to listen to the Tabernacle Choir sing its singularly beautiful music, to worship on this Sabbath day, and to learn something more about The Church of Jesus Christ of Latter-day Saints.
+
+['quiet', 'loud'] received scores [0.5405099391937256, 0.4594900608062744]
+['loud', 'soft'] received scores [0.5455724596977234, 0.454427570104599]
+['quiet', 'noisy'] received scores [0.7296755909919739, 0.2703244388103485]
+['soft', 'noisy'] received scores [0.6565110087394714, 0.34348899126052856]
+
+decades/1970s/1971_O/brockbank_the_ten_commandments.txt
+
+God has warned and commanded his children not to love and worship idols or false gods made by the minds and hands of men.
+
+['loud', 'quiet'] received scores [0.5469797849655151, 0.45302027463912964]
+['loud', 'soft'] received scores [0.6657707691192627, 0.3342292010784149]
+['quiet', 'noisy'] received scores [0.6920920014381409, 0.3079080283641815]
+['soft', 'noisy'] received scores [0.5767080783843994, 0.4232918918132782]
+
+decades/1970s/1971_O/brockbank_the_ten_commandments.txt
+
+The apostle Paul warned the saints at Rome of the perils and evils that come to man when he loves and worships false gods and worldly creations more than he loves God.
+
+['loud', 'quiet'] received scores [0.7856751084327698, 0.21432484686374664]
+['loud', 'soft'] received scores [0.8072301745414734, 0.1927698701620102]
+['noisy', 'quiet'] received scores [0.5621008276939392, 0.4378991723060608]
+['noisy', 'soft'] received scores [0.5945371389389038, 0.4054628908634186]
+
+decades/1970s/1971_O/brockbank_the_ten_commandments.txt
+
+“Wherefore God also gave them up to uncleanness through the lusts of their own hearts, to dishonour their own bodies between themselves: “Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator.
+
+['loud', 'quiet'] received scores [0.682552695274353, 0.3174472749233246]
+['loud', 'soft'] received scores [0.689734160900116, 0.31026580929756165]
+['noisy', 'quiet'] received scores [0.6399973630905151, 0.36000266671180725]
+['noisy', 'soft'] received scores [0.647644579410553, 0.3523554503917694]
+
+decades/1970s/1971_O/brockbank_the_ten_commandments.txt
+
+Paul continues on to tell what happens in the lives of men who worship false man-made doctrines and love the creature more than the Creator.
+
+['loud', 'quiet'] received scores [0.7906741499900818, 0.2093258500099182]
+['loud', 'soft'] received scores [0.6384609341621399, 0.3615390658378601]
+['noisy', 'quiet'] received scores [0.7407053112983704, 0.25929468870162964]
+['noisy', 'soft'] received scores [0.5718331336975098, 0.42816683650016785]
+
+decades/1970s/1971_O/brockbank_the_ten_commandments.txt
+
+Satan has been permitted to have power over all men who worship false gods and over all who will not hear and follow the voice of God.
+
+['loud', 'quiet'] received scores [0.6407651305198669, 0.3592349588871002]
+['loud', 'soft'] received scores [0.6819531321525574, 0.318046897649765]
+['noisy', 'quiet'] received scores [0.5996648073196411, 0.4003351926803589]
+['noisy', 'soft'] received scores [0.6429392695426941, 0.3570607304573059]
+
+decades/1970s/1971_O/hanks_love_unconditional.txt
+
+They need to worship and to pray, but they live in a time when all of this is so seriously questioned, when doubt is encouraged.
+
+['loud', 'quiet'] received scores [0.7515119910240173, 0.24848803877830505]
+['loud', 'soft'] received scores [0.7644904255867004, 0.23550952970981598]
+['noisy', 'quiet'] received scores [0.6894780993461609, 0.3105218708515167]
+['noisy', 'soft'] received scores [0.7044222950935364, 0.295577734708786]
+
+decades/1970s/1971_O/hunter_elijah_the_prophet.txt
+
+This great prophet was one of the leaders in defending Jehovah as the true God of Israel against those who were advancing Baal worship.
+
+['loud', 'quiet'] received scores [0.940866231918335, 0.059133775532245636]
+['loud', 'soft'] received scores [0.952234148979187, 0.04776584729552269]
+['noisy', 'quiet'] received scores [0.7489150166511536, 0.25108495354652405]
+['noisy', 'soft'] received scores [0.7889046669006348, 0.21109534800052643]
+
+decades/1970s/1971_O/hunter_elijah_the_prophet.txt
+
+Ahab married Jezebel, the daughter of the King of Tyre, where the god Baal was worshiped.
+
+['loud', 'quiet'] received scores [0.5872253179550171, 0.4127746820449829]
+['soft', 'loud'] received scores [0.5298627614974976, 0.47013723850250244]
+['quiet', 'noisy'] received scores [0.518795371055603, 0.4812045991420746]
+['soft', 'noisy'] received scores [0.6335129141807556, 0.366487056016922]
+
+decades/1970s/1971_O/hunter_the_vitality_of_love.txt
+
+We can show our love in our prayers to the Father, given in the name of the Son, and also through our worship of those divine Beings.
+
+['loud', 'quiet'] received scores [0.5805492997169495, 0.41945067048072815]
+['loud', 'soft'] received scores [0.537560224533081, 0.46243980526924133]
+['quiet', 'noisy'] received scores [0.6045194864273071, 0.39548054337501526]
+['soft', 'noisy'] received scores [0.6453900933265686, 0.354609876871109]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+I desire to give some rather plain and affirmative counsel as to how to worship the Lord.
+
+['loud', 'quiet'] received scores [0.7220833897590637, 0.2779166102409363]
+['loud', 'soft'] received scores [0.7846441864967346, 0.2153557687997818]
+['quiet', 'noisy'] received scores [0.7278589606285095, 0.2721410393714905]
+['soft', 'noisy'] received scores [0.656033456325531, 0.3439665138721466]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+There is probably more misinformation and error in this field than in any other area in the entire world, and yet there is no other thing as important as knowing who and how we should worship.
+
+['loud', 'quiet'] received scores [0.5892713665962219, 0.4107286036014557]
+['loud', 'soft'] received scores [0.6388177275657654, 0.3611822724342346]
+['noisy', 'quiet'] received scores [0.6617480516433716, 0.3382519483566284]
+['noisy', 'soft'] received scores [0.7069001793861389, 0.2930998206138611]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+When the Lord created men and placed them on earth, he gave “them commandments that they should love and serve him, the only living and true God, and that he should be the only being whom they should worship.
+
+['quiet', 'loud'] received scores [0.5081301331520081, 0.49186989665031433]
+['loud', 'soft'] received scores [0.6291839480400085, 0.37081602215766907]
+['quiet', 'noisy'] received scores [0.6536427140235901, 0.3463572859764099]
+['soft', 'noisy'] received scores [0.5184539556503296, 0.4815461337566376]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+Jesus confirmed this most basic of all commands when he said: “Thou shalt worship the Lord thy God, and him only shalt thou serve” and the constant cry of all the prophets of all the ages is: “O come, let us worship and bow down: let us kneel before the Lord our maker.
+
+['loud', 'quiet'] received scores [0.9899630546569824, 0.010036913678050041]
+['loud', 'soft'] received scores [0.9600886106491089, 0.039911381900310516]
+['noisy', 'quiet'] received scores [0.9810869097709656, 0.01891305111348629]
+['noisy', 'soft'] received scores [0.9267479181289673, 0.07325208187103271]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+And he has planted in our hearts an instinctive desire to worship, to seek salvation, to love and serve a power or being greater than ourselves.
+
+['loud', 'quiet'] received scores [0.6957056522369385, 0.3042943477630615]
+['loud', 'soft'] received scores [0.784543514251709, 0.2154565155506134]
+['noisy', 'quiet'] received scores [0.6131455898284912, 0.38685446977615356]
+['noisy', 'soft'] received scores [0.7162560224533081, 0.2837439179420471]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+Worship is implicit in existence itself.
+
+['quiet', 'loud'] received scores [0.6229614019393921, 0.3770385980606079]
+['soft', 'loud'] received scores [0.6495313048362732, 0.3504686951637268]
+['quiet', 'noisy'] received scores [0.7818871736526489, 0.2181127965450287]
+['soft', 'noisy'] received scores [0.8008381128311157, 0.19916188716888428]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+The issue is not whether men shall worship, but who or what is to be the object of their devotions and how they shall go about paying their devotions to their chosen Most High.
+
+['quiet', 'loud'] received scores [0.7003010511398315, 0.29969900846481323]
+['soft', 'loud'] received scores [0.5673372745513916, 0.4326627552509308]
+['quiet', 'noisy'] received scores [0.7457225918769836, 0.25427746772766113]
+['soft', 'noisy'] received scores [0.6220341920852661, 0.3779658079147339]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+And so, at Jacob’s well, when the Samaritan woman said to Jesus, “Our fathers worshipped in this mountain; and ye say that in Jerusalem is the place where men ought to worship,” we find him answering: “Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father.
+
+['loud', 'quiet'] received scores [0.795441210269928, 0.20455871522426605]
+['loud', 'soft'] received scores [0.7719691395759583, 0.22803090512752533]
+['noisy', 'quiet'] received scores [0.6380156874656677, 0.3619843125343323]
+['noisy', 'soft'] received scores [0.6054398417472839, 0.39456021785736084]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+“Ye worship ye know not what; we know what we worship; and salvation is of the Jews.
+
+['quiet', 'loud'] received scores [0.7635028958320618, 0.23649713397026062]
+['loud', 'soft'] received scores [0.536255419254303, 0.4637446105480194]
+['quiet', 'noisy'] received scores [0.8658114671707153, 0.1341884583234787]
+['soft', 'noisy'] received scores [0.633477509021759, 0.36652249097824097]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+“And the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth; for the Father seeketh such to worship him.
+
+['loud', 'quiet'] received scores [0.5620411038398743, 0.43795886635780334]
+['loud', 'soft'] received scores [0.7240068912506104, 0.27599313855171204]
+['quiet', 'noisy'] received scores [0.7030988931655884, 0.29690104722976685]
+['soft', 'noisy'] received scores [0.5367147326469421, 0.4632852375507355]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+“And they who worship him, must worship in spirit and in truth.
+
+['quiet', 'loud'] received scores [0.5031023025512695, 0.4968976378440857]
+['loud', 'soft'] received scores [0.68843013048172, 0.31156986951828003]
+['quiet', 'noisy'] received scores [0.6972734332084656, 0.30272653698921204]
+['soft', 'noisy'] received scores [0.5072864890098572, 0.4927135407924652]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+Thus our purpose is to worship the true and living God and to do it by the power of the Spirit and in the way he has ordained.
+
+['quiet', 'loud'] received scores [0.5608021020889282, 0.4391978681087494]
+['loud', 'soft'] received scores [0.5403326153755188, 0.459667444229126]
+['quiet', 'noisy'] received scores [0.6784411668777466, 0.3215588331222534]
+['soft', 'noisy'] received scores [0.5843162536621094, 0.415683776140213]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+The approved worship of the true God leads to salvation; devotions rendered to false gods and which are not founded on eternal truth carry no such assurance.
+
+['quiet', 'loud'] received scores [0.651547372341156, 0.34845271706581116]
+['loud', 'soft'] received scores [0.5180508494377136, 0.481949120759964]
+['quiet', 'noisy'] received scores [0.7666853666305542, 0.23331467807292938]
+['soft', 'noisy'] received scores [0.6204847097396851, 0.37951529026031494]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+A knowledge of the truth is essential to true worship.
+
+['quiet', 'loud'] received scores [0.6340459585189819, 0.36595407128334045]
+['loud', 'soft'] received scores [0.53609299659729, 0.46390700340270996]
+['quiet', 'noisy'] received scores [0.7467705011367798, 0.2532295286655426]
+['soft', 'noisy'] received scores [0.5956143736839294, 0.40438562631607056]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+There is no salvation in worshiping a false god.
+
+['quiet', 'loud'] received scores [0.5412208437919617, 0.45877915620803833]
+['soft', 'loud'] received scores [0.5038543343544006, 0.496145635843277]
+['quiet', 'noisy'] received scores [0.6591853499412537, 0.34081462025642395]
+['soft', 'noisy'] received scores [0.6247655153274536, 0.3752344846725464]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+It does not matter one particle how sincerely someone may believe that God is a golden calf, or that he is an immaterial, uncreated power that is in all things; the worship of such a being or concept has no saving power.
+
+['quiet', 'loud'] received scores [0.6735206246376038, 0.32647940516471863]
+['loud', 'soft'] received scores [0.5720372796058655, 0.42796263098716736]
+['quiet', 'noisy'] received scores [0.7292138338088989, 0.27078619599342346]
+['noisy', 'soft'] received scores [0.5059203505516052, 0.4940796494483948]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+If a man worships a cow or a crocodile, he can gain any reward that cows and crocodiles happen to be passing out this season.
+
+['loud', 'quiet'] received scores [0.5369271039962769, 0.46307283639907837]
+['loud', 'soft'] received scores [0.6333802342414856, 0.3666198253631592]
+['quiet', 'noisy'] received scores [0.6060665845870972, 0.3939334452152252]
+['soft', 'noisy'] received scores [0.5080093741416931, 0.4919905662536621]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+If he worships the laws of the universe or the forces of nature, no doubt the earth will continue to spin, the sun to shine, and the rains to fall on the just and on the unjust.
+
+['loud', 'quiet'] received scores [0.6506860256195068, 0.349313884973526]
+['loud', 'soft'] received scores [0.6903306245803833, 0.3096693754196167]
+['noisy', 'quiet'] received scores [0.5857782959938049, 0.41422170400619507]
+['noisy', 'soft'] received scores [0.6285845637321472, 0.37141549587249756]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+But if he worships the true and living God, in spirit and in truth, then God Almighty will pour out his Spirit upon him, and he will have power to raise the dead, move mountains, entertain angels, and walk in celestial streets.
+
+['loud', 'quiet'] received scores [0.6659229397773743, 0.3340771198272705]
+['loud', 'soft'] received scores [0.7179928421974182, 0.2820071876049042]
+['noisy', 'quiet'] received scores [0.5076037645339966, 0.49239617586135864]
+['noisy', 'soft'] received scores [0.5683549642562866, 0.4316450357437134]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+The key to true worship is contained in a revelation given to Joseph Smith in 1833 in which the Lord revealed anew the testimony of an ancient disciple.
+
+['loud', 'quiet'] received scores [0.5913065075874329, 0.40869343280792236]
+['loud', 'soft'] received scores [0.6878821849822998, 0.3121178150177002]
+['quiet', 'noisy'] received scores [0.520577609539032, 0.479422390460968]
+['noisy', 'soft'] received scores [0.5838286876678467, 0.41617128252983093]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+Then the Lord said: “I give unto you these sayings that you may understand and know how to worship, and know what you worship, that you may come unto the Father in my name, and in due time receive of his fulness.
+
+['quiet', 'loud'] received scores [0.7036857604980469, 0.2963142991065979]
+['soft', 'loud'] received scores [0.5404587984085083, 0.4595411717891693]
+['quiet', 'noisy'] received scores [0.7988362312316895, 0.20116376876831055]
+['soft', 'noisy'] received scores [0.662915825843811, 0.33708420395851135]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+In other words, true and perfect worship consists in following in the steps of the Son of God; it consists in keeping the commandments and obeying the will of the Father to that degree that we advance from grace to grace until we are glorified in Christ as he is in his Father.
+
+['quiet', 'loud'] received scores [0.5473921298980713, 0.4526078402996063]
+['loud', 'soft'] received scores [0.6158384084701538, 0.3841615617275238]
+['quiet', 'noisy'] received scores [0.7206079959869385, 0.2793920338153839]
+['soft', 'noisy'] received scores [0.5708741545677185, 0.4291258454322815]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+With this principle before us, may I now illustrate some of the specifics of that divine worship which is pleasing to him whose we are?
+
+['loud', 'quiet'] received scores [0.6624153852462769, 0.33758458495140076]
+['loud', 'soft'] received scores [0.6011701822280884, 0.39882978796958923]
+['quiet', 'noisy'] received scores [0.5637927651405334, 0.43620720505714417]
+['soft', 'noisy'] received scores [0.6272186040878296, 0.3727814257144928]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+To worship the Lord is to follow after him, to seek his face, to believe his doctrine, and to think his thoughts.
+
+['loud', 'quiet'] received scores [0.5598306059837341, 0.4401693642139435]
+['loud', 'soft'] received scores [0.5959123969078064, 0.404087632894516]
+['quiet', 'noisy'] received scores [0.6700690388679504, 0.32993099093437195]
+['soft', 'noisy'] received scores [0.6365705728530884, 0.363429456949234]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+To worship the Lord is to put first in our lives the things of his kingdom, to live by every word that proceedeth forth from the mouth of God, to center our whole hearts upon Christ and that salvation which comes because of him.
+
+['loud', 'quiet'] received scores [0.6077324748039246, 0.39226749539375305]
+['loud', 'soft'] received scores [0.6738430857658386, 0.32615697383880615]
+['quiet', 'noisy'] received scores [0.6012680530548096, 0.39873191714286804]
+['soft', 'noisy'] received scores [0.5306922793388367, 0.46930766105651855]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+To worship the Lord is to walk in the Spirit, to rise above carnal things, to bridle our passions, and to overcome the world.
+
+['loud', 'quiet'] received scores [0.5785902738571167, 0.4214096963405609]
+['loud', 'soft'] received scores [0.5921876430511475, 0.40781235694885254]
+['quiet', 'noisy'] received scores [0.6914405226707458, 0.30855950713157654]
+['soft', 'noisy'] received scores [0.6793606281280518, 0.32063934206962585]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+To worship the Lord is to be married in the temple, to have children, to teach them the gospel, and to bring them up in light and truth.
+
+['loud', 'quiet'] received scores [0.5512460470199585, 0.4487539827823639]
+['loud', 'soft'] received scores [0.5779284238815308, 0.42207157611846924]
+['quiet', 'noisy'] received scores [0.6302565336227417, 0.3697434961795807]
+['soft', 'noisy'] received scores [0.6046189665794373, 0.39538097381591797]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+To worship the Lord is to visit the fatherless and the widows in their affliction and to keep ourselves unspotted from the world.
+
+['quiet', 'loud'] received scores [0.987640917301178, 0.01235909666866064]
+['soft', 'loud'] received scores [0.5515700578689575, 0.44842997193336487]
+['quiet', 'noisy'] received scores [0.9960551261901855, 0.003944855183362961]
+['soft', 'noisy'] received scores [0.7953498363494873, 0.20465019345283508]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+To worship the Lord is to study the gospel, to treasure up light and truth, to ponder in our hearts the things of his kingdom, and to make them part of our lives.
+
+['quiet', 'loud'] received scores [0.5243436098098755, 0.4756563901901245]
+['loud', 'soft'] received scores [0.5231825709342957, 0.4768174886703491]
+['quiet', 'noisy'] received scores [0.6640562415122986, 0.33594372868537903]
+['soft', 'noisy'] received scores [0.6203832626342773, 0.37961679697036743]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+To worship is to work, to be actively engaged in a good cause, to be about our Father’s business, to love and serve our fellowmen.
+
+['loud', 'quiet'] received scores [0.6308414340019226, 0.369158536195755]
+['loud', 'soft'] received scores [0.5764020681381226, 0.4235979914665222]
+['quiet', 'noisy'] received scores [0.6217156648635864, 0.3782843351364136]
+['soft', 'noisy'] received scores [0.6736289262771606, 0.32637104392051697]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+To worship the Lord is to stand valiantly in the cause of truth and righteousness, to let our influence for good be felt in civic, cultural, educational, and governmental fields, and to support those laws and principles which further the Lord’s interests on earth.
+
+['loud', 'quiet'] received scores [0.7399314045906067, 0.2600686252117157]
+['loud', 'soft'] received scores [0.7754944562911987, 0.22450552880764008]
+['noisy', 'quiet'] received scores [0.5791415572166443, 0.4208584427833557]
+['noisy', 'soft'] received scores [0.6255654692649841, 0.37443456053733826]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+To worship the Lord is to be of good cheer, to be courageous, to be valiant, to have the courage of our God-given convictions, and to keep the faith.
+
+['loud', 'quiet'] received scores [0.7494567036628723, 0.2505432963371277]
+['loud', 'soft'] received scores [0.8662285208702087, 0.13377146422863007]
+['quiet', 'noisy'] received scores [0.5549558997154236, 0.4450441300868988]
+['noisy', 'soft'] received scores [0.6345030069351196, 0.36549705266952515]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+To worship the Lord is to be like Christ until we receive from him the blessed assurance: “Ye shall be even as I am.
+
+['quiet', 'loud'] received scores [0.5932623147964478, 0.40673765540122986]
+['loud', 'soft'] received scores [0.5364208817481995, 0.46357911825180054]
+['quiet', 'noisy'] received scores [0.7262478470802307, 0.2737521529197693]
+['soft', 'noisy'] received scores [0.6111758947372437, 0.38882407546043396]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+True and perfect worship is in fact the supreme labor and purpose of man.
+
+['quiet', 'loud'] received scores [0.6179082989692688, 0.3820917010307312]
+['loud', 'soft'] received scores [0.5164499878883362, 0.483550101518631]
+['quiet', 'noisy'] received scores [0.7643745541572571, 0.2356254607439041]
+['soft', 'noisy'] received scores [0.6525600552558899, 0.3474399149417877]
+
+decades/1970s/1971_O/mcconkie_how_to_worship.txt
+
+God grant that we may write in our souls with a pen of fire the command of the Lord Jesus: “Thou shalt worship the Lord thy God, and him only shalt thou serve” and may we in fact and with living reality worship the Father in spirit and in truth, thereby gaining peace in this life and eternal life in the world to come.
+
+['loud', 'quiet'] received scores [0.5467085242271423, 0.4532914161682129]
+['loud', 'soft'] received scores [0.7644796967506409, 0.23552030324935913]
+['quiet', 'noisy'] received scores [0.7183652520179749, 0.28163477778434753]
+['noisy', 'soft'] received scores [0.5134095549583435, 0.48659050464630127]
+
+decades/1970s/1971_O/petersen_honesty,_a_principle_of_salvation.txt
+
+Most of us claim to be Christians, bearing the name of Christ and worshiping in his holy name.
+
+['loud', 'quiet'] received scores [0.5707665681838989, 0.42923346161842346]
+['soft', 'loud'] received scores [0.6285960674285889, 0.37140390276908875]
+['quiet', 'noisy'] received scores [0.5349279642105103, 0.46507203578948975]
+['soft', 'noisy'] received scores [0.7213399410247803, 0.2786600887775421]
+
+decades/1970s/1971_O/petersen_honesty,_a_principle_of_salvation.txt
+
+Is our worship truly acceptable to him?
+
+['quiet', 'loud'] received scores [0.584749162197113, 0.4152508080005646]
+['loud', 'soft'] received scores [0.5089151859283447, 0.49108487367630005]
+['quiet', 'noisy'] received scores [0.7476427555084229, 0.25235721468925476]
+['soft', 'noisy'] received scores [0.6699845194816589, 0.33001548051834106]
+
+decades/1970s/1971_O/smith_“i_know_that_my_redeemer_liveth”.txt
+
+Our responsibility in the Church is to worship the Lord in spirit and in truth, and this we are seeking to do with all our heart, might, and mind.
+
+['loud', 'quiet'] received scores [0.5078533887863159, 0.4921465814113617]
+['loud', 'soft'] received scores [0.6169756650924683, 0.3830243647098541]
+['quiet', 'noisy'] received scores [0.7218664884567261, 0.2781335115432739]
+['soft', 'noisy'] received scores [0.6244370341300964, 0.37556302547454834]
+
+decades/1970s/1971_O/smith_“i_know_that_my_redeemer_liveth”.txt
+
+Jesus said: “Thou shalt worship the Lord thy God, and him only shalt thou serve.
+
+['quiet', 'loud'] received scores [0.5278846025466919, 0.47211533784866333]
+['loud', 'soft'] received scores [0.6346831917762756, 0.36531683802604675]
+['quiet', 'noisy'] received scores [0.7242062091827393, 0.27579373121261597]
+['soft', 'noisy'] received scores [0.5747866034507751, 0.42521339654922485]
+
+decades/1970s/1971_O/smith_“i_know_that_my_redeemer_liveth”.txt
+
+We believe that worship is far more than prayer and preaching and gospel performance.
+
+['quiet', 'loud'] received scores [0.6884912848472595, 0.31150877475738525]
+['soft', 'loud'] received scores [0.6847326159477234, 0.315267413854599]
+['quiet', 'noisy'] received scores [0.8328347206115723, 0.16716527938842773]
+['soft', 'noisy'] received scores [0.8303886651992798, 0.1696113646030426]
+
+decades/1970s/1971_O/smith_“i_know_that_my_redeemer_liveth”.txt
+
+The supreme act of worship is to keep the commandments, to follow in the footsteps of the Son of God, to do ever those things that please him.
+
+['loud', 'quiet'] received scores [0.5776270627975464, 0.4223729372024536]
+['loud', 'soft'] received scores [0.6386897563934326, 0.3613101840019226]
+['quiet', 'noisy'] received scores [0.6696404218673706, 0.33035966753959656]
+['soft', 'noisy'] received scores [0.6106194257736206, 0.3893805742263794]
+
+decades/1970s/1971_O/tanner_“where_art_thou”.txt
+
+After Adam and Eve were driven out of the Garden of Eden, the Lord “gave unto them commandments, that they should worship the Lord their God, and should offer the firstlings of their flocks, for an offering unto the Lord.
+
+['quiet', 'loud'] received scores [0.5016278624534607, 0.4983721077442169]
+['loud', 'soft'] received scores [0.6393056511878967, 0.36069434881210327]
+['quiet', 'noisy'] received scores [0.6582699418067932, 0.3417300879955292]
+['soft', 'noisy'] received scores [0.519173264503479, 0.480826735496521]
+
+decades/1970s/1971_O/vandenberg_“turn_heavenward_our_eyes”.txt
+
+And then Satan appeared and tempted Moses and commanded in a loud voice: “I am the Only Begotten, worship me.
+
+['loud', 'quiet'] received scores [0.9944107532501221, 0.005589302163571119]
+['loud', 'soft'] received scores [0.9909790754318237, 0.009020932018756866]
+['noisy', 'quiet'] received scores [0.9933879971504211, 0.006612047087401152]
+['noisy', 'soft'] received scores [0.9893351793289185, 0.010664870962500572]
+
+decades/1970s/1971_O/vandenberg_“turn_heavenward_our_eyes”.txt
+
+Nevertheless, calling upon God, he received strength, and he commanded, saying: Depart from me, Satan, for this one God only will I worship, which is the God of glory.
+
+['loud', 'quiet'] received scores [0.7726708054542542, 0.22732917964458466]
+['loud', 'soft'] received scores [0.8564417958259583, 0.14355823397636414]
+['noisy', 'quiet'] received scores [0.5267741084098816, 0.473225861787796]
+['noisy', 'soft'] received scores [0.661456286907196, 0.33854377269744873]
+
+decades/1970s/1972_A/brown_the_aaronic_priesthood—a_sure_foundation.txt
+
+President Peters was quick to tell me that they wore jackets in sacrament meeting in their stake—no matter what the temperature—as a means of showing the Lord that they not only worshiped him but they also honored and respected him by being dressed in their very best.
+
+['loud', 'quiet'] received scores [0.8882231116294861, 0.1117769405245781]
+['loud', 'soft'] received scores [0.8643538355827332, 0.13564620912075043]
+['noisy', 'quiet'] received scores [0.7496470808982849, 0.2503529191017151]
+['noisy', 'soft'] received scores [0.7059812545776367, 0.2940187156200409]
+
+decades/1970s/1972_A/hanks_joy_through_christ.txt
+
+That we have not found perfection in men or organization, or that we hear reports of imperfection—these are no reasons to cease seeking or serving or worshiping.
+
+['quiet', 'loud'] received scores [0.6665827631950378, 0.33341723680496216]
+['soft', 'loud'] received scores [0.7159461379051208, 0.28405389189720154]
+['quiet', 'noisy'] received scores [0.5923645496368408, 0.4076354205608368]
+['soft', 'noisy'] received scores [0.6468954682350159, 0.3531045615673065]
+
+decades/1970s/1972_A/mcconkie_the_testimony_of_jesus.txt
+
+I believe in Christ—my Lord, my God— My feet he plants on gospel sod; I’ll worship him with all my might; He is the source of truth and light.
+
+['loud', 'quiet'] received scores [0.569453239440918, 0.43054670095443726]
+['loud', 'soft'] received scores [0.6841359734535217, 0.3158639967441559]
+['quiet', 'noisy'] received scores [0.6858986616134644, 0.31410130858421326]
+['soft', 'noisy'] received scores [0.5714550614356995, 0.42854493856430054]
+
+decades/1970s/1972_A/richards_the_importance_of_prayer.txt
+
+Prayer plays a vital part in our worship, our religious thinking, and our daily lives.
+
+['loud', 'quiet'] received scores [0.5877971649169922, 0.4122028052806854]
+['loud', 'soft'] received scores [0.5962055325508118, 0.40379443764686584]
+['quiet', 'noisy'] received scores [0.5533713102340698, 0.44662871956825256]
+['soft', 'noisy'] received scores [0.5447520613670349, 0.4552479386329651]
+
+decades/1970s/1972_A/richards_the_importance_of_prayer.txt
+
+Implanted in the heart of every person, regardless of his or her race or color, is the desire to worship, in some manner, a divine being.
+
+['loud', 'quiet'] received scores [0.5659958124160767, 0.4340042173862457]
+['loud', 'soft'] received scores [0.6452450752258301, 0.35475486516952515]
+['quiet', 'noisy'] received scores [0.5414673686027527, 0.4585326611995697]
+['noisy', 'soft'] received scores [0.5415090918540955, 0.45849084854125977]
+
+decades/1970s/1972_A/richards_the_importance_of_prayer.txt
+
+In our church worship there are only three set prayers: the baptismal and two sacramental prayers.
+
+['quiet', 'loud'] received scores [0.787388265132904, 0.21261169016361237]
+['soft', 'loud'] received scores [0.8135912418365479, 0.18640878796577454]
+['quiet', 'noisy'] received scores [0.8425283432006836, 0.1574716418981552]
+['soft', 'noisy'] received scores [0.8631170392036438, 0.1368829756975174]
+
+decades/1970s/1972_A/richards_the_importance_of_prayer.txt
+
+Now, when to pray: Generally, I think we might say that we should pray in secret, with our families, and in worship meetings and public assemblies.
+
+['quiet', 'loud'] received scores [0.8157124519348145, 0.18428751826286316]
+['soft', 'loud'] received scores [0.7712879180908203, 0.2287120670080185]
+['quiet', 'noisy'] received scores [0.8983910083770752, 0.10160896182060242]
+['soft', 'noisy'] received scores [0.8707388043403625, 0.12926121056079865]
+
+decades/1970s/1972_A/richards_the_importance_of_prayer.txt
+
+Now with reference to family prayer: This should be a part of our daily worship.
+
+['loud', 'quiet'] received scores [0.5027974247932434, 0.4972025752067566]
+['soft', 'loud'] received scores [0.5635984539985657, 0.4364015758037567]
+['quiet', 'noisy'] received scores [0.6972180604934692, 0.30278193950653076]
+['soft', 'noisy'] received scores [0.7504576444625854, 0.24954241514205933]
+
+decades/1970s/1972_A/richards_the_importance_of_prayer.txt
+
+Now regarding public prayers: Public prayers are a part of our worship services and many other public gatherings.
+
+['loud', 'quiet'] received scores [0.5927755236625671, 0.40722453594207764]
+['soft', 'loud'] received scores [0.6384578943252563, 0.36154210567474365]
+['quiet', 'noisy'] received scores [0.5664780735969543, 0.4335218667984009]
+['soft', 'noisy'] received scores [0.7705862522125244, 0.22941374778747559]
+
+decades/1970s/1972_A/richards_the_importance_of_prayer.txt
+
+Our sacramental and baptismal prayers, of course, are certainly a very important part of our worship services.
+
+['quiet', 'loud'] received scores [0.5293071269989014, 0.4706929326057434]
+['soft', 'loud'] received scores [0.6568901538848877, 0.3431098461151123]
+['quiet', 'noisy'] received scores [0.6551890969276428, 0.3448109030723572]
+['soft', 'noisy'] received scores [0.7638728618621826, 0.2361271232366562]
+
+decades/1970s/1972_A/richards_the_true_church.txt
+
+Then he adds: “… and worship him that made heaven, and earth, and the sea, and the fountains of waters.
+
+['loud', 'quiet'] received scores [0.896364152431488, 0.10363581776618958]
+['loud', 'soft'] received scores [0.6063295006752014, 0.3936704993247986]
+['noisy', 'quiet'] received scores [0.8290315270423889, 0.17096851766109467]
+['soft', 'noisy'] received scores [0.536628246307373, 0.4633718430995941]
+
+decades/1970s/1972_A/richards_the_true_church.txt
+
+At the time that Joseph Smith had his marvelous vision, there wasn’t a church in the world worshiping the God who made the heavens and the earth and the sea and the fountains of waters, and created man in his own image.
+
+['loud', 'quiet'] received scores [0.501268208026886, 0.49873173236846924]
+['loud', 'soft'] received scores [0.6740802526473999, 0.3259197175502777]
+['quiet', 'noisy'] received scores [0.6586450338363647, 0.34135496616363525]
+['noisy', 'soft'] received scores [0.5160852074623108, 0.4839147627353668]
+
+decades/1970s/1972_A/richards_the_true_church.txt
+
+They worshiped an essence everywhere present.
+
+['quiet', 'loud'] received scores [0.5447524189949036, 0.45524755120277405]
+['soft', 'loud'] received scores [0.6348361372947693, 0.3651638329029083]
+['quiet', 'noisy'] received scores [0.7175152897834778, 0.2824847400188446]
+['soft', 'noisy'] received scores [0.7867928147315979, 0.2132072001695633]
+
+decades/1970s/1972_A/richards_the_true_church.txt
+
+That is the kind of god this world was worshiping at the time Joseph Smith had his marvelous vision.
+
+['loud', 'quiet'] received scores [0.9381214380264282, 0.06187853589653969]
+['loud', 'soft'] received scores [0.9029953479766846, 0.09700459241867065]
+['noisy', 'quiet'] received scores [0.7992287278175354, 0.20077131688594818]
+['noisy', 'soft'] received scores [0.7096601128578186, 0.2903399169445038]
+
+decades/1970s/1972_A/sill_medicine_for_the_soul.txt
+
+The miracle involved in this mysterious communication so impressed the native that he fell down on his face and worshiped the paper.
+
+['loud', 'quiet'] received scores [0.9395136833190918, 0.06048627570271492]
+['loud', 'soft'] received scores [0.8030886650085449, 0.19691132009029388]
+['noisy', 'quiet'] received scores [0.8262946009635925, 0.17370536923408508]
+['noisy', 'soft'] received scores [0.555361270904541, 0.44463878870010376]
+
+decades/1970s/1972_A/smith_counsel_to_the_saints_and_to_the_world.txt
+
+We call upon the world to repent, to worship that God who made them, and to believe the words of those whom he hath sent in this day to proclaim his gospel.
+
+['loud', 'quiet'] received scores [0.8122109174728394, 0.18778905272483826]
+['loud', 'soft'] received scores [0.8277463316917419, 0.17225369811058044]
+['noisy', 'quiet'] received scores [0.6592867374420166, 0.3407133221626282]
+['noisy', 'soft'] received scores [0.6825281381607056, 0.31747180223464966]
+
+decades/1970s/1972_O/anderson_light_and_knowledge_to_the_world.txt
+
+There is confusion in the minds of many people as to just what is the nature of the God we should worship and serve.
+
+['loud', 'quiet'] received scores [0.7333527207374573, 0.26664724946022034]
+['loud', 'soft'] received scores [0.6026546359062195, 0.3973454236984253]
+['noisy', 'quiet'] received scores [0.6847776770591736, 0.31522229313850403]
+['noisy', 'soft'] received scores [0.5450412034988403, 0.45495885610580444]
+
+decades/1970s/1972_O/brockbank_entrance_into_the_kingdom_of_god.txt
+
+“But in vain they do worship me, teaching for doctrines the commandments of men.
+
+['loud', 'quiet'] received scores [0.6480196118354797, 0.35198041796684265]
+['loud', 'soft'] received scores [0.598403811454773, 0.4015961289405823]
+['noisy', 'quiet'] received scores [0.5366539359092712, 0.46334606409072876]
+['soft', 'noisy'] received scores [0.5161561965942383, 0.48384377360343933]
+
+decades/1970s/1972_O/brockbank_entrance_into_the_kingdom_of_god.txt
+
+The Pharisees were worshiping a mystical god of spirit, and they were unable to know the living God when he appeared before them.
+
+['quiet', 'loud'] received scores [0.5268269777297974, 0.47317299246788025]
+['loud', 'soft'] received scores [0.5800676345825195, 0.41993239521980286]
+['quiet', 'noisy'] received scores [0.6756331920623779, 0.32436680793762207]
+['soft', 'noisy'] received scores [0.5752522349357605, 0.4247477054595947]
+
+decades/1970s/1972_O/featherstone_the_sure_word_of_god.txt
+
+And then you will recall that he had all those who were sick or halt or blind or lame come forth, and the scripture says, “And they did all, both they who had been healed and they who were whole, bow down at his feet, and did worship him; and as many as could come for the multitude did kiss his feet, insomuch that they did bathe his feet with their tears.
+
+['loud', 'quiet'] received scores [0.7442981004714966, 0.25570186972618103]
+['loud', 'soft'] received scores [0.7453766465187073, 0.2546234130859375]
+['noisy', 'quiet'] received scores [0.5677173733711243, 0.43228262662887573]
+['noisy', 'soft'] received scores [0.5691094398498535, 0.4308905303478241]
+
+decades/1970s/1972_O/hunter_spiritual_famine.txt
+
+Houses of worship dot many lands of the globe.
+
+['loud', 'quiet'] received scores [0.7826632857322693, 0.21733678877353668]
+['soft', 'loud'] received scores [0.6853166818618774, 0.31468331813812256]
+['noisy', 'quiet'] received scores [0.6863385438919067, 0.31366148591041565]
+['soft', 'noisy'] received scores [0.7818554639816284, 0.21814453601837158]
+
+decades/1970s/1972_O/petersen_another_prophet_now_has_come!.txt
+
+Who can worship intelligently if kept in ignorance?
+
+['quiet', 'loud'] received scores [0.6824645400047302, 0.31753551959991455]
+['soft', 'loud'] received scores [0.5112698674201965, 0.48873013257980347]
+['quiet', 'noisy'] received scores [0.8040218353271484, 0.19597817957401276]
+['soft', 'noisy'] received scores [0.6663203835487366, 0.3336796164512634]
+
+decades/1970s/1972_O/richards_strange_creeds_of_christendom.txt
+
+This same Jesus appeared to the Prophet Joseph Smith when the whole Christian world was worshiping an essence.
+
+['loud', 'quiet'] received scores [0.7160167694091797, 0.2839832603931427]
+['loud', 'soft'] received scores [0.7023764848709106, 0.29762348532676697]
+['noisy', 'quiet'] received scores [0.5116998553276062, 0.4883001148700714]
+['soft', 'noisy'] received scores [0.5048348307609558, 0.4951651394367218]
+
+decades/1970s/1972_O/richards_strange_creeds_of_christendom.txt
+
+That is exactly the kind of a god the whole Christian world was worshiping when Joseph Smith had that glorious vision which revealed the true and living God.
+
+['loud', 'quiet'] received scores [0.8543757200241089, 0.14562426507472992]
+['loud', 'soft'] received scores [0.8629828095436096, 0.1370171755552292]
+['noisy', 'quiet'] received scores [0.577740490436554, 0.42225953936576843]
+['noisy', 'soft'] received scores [0.5949463844299316, 0.40505358576774597]
+
+decades/1970s/1972_O/sill_keep_the_commandments.txt
+
+Then, with prophetic vision, he looked down to our day and said: “And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people, “Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.
+
+['loud', 'quiet'] received scores [0.9923044443130493, 0.007695558946579695]
+['loud', 'soft'] received scores [0.9830887913703918, 0.016911188140511513]
+['noisy', 'quiet'] received scores [0.9890010952949524, 0.010998871177434921]
+['noisy', 'soft'] received scores [0.975925624370575, 0.024074329063296318]
+
+decades/1970s/1972_O/tanner_warnings_from_outer_space.txt
+
+He gave them commandments that they should worship the Lord their God and offer sacrifices unto him.
+
+['loud', 'quiet'] received scores [0.5118035078048706, 0.488196462392807]
+['loud', 'soft'] received scores [0.7308229207992554, 0.26917701959609985]
+['quiet', 'noisy'] received scores [0.6710579991340637, 0.32894203066825867]
+['noisy', 'soft'] received scores [0.5593698620796204, 0.44063010811805725]
+
+decades/1970s/1972_O/tuttle_altar,_tent,_well.txt
+
+He worshiped God, cared for his home, and pursued his work.
+
+['quiet', 'loud'] received scores [0.7681771516799927, 0.23182284832000732]
+['soft', 'loud'] received scores [0.6122817993164062, 0.38771820068359375]
+['quiet', 'noisy'] received scores [0.923421323299408, 0.07657864689826965]
+['soft', 'noisy'] received scores [0.8517804741859436, 0.1482195407152176]
+
+decades/1970s/1972_O/tuttle_altar,_tent,_well.txt
+
+Altar, tent, and well: his worship, his home, his work.
+
+['quiet', 'loud'] received scores [0.5555203557014465, 0.44447964429855347]
+['soft', 'loud'] received scores [0.639880895614624, 0.3601190745830536]
+['quiet', 'noisy'] received scores [0.7893097400665283, 0.21069024503231049]
+['soft', 'noisy'] received scores [0.8419243097305298, 0.1580757051706314]
+
+decades/1970s/1972_O/tuttle_altar,_tent,_well.txt
+
+Isaac worshiped at an altar of stone.
+
+['quiet', 'loud'] received scores [0.5132430791854858, 0.48675695061683655]
+['loud', 'soft'] received scores [0.5518063306808472, 0.44819360971450806]
+['quiet', 'noisy'] received scores [0.7672067284584045, 0.23279333114624023]
+['soft', 'noisy'] received scores [0.7174096703529358, 0.2825903296470642]
+
+decades/1970s/1973_A/anderson_the_rock_of_revelation.txt
+
+It is interesting to read the history of the past wherein are related conditions leading up to the ushering in of this dispensation of the gospel: the work that was done by the reformers, Luther, Calvin, Knox, and others; the manner in which the way was opened for the printing of the Bible so that the people generally could have the privilege of reading God’s word: the miraculous development of the art of printing; how the spirit of people who wanted to worship God according to the dictates of their conscience; the coming of the Pilgrim fathers to this land in search of freedom and liberty; the war for independence; the establishment of the Constitution—all looking forward to the time and preparing the way for the restoration of the gospel, the opening of this dispensation.
+
+['loud', 'quiet'] received scores [0.7233238220214844, 0.2766761779785156]
+['loud', 'soft'] received scores [0.5835144519805908, 0.4164854884147644]
+['noisy', 'quiet'] received scores [0.5694384574890137, 0.43056154251098633]
+['soft', 'noisy'] received scores [0.5852179527282715, 0.41478201746940613]
+
+decades/1970s/1973_A/hinckley_the_true_strength_of_the_church.txt
+
+They dedicated and consecrated it to worship and the teaching of truth.
+
+['quiet', 'loud'] received scores [0.6074198484420776, 0.39258021116256714]
+['loud', 'soft'] received scores [0.5014328956604004, 0.498567134141922]
+['quiet', 'noisy'] received scores [0.791983962059021, 0.2080160528421402]
+['soft', 'noisy'] received scores [0.709862232208252, 0.29013779759407043]
+
+decades/1970s/1973_A/hinckley_the_true_strength_of_the_church.txt
+
+We are gathered today on Temple Square in this historic Tabernacle, surrounded by other remarkable buildings, but the strength of the Church is not in these buildings, nor in its thousands of houses of worship across the world, nor in its universities and hospitals.
+
+['loud', 'quiet'] received scores [0.6568140387535095, 0.34318602085113525]
+['loud', 'soft'] received scores [0.5335826277732849, 0.4664173126220703]
+['quiet', 'noisy'] received scores [0.5954179763793945, 0.40458205342292786]
+['soft', 'noisy'] received scores [0.7111557722091675, 0.28884419798851013]
+
+decades/1970s/1973_A/lee_strengthen_the_stakes_of_zion.txt
+
+“Now I call your attention to the facts, set forth in these scriptures, that the gathering of Israel consists of joining the true church; of coming to a knowledge of the true God and of his saving truths; and of worshiping him in the congregations of the Saints in all nations and among all peoples.
+
+['loud', 'quiet'] received scores [0.637054443359375, 0.362945556640625]
+['loud', 'soft'] received scores [0.7882454991340637, 0.21175451576709747]
+['quiet', 'noisy'] received scores [0.5664125680923462, 0.4335874021053314]
+['noisy', 'soft'] received scores [0.6188217997550964, 0.38117823004722595]
+
+decades/1970s/1973_A/mcconkie_upon_judea’s_plains.txt
+
+I have counseled with the Lord as to what I should say today; have made some suggestions to him as to what I thought proper, subject, of course, to his approving concurrence; have received that concurrence; and if I may now be given an uttering tongue and you may be given a listening ear, then all of us together shall be edified as we now seek to worship the Lord in spirit and in truth.
+
+['quiet', 'loud'] received scores [0.545845091342926, 0.454154908657074]
+['loud', 'soft'] received scores [0.6230130195617676, 0.3769869804382324]
+['quiet', 'noisy'] received scores [0.7001780867576599, 0.2998218834400177]
+['soft', 'noisy'] received scores [0.5403850078582764, 0.459615021944046]
+
+decades/1970s/1973_A/petersen_salvation_comes_through_the_church.txt
+
+They rejected temple worship.
+
+['quiet', 'loud'] received scores [0.9045994877815247, 0.09540053457021713]
+['soft', 'loud'] received scores [0.7269396185874939, 0.2730603814125061]
+['quiet', 'noisy'] received scores [0.953245997428894, 0.046754032373428345]
+['soft', 'noisy'] received scores [0.8512849807739258, 0.1487150490283966]
+
+decades/1970s/1973_A/petersen_salvation_comes_through_the_church.txt
+
+They also rejected temple worship.
+
+['quiet', 'loud'] received scores [0.9100281596183777, 0.08997181057929993]
+['soft', 'loud'] received scores [0.7519277334213257, 0.2480722963809967]
+['quiet', 'noisy'] received scores [0.9519641995429993, 0.04803581163287163]
+['soft', 'noisy'] received scores [0.8558846116065979, 0.1441153585910797]
+
+decades/1970s/1973_A/richards_he_has_sent_his_messenger_to_prepare_the_way.txt
+
+Now John did not only see that the angel would bring the everlasting gospel, but he would call men back to the worship of the true and the living God “that made heaven, and earth, and the sea, and the fountains of waters.
+
+['loud', 'quiet'] received scores [0.6749211549758911, 0.3250787854194641]
+['loud', 'soft'] received scores [0.7523671984672546, 0.24763283133506775]
+['noisy', 'quiet'] received scores [0.5235150456428528, 0.476485013961792]
+['noisy', 'soft'] received scores [0.6165377497673035, 0.38346219062805176]
+
+decades/1970s/1973_A/richards_he_has_sent_his_messenger_to_prepare_the_way.txt
+
+There wasn’t a church in the world at that time, so far as we know, that was worshiping the true and the living God; so when the angel was to come with the everlasting gospel, he was also to bring men back to the worship of the true and living God who made the heavens and the earth, and the sea, and the fountains of waters.
+
+['quiet', 'loud'] received scores [0.6432480812072754, 0.35675185918807983]
+['loud', 'soft'] received scores [0.6408979892730713, 0.3591020107269287]
+['quiet', 'noisy'] received scores [0.7691265344619751, 0.2308734953403473]
+['soft', 'noisy'] received scores [0.5086570382118225, 0.4913429319858551]
+
+decades/1970s/1973_A/romney_magnifying_one’s_calling_in_the_priesthood.txt
+
+The Lord commanded Adam and Eve to “worship the Lord their God,” and he later sent an angel to say to them, “thou shalt repent and call upon God in the name of the Son forevermore.
+
+['loud', 'quiet'] received scores [0.6458407640457153, 0.3541592061519623]
+['loud', 'soft'] received scores [0.6694005727767944, 0.3305993974208832]
+['noisy', 'quiet'] received scores [0.5050234198570251, 0.49497660994529724]
+['noisy', 'soft'] received scores [0.5311504006385803, 0.46884962916374207]
+
+decades/1970s/1973_A/stone_the_constant_exercise_of_our_faith.txt
+
+Our very presence in meetings of this conference will tend to increase our faith because we come here with a desire to learn and to worship, to be motivated, and to be spiritually uplifted.
+
+['loud', 'quiet'] received scores [0.6122938990592957, 0.38770607113838196]
+['loud', 'soft'] received scores [0.6409262418746948, 0.3590737283229828]
+['quiet', 'noisy'] received scores [0.5766782760620117, 0.42332178354263306]
+['soft', 'noisy'] received scores [0.5465473532676697, 0.4534526765346527]
+
+decades/1970s/1973_A/stone_the_constant_exercise_of_our_faith.txt
+
+They sought and found a place where they could exercise their faith, worship in peace, and serve the Lord.
+
+['quiet', 'loud'] received scores [0.8788576126098633, 0.12114245444536209]
+['soft', 'loud'] received scores [0.5089804530143738, 0.4910195767879486]
+['quiet', 'noisy'] received scores [0.9835049510002136, 0.016495047137141228]
+['soft', 'noisy'] received scores [0.8949500918388367, 0.10504990816116333]
+
+decades/1970s/1973_A/stone_the_constant_exercise_of_our_faith.txt
+
+In our impatience, we wonder why God does not reveal himself in majesty and glory, that the whole world might instantly be brought to their knees to worship him.
+
+['quiet', 'loud'] received scores [0.5106092095375061, 0.4893907308578491]
+['soft', 'loud'] received scores [0.517991304397583, 0.4820087254047394]
+['quiet', 'noisy'] received scores [0.552050769329071, 0.44794929027557373]
+['soft', 'noisy'] received scores [0.5593470931053162, 0.44065284729003906]
+
+decades/1970s/1973_A/vandenberg_the_agency_of_man.txt
+
+He “rent his mantle, and shaved his head, and fell down upon the ground, and worshipped, “And said, Naked came I out of my mother’s womb, and naked shall I return thither: the Lord gave, and the Lord hath taken away; blessed be the name of the Lord.
+
+['loud', 'quiet'] received scores [0.7868231534957886, 0.21317684650421143]
+['loud', 'soft'] received scores [0.7739481925964355, 0.22605186700820923]
+['noisy', 'quiet'] received scores [0.5044465661048889, 0.4955534338951111]
+['soft', 'noisy'] received scores [0.5143346190452576, 0.48566538095474243]
+
+decades/1970s/1973_A/young_when_i_read,_i_am_there.txt
+
+Here today we declared his Beloved Son, and here today we worship him and give praise and honor and glory.
+
+['loud', 'quiet'] received scores [0.8941985368728638, 0.10580148547887802]
+['loud', 'soft'] received scores [0.8735037446022034, 0.12649619579315186]
+['noisy', 'quiet'] received scores [0.7973766326904297, 0.20262330770492554]
+['noisy', 'soft'] received scores [0.762768030166626, 0.2372319996356964]
+
+decades/1970s/1973_A/young_when_i_read,_i_am_there.txt
+
+Let us worship him in spirit and in truth.
+
+['quiet', 'loud'] received scores [0.577395498752594, 0.4226045310497284]
+['loud', 'soft'] received scores [0.7579107284545898, 0.24208930134773254]
+['quiet', 'noisy'] received scores [0.8117474317550659, 0.18825256824493408]
+['soft', 'noisy'] received scores [0.5020137429237366, 0.49798619747161865]
+
+decades/1970s/1973_O/lee_understanding_who_we_are_brings_self-respect.txt
+
+Hear now the significant words of that powerful sermon to “The Unknown God” preached by the apostle Paul, to those who were ignorantly worshipping images of stone and brass and wood, and I quote: “God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands; “And hath made of one blood all nations of men for to dwell on all the face of the earth [now mark you this], and hath determined the times before appointed, and the bounds of their habitation; “That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us.
+
+['loud', 'quiet'] received scores [0.9486909508705139, 0.051309023052453995]
+['loud', 'soft'] received scores [0.9719229936599731, 0.02807704173028469]
+['noisy', 'quiet'] received scores [0.5190770626068115, 0.48092296719551086]
+['noisy', 'soft'] received scores [0.6689528822898865, 0.33104705810546875]
+
+decades/1970s/1973_O/packer_inspiring_music—worthy_thoughts.txt
+
+How wonderful is the music instructor who will teach children and youth to play and will acquaint them with good music in their formative years, including the music of worship.
+
+['loud', 'quiet'] received scores [0.6297482252120972, 0.37025177478790283]
+['loud', 'soft'] received scores [0.5847566723823547, 0.4152432978153229]
+['quiet', 'noisy'] received scores [0.7498089671134949, 0.2501910328865051]
+['soft', 'noisy'] received scores [0.7835371494293213, 0.2164628952741623]
+
+decades/1970s/1973_O/richards_revealed_truths_of_the_gospel.txt
+
+The prophet Isaiah saw our day when men would worship Him through the precepts of men, and said because of that He would “proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid.
+
+['loud', 'quiet'] received scores [0.564605712890625, 0.4353942573070526]
+['loud', 'soft'] received scores [0.7272417545318604, 0.27275821566581726]
+['quiet', 'noisy'] received scores [0.6424323320388794, 0.3575676679611206]
+['noisy', 'soft'] received scores [0.5336641669273376, 0.46633583307266235]
+
+decades/1970s/1973_O/tanner_obedience.txt
+
+Surely we can follow the teachings of the Lord, where he says that we should do these things, worshipping him, expressing our gratitude and thanks for the sacrifice he has made.
+
+['loud', 'quiet'] received scores [0.6169209480285645, 0.38307902216911316]
+['loud', 'soft'] received scores [0.7094576954841614, 0.2905423045158386]
+['quiet', 'noisy'] received scores [0.5897992849349976, 0.41020068526268005]
+['noisy', 'soft'] received scores [0.5132759213447571, 0.48672404885292053]
+
+decades/1970s/1974_A/ashton_a_time_of_urgency.txt
+
+We had the opportunity of dedicating this choice house of worship in February.
+
+['loud', 'quiet'] received scores [0.5750923156738281, 0.4249076843261719]
+['soft', 'loud'] received scores [0.6360536813735962, 0.3639462888240814]
+['quiet', 'noisy'] received scores [0.7070589065551758, 0.292941153049469]
+['soft', 'noisy'] received scores [0.8509507179260254, 0.14904925227165222]
+
+decades/1970s/1974_A/brockbank_hearken_unto_the_voice_of_god.txt
+
+“If thou therefore wilt worship me, all shall be thine,” the devil promised.
+
+['loud', 'quiet'] received scores [0.832543671131134, 0.16745631396770477]
+['loud', 'soft'] received scores [0.6834812760353088, 0.31651872396469116]
+['noisy', 'quiet'] received scores [0.7160773873329163, 0.28392261266708374]
+['noisy', 'soft'] received scores [0.5227692723274231, 0.4772306978702545]
+
+decades/1970s/1974_A/brockbank_hearken_unto_the_voice_of_god.txt
+
+Hear the answer of the Lord: “And Jesus answered and said unto him, Get thee behind me, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
+
+['loud', 'quiet'] received scores [0.8612686395645142, 0.13873130083084106]
+['loud', 'soft'] received scores [0.9257548451423645, 0.0742451474070549]
+['quiet', 'noisy'] received scores [0.5996289253234863, 0.40037107467651367]
+['noisy', 'soft'] received scores [0.5728405714035034, 0.4271593689918518]
+
+decades/1970s/1974_A/brockbank_hearken_unto_the_voice_of_god.txt
+
+The devil deceitfully and dishonestly continues to offer man the world and the power of the world if man will but fall down and worship him.
+
+['loud', 'quiet'] received scores [0.7190921306610107, 0.28090792894363403]
+['loud', 'soft'] received scores [0.6149101257324219, 0.3850899040699005]
+['noisy', 'quiet'] received scores [0.6443935036659241, 0.3556065559387207]
+['noisy', 'soft'] received scores [0.530592143535614, 0.46940791606903076]
+
+decades/1970s/1974_A/haight_what_does_jesus_mean_to_modern_man.txt
+
+And they did fall down at the feet of Jesus, and did worship him.
+
+['loud', 'quiet'] received scores [0.7268210053443909, 0.2731790542602539]
+['loud', 'soft'] received scores [0.7165513038635254, 0.2834486961364746]
+['noisy', 'quiet'] received scores [0.5021212100982666, 0.4978788197040558]
+['soft', 'noisy'] received scores [0.5106607675552368, 0.48933932185173035]
+
+decades/1970s/1974_A/hanks_boys_need_men.txt
+
+What boys need is not lectures about notions of love, human relationships, or God—but to be exposed to unconditional love, unselfish service, to the reality of God in reverence, and worship, and humble prayer.
+
+['quiet', 'loud'] received scores [0.7742995023727417, 0.2257004976272583]
+['soft', 'loud'] received scores [0.7693772315979004, 0.23062275350093842]
+['quiet', 'noisy'] received scores [0.780876874923706, 0.21912312507629395]
+['soft', 'noisy'] received scores [0.7760565280914307, 0.22394342720508575]
+
+decades/1970s/1974_A/kimball_guidelines_to_carry_forth_the_work_of_god_in_cleanliness.txt
+
+When Satan took the Lord into an exceeding high mountain, he promised, “All these things will I give thee, if thou wilt fall down and worship me.
+
+['loud', 'quiet'] received scores [0.901828944683075, 0.09817107766866684]
+['loud', 'soft'] received scores [0.8391130566596985, 0.16088692843914032]
+['noisy', 'quiet'] received scores [0.7711414098739624, 0.2288586050271988]
+['noisy', 'soft'] received scores [0.6567169427871704, 0.3432830274105072]
+
+decades/1970s/1974_A/mcconkie_god_foreordains_his_prophets_and_his_people.txt
+
+“We have Peter and Paul, in their steps let us trod; So religionists say, as they worship their God.
+
+['loud', 'quiet'] received scores [0.7727384567260742, 0.2272615283727646]
+['loud', 'soft'] received scores [0.7551858425140381, 0.24481409788131714]
+['noisy', 'quiet'] received scores [0.5956785678863525, 0.4043214023113251]
+['noisy', 'soft'] received scores [0.5720247030258179, 0.42797529697418213]
+
+decades/1970s/1974_A/mcconkie_god_foreordains_his_prophets_and_his_people.txt
+
+He knew and worshiped the Lord Jehovah, who was “like unto God.
+
+['quiet', 'loud'] received scores [0.5370849967002869, 0.4629150331020355]
+['soft', 'loud'] received scores [0.5083541870117188, 0.49164581298828125]
+['quiet', 'noisy'] received scores [0.7151803374290466, 0.284819632768631]
+['soft', 'noisy'] received scores [0.6911466717720032, 0.30885326862335205]
+
+decades/1970s/1974_A/monson_the_paths_jesus_walked.txt
+
+Still again: “… the kingdoms of the world, and the glory of them … will I give thee, if thou wilt fall down and worship me.
+
+['loud', 'quiet'] received scores [0.9082105159759521, 0.09178949147462845]
+['loud', 'soft'] received scores [0.7174802422523499, 0.28251978754997253]
+['noisy', 'quiet'] received scores [0.8448877334594727, 0.15511225163936615]
+['noisy', 'soft'] received scores [0.58299320936203, 0.4170067310333252]
+
+decades/1970s/1974_A/monson_the_paths_jesus_walked.txt
+
+The Master replied: “Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
+
+['loud', 'quiet'] received scores [0.6447229981422424, 0.35527700185775757]
+['loud', 'soft'] received scores [0.6994290947914124, 0.30057093501091003]
+['quiet', 'noisy'] received scores [0.5931774973869324, 0.4068225622177124]
+['soft', 'noisy'] received scores [0.5320706367492676, 0.4679293632507324]
+
+decades/1970s/1974_A/pinegar_the_family—a_divine_blessing.txt
+
+President Hugh B. Brown has said to the women of the Church: “There is no better way to worship and glorify God than by assisting his sons on the upward and difficult climb.
+
+['loud', 'quiet'] received scores [0.7372955083847046, 0.2627044916152954]
+['loud', 'soft'] received scores [0.799269437789917, 0.20073051750659943]
+['noisy', 'quiet'] received scores [0.5422790050506592, 0.4577210545539856]
+['noisy', 'soft'] received scores [0.6269832253456116, 0.3730167746543884]
+
+decades/1970s/1974_A/romney_the_holy_ghost.txt
+
+The hallmark of the church of Christ, distinguishing it from all other churches and forms of worship, has ever been the receiving of the gift of the Holy Ghost by the membership of the Church.
+
+['quiet', 'loud'] received scores [0.5425824522972107, 0.4574175477027893]
+['loud', 'soft'] received scores [0.5147123336791992, 0.48528769612312317]
+['quiet', 'noisy'] received scores [0.6723551750183105, 0.32764485478401184]
+['soft', 'noisy'] received scores [0.6199290156364441, 0.3800710141658783]
+
+decades/1970s/1974_A/smith_three_days_in_the_tomb.txt
+
+And they came and held him by the feet, and worshipped him.
+
+['loud', 'quiet'] received scores [0.8908409476280212, 0.10915905982255936]
+['loud', 'soft'] received scores [0.7495959401130676, 0.25040411949157715]
+['noisy', 'quiet'] received scores [0.756628692150116, 0.24337127804756165]
+['noisy', 'soft'] received scores [0.5327985286712646, 0.4672014117240906]
+
+decades/1970s/1974_A/tanner_the_importance_of_prayer.txt
+
+How important it is that God’s name should be hallowed in our daily conduct, and particularly in our worship.
+
+['loud', 'quiet'] received scores [0.664409875869751, 0.3355901539325714]
+['loud', 'soft'] received scores [0.7818959951400757, 0.21810397505760193]
+['quiet', 'noisy'] received scores [0.6263613700866699, 0.3736385703086853]
+['noisy', 'soft'] received scores [0.5192661285400391, 0.4807339012622833]
+
+decades/1970s/1974_A/tanner_the_importance_of_prayer.txt
+
+We should sanctify his name by showing love and reverence and in calling upon him in worship, doing all these things that would redound to his glory.
+
+['loud', 'quiet'] received scores [0.5370557904243469, 0.4629441499710083]
+['loud', 'soft'] received scores [0.5803390145301819, 0.4196609556674957]
+['quiet', 'noisy'] received scores [0.7157828211784363, 0.28421711921691895]
+['soft', 'noisy'] received scores [0.6787359118461609, 0.3212640583515167]
+
+decades/1970s/1974_O/anderson_a_testimony_of_christ.txt
+
+In The Church of Jesus Christ of Latter-day Saints we worship the living Christ.
+
+['quiet', 'loud'] received scores [0.6637944579124451, 0.33620551228523254]
+['soft', 'loud'] received scores [0.6191462278366089, 0.3808537721633911]
+['quiet', 'noisy'] received scores [0.8024573922157288, 0.19754262268543243]
+['soft', 'noisy'] received scores [0.7698386311531067, 0.23016133904457092]
+
+decades/1970s/1974_O/burton_“blessed_are_the_peacemakers”.txt
+
+Here we must learn how to live with one another in peace and harmony so that we can be prepared to live in the presence of that perfect God we claim to worship.
+
+['quiet', 'loud'] received scores [0.8616543412208557, 0.1383456438779831]
+['soft', 'loud'] received scores [0.5837624073028564, 0.41623756289482117]
+['quiet', 'noisy'] received scores [0.9544586539268494, 0.04554135352373123]
+['soft', 'noisy'] received scores [0.8251537084579468, 0.17484630644321442]
+
+decades/1970s/1974_O/kimball_god_will_not_be_mocked.txt
+
+Many employed people would be released for rest and worship on the Sabbath if we did not shop on that day.
+
+['quiet', 'loud'] received scores [0.6336357593536377, 0.3663642108440399]
+['loud', 'soft'] received scores [0.5269598364830017, 0.4730401933193207]
+['quiet', 'noisy'] received scores [0.774008572101593, 0.22599142789840698]
+['soft', 'noisy'] received scores [0.6399841904640198, 0.36001577973365784]
+
+decades/1970s/1974_O/kimball_god_will_not_be_mocked.txt
+
+The families worked together, played together, and worshiped God together.
+
+['quiet', 'loud'] received scores [0.6208299994468689, 0.3791699707508087]
+['soft', 'loud'] received scores [0.6338182687759399, 0.36618173122406006]
+['quiet', 'noisy'] received scores [0.782117486000061, 0.21788246929645538]
+['soft', 'noisy'] received scores [0.791437029838562, 0.20856302976608276]
+
+decades/1970s/1974_O/kimball_ocean_currents_and_family_influences.txt
+
+I know that was the God that we worship, who came on the Mount of Transfiguration and said again to those servants, Peter, James, and John, who were to carry on the work of the Lord even in their imperfections: “This is my beloved Son, in whom I am well pleased,” the same God—we know he lives and exists—who came in the state of New York and said those same things that he had already said to the Nephites—and now said to a world that had been traveling in darkness for a long, long time—“This is My Beloved Son. Hear Him!”
+
+['loud', 'quiet'] received scores [0.5507132411003113, 0.4492867887020111]
+['loud', 'soft'] received scores [0.7785288095474243, 0.2214711606502533]
+['quiet', 'noisy'] received scores [0.6237772703170776, 0.37622278928756714]
+['noisy', 'soft'] received scores [0.6336596012115479, 0.36634042859077454]
+
+decades/1970s/1974_O/tuttle_your_mission_preparation.txt
+
+When we go to worship the Lord, we ought to be dressed in our finest, cleanest, and best.
+
+['loud', 'quiet'] received scores [0.6200770139694214, 0.3799230456352234]
+['loud', 'soft'] received scores [0.7096480131149292, 0.290351927280426]
+['quiet', 'noisy'] received scores [0.7345142364501953, 0.2654857933521271]
+['soft', 'noisy'] received scores [0.6488180756568909, 0.3511819839477539]
+
+decades/1970s/1975_A/benson_the_book_of_mormon_is_the_word_of_god.txt
+
+All objections, whether they be on abortion, plural marriage, seventh-day worship, etc., basically hinge on whether Joseph Smith and his successors were and are prophets of God receiving divine revelation.
+
+['loud', 'quiet'] received scores [0.7309288382530212, 0.26907119154930115]
+['loud', 'soft'] received scores [0.7185935974121094, 0.28140637278556824]
+['noisy', 'quiet'] received scores [0.7491447925567627, 0.2508552074432373]
+['noisy', 'soft'] received scores [0.7373446226119995, 0.2626554071903229]
+
+decades/1970s/1975_A/hinckley_the_symbol_of_christ.txt
+
+I replied that the lives of our people must become the only meaningful expression of our faith and, in fact, therefore, the symbol of our worship.
+
+['quiet', 'loud'] received scores [0.5202372074127197, 0.4797627627849579]
+['loud', 'soft'] received scores [0.6483176350593567, 0.3516823649406433]
+['quiet', 'noisy'] received scores [0.7316389679908752, 0.26836106181144714]
+['soft', 'noisy'] received scores [0.576960563659668, 0.4230394959449768]
+
+decades/1970s/1975_A/hinckley_the_symbol_of_christ.txt
+
+We worship him as Lord and Savior.
+
+['quiet', 'loud'] received scores [0.6310132145881653, 0.36898675560951233]
+['soft', 'loud'] received scores [0.537190318107605, 0.4628097116947174]
+['quiet', 'noisy'] received scores [0.7939272522926331, 0.20607270300388336]
+['soft', 'noisy'] received scores [0.7233686447143555, 0.27663135528564453]
+
+decades/1970s/1975_A/kimball_“why_call_me_lord,_lord,_and_do_not_the_things_which_i_say”.txt
+
+Our study reveals the fact that all too often it is because of their immoralities and their idolatrous worship of the god of lust.
+
+['loud', 'quiet'] received scores [0.6729176044464111, 0.3270823359489441]
+['loud', 'soft'] received scores [0.6069461107254028, 0.39305388927459717]
+['noisy', 'quiet'] received scores [0.6814230680465698, 0.31857696175575256]
+['noisy', 'soft'] received scores [0.6161885261535645, 0.38381144404411316]
+
+decades/1970s/1975_A/kimball_“why_call_me_lord,_lord,_and_do_not_the_things_which_i_say”.txt
+
+The first of the Ten Commandments requires that men worship the Lord; the fourth designates a sabbath day especially for worship: “Thou shalt have no other gods before me.
+
+['quiet', 'loud'] received scores [0.6863265037536621, 0.3136734664440155]
+['soft', 'loud'] received scores [0.5310567021369934, 0.4689432382583618]
+['quiet', 'noisy'] received scores [0.7778033018112183, 0.22219671308994293]
+['soft', 'noisy'] received scores [0.6443504095077515, 0.35564956068992615]
+
+decades/1970s/1975_A/maxwell_the_man_of_christ.txt
+
+The disciple worships an unchanging God, and proclaims that the good tidings are brought anew; for the gospel is not merely a gospel for one age, for one people, or for one place—it is a gospel for the galaxies!
+
+['loud', 'quiet'] received scores [0.9144224524497986, 0.0855775699019432]
+['loud', 'soft'] received scores [0.8197994828224182, 0.1802005171775818]
+['noisy', 'quiet'] received scores [0.814050555229187, 0.185949444770813]
+['noisy', 'soft'] received scores [0.6508250832557678, 0.34917494654655457]
+
+decades/1970s/1975_A/maxwell_the_man_of_christ.txt
+
+He sees that those who worship at the altar of appetite are very intense.
+
+['loud', 'quiet'] received scores [0.969743013381958, 0.030256962403655052]
+['loud', 'soft'] received scores [0.9409419298171997, 0.05905812233686447]
+['noisy', 'quiet'] received scores [0.9594340324401855, 0.040566012263298035]
+['noisy', 'soft'] received scores [0.9216130375862122, 0.07838697731494904]
+
+decades/1970s/1975_A/petersen_the_sabbath_day.txt
+
+In plain, blunt words, we are commanded to change our usual routine and go to church and worship God on the Sabbath.
+
+['loud', 'quiet'] received scores [0.9940627217292786, 0.005937295034527779]
+['loud', 'soft'] received scores [0.9946379065513611, 0.005362058058381081]
+['noisy', 'quiet'] received scores [0.8187642097473145, 0.18123579025268555]
+['noisy', 'soft'] received scores [0.8334782123565674, 0.16652177274227142]
+
+decades/1970s/1975_A/petersen_the_sabbath_day.txt
+
+We must be consistent and be obedient and worshipful every day.
+
+['loud', 'quiet'] received scores [0.561130940914154, 0.43886905908584595]
+['loud', 'soft'] received scores [0.6066622734069824, 0.3933376967906952]
+['quiet', 'noisy'] received scores [0.630185604095459, 0.3698144257068634]
+['soft', 'noisy'] received scores [0.5855168700218201, 0.4144831895828247]
+
+decades/1970s/1975_A/petersen_the_sabbath_day.txt
+
+We must worship him, of course; but we must also cleanse ourselves in preparation for that worship by confessing our sins and repenting of them.
+
+['quiet', 'loud'] received scores [0.5644701719284058, 0.43552982807159424]
+['loud', 'soft'] received scores [0.6006056070327759, 0.39939436316490173]
+['quiet', 'noisy'] received scores [0.7364648580551147, 0.26353511214256287]
+['soft', 'noisy'] received scores [0.5891279578208923, 0.41087210178375244]
+
+decades/1970s/1975_A/romney_easter_thoughts.txt
+
+“And they came and held him by the feet, and worshiped him.
+
+['loud', 'quiet'] received scores [0.8766718506813049, 0.12332812696695328]
+['loud', 'soft'] received scores [0.714681088924408, 0.28531885147094727]
+['noisy', 'quiet'] received scores [0.7443913817405701, 0.2556087076663971]
+['noisy', 'soft'] received scores [0.5064656138420105, 0.4935343861579895]
+
+decades/1970s/1975_A/stapley_using_our_free_agency.txt
+
+Every man, woman, and child has the right to worship God according to the dictates of his own conscience.
+
+['quiet', 'loud'] received scores [0.6008350849151611, 0.3991648554801941]
+['loud', 'soft'] received scores [0.509300708770752, 0.49069929122924805]
+['quiet', 'noisy'] received scores [0.6897128820419312, 0.31028711795806885]
+['soft', 'noisy'] received scores [0.5872538089752197, 0.41274622082710266]
+
+decades/1970s/1975_A/tanner_christ_in_america.txt
+
+When we understand how the Book of Mormon came forth—that an angel actually came down and delivered to Joseph Smith the records from which it was translated—it is clear what John the Revelator meant when he said, “And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people, “Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.
+
+['loud', 'quiet'] received scores [0.9844662547111511, 0.015533768571913242]
+['loud', 'soft'] received scores [0.9408689141273499, 0.059131111949682236]
+['noisy', 'quiet'] received scores [0.9832502007484436, 0.01674981787800789]
+['noisy', 'soft'] received scores [0.9364601373672485, 0.06353986263275146]
+
+decades/1970s/1975_O/bennett_covenants_and_blessings.txt
+
+In the midst of idolatry, Abraham continued to worship the true God and proved true in every test the Lord gave him; therefore, the Lord made a sacred covenant to bless Abraham and his faithful posterity to the latest generation.
+
+['loud', 'quiet'] received scores [0.7219371795654297, 0.2780629098415375]
+['loud', 'soft'] received scores [0.8247331380844116, 0.1752668172121048]
+['quiet', 'noisy'] received scores [0.5198579430580139, 0.48014211654663086]
+['noisy', 'soft'] received scores [0.6260214447975159, 0.37397855520248413]
+
+decades/1970s/1975_O/kimball_spoken_from_their_hearts.txt
+
+We heard Bishop Featherstone address us on patriotism, and whether we come from the South Seas, or from South America, or from Europe, or from Asia, all of us have our leanings; all of us should be loyal; all of us should appreciate freedom to live and worship as we please.
+
+['loud', 'quiet'] received scores [0.8362628221511841, 0.1637372076511383]
+['loud', 'soft'] received scores [0.8641088604927063, 0.1358911544084549]
+['noisy', 'quiet'] received scores [0.64419025182724, 0.35580974817276]
+['noisy', 'soft'] received scores [0.6926978230476379, 0.30730220675468445]
+
+decades/1970s/1975_O/kimball_the_privilege_of_holding_the_priesthood.txt
+
+He said, “‘We claim the privilege of worshiping Almighty God according to the dictates of our own conscience, and allow all men the same privilege, let them worship how, where, or what they may.
+
+['loud', 'quiet'] received scores [0.6697787046432495, 0.33022135496139526]
+['loud', 'soft'] received scores [0.7105595469474792, 0.28944042325019836]
+['quiet', 'noisy'] received scores [0.5724073648452759, 0.42759260535240173]
+['soft', 'noisy'] received scores [0.5251689553260803, 0.47483107447624207]
+
+decades/1970s/1975_O/kimball_the_privilege_of_holding_the_priesthood.txt
+
+“And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.
+
+['loud', 'quiet'] received scores [0.727354884147644, 0.27264508605003357]
+['loud', 'soft'] received scores [0.7138217687606812, 0.28617823123931885]
+['noisy', 'quiet'] received scores [0.5620298981666565, 0.4379701614379883]
+['noisy', 'soft'] received scores [0.5454192161560059, 0.45458075404167175]
+
+decades/1970s/1975_O/kimball_the_privilege_of_holding_the_priesthood.txt
+
+That is Jesus Christ, whom we worship, with all our souls, all our minds and might and strength.
+
+['loud', 'quiet'] received scores [0.7099280953407288, 0.29007187485694885]
+['loud', 'soft'] received scores [0.882816731929779, 0.11718330532312393]
+['quiet', 'noisy'] received scores [0.598885715007782, 0.4011143445968628]
+['noisy', 'soft'] received scores [0.673381507396698, 0.3266185522079468]
+
+decades/1970s/1975_O/kimball_the_privilege_of_holding_the_priesthood.txt
+
+He is the one we worship.
+
+['quiet', 'loud'] received scores [0.5604575872421265, 0.43954238295555115]
+['loud', 'soft'] received scores [0.5699816942214966, 0.4300183057785034]
+['quiet', 'noisy'] received scores [0.7455528974533081, 0.2544470429420471]
+['soft', 'noisy'] received scores [0.6341906785964966, 0.36580929160118103]
+
+decades/1970s/1975_O/mcconkie_once_or_twice_in_a_thousand_years.txt
+
+As we approach with awe and reverence, in the spirit of worship and thanksgiving, the heaven-sent miracle of that bright morn, let us view first the setting in which the heavens would be rent and the miracle wrought.
+
+['loud', 'quiet'] received scores [0.5671000480651855, 0.4328998923301697]
+['loud', 'soft'] received scores [0.5718356370925903, 0.42816439270973206]
+['quiet', 'noisy'] received scores [0.6580162644386292, 0.3419836461544037]
+['soft', 'noisy'] received scores [0.6536566615104675, 0.34634333848953247]
+
+decades/1970s/1975_O/richards_prophets_and_prophecy.txt
+
+No other group of religious worshipers is growing by leaps and bounds as is this church today, because the God of heaven has established it according to his promise.
+
+['loud', 'quiet'] received scores [0.9716562628746033, 0.028343701735138893]
+['loud', 'soft'] received scores [0.9321646690368652, 0.06783533841371536]
+['noisy', 'quiet'] received scores [0.8673542737960815, 0.13264569640159607]
+['noisy', 'soft'] received scores [0.7238409519195557, 0.27615901827812195]
+
+decades/1970s/1975_O/stapley_to_make_a_people_prepared_for_the_lord.txt
+
+Satan has great power over men, and, indeed, there are those who outwardly claim to be his disciples and worship him.
+
+['loud', 'quiet'] received scores [0.9045649766921997, 0.09543503820896149]
+['loud', 'soft'] received scores [0.8036213517189026, 0.1963786482810974]
+['noisy', 'quiet'] received scores [0.8472946286201477, 0.1527053564786911]
+['noisy', 'soft'] received scores [0.7054969668388367, 0.29450297355651855]
+
+decades/1970s/1975_O/vandenberg_to_cleanse_our_souls.txt
+
+There is no doubt that many people from the Netherlands emigrated to America, and with their love of liberty and their faith in God contributed much to some of the American colonies which were established so that their citizens could worship God according to their consciences.
+
+['loud', 'quiet'] received scores [0.7562922239303589, 0.24370776116847992]
+['loud', 'soft'] received scores [0.7437039017677307, 0.2562960982322693]
+['noisy', 'quiet'] received scores [0.5434534549713135, 0.4565465748310089]
+['noisy', 'soft'] received scores [0.5267506241798401, 0.4732493460178375]
+
+decades/1970s/1976_A/komatsu_the_blessing_of_building_a_temple.txt
+
+It was difficult for their nonmember families to understand the reasons for a Christian church teaching principles such as “ancestral worship,” for this was a Buddhist teaching and tradition.
+
+['quiet', 'loud'] received scores [0.5135499238967896, 0.48645010590553284]
+['loud', 'soft'] received scores [0.5024457573890686, 0.497554212808609]
+['quiet', 'noisy'] received scores [0.59393709897995, 0.40606293082237244]
+['soft', 'noisy'] received scores [0.578414797782898, 0.4215852618217468]
+
+decades/1970s/1976_A/mcconkie_joseph_smith—the_mighty_prophet_of_the_restoration.txt
+
+We worship the Father in his name, as have all the holy prophets, and all the Saints of all ages.
+
+['loud', 'quiet'] received scores [0.5168641209602356, 0.4831359088420868]
+['loud', 'soft'] received scores [0.5669132471084595, 0.4330868124961853]
+['quiet', 'noisy'] received scores [0.6432663202285767, 0.35673367977142334]
+['soft', 'noisy'] received scores [0.5957489609718323, 0.4042510390281677]
+
+decades/1970s/1976_A/perry_“as_a_man_soweth”.txt
+
+And no man would blaspheme his maker or profane his worship.
+
+['quiet', 'loud'] received scores [0.620028018951416, 0.3799719512462616]
+['loud', 'soft'] received scores [0.5046297907829285, 0.4953702390193939]
+['quiet', 'noisy'] received scores [0.7222699522972107, 0.2777300179004669]
+['soft', 'noisy'] received scores [0.6100596189498901, 0.38994041085243225]
+
+decades/1970s/1976_A/smith_who_is_jesus.txt
+
+“And if you think of this galaxy of ours having within it from the beginning perhaps until now, one million worlds, and multiply that by the number of millions of galaxies, one hundred million galaxies, that surround us, you will then get some view of who this Man we worship is.
+
+['loud', 'quiet'] received scores [0.7650934457778931, 0.23490649461746216]
+['loud', 'soft'] received scores [0.7058904767036438, 0.2941095232963562]
+['noisy', 'quiet'] received scores [0.6692970395088196, 0.3307029604911804]
+['noisy', 'soft'] received scores [0.5986167192459106, 0.40138328075408936]
+
+decades/1970s/1976_A/smith_who_is_jesus.txt
+
+Yes, this is he whom we worship.
+
+['loud', 'quiet'] received scores [0.6665840744972229, 0.3334159255027771]
+['loud', 'soft'] received scores [0.7756251692771912, 0.22437480092048645]
+['quiet', 'noisy'] received scores [0.7142195105552673, 0.2857804596424103]
+['soft', 'noisy'] received scores [0.5910699963569641, 0.4089299738407135]
+
+decades/1970s/1976_A/stapley_easter_thoughts.txt
+
+And they did fall down at the feet of Jesus, and did worship him.
+
+['loud', 'quiet'] received scores [0.7268210053443909, 0.2731790542602539]
+['loud', 'soft'] received scores [0.7165513038635254, 0.2834486961364746]
+['noisy', 'quiet'] received scores [0.5021212100982666, 0.4978788197040558]
+['soft', 'noisy'] received scores [0.5106607675552368, 0.48933932185173035]
+
+decades/1970s/1976_A/wirthlin_“there_am_i_in_the_midst_of_them”.txt
+
+It is the precious privilege of Latter-day Saints to live, meet, and worship in the name of the Savior of mankind, and to enjoy his sustaining and regenerating spirit in every facet and dimension of their lives.
+
+['quiet', 'loud'] received scores [0.534576416015625, 0.4654235541820526]
+['loud', 'soft'] received scores [0.5848304033279419, 0.4151696264743805]
+['quiet', 'noisy'] received scores [0.7125768661499023, 0.28742310404777527]
+['soft', 'noisy'] received scores [0.6051023006439209, 0.3948976695537567]
+
+decades/1970s/1976_A/wirthlin_“there_am_i_in_the_midst_of_them”.txt
+
+As the years sped by, they carelessly omitted what they had at first intended conscientiously to do—worship together in the name of Jesus that he might be in the midst of their family activities.
+
+['quiet', 'loud'] received scores [0.5418270230293274, 0.4581729769706726]
+['soft', 'loud'] received scores [0.5263618230819702, 0.4736381471157074]
+['quiet', 'noisy'] received scores [0.7485193014144897, 0.25148069858551025]
+['soft', 'noisy'] received scores [0.736639678478241, 0.26336026191711426]
+
+decades/1970s/1976_O/anderson_we_are_a_covenant-making_people.txt
+
+Ancient Israel worshiped a living God, a personal God, a God in whose image they had been created.
+
+['quiet', 'loud'] received scores [0.5606911182403564, 0.4393088221549988]
+['soft', 'loud'] received scores [0.5025563836097717, 0.4974435865879059]
+['quiet', 'noisy'] received scores [0.6272091865539551, 0.3727908134460449]
+['soft', 'noisy'] received scores [0.5711442232131958, 0.428855836391449]
+
+decades/1970s/1976_O/benson_our_priceless_heritage.txt
+
+Families worked, worshipped, played, and prayed together.
+
+['loud', 'quiet'] received scores [0.5155783891677856, 0.48442167043685913]
+['soft', 'loud'] received scores [0.6447490453720093, 0.3552509844303131]
+['quiet', 'noisy'] received scores [0.5535266399383545, 0.44647330045700073]
+['soft', 'noisy'] received scores [0.7054319977760315, 0.2945680022239685]
+
+decades/1970s/1976_O/hunter_the_temptations_of_christ.txt
+
+With wealth, splendor, and earthly glory spread before them, Satan said unto him, “All these things will I give thee, if thou wilt fall down and worship me.
+
+['loud', 'quiet'] received scores [0.9283682107925415, 0.0716317668557167]
+['loud', 'soft'] received scores [0.8056681752204895, 0.19433185458183289]
+['noisy', 'quiet'] received scores [0.8262814879417419, 0.17371851205825806]
+['noisy', 'soft'] received scores [0.6034148335456848, 0.3965851664543152]
+
+decades/1970s/1976_O/hunter_the_temptations_of_christ.txt
+
+In power and dignity, Jesus commanded, “Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
+
+['loud', 'quiet'] received scores [0.9511032104492188, 0.04889676347374916]
+['loud', 'soft'] received scores [0.9603766202926636, 0.03962332755327225]
+['noisy', 'quiet'] received scores [0.5738053321838379, 0.4261946976184845]
+['noisy', 'soft'] received scores [0.6265372633934021, 0.3734627366065979]
+
+decades/1970s/1976_O/jr._a_gospel_of_conversion.txt
+
+“[Second] I had deep theological concerns—the order of worship service seemed cold, impersonal, and unimaginative.
+
+['quiet', 'loud'] received scores [0.5253270268440247, 0.47467291355133057]
+['soft', 'loud'] received scores [0.8017668724060059, 0.19823308289051056]
+['quiet', 'noisy'] received scores [0.7228130102157593, 0.2771869897842407]
+['soft', 'noisy'] received scores [0.9050325751304626, 0.09496737271547318]
+
+decades/1970s/1976_O/richards_the_simplicity_in_christ.txt
+
+Now Moses knew that this condition would prevail, for when he went to lead the children of Israel into the promised land, he told them that they would not remain there long, but that they would be scattered among the nations, that they would worship gods made by the hands of men that could neither see, nor hear, nor taste, nor smell.
+
+['quiet', 'loud'] received scores [0.6392102837562561, 0.3607897460460663]
+['loud', 'soft'] received scores [0.6919642686843872, 0.3080357015132904]
+['quiet', 'noisy'] received scores [0.8027439117431641, 0.19725610315799713]
+['soft', 'noisy'] received scores [0.50556880235672, 0.49443119764328003]
+
+decades/1970s/1976_O/romney_“in_mine_own_way”.txt
+
+“‘But in vain they do worship me, teaching for doctrines the commandments of men.
+
+['loud', 'quiet'] received scores [0.6003412008285522, 0.39965876936912537]
+['loud', 'soft'] received scores [0.5313795208930969, 0.4686204791069031]
+['quiet', 'noisy'] received scores [0.5309182405471802, 0.46908172965049744]
+['soft', 'noisy'] received scores [0.5998967289924622, 0.40010327100753784]
+
+decades/1970s/1976_O/romney_“in_mine_own_way”.txt
+
+In the Book of Mormon we are told what will happen to those who dwell on this land if they do not keep the commandments of God, if they do not worship Jesus the Christ who is the God of this land.
+
+['loud', 'quiet'] received scores [0.6630672216415405, 0.3369327783584595]
+['loud', 'soft'] received scores [0.6651408076286316, 0.3348591923713684]
+['noisy', 'quiet'] received scores [0.6167411804199219, 0.3832588791847229]
+['noisy', 'soft'] received scores [0.6189360022544861, 0.38106396794319153]
+
+decades/1970s/1976_O/simpson_the_lord’s_support_system.txt
+
+If they did not, they could not possibly face the awesome task of keeping our places of worship as they need to be at the appropriate hour.
+
+['quiet', 'loud'] received scores [0.5574820041656494, 0.4425179958343506]
+['loud', 'soft'] received scores [0.598002016544342, 0.40199804306030273]
+['quiet', 'noisy'] received scores [0.6959047317504883, 0.3040953278541565]
+['soft', 'noisy'] received scores [0.5497784614562988, 0.45022156834602356]
+
+decades/1970s/1976_O/simpson_the_lord’s_support_system.txt
+
+Oh that every ward and branch had greeters and ushers assigned for each worship service!
+
+['loud', 'quiet'] received scores [0.5051251649856567, 0.49487486481666565]
+['loud', 'soft'] received scores [0.5391235947608948, 0.46087637543678284]
+['quiet', 'noisy'] received scores [0.6445838809013367, 0.35541611909866333]
+['soft', 'noisy'] received scores [0.6127773523330688, 0.38722261786460876]
+
+decades/1970s/1976_O/tanner_the_purpose_of_conferences.txt
+
+We have worshipped together in love.
+
+['quiet', 'loud'] received scores [0.5405121445655823, 0.4594878852367401]
+['soft', 'loud'] received scores [0.6093975901603699, 0.39060238003730774]
+['quiet', 'noisy'] received scores [0.758363664150238, 0.24163636565208435]
+['soft', 'noisy'] received scores [0.8062937259674072, 0.1937062293291092]
+
+decades/1970s/1976_O/wirthlin_dikes_versus_living_water.txt
+
+But underlying everything else is the fact that America began as a God-loving, God-fearing, God-worshiping people, knowing that there is a spark of the divine in each of us.
+
+['loud', 'quiet'] received scores [0.5747161507606506, 0.42528384923934937]
+['loud', 'soft'] received scores [0.6171661615371704, 0.3828338086605072]
+['noisy', 'quiet'] received scores [0.5015599131584167, 0.498440146446228]
+['noisy', 'soft'] received scores [0.5455378293991089, 0.4544621706008911]
+
+decades/1970s/1977_A/brockbank_the_living_christ.txt
+
+It is true that many of the Christian churches worship a different Jesus Christ than is worshipped by the Mormons or The Church of Jesus Christ of Latter-day Saints.
+
+['quiet', 'loud'] received scores [0.5015174150466919, 0.4984826147556305]
+['loud', 'soft'] received scores [0.5064123868942261, 0.4935876131057739]
+['quiet', 'noisy'] received scores [0.630460798740387, 0.36953917145729065]
+['soft', 'noisy'] received scores [0.623040497303009, 0.37695956230163574]
+
+decades/1970s/1977_A/brockbank_the_living_christ.txt
+
+The Church of Jesus Christ of Latter-day Saints worships a God and a Jesus Christ with bodies, with parts, and with passions.
+
+['quiet', 'loud'] received scores [0.5973244905471802, 0.4026755094528198]
+['soft', 'loud'] received scores [0.5890418887138367, 0.4109581410884857]
+['quiet', 'noisy'] received scores [0.6927506923675537, 0.3072492778301239]
+['soft', 'noisy'] received scores [0.6853971481323242, 0.31460291147232056]
+
+decades/1970s/1977_A/brockbank_the_living_christ.txt
+
+In the first commandment of the Ten Commandments, the Lord commanded man to worship the living God of the scriptures and not to create and worship man-conceived Deities.
+
+['quiet', 'loud'] received scores [0.60443115234375, 0.39556884765625]
+['loud', 'soft'] received scores [0.5230850577354431, 0.4769149124622345]
+['quiet', 'noisy'] received scores [0.7193465232849121, 0.2806534767150879]
+['soft', 'noisy'] received scores [0.6046440601348877, 0.3953559100627899]
+
+decades/1970s/1977_A/brockbank_the_living_christ.txt
+
+We cannot obtain salvation and eternal life by worshipping fake Christs or by living the doctrines and commandments of men.
+
+['quiet', 'loud'] received scores [0.5451598167419434, 0.45484015345573425]
+['loud', 'soft'] received scores [0.5079721212387085, 0.4920279085636139]
+['quiet', 'noisy'] received scores [0.689453661441803, 0.31054627895355225]
+['soft', 'noisy'] received scores [0.6421119570732117, 0.35788801312446594]
+
+decades/1970s/1977_A/brockbank_the_living_christ.txt
+
+“… In vain they do worship me, teaching for doctrines the commandments of men.
+
+['loud', 'quiet'] received scores [0.7792815566062927, 0.2207183837890625]
+['loud', 'soft'] received scores [0.6555271148681641, 0.34447288513183594]
+['noisy', 'quiet'] received scores [0.6788708567619324, 0.32112917304039]
+['noisy', 'soft'] received scores [0.5325854420661926, 0.4674144983291626]
+
+decades/1970s/1977_A/brockbank_the_living_christ.txt
+
+The belief that God has no body, parts, and passions is not a doctrine of Jesus Christ or a doctrine of the holy scriptures but is a doctrine of men, and to worship such a God is in vain.
+
+['loud', 'quiet'] received scores [0.516063928604126, 0.4839361011981964]
+['loud', 'soft'] received scores [0.5515902638435364, 0.4484097361564636]
+['quiet', 'noisy'] received scores [0.6887250542640686, 0.311274915933609]
+['soft', 'noisy'] received scores [0.6573135852813721, 0.3426864445209503]
+
+decades/1970s/1977_A/brockbank_the_living_christ.txt
+
+From the time when the Lord created man in his own image and likeness, men have created false gods to worship, such as golden calves, sculptured images, etc.
+
+['loud', 'quiet'] received scores [0.6576140522956848, 0.3423859179019928]
+['soft', 'loud'] received scores [0.5569931864738464, 0.44300681352615356]
+['noisy', 'quiet'] received scores [0.6008378267288208, 0.3991621732711792]
+['soft', 'noisy'] received scores [0.6160203218460083, 0.3839796483516693]
+
+decades/1970s/1977_A/haight_“we_beheld_his_glory”.txt
+
+I testify in all sincerity to the truth of these things, in the name of Him whom we honor, worship, and love as our Savior and Redeemer, Jesus the Christ.
+
+['loud', 'quiet'] received scores [0.7066914439201355, 0.2933085858821869]
+['loud', 'soft'] received scores [0.7923513650894165, 0.20764857530593872]
+['quiet', 'noisy'] received scores [0.5913820862770081, 0.40861791372299194]
+['noisy', 'soft'] received scores [0.5225115418434143, 0.4774884283542633]
+
+decades/1970s/1977_A/hinckley_joseph_the_seer.txt
+
+We do not worship the Prophet.
+
+['quiet', 'loud'] received scores [0.9483019113540649, 0.051698148250579834]
+['soft', 'loud'] received scores [0.7801189422607422, 0.2198811173439026]
+['quiet', 'noisy'] received scores [0.9700695276260376, 0.02993052452802658]
+['soft', 'noisy'] received scores [0.8624271750450134, 0.13757281005382538]
+
+decades/1970s/1977_A/hinckley_joseph_the_seer.txt
+
+We worship God our Eternal Father, and the risen Lord Jesus Christ.
+
+['quiet', 'loud'] received scores [0.599588930606842, 0.40041109919548035]
+['soft', 'loud'] received scores [0.5328211784362793, 0.4671787619590759]
+['quiet', 'noisy'] received scores [0.712271511554718, 0.28772851824760437]
+['soft', 'noisy'] received scores [0.6534328460693359, 0.34656715393066406]
+
+decades/1970s/1977_A/kimball_revelation_the_word_of_the_lord_to_his_prophets.txt
+
+We have all felt the outpouring of the Spirit of the Lord as we have assembled in his name to worship and be instructed by the power of the Holy Ghost.
+
+['loud', 'quiet'] received scores [0.91856849193573, 0.0814315527677536]
+['loud', 'soft'] received scores [0.7485113143920898, 0.25148871541023254]
+['noisy', 'quiet'] received scores [0.7447841763496399, 0.2552158534526825]
+['soft', 'noisy'] received scores [0.5649756789207458, 0.43502435088157654]
+
+decades/1970s/1977_A/mcconkie_come,_know_the_lord_jesus.txt
+
+We worship the Father, in the name of the Son, by the power of the Holy Ghost.
+
+['quiet', 'loud'] received scores [0.612163245677948, 0.3878368139266968]
+['soft', 'loud'] received scores [0.5158304572105408, 0.484169602394104]
+['quiet', 'noisy'] received scores [0.7265608906745911, 0.27343907952308655]
+['soft', 'noisy'] received scores [0.6420267820358276, 0.35797318816185]
+
+decades/1970s/1977_A/mcconkie_come,_know_the_lord_jesus.txt
+
+The gospel of the Lord Jehovah was revealed so that men might worship the Father in his name and enjoy the words of eternal life on this earth and be inheritors of eternal life on the celestial earth that is to be.
+
+['quiet', 'loud'] received scores [0.5313003063201904, 0.4686996638774872]
+['loud', 'soft'] received scores [0.6104859709739685, 0.3895140290260315]
+['quiet', 'noisy'] received scores [0.7050585746765137, 0.29494136571884155]
+['soft', 'noisy'] received scores [0.5736560225486755, 0.4263439178466797]
+
+decades/1970s/1977_A/mcconkie_come_let_israel_build_zion.txt
+
+As is well known, ancient Israel was scattered among all the nations of the earth because they forsook the Lord and worshipped false gods.
+
+['loud', 'quiet'] received scores [0.9193086624145508, 0.08069133013486862]
+['loud', 'soft'] received scores [0.8619316816329956, 0.1380682736635208]
+['noisy', 'quiet'] received scores [0.8380571007728577, 0.16194288432598114]
+['noisy', 'soft'] received scores [0.7392895817756653, 0.2607104182243347]
+
+decades/1970s/1977_A/romney_a_silver_lining.txt
+
+The first commandment He gave to Adam and Eve after they left the garden of Eden was “that they should worship the Lord their God.
+
+['loud', 'quiet'] received scores [0.5240013599395752, 0.4759986996650696]
+['loud', 'soft'] received scores [0.6610893607139587, 0.3389105796813965]
+['quiet', 'noisy'] received scores [0.5994747877120972, 0.40052521228790283]
+['noisy', 'soft'] received scores [0.5420992374420166, 0.4579007923603058]
+
+decades/1970s/1977_O/brown_a_vision_of_the_law_of_the_fast.txt
+
+Luke again: “Get thee behind me, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
+
+['loud', 'quiet'] received scores [0.5561859607696533, 0.44381406903266907]
+['loud', 'soft'] received scores [0.6211121678352356, 0.378887802362442]
+['quiet', 'noisy'] received scores [0.6178508996963501, 0.3821491003036499]
+['soft', 'noisy'] received scores [0.5527681708335876, 0.4472317695617676]
+
+decades/1970s/1977_O/brown_a_vision_of_the_law_of_the_fast.txt
+
+It is a form of worship especially commended by the Lord.
+
+['quiet', 'loud'] received scores [0.5571273565292358, 0.4428726136684418]
+['soft', 'loud'] received scores [0.5845596194267273, 0.4154404401779175]
+['quiet', 'noisy'] received scores [0.8048250079154968, 0.1951749622821808]
+['soft', 'noisy'] received scores [0.8218213319778442, 0.17817863821983337]
+
+decades/1970s/1977_O/hunter_“hallowed_be_thy_name”.txt
+
+Even the temple where Jesus taught and worshipped in Jerusalem was built in such a way as to establish respect for and devotion to the Father.
+
+['loud', 'quiet'] received scores [0.6611130237579346, 0.33888697624206543]
+['loud', 'soft'] received scores [0.7616629004478455, 0.23833714425563812]
+['quiet', 'noisy'] received scores [0.6300474405288696, 0.36995258927345276]
+['soft', 'noisy'] received scores [0.509713888168335, 0.49028605222702026]
+
+decades/1970s/1977_O/hunter_“hallowed_be_thy_name”.txt
+
+It was erected for God’s worship.
+
+['quiet', 'loud'] received scores [0.6131725311279297, 0.3868274986743927]
+['soft', 'loud'] received scores [0.5507181882858276, 0.44928178191185]
+['quiet', 'noisy'] received scores [0.8404867053031921, 0.15951327979564667]
+['soft', 'noisy'] received scores [0.8029379844665527, 0.1970619559288025]
+
+decades/1970s/1977_O/hunter_“hallowed_be_thy_name”.txt
+
+There are wide areas of our society from which the spirit of prayer and reverence and worship has vanished.
+
+['quiet', 'loud'] received scores [0.5518689751625061, 0.4481309950351715]
+['soft', 'loud'] received scores [0.6389532089233398, 0.36104679107666016]
+['quiet', 'noisy'] received scores [0.6862058043479919, 0.31379416584968567]
+['soft', 'noisy'] received scores [0.758603572845459, 0.24139641225337982]
+
+decades/1970s/1977_O/hunter_“hallowed_be_thy_name”.txt
+
+Occasionally we visit too loudly, enter and leave meetings too disrespectfully in what should be an hour of prayer and purifying worship.
+
+['loud', 'quiet'] received scores [0.9948092699050903, 0.005190733820199966]
+['loud', 'soft'] received scores [0.9917137026786804, 0.008286298252642155]
+['noisy', 'quiet'] received scores [0.997058629989624, 0.0029413599986582994]
+['noisy', 'soft'] received scores [0.9952982068061829, 0.0047018202021718025]
+
+decades/1970s/1977_O/hunter_“hallowed_be_thy_name”.txt
+
+Prayer, reverence, worship, devotion, respect for the holy—these are basic exercises of our spirit and must be actively practiced in our lives or they will be lost.
+
+['loud', 'quiet'] received scores [0.5898051261901855, 0.41019487380981445]
+['loud', 'soft'] received scores [0.6032403707504272, 0.39675965905189514]
+['quiet', 'noisy'] received scores [0.6619877815246582, 0.3380122482776642]
+['soft', 'noisy'] received scores [0.6493856310844421, 0.35061436891555786]
+
+decades/1970s/1977_O/hunter_“hallowed_be_thy_name”.txt
+
+May the Lord bless us to be reverent, prayerful, full of worship and devotion, until we re-enter the holy presence of him who is our Father, I pray in the name of his son, the Lord Jesus Christ.
+
+['quiet', 'loud'] received scores [0.7132034301757812, 0.28679656982421875]
+['loud', 'soft'] received scores [0.5283068418502808, 0.47169312834739685]
+['quiet', 'noisy'] received scores [0.9184568524360657, 0.08154315501451492]
+['soft', 'noisy'] received scores [0.8017423748970032, 0.19825756549835205]
+
+decades/1970s/1977_O/richards_the_things_of_god_and_man.txt
+
+Moses knew that this condition would prevail, for when he went to lead the children of Israel into the Promised Land, he told them that they would not remain there long, but that they would be scattered among the nations, and that they would worship gods made by the hands of man (that’s man’s doing) that could neither see, nor hear, nor taste, nor smell.
+
+['quiet', 'loud'] received scores [0.7690286636352539, 0.2309713363647461]
+['loud', 'soft'] received scores [0.6360013484954834, 0.3639986217021942]
+['quiet', 'noisy'] received scores [0.8348134160041809, 0.16518664360046387]
+['noisy', 'soft'] received scores [0.5351302623748779, 0.46486973762512207]
+
+decades/1970s/1977_O/richards_the_things_of_god_and_man.txt
+
+That’s exactly the kind of a god the whole Christian world was worshipping at the time Joseph Smith had his vision.
+
+['loud', 'quiet'] received scores [0.9168927073478699, 0.08310729265213013]
+['loud', 'soft'] received scores [0.8632230162620544, 0.13677695393562317]
+['noisy', 'quiet'] received scores [0.7413585782051086, 0.25864142179489136]
+['noisy', 'soft'] received scores [0.6211672425270081, 0.3788328170776367]
+
+decades/1970s/1977_O/tanner_obeying_the_right_voice.txt
+
+We read: “And he [the Lord] gave unto them commandments, that they should worship the Lord their God, and should offer the firstlings of their flocks, for an offering unto the Lord.
+
+['quiet', 'loud'] received scores [0.5084858536720276, 0.4915142059326172]
+['soft', 'loud'] received scores [0.5146344900131226, 0.48536553978919983]
+['quiet', 'noisy'] received scores [0.6114901304244995, 0.3885098695755005]
+['soft', 'noisy'] received scores [0.6173200011253357, 0.3826799988746643]
+
+decades/1970s/1978_A/hinckley_“be_not_faithless”.txt
+
+There were shepherds who worshiped him.
+
+['loud', 'quiet'] received scores [0.571933925151825, 0.42806604504585266]
+['soft', 'loud'] received scores [0.5161986947059631, 0.48380133509635925]
+['quiet', 'noisy'] received scores [0.6210963129997253, 0.37890371680259705]
+['soft', 'noisy'] received scores [0.7003085017204285, 0.29969146847724915]
+
+decades/1970s/1978_A/kimball_living_the_gospel_in_the_home.txt
+
+We meet together often in the Church in conferences to worship the Lord, to feast upon the word of Christ, and to be built up in faith and testimony.
+
+['loud', 'quiet'] received scores [0.6951934695243835, 0.30480656027793884]
+['loud', 'soft'] received scores [0.5552998185157776, 0.4447001516819]
+['quiet', 'noisy'] received scores [0.5524426698684692, 0.4475573003292084]
+['soft', 'noisy'] received scores [0.6927377581596375, 0.30726224184036255]
+
+decades/1970s/1978_A/kimball_strengthening_the_family—the_basic_unit_of_the_church.txt
+
+As we announced to the Regional Representatives yesterday, we meet together often in the Church in conferences to worship the Lord, to feast upon the word of Christ, and to be built up by faith and testimony.
+
+['loud', 'quiet'] received scores [0.8757807612419128, 0.12421925365924835]
+['loud', 'soft'] received scores [0.7852513790130615, 0.21474863588809967]
+['noisy', 'quiet'] received scores [0.6827104687690735, 0.3172895014286041]
+['noisy', 'soft'] received scores [0.5274035930633545, 0.4725964367389679]
+
+decades/1970s/1978_A/lee_staying_unspotted_from_the_world.txt
+
+When you worship hard rock music or any other worldly idol more than spiritual things, you are holding hands with Satan and are walking in darkness.
+
+['loud', 'quiet'] received scores [0.746653139591217, 0.2533469498157501]
+['loud', 'soft'] received scores [0.8340446949005127, 0.1659553050994873]
+['noisy', 'quiet'] received scores [0.62038654088974, 0.3796135187149048]
+['noisy', 'soft'] received scores [0.7359291911125183, 0.2640708386898041]
+
+decades/1970s/1978_A/lee_staying_unspotted_from_the_world.txt
+
+Do not worship them.
+
+['quiet', 'loud'] received scores [0.8900170922279358, 0.10998288542032242]
+['soft', 'loud'] received scores [0.7281093001365662, 0.27189069986343384]
+['quiet', 'noisy'] received scores [0.9390388131141663, 0.06096116453409195]
+['soft', 'noisy'] received scores [0.835999071598053, 0.1640009880065918]
+
+decades/1970s/1978_A/mcconkie_“the_morning_breaks;_the_shadows_flee”.txt
+
+The dark ages had their beginning, and the light of heaven no longer dwelt in the hearts of those who professed to worship Him whose we are.
+
+['loud', 'quiet'] received scores [0.7076106667518616, 0.2923893630504608]
+['loud', 'soft'] received scores [0.8102999329566956, 0.18970005214214325]
+['quiet', 'noisy'] received scores [0.5487042665481567, 0.45129573345184326]
+['noisy', 'soft'] received scores [0.592115044593811, 0.4078849256038666]
+
+decades/1970s/1978_A/mcconkie_“the_morning_breaks;_the_shadows_flee”.txt
+
+Many who sought freedom to worship God according to the dictates of their conscience migrated to America.
+
+['loud', 'quiet'] received scores [0.8408178091049194, 0.15918216109275818]
+['loud', 'soft'] received scores [0.7219060659408569, 0.27809396386146545]
+['noisy', 'quiet'] received scores [0.7473230361938477, 0.25267699360847473]
+['noisy', 'soft'] received scores [0.5924241542816162, 0.4075758457183838]
+
+decades/1970s/1978_A/richards_the_second_coming_of_christ.txt
+
+And then there were so many other things that needed to be done that required money in order to build the kingdom of God in the earth, like the building of our places of worship, these beautiful buildings that you see here in this city, this great metropolis.
+
+['loud', 'quiet'] received scores [0.7720850706100464, 0.2279149293899536]
+['loud', 'soft'] received scores [0.5663039088249207, 0.43369609117507935]
+['noisy', 'quiet'] received scores [0.5763452053070068, 0.42365479469299316]
+['soft', 'noisy'] received scores [0.6560064554214478, 0.34399357438087463]
+
+decades/1970s/1978_A/romney_prayer_and_revelation.txt
+
+They may, however, and should, include expressions of thanksgiving, praise, worship, and adoration.
+
+['quiet', 'loud'] received scores [0.5415133833885193, 0.4584866464138031]
+['soft', 'loud'] received scores [0.7675124406814575, 0.23248761892318726]
+['quiet', 'noisy'] received scores [0.6006301641464233, 0.39936986565589905]
+['soft', 'noisy'] received scores [0.8078302145004272, 0.19216981530189514]
+
+decades/1970s/1978_A/romney_prayer_and_revelation.txt
+
+The first commandment God gave Adam and Eve was “that they should worship the Lord their God.
+
+['loud', 'quiet'] received scores [0.5127406716346741, 0.48725929856300354]
+['loud', 'soft'] received scores [0.6036380529403687, 0.39636191725730896]
+['quiet', 'noisy'] received scores [0.5573978424072266, 0.4426021873950958]
+['noisy', 'soft'] received scores [0.5347104072570801, 0.46528956294059753]
+
+decades/1970s/1978_A/sill_the_poetry_of_success.txt
+
+I am sure that this afternoon you would not like to hear me try to sing “O My Father,” but I hope you will not object if I recite to you those great words of faith and worship, wherein Sister Snow said:    O my Father, thou that dwellest   In the high and glorious place,   When shall I regain thy presence,   And again behold thy face?
+
+['quiet', 'loud'] received scores [0.7321075797080994, 0.26789233088493347]
+['loud', 'soft'] received scores [0.5838719010353088, 0.41612809896469116]
+['quiet', 'noisy'] received scores [0.7872074246406555, 0.21279259026050568]
+['noisy', 'soft'] received scores [0.5089632272720337, 0.4910367429256439]
+
+decades/1970s/1978_A/vandenberg_“what_is_truth”.txt
+
+It has been but seven days since throngs of people attended those special worship services, hearing songs and sermons, commemorating that most important event—the crucifixion and resurrection of our Lord and Savior, Jesus Christ.
+
+['loud', 'quiet'] received scores [0.8467785120010376, 0.1532214730978012]
+['loud', 'soft'] received scores [0.5708739161491394, 0.429126113653183]
+['noisy', 'quiet'] received scores [0.8524848222732544, 0.1475151628255844]
+['noisy', 'soft'] received scores [0.5817806124687195, 0.4182193875312805]
+
+decades/1970s/1978_A/vandenberg_“what_is_truth”.txt
+
+“And he gave unto them commandments, that they should worship the Lord their God, and should offer the firstlings of their flocks, for an offering unto the Lord.
+
+['loud', 'quiet'] received scores [0.5336406826972961, 0.46635928750038147]
+['loud', 'soft'] received scores [0.6172655820846558, 0.38273435831069946]
+['quiet', 'noisy'] received scores [0.6278199553489685, 0.3721800148487091]
+['soft', 'noisy'] received scores [0.5448005199432373, 0.4551994502544403]
+
+decades/1970s/1978_O/hunter_true_religion.txt
+
+Sometimes it is used in reference to worship, whether it be public or private, and sometimes to distinguish between things sacred and those that are profane or worldly.
+
+['quiet', 'loud'] received scores [0.7029298543930054, 0.29707014560699463]
+['soft', 'loud'] received scores [0.7829243540763855, 0.2170756459236145]
+['quiet', 'noisy'] received scores [0.7277559041976929, 0.2722441256046295]
+['soft', 'noisy'] received scores [0.8029394149780273, 0.19706059992313385]
+
+decades/1970s/1978_O/hunter_true_religion.txt
+
+Belief in the immortality of the soul is a concept that is looked upon by some as religious, and one of the most common uses of the term is the belief in deity or deities—a worship of God.
+
+['quiet', 'loud'] received scores [0.601250171661377, 0.39874982833862305]
+['soft', 'loud'] received scores [0.6224331855773926, 0.3775668144226074]
+['quiet', 'noisy'] received scores [0.6665890216827393, 0.3334110379219055]
+['soft', 'noisy'] received scores [0.6861130595207214, 0.31388697028160095]
+
+decades/1970s/1978_O/hunter_true_religion.txt
+
+Paul was not talking about a religious creed or a belief, but rather the form of worship, because the Jews placed great stress on practice rather than doctrine—on ritualistic worship rather than a creed of belief.
+
+['quiet', 'loud'] received scores [0.8089779019355774, 0.191022127866745]
+['soft', 'loud'] received scores [0.8351380825042725, 0.16486196219921112]
+['quiet', 'noisy'] received scores [0.8817055821418762, 0.11829441785812378]
+['soft', 'noisy'] received scores [0.8991474509239197, 0.10085251182317734]
+
+decades/1970s/1978_O/hunter_true_religion.txt
+
+James then very pointedly defines what he refers to as pure religion, as distinguished from forms of ritualistic worship and iron rules of practice as described by Paul.
+
+['loud', 'quiet'] received scores [0.9232963919639587, 0.07670360803604126]
+['loud', 'soft'] received scores [0.88338303565979, 0.11661699414253235]
+['noisy', 'quiet'] received scores [0.7415950894355774, 0.2584048807621002]
+['noisy', 'soft'] received scores [0.6436262726783752, 0.35637378692626953]
+
+decades/1970s/1978_O/kimball_an_eternal_hope_in_christ.txt
+
+My dear brothers and sisters, we came together to wait upon the Lord, to be cleansed and edified by his Spirit, and to know in our hearts the spirit of true worship.
+
+['quiet', 'loud'] received scores [0.6307507157325745, 0.3692493140697479]
+['loud', 'soft'] received scores [0.6919420957565308, 0.3080579340457916]
+['quiet', 'noisy'] received scores [0.8528501391410828, 0.14714989066123962]
+['soft', 'noisy'] received scores [0.6016821265220642, 0.398317813873291]
+
+decades/1970s/1978_O/kimball_an_eternal_hope_in_christ.txt
+
+“The right way,” he said, “is to believe in Christ, and deny him not; and Christ is the Holy One of Israel; wherefore ye must bow down before him, and worship him with all your might, mind, and strength, and your whole soul; and if ye do this ye shall in nowise be cast out”  2 Ne.
+
+['loud', 'quiet'] received scores [0.6785957217216492, 0.3214043378829956]
+['loud', 'soft'] received scores [0.7649514675140381, 0.23504848778247833]
+['quiet', 'noisy'] received scores [0.5127318501472473, 0.4872681498527527]
+['noisy', 'soft'] received scores [0.5942967534065247, 0.4057033061981201]
+
+decades/1970s/1978_O/kimball_fundamental_principles_to_ponder_and_live.txt
+
+All over the world we gather to worship the Lord and give him praise.
+
+['loud', 'quiet'] received scores [0.8335158228874207, 0.16648420691490173]
+['loud', 'soft'] received scores [0.6347275972366333, 0.3652723729610443]
+['noisy', 'quiet'] received scores [0.6629915237426758, 0.3370084762573242]
+['soft', 'noisy'] received scores [0.5942457318305969, 0.4057542383670807]
+
+decades/1970s/1978_O/kimball_privileges_and_responsibilities_of_sisters.txt
+
+The great women of the kingdom have often been uprooted with their husbands and families and have been moved hither and yon, yet they never worried about God’s forgetting them, because they worshipped a God who governs the galaxies but who, in the midst of such vastness, continues to love each of his children perfectly, individually, and constantly.
+
+['loud', 'quiet'] received scores [0.7094821929931641, 0.29051780700683594]
+['loud', 'soft'] received scores [0.7763445973396301, 0.22365541756153107]
+['quiet', 'noisy'] received scores [0.5336686968803406, 0.4663313329219818]
+['noisy', 'soft'] received scores [0.5539740324020386, 0.4460259675979614]
+
+decades/1970s/1978_O/kimball_“hold_fast_to_the_iron_rod”.txt
+
+More and more, man destroys the Sabbath’s sacred purposes in pursuit of wealth, pleasure, recreation, and the worship of false and material gods.
+
+['loud', 'quiet'] received scores [0.6354579329490662, 0.36454200744628906]
+['loud', 'soft'] received scores [0.6241329312324524, 0.3758670389652252]
+['noisy', 'quiet'] received scores [0.5537310242652893, 0.4462689757347107]
+['noisy', 'soft'] received scores [0.541698157787323, 0.4583017826080322]
+
+decades/1970s/1978_O/kimball_“hold_fast_to_the_iron_rod”.txt
+
+It is not enough to acknowledge the Lord as supreme and refrain from worshiping idols; we should love the Lord with all our heart, might, mind, and strength, realizing the great joy he has in the righteousness of his children.
+
+['loud', 'quiet'] received scores [0.5478233098983765, 0.45217666029930115]
+['loud', 'soft'] received scores [0.7162638306617737, 0.28373613953590393]
+['quiet', 'noisy'] received scores [0.6308416724205017, 0.3691583275794983]
+['noisy', 'soft'] received scores [0.5494118332862854, 0.4505881369113922]
+
+decades/1970s/1978_O/kimball_“hold_fast_to_the_iron_rod”.txt
+
+Constructive use of the Sabbath day includes studying the scriptures, attending church meetings to learn and to worship, writing letters to absent loved ones, comforting the sorrowing, visiting the sick, and, in general, doing what the Lord would have us do on this, his holy day.
+
+['quiet', 'loud'] received scores [0.5693106055259705, 0.43068942427635193]
+['soft', 'loud'] received scores [0.5625401139259338, 0.43745991587638855]
+['quiet', 'noisy'] received scores [0.7995363473892212, 0.20046363770961761]
+['soft', 'noisy'] received scores [0.7950823903083801, 0.20491763949394226]
+
+decades/1970s/1978_O/monson_profiles_of_faith.txt
+
+Who can help but be uplifted and inspired just to worship in this historic tabernacle and to listen to this glorious choir?
+
+['loud', 'quiet'] received scores [0.8772483468055725, 0.1227516382932663]
+['loud', 'soft'] received scores [0.6892837285995483, 0.31071627140045166]
+['quiet', 'noisy'] received scores [0.5277493000030518, 0.47225067019462585]
+['soft', 'noisy'] received scores [0.7826140522956848, 0.2173859030008316]
+
+decades/1970s/1978_O/romney_the_worth_of_souls.txt
+
+I give unto you these sayings that you may understand and know how to worship, and know what you worship, that you may come unto the Father in my name, and in due time receive of his fulness.
+
+['quiet', 'loud'] received scores [0.6877367496490479, 0.31226325035095215]
+['soft', 'loud'] received scores [0.5597386956214905, 0.4402613639831543]
+['quiet', 'noisy'] received scores [0.8102155923843384, 0.18978440761566162]
+['soft', 'noisy'] received scores [0.7113507986068726, 0.28864920139312744]
+
+decades/1970s/1978_O/tanner_a_basis_for_faith_in_the_living_god.txt
+
+He may learn of the laws by which the earth and its associated worlds are governed in their orbits; by which satellites are held subordinate to planets, and planets to suns; he may behold the marvels of vegetable and animal anatomy, and the surpassing mechanism of his own body; and with such appeals to his reason increasing at every step, his wonder as to who ordained all this gives place to adoration for the Creator whose presence and power are thus so forcefully proclaimed; and the observer becomes a worshiper.
+
+['loud', 'quiet'] received scores [0.8876444101333618, 0.11235561966896057]
+['loud', 'soft'] received scores [0.915242612361908, 0.08475743979215622]
+['noisy', 'quiet'] received scores [0.7730475068092346, 0.2269524335861206]
+['noisy', 'soft'] received scores [0.8231874108314514, 0.17681260406970978]
+
+decades/1970s/1978_O/tanner_a_basis_for_faith_in_the_living_god.txt
+
+This council brought forth what is known as the Nicene Creed, followed some time later by the Athanasian Creed which reads in part: “We worship one God in Trinity, and Trinity in Unity, neither confounding the persons, nor dividing the substance.
+
+['loud', 'quiet'] received scores [0.5115748047828674, 0.48842525482177734]
+['soft', 'loud'] received scores [0.5323716402053833, 0.4676283597946167]
+['quiet', 'noisy'] received scores [0.5897660255432129, 0.4102339744567871]
+['soft', 'noisy'] received scores [0.6315736174583435, 0.3684263825416565]
+
+decades/1970s/1978_O/wirthlin_let_your_light_so_shine.txt
+
+I believe in Christ—my Lord, my God—   My feet he plants on gospel sod;   I’ll worship him with all my might;   He is the source of truth and light.
+
+['loud', 'quiet'] received scores [0.6335126757621765, 0.3664872944355011]
+['loud', 'soft'] received scores [0.7399816513061523, 0.26001831889152527]
+['quiet', 'noisy'] received scores [0.691093921661377, 0.3089061379432678]
+['soft', 'noisy'] received scores [0.5760748982429504, 0.4239250719547272]
+
+decades/1970s/1979_A/burton_the_need_for_love.txt
+
+We shudder as we read in Leviticus of the sacrifices of idol worshipers of that time who fed their children into the fiery maw of the iron god Molech.
+
+['loud', 'quiet'] received scores [0.9481157064437866, 0.05188432335853577]
+['loud', 'soft'] received scores [0.9360480904579163, 0.06395193934440613]
+['noisy', 'quiet'] received scores [0.9008725881576538, 0.09912743419408798]
+['noisy', 'soft'] received scores [0.8792166113853455, 0.12078335881233215]
+
+decades/1970s/1979_A/kimball_fortify_your_homes_against_evil.txt
+
+Also, I invite the honest in heart everywhere to join with us in worshiping our divine Lord and Savior, Jesus Christ.
+
+['loud', 'quiet'] received scores [0.5233345031738281, 0.4766654670238495]
+['loud', 'soft'] received scores [0.7304242253303528, 0.26957571506500244]
+['quiet', 'noisy'] received scores [0.699935793876648, 0.30006423592567444]
+['noisy', 'soft'] received scores [0.5140908360481262, 0.4859091341495514]
+
+decades/1970s/1979_A/kimball_fortify_your_homes_against_evil.txt
+
+It is pleasing to build the temples and places of worship in so many lands and to add thousands of students to our expanding educational and training programs for both youth and adults.
+
+['loud', 'quiet'] received scores [0.6226056814193726, 0.37739428877830505]
+['loud', 'soft'] received scores [0.5804711580276489, 0.41952890157699585]
+['quiet', 'noisy'] received scores [0.7517635822296143, 0.24823646247386932]
+['soft', 'noisy'] received scores [0.7831223011016846, 0.21687768399715424]
+
+decades/1970s/1979_A/kimball_fortify_your_homes_against_evil.txt
+
+We must worship the Lord in truth and keep all of his commandments.
+
+['quiet', 'loud'] received scores [0.5701655745506287, 0.4298344850540161]
+['loud', 'soft'] received scores [0.6617788672447205, 0.33822113275527954]
+['quiet', 'noisy'] received scores [0.736769437789917, 0.2632305324077606]
+['soft', 'noisy'] received scores [0.5188627243041992, 0.4811372756958008]
+
+decades/1970s/1979_A/tanner_“put_on_the_whole_armor_of_god”.txt
+
+Are we prepared to act as did David and Joseph and Daniel—continuing to keep the commandments—and others whom we know to have been protected because they worshiped and served the true God and kept his commandments?
+
+['loud', 'quiet'] received scores [0.7328048944473267, 0.2671951353549957]
+['loud', 'soft'] received scores [0.7840436100959778, 0.2159564197063446]
+['quiet', 'noisy'] received scores [0.510016143321991, 0.48998382687568665]
+['noisy', 'soft'] received scores [0.5598165988922119, 0.4401834011077881]
+
+decades/1970s/1979_O/benson_a_witness_and_a_warning.txt
+
+And our vulnerability is directly attributable to our loss of active faith in the God of this land, who has decreed that we must worship Him or be swept off.
+
+['loud', 'quiet'] received scores [0.5239295959472656, 0.4760704040527344]
+['loud', 'soft'] received scores [0.6122186183929443, 0.3877813518047333]
+['quiet', 'noisy'] received scores [0.5215209722518921, 0.4784790575504303]
+['noisy', 'soft'] received scores [0.5682510733604431, 0.4317489266395569]
+
+decades/1970s/1979_O/benson_a_witness_and_a_warning.txt
+
+First: We must return to worship the God of this land, who is Jesus Christ.
+
+['quiet', 'loud'] received scores [0.5316417217254639, 0.46835821866989136]
+['loud', 'soft'] received scores [0.685028612613678, 0.31497135758399963]
+['quiet', 'noisy'] received scores [0.6278453469276428, 0.37215468287467957]
+['noisy', 'soft'] received scores [0.5940493941307068, 0.4059505760669708]
+
+decades/1970s/1979_O/haight_joseph_smith_the_prophet.txt
+
+However, taking advantage of this opportunity, we explained briefly the Apostasy and the Restoration: that there is vast evidence and history of an apostasy from the doctrine taught by Jesus and his Apostles, that the organization of the original Church became corrupted, and sacred ordinances were changed to suit the convenience of men, and that today good people all over the world are confused with contending religions with differing doctrine and methods of worship.
+
+['loud', 'quiet'] received scores [0.5545839071273804, 0.44541609287261963]
+['loud', 'soft'] received scores [0.618461549282074, 0.3815385103225708]
+['quiet', 'noisy'] received scores [0.53110271692276, 0.4688971936702728]
+['noisy', 'soft'] received scores [0.5347543954849243, 0.46524563431739807]
+
+decades/1970s/1979_O/mcconkie_the_mystery_of_mormonism.txt
+
+Many people look upon us as a singular sect as they cry: “Delusion, false prophets, polygamy,” as once was so common; or “Racists, antiwomen, patriarchal dictators,” as some now say; or “Worshippers of Adam and deniers of Christ and his grace,” as others falsely acclaim; or whatever sophistry of the moment will sow the seeds of prejudice among those who otherwise might learn who we are and what we believe.
+
+['loud', 'quiet'] received scores [0.9086708426475525, 0.09132920205593109]
+['loud', 'soft'] received scores [0.7985855937004089, 0.20141440629959106]
+['noisy', 'quiet'] received scores [0.9940615892410278, 0.005938437767326832]
+['noisy', 'soft'] received scores [0.985230565071106, 0.014769398607313633]
+
+decades/1970s/1979_O/mcconkie_the_mystery_of_mormonism.txt
+
+In this Church of Jesus Christ of Latter-day Saints we worship a God of miracles who has given us the same gifts enjoyed by the ancients.
+
+['loud', 'quiet'] received scores [0.5205017924308777, 0.47949814796447754]
+['soft', 'loud'] received scores [0.5129694938659668, 0.487030565738678]
+['quiet', 'noisy'] received scores [0.6488608121871948, 0.3511391580104828]
+['soft', 'noisy'] received scores [0.6787380576133728, 0.3212619423866272]
+
+decades/1970s/1979_O/pinnock_“we_will_go_with_our_young_and_with_our_old”.txt
+
+Family home evening is an ideal opportunity to share, to worship, and to heal.
+
+['quiet', 'loud'] received scores [0.7386142611503601, 0.2613857388496399]
+['soft', 'loud'] received scores [0.7424740791320801, 0.2575259506702423]
+['quiet', 'noisy'] received scores [0.8759023547172546, 0.12409766018390656]
+['soft', 'noisy'] received scores [0.8780695199966431, 0.12193048745393753]
+
+decades/1970s/1979_O/romney_maintaining_spirituality.txt
+
+He—that is, John—wrote: “God is a Spirit: and they that worship him must worship him in spirit”
+
+['loud', 'quiet'] received scores [0.5783435106277466, 0.42165645956993103]
+['loud', 'soft'] received scores [0.5563951134681702, 0.44360485672950745]
+['quiet', 'noisy'] received scores [0.5864925384521484, 0.4135074317455292]
+['soft', 'noisy'] received scores [0.6080009341239929, 0.3919990658760071]
+
+decades/1970s/1979_O/romney_maintaining_spirituality.txt
+
+As to the importance of prayer in maintaining spirituality, it is interesting to note that the first recorded commandment Adam and Eve received from the Lord, following their expulsion from the garden, was “that they should worship the Lord their God”
+
+['loud', 'quiet'] received scores [0.6353164315223694, 0.364683598279953]
+['loud', 'soft'] received scores [0.7782172560691833, 0.22178272902965546]
+['quiet', 'noisy'] received scores [0.507443368434906, 0.4925566613674164]
+['noisy', 'soft'] received scores [0.6616013646125793, 0.3383985757827759]
+
+decades/1970s/1979_O/tanner_constancy_amid_change.txt
+
+But I am afraid that many of us have been surfeited with flocks and herds and acres and barns and wealth and have begun to worship them as false gods, and they have power over us.
+
+['loud', 'quiet'] received scores [0.623755693435669, 0.37624427676200867]
+['loud', 'soft'] received scores [0.679977297782898, 0.32002273201942444]
+['noisy', 'quiet'] received scores [0.5466089248657227, 0.45339104533195496]
+['noisy', 'soft'] received scores [0.6070970296859741, 0.39290300011634827]
+
+decades/1970s/1979_O/tanner_the_contributions_of_the_prophet_joseph_smith.txt
+
+John the Revelator made this significant statement: “And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people, “Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters”
+
+['loud', 'quiet'] received scores [0.9944403171539307, 0.005559686571359634]
+['loud', 'soft'] received scores [0.9917523264884949, 0.008247662335634232]
+['noisy', 'quiet'] received scores [0.9923786520957947, 0.00762134650722146]
+['noisy', 'soft'] received scores [0.9887052178382874, 0.011294764466583729]
+

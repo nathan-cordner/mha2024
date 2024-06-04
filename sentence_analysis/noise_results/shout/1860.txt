@@ -1,0 +1,171 @@
+﻿decades/1860s/10/knowledge_of_the_saints_a_cause_of_consolation_under_affliction—children_heirs_to_the_kingdom_of_god—power_of_the_gospel_to_unit.txt
+
+We are not ignorant concerning them which are asleep, nor sorrow as others which have no hope: "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first.
+
+['loud', 'quiet'] received scores [0.9795817136764526, 0.02041827142238617]
+['loud', 'soft'] received scores [0.9587617516517639, 0.04123823717236519]
+['noisy', 'quiet'] received scores [0.972122073173523, 0.027877898886799812]
+['noisy', 'soft'] received scores [0.9441295862197876, 0.055870421230793]
+
+decades/1860s/11/historical_discourse_george_a._smith.txt
+
+On the 19th, the first case that was brought up was that of Elder Curtis Hedge, sen., who while speaking in meeting had gone into a Methodist spasm, shouting and screaming in such a manner as caused one of the Elders to rebuke him.
+
+['loud', 'quiet'] received scores [0.9887867569923401, 0.011213310062885284]
+['loud', 'soft'] received scores [0.981143593788147, 0.018856415525078773]
+['noisy', 'quiet'] received scores [0.988564133644104, 0.011435828171670437]
+['noisy', 'soft'] received scores [0.9807723760604858, 0.019227657467126846]
+
+decades/1860s/12/cooperation_brigham_young.txt
+
+One of the men shouted, "Bring another brass kettle.
+
+['loud', 'quiet'] received scores [0.9955905079841614, 0.004409529268741608]
+['loud', 'soft'] received scores [0.9727727174758911, 0.027227303013205528]
+['noisy', 'quiet'] received scores [0.9934130311012268, 0.006587011739611626]
+['noisy', 'soft'] received scores [0.9597826600074768, 0.040217332541942596]
+
+decades/1860s/12/necessity_of_obeying_counsel—reformation_in_eating_and_drinking—improvements—female_relief_societies—chastity_brigham_young.txt
+
+If they were to be counseled to chew or smoke tobacco, many would lift up both hands for this, and shout for joy?
+
+['loud', 'quiet'] received scores [0.9938480854034424, 0.006151904352009296]
+['loud', 'soft'] received scores [0.9807217121124268, 0.019278347492218018]
+['noisy', 'quiet'] received scores [0.9952528476715088, 0.004747138358652592]
+['noisy', 'soft'] received scores [0.9850788116455078, 0.01492120511829853]
+
+decades/1860s/12/the_joy_and_happiness_imparted_by_the_gospel—sectarian_and_revealed_religion—oneness_the_order_of_god_orson_pratt.txt
+
+Do you think such a people would feel like clapping their hands or shouting for joy at such an announcement?
+
+['loud', 'quiet'] received scores [0.8183019757270813, 0.18169809877872467]
+['loud', 'soft'] received scores [0.8021116256713867, 0.1978882998228073]
+['noisy', 'quiet'] received scores [0.8348603844642639, 0.16513963043689728]
+['noisy', 'soft'] received scores [0.8198207020759583, 0.18017928302288055]
+
+decades/1860s/13/gathering_the_saints—continuous_faithfulness—women_and_fashions_brigham_young.txt
+
+If we were to say to them, before leaving their  homes, "Now if we gather you home, will you live your religion?" they would jump up, clap their hands together, shout "hallelujah," and say, "Yes, we will do anything you require if you will only gather us to Zion.
+
+['loud', 'quiet'] received scores [0.9947453737258911, 0.0052546425722539425]
+['loud', 'soft'] received scores [0.9805704355239868, 0.019429555162787437]
+['noisy', 'quiet'] received scores [0.9959416389465332, 0.004058389458805323]
+['noisy', 'soft'] received scores [0.9849448800086975, 0.01505513209849596]
+
+decades/1860s/13/preaching_the_gospel—the_principles_and_spirit_of_the_same_brigham_young.txt
+
+I am going to see Him one of these days if I live so as to be worthy; and when I see Him I shall fall upon His neck and He upon mine, and we shall kiss each other, shouting "Alleluia" that I have returned.
+
+['loud', 'quiet'] received scores [0.9670124650001526, 0.03298751637339592]
+['loud', 'soft'] received scores [0.933477520942688, 0.0665225088596344]
+['noisy', 'quiet'] received scores [0.9658788442611694, 0.03412112593650818]
+['noisy', 'soft'] received scores [0.931273341178894, 0.06872663646936417]
+
+decades/1860s/13/preaching_the_gospel—the_principles_and_spirit_of_the_same_brigham_young.txt
+
+Then we can shout Alleluia in praising Him whom we serve.
+
+['loud', 'quiet'] received scores [0.9701205492019653, 0.02987942472100258]
+['loud', 'soft'] received scores [0.9508137106895447, 0.04918631166219711]
+['noisy', 'quiet'] received scores [0.9571214914321899, 0.042878489941358566]
+['noisy', 'soft'] received scores [0.9300210475921631, 0.06997896730899811]
+
+decades/1860s/8/diversity_among_men_as_to_their_capacity_for_receiving_truth,_&c_brigham_young.txt
+
+I feel that this is the best day I ever saw; and were I to give vent to my feelings, I should jump and shout, like a Methodist, Hallelujah!
+
+['loud', 'quiet'] received scores [0.9200107455253601, 0.07998929172754288]
+['loud', 'soft'] received scores [0.7578361630439758, 0.24216388165950775]
+['noisy', 'quiet'] received scores [0.8911973237991333, 0.1088026612997055]
+['noisy', 'soft'] received scores [0.6902717351913452, 0.3097282946109772]
+
+decades/1860s/8/testimonies_of_the_truth,_&c_orson_hyde.txt
+
+At the appointed time in Heavens's will, the capstone, long rejected, will be brought forth with shouting, crying Grace, grace unto it!
+
+['loud', 'quiet'] received scores [0.9842479825019836, 0.015752006322145462]
+['loud', 'soft'] received scores [0.9728732705116272, 0.027126720175147057]
+['noisy', 'quiet'] received scores [0.9835003018379211, 0.016499696299433708]
+['noisy', 'soft'] received scores [0.9716012477874756, 0.028398748487234116]
+
+decades/1860s/9/evil_deeds_and_evil_doers,_&c_brigham_young.txt
+
+It is said that one of the members of Congress, confident of the great military ability of the officers and the bravery of the army they commanded at Bull's Run, rode out in his buggy, expecting to shout with the rest in the exultations of victory.
+
+['loud', 'quiet'] received scores [0.6793866753578186, 0.32061338424682617]
+['loud', 'soft'] received scores [0.9067081809043884, 0.09329177439212799]
+['noisy', 'quiet'] received scores [0.7381877899169922, 0.26181215047836304]
+['noisy', 'soft'] received scores [0.9282228350639343, 0.07177717983722687]
+
+decades/1860s/9/prosperity_of_zion,_&c_george_a._smith.txt
+
+From the time that we entered this valley to the present moment, I have never contemplated our position without feeling to shout Hosannah for the place that the Lord had preserved for his Saints, for the natural fortresses that he had constructed, and for the principles that he had revealed to enable us to develop and to bring from the earth the necessaries of life, and more  abundantly for the privilege of participating in the enjoyment of the principles and blessings of our holy religion, uninterrupted by those who are without.
+
+['loud', 'quiet'] received scores [0.9754078388214111, 0.024592172354459763]
+['loud', 'soft'] received scores [0.9670336246490479, 0.03296637162566185]
+['noisy', 'quiet'] received scores [0.9664961695671082, 0.03350382298231125]
+['noisy', 'soft'] received scores [0.9552266597747803, 0.044773347675800323]
+
+decades/1860s/9/salvation_of_the_house_of_israel_to_come_through_the_gentiles_orson_pratt.txt
+
+I felt to shout glory to God this morning when I heard our President speak of these things.
+
+['loud', 'quiet'] received scores [0.9907668828964233, 0.009233105927705765]
+['loud', 'soft'] received scores [0.9869629740715027, 0.01303702499717474]
+['noisy', 'quiet'] received scores [0.9767531156539917, 0.023246891796588898]
+['noisy', 'soft'] received scores [0.9673658609390259, 0.03263413533568382]
+
+decades/1860s/9/sectarian_religion—democracy,_etc_george_a._smith.txt
+
+I once went to a Methodist camp meeting, and heard some thousands of men and women praying, shouting, screeching all at once.
+
+['loud', 'quiet'] received scores [0.9923497438430786, 0.007650284096598625]
+['loud', 'soft'] received scores [0.9843588471412659, 0.01564117707312107]
+['noisy', 'quiet'] received scores [0.9946064949035645, 0.005393559113144875]
+['noisy', 'soft'] received scores [0.9889464974403381, 0.011053510010242462]
+
+decades/1860s/9/sectarian_religion—democracy,_etc_george_a._smith.txt
+
+Take, for instance, those who have been the most devoted to the Constitution of the United States, and they, like the ancients who shouted "Great is the goddess Diana of the Ephesians!
+
+['loud', 'quiet'] received scores [0.9893258213996887, 0.010674218647181988]
+['loud', 'soft'] received scores [0.9757212400436401, 0.02427876554429531]
+['noisy', 'quiet'] received scores [0.9913862347602844, 0.008613793179392815]
+['noisy', 'soft'] received scores [0.9803555607795715, 0.019644422456622124]
+
+decades/1860s/9/sectarian_religion—democracy,_etc_george_a._smith.txt
+
+Take, for instance, those who have been the most devoted to the Constitution of the United States, and they, like the ancients who shouted "Great is the goddess Diana of the Ephesians!" would shout "Great is the Constitution!
+
+['loud', 'quiet'] received scores [0.9800854325294495, 0.019914550706744194]
+['loud', 'soft'] received scores [0.9494497179985046, 0.05055026337504387]
+['noisy', 'quiet'] received scores [0.9855363368988037, 0.014463691972196102]
+['noisy', 'soft'] received scores [0.9629691243171692, 0.03703085705637932]
+
+decades/1860s/9/sufferings_of_the_saints—overcoming_evil_with_good,_&c_brigham_young.txt
+
+I do not myself wish, nor do I ask any man in the world to create a spirit of reformation to sing and shout ourselves "away to everlasting bliss.
+
+['quiet', 'loud'] received scores [0.692645788192749, 0.3073541820049286]
+['loud', 'soft'] received scores [0.5724194049835205, 0.4275805652141571]
+['quiet', 'noisy'] received scores [0.5379457473754883, 0.46205422282218933]
+['noisy', 'soft'] received scores [0.7215517163276672, 0.2784482538700104]
+
+decades/1860s/9/the_gifts_of_god—home_manufactures—word_of_wisdom—happiness_brigham_young.txt
+
+When they looked at it in vision, it cast a halo, around which was like the dawning of heaven to their souls, and they shouted, "Hallelujah!
+
+['loud', 'quiet'] received scores [0.9899848699569702, 0.010015181265771389]
+['loud', 'soft'] received scores [0.9741813540458679, 0.02581867389380932]
+['noisy', 'quiet'] received scores [0.9828177094459534, 0.017182273790240288]
+['noisy', 'soft'] received scores [0.9562051892280579, 0.04379480704665184]
+
+decades/1860s/9/true_testimony—preparation_for_coming_events—corruption_of_the_government,_etc_brigham_young.txt
+
+If our hearts are filled with the Spirit of truth, with the Spirit of the Lord, no matter what the true words from heaven are, when God speaks, all his subjects shout "Hallelujah!
+
+['loud', 'quiet'] received scores [0.989188551902771, 0.01081144716590643]
+['loud', 'soft'] received scores [0.9751183390617371, 0.024881694465875626]
+['noisy', 'quiet'] received scores [0.9719865918159485, 0.0280134417116642]
+['noisy', 'soft'] received scores [0.9369560480117798, 0.06304392963647842]
+

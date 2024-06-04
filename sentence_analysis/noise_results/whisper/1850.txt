@@ -1,0 +1,423 @@
+﻿decades/1850s/1/gathering_the_poor—the_perpetual_emigrating_fund—ingratitude_brigham_young.txt
+
+This is the plan for us to work upon, and I wish the brethren to whisper this around among their neighbors, when they go out of this tabernacle, and say, "What can we give to the Perpetual Emigrating Fund?
+
+['quiet', 'loud'] received scores [0.7638120055198669, 0.23618794977664948]
+['loud', 'soft'] received scores [0.614833652973175, 0.38516634702682495]
+['quiet', 'noisy'] received scores [0.5963618159294128, 0.40363818407058716]
+['noisy', 'soft'] received scores [0.7774800658226013, 0.2225198745727539]
+
+decades/1850s/1/march_of_mormonism_—the_power_of_god_and_the_wisdom_of_man—good_and_evil_influences—the_law_of_increase_brigham_young.txt
+
+There is not a man or woman that loves the truth, who has heard the report of the Book of Mormon, but the Spirit of the Almighty has testified to him or her of its truth; neither has any man heard the name of Joseph Smith, but the Spirit has whispered to him—"He is a true Prophet.
+
+['quiet', 'loud'] received scores [0.7786552309989929, 0.22134478390216827]
+['loud', 'soft'] received scores [0.5800685286521912, 0.41993144154548645]
+['quiet', 'noisy'] received scores [0.8381689786911011, 0.16183100640773773]
+['soft', 'noisy'] received scores [0.515936017036438, 0.4840640425682068]
+
+decades/1850s/1/weaknesses_of_man—loyalty_of_the_saints—corruption_of_the_world—true_liberty—conduct_of_the_american_people_brigham_young.txt
+
+If you tell them a "Mormon" has two wives, they are shocked, and call it dreadful blasphemy; if you whisper such a thing into the ears of a Gentile who takes a fresh woman every night, he is thunderstruck with the enormity of the crime.
+
+['loud', 'quiet'] received scores [0.9843865036964417, 0.015613501891493797]
+['loud', 'soft'] received scores [0.9770593643188477, 0.022940609604120255]
+['noisy', 'quiet'] received scores [0.9814395904541016, 0.01856037601828575]
+['noisy', 'soft'] received scores [0.9727678298950195, 0.027232134714722633]
+
+decades/1850s/2/ordaining_young_men_to_office—the_word_of_wisdom—union_george_a._smith.txt
+
+Now when a "Mormon" Elder comes up to me, and wants to get a little counsel, and his breath smells as though he had swallowed a stillhouse, it is all I can possibly do to remain near enough to him to hear his story; he necessarily wishes to come up close to me, as such men are sure to have a secret they wish to whisper, and their breath is so offensive, I am forced to retire.
+
+['quiet', 'loud'] received scores [0.5365546345710754, 0.46344539523124695]
+['loud', 'soft'] received scores [0.6529219746589661, 0.3470780551433563]
+['noisy', 'quiet'] received scores [0.5078886151313782, 0.49211135506629944]
+['noisy', 'soft'] received scores [0.6920977830886841, 0.3079022467136383]
+
+decades/1850s/2/spiritual_gifts—hell—the_spirit_world—the_elders_and_the_nations—the_lamanites—the_temple_brigham_young.txt
+
+I will venture to say that brothers Farr and Jolly never counseled their brethren, where they have been laboring, to come up here and pay their tithing; and yet they look to me and my brethren to do it all, to send the Gospel to the nations, to build temples, and watch night and day over the interests of this kingdom, and they have not even mouthed tithing; or, if they have, they have merely touched upon it, and when they get here, they whisper in my ear, "Brother Brigham, handle them carefully on tithing, for they know but little about it.
+
+['quiet', 'loud'] received scores [0.8656548857688904, 0.13434509932994843]
+['soft', 'loud'] received scores [0.554463267326355, 0.445536732673645]
+['quiet', 'noisy'] received scores [0.5659276843070984, 0.4340723156929016]
+['noisy', 'soft'] received scores [0.7988461852073669, 0.20115384459495544]
+
+decades/1850s/2/the_ancient_prophecies_orson_pratt.txt
+
+"And thou shalt be brought down, and shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust.
+
+['quiet', 'loud'] received scores [0.995077908039093, 0.004922107327729464]
+['soft', 'loud'] received scores [0.9960044026374817, 0.003995571285486221]
+['quiet', 'noisy'] received scores [0.9952490329742432, 0.004750965628772974]
+['soft', 'noisy'] received scores [0.9961435198783875, 0.0038565201684832573]
+
+decades/1850s/2/the_ancient_prophecies_orson_pratt.txt
+
+No; this is not what he has reference to in this passage, as you will find by reading the following in the same chapter; their whispering out of the dust and speaking out of the ground, was a work to take place before the destruction of the nations of the wicked.
+
+['quiet', 'loud'] received scores [0.9717729687690735, 0.028227051720023155]
+['soft', 'loud'] received scores [0.949017345905304, 0.05098261311650276]
+['quiet', 'noisy'] received scores [0.7981799244880676, 0.2018200308084488]
+['soft', 'noisy'] received scores [0.681366503238678, 0.3186335265636444]
+
+decades/1850s/2/the_ancient_prophecies_orson_pratt.txt
+
+That sacred record was found written upon plates that had the appearance of gold; out of the ground it was taken; and it contains the words of the ancient Prophets that lived among this remnant of the house of Israel that were brought down, and whose speech should whisper low out of the dust;  it whispers in the ears of mortal man; it proclaims repentance to the present generation, like the voice of one crying from the dead.
+
+['quiet', 'loud'] received scores [0.963685929775238, 0.03631410002708435]
+['soft', 'loud'] received scores [0.9027185440063477, 0.09728150814771652]
+['quiet', 'noisy'] received scores [0.9092239737510681, 0.09077607095241547]
+['soft', 'noisy'] received scores [0.7778944969177246, 0.22210553288459778]
+
+decades/1850s/2/the_ancient_prophecies_orson_pratt.txt
+
+Any person that will take the trouble to read over that book that has come forth out of the ground, and that whispers to us out of the dust, will find that the multitude of the terrible ones among the ancient Nephites have passed away as chaff, they were destroyed upon this land by hundreds and by thousands, by judgments, and calamities, and war.
+
+['quiet', 'loud'] received scores [0.8033421039581299, 0.19665783643722534]
+['soft', 'loud'] received scores [0.5516167879104614, 0.44838324189186096]
+['quiet', 'noisy'] received scores [0.7839595675468445, 0.21604038774967194]
+['soft', 'noisy'] received scores [0.5221809148788452, 0.4778190553188324]
+
+decades/1850s/2/the_ancient_prophecies_orson_pratt.txt
+
+Here you perceive is another thing taken up by the Prophet in connection with the whispering of the words of that nation out of the dust; immediately following that remarkable event there was to be a dreadful destruction, not upon Ariel—not upon Israel—but upon the multitude of all the nations of the earth that should fight against Mount Zion.
+
+['loud', 'quiet'] received scores [0.6026208400726318, 0.3973791003227234]
+['loud', 'soft'] received scores [0.6177586913108826, 0.38224124908447266]
+['noisy', 'quiet'] received scores [0.7358231544494629, 0.2641768157482147]
+['noisy', 'soft'] received scores [0.7480086088180542, 0.2519913613796234]
+
+decades/1850s/2/the_ancient_prophecies_orson_pratt.txt
+
+Three things, then, are declared in succession—one is the destruction of a nation, another the speaking of their words out of the dust in the ears of the living, and the third that which immediately follows, namely, the destruction of all the nations of the earth that should fight against Mount Zion; this latter event has not yet been fulfilled; but is just as sure to be fulfilled as the other portions of the prophecy that have taken place; just as sure as the Book of Mormon has whispered out of the dust, and spoken in the ears of this generation, in fulfillment of the words of the Prophet Isaiah, so sure will the Lord of hosts visit the multitude of all the nations of the earth, that fight against Mount Zion, with thunder, and earthquake, and with the flame of devouring fire, and they shall be as the dream of a night vision, they shall pass away from the face of the earth and be as chaff blown to the four winds of heaven, and no place shall be found for them.
+
+['loud', 'quiet'] received scores [0.7419801950454712, 0.2580198049545288]
+['loud', 'soft'] received scores [0.7285346984863281, 0.2714652717113495]
+['noisy', 'quiet'] received scores [0.7270816564559937, 0.27291837334632874]
+['noisy', 'soft'] received scores [0.7131599187850952, 0.2868401110172272]
+
+decades/1850s/2/the_ancient_prophecies_orson_pratt.txt
+
+The Prophet now comes back, after having foretold the destruction of the nations following the coming forth of this work, to the thing he was speaking of previously, and gives us more particulars upon this subject, and informs us more particularly in what way the Lord shall accomplish this whispering out of the dust; he says to the multitude of those nations about to be destroyed, "Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink.
+
+['quiet', 'loud'] received scores [0.7848778367042542, 0.21512213349342346]
+['soft', 'loud'] received scores [0.8211191296577454, 0.17888084053993225]
+['quiet', 'noisy'] received scores [0.5144570469856262, 0.48554298281669617]
+['soft', 'noisy'] received scores [0.5713767409324646, 0.428623229265213]
+
+decades/1850s/2/the_ancient_prophecies_orson_pratt.txt
+
+Their words have "whispered from the dust," and they have come forth among the nations, accompanied by an abundance of evidences.
+
+['quiet', 'loud'] received scores [0.8828164935112, 0.11718355864286423]
+['soft', 'loud'] received scores [0.6907337307929993, 0.30926623940467834]
+['quiet', 'noisy'] received scores [0.6136191487312317, 0.3863808214664459]
+['noisy', 'soft'] received scores [0.6798914074897766, 0.320108562707901]
+
+decades/1850s/2/the_perpetual_emigrating_fund—emigration_of_the_saints_and_the_nations_orson_pratt.txt
+
+We think in our hearts—"Well, we will go and do as we have been told; it looks beautiful and very consistent; it seems to be the very law by which we should be governed; and when we go from this Conference, we will make all the necessary arrangements to fulfil and comply with this law, and hearken to the counsels and instructions that have been given;" but straightway, as you go out of the Tabernacle, and get out of the voice of the servants of God, the devil comes along, and begins to whisper in your ears, and tells you to be a little selfish, saying, "Look out more for yourselves, for your  wives, and for your children; they may go hungry, they may want food, and houses, and ten thousand other things, and unless you put forth your hands, and exert your energies to provide for them, they may be brought into great suffering; and again, perhaps there may be some great trials ahead of the Saints, there may be pinching times; it would be well for you to look out a little, and be prepared against these times of trial," &c.
+
+['loud', 'quiet'] received scores [0.8800536394119263, 0.11994636058807373]
+['loud', 'soft'] received scores [0.6477879285812378, 0.3522120416164398]
+['noisy', 'quiet'] received scores [0.9841712713241577, 0.01582879200577736]
+['noisy', 'soft'] received scores [0.9397074580192566, 0.06029248610138893]
+
+decades/1850s/3/eternal_increase_of_knowledge—necessity_of_cleaving_to_every_good_principle—men_are_not_made_saints_by_miraculous_gifts,_but_thr.txt
+
+If, by the whispering of a small, still voice, He dictates you to do this or that, showing you which is right and which is wrong, it is all right, and it is right to acknowledge the hand of the Lord in His so doing.
+
+['quiet', 'loud'] received scores [0.9951649308204651, 0.0048350137658417225]
+['soft', 'loud'] received scores [0.9920539259910583, 0.00794602558016777]
+['quiet', 'noisy'] received scores [0.9951239228248596, 0.004876108840107918]
+['soft', 'noisy'] received scores [0.9919866323471069, 0.008013349957764149]
+
+decades/1850s/3/remarks_on_a_revelation_given_in_august,_1831—general_instructions_brigham_young.txt
+
+They do not talk so loud as I am now talking, they whisper in my ear: "Could you let me have a yoke of oxen, or a span of horses and a wagon, or twenty bushels of wheat," &c.
+
+['loud', 'quiet'] received scores [0.5132298469543457, 0.4867701232433319]
+['loud', 'soft'] received scores [0.563595175743103, 0.436404824256897]
+['noisy', 'quiet'] received scores [0.6531968712806702, 0.34680312871932983]
+['noisy', 'soft'] received scores [0.6976126432418823, 0.3023872971534729]
+
+decades/1850s/3/the_order_of_progression_in_knowledge—the_way_by_which_saints_become_one—aptness_of_men_to_remember_evil_rather_than_good—a_char.txt
+
+He was alone when measuring the grain, and as he put into the measure, something whispered to him, "Pour it in lightly," but instead of doing this, he gave the measure a kick.
+
+['quiet', 'loud'] received scores [0.9375044703483582, 0.062495507299900055]
+['soft', 'loud'] received scores [0.9311046600341797, 0.0688953623175621]
+['quiet', 'noisy'] received scores [0.8840852379798889, 0.11591479927301407]
+['soft', 'noisy'] received scores [0.8729562759399414, 0.12704375386238098]
+
+decades/1850s/3/the_vine_and_fig_tree—duties_of_saints_ezra_t._benson.txt
+
+We are a people that believe in revelation, the whisperings of the Holy Spirit, the gifts of the Gospel of Jesus Christ; and we are a people that believe in the necessity of all those gifts.
+
+['quiet', 'loud'] received scores [0.9449140429496765, 0.055085957050323486]
+['soft', 'loud'] received scores [0.8682994246482849, 0.13170060515403748]
+['quiet', 'noisy'] received scores [0.8555514812469482, 0.14444850385189056]
+['soft', 'noisy'] received scores [0.694794237613678, 0.3052057921886444]
+
+decades/1850s/3/times_for_all_things—prayer—chastisement—unity—faithfulness—reverence_for_sacred_things—reformation_brigham_young.txt
+
+We should also have wisdom, and exercise it in both eating and drinking, ever keeping a guard over ourselves in all the practices of life, and listen to the still small whisperings of the Holy Spirit which never leads a man into error.
+
+['quiet', 'loud'] received scores [0.9825724959373474, 0.017427485436201096]
+['soft', 'loud'] received scores [0.7679757475852966, 0.23202429711818695]
+['quiet', 'noisy'] received scores [0.9715034365653992, 0.028496593236923218]
+['soft', 'noisy'] received scores [0.6668230295181274, 0.33317703008651733]
+
+decades/1850s/4/counsel_concerning_immigration—benefits_to_be_derived_from_an_early_start—crossing_the_plains_with_handcarts,_etc_brigham_young.txt
+
+And if they had not had any such spirit about them, God would have whispered to them to have held a council, and would have stopped  them from rushing their brethren and sisters into such suffering.
+
+['quiet', 'loud'] received scores [0.5729615092277527, 0.4270384907722473]
+['loud', 'soft'] received scores [0.5528916120529175, 0.4471083879470825]
+['quiet', 'noisy'] received scores [0.5472708940505981, 0.45272910594940186]
+['noisy', 'soft'] received scores [0.5785089135169983, 0.4214911162853241]
+
+decades/1850s/4/discord_at_meetings_rebuked—a_text_for_speakers_at_the_conference—subject_for_the_people—a_call_for_mules,_horses,_wagons,_teams.txt
+
+And I request those who wish to talk and whisper, to remove so far that they will not disturb the congregation today, nor during the Conference, as the assembly, undoubtedly, will be very large.
+
+['quiet', 'loud'] received scores [0.9281732439994812, 0.0718267485499382]
+['soft', 'loud'] received scores [0.7595539689064026, 0.24044601619243622]
+['noisy', 'quiet'] received scores [0.5654799342155457, 0.43452003598213196]
+['noisy', 'soft'] received scores [0.8418633341789246, 0.15813662111759186]
+
+decades/1850s/4/discord_at_meetings_rebuked—a_text_for_speakers_at_the_conference—subject_for_the_people—a_call_for_mules,_horses,_wagons,_teams.txt
+
+Let there be no talking, whispering, nor shuffling of feet.
+
+['quiet', 'loud'] received scores [0.9886815547943115, 0.01131839957088232]
+['soft', 'loud'] received scores [0.8873169422149658, 0.11268304288387299]
+['quiet', 'noisy'] received scores [0.8251253366470337, 0.1748746633529663]
+['noisy', 'soft'] received scores [0.7015842795372009, 0.2984157204627991]
+
+decades/1850s/4/discord_at_meetings_rebuked—a_text_for_speakers_at_the_conference—subject_for_the_people—a_call_for_mules,_horses,_wagons,_teams.txt
+
+If they can raise their voices above the crying of children and the talking and whispering of the people, so that all can hear, it will be well; but this we cannot expect.
+
+['loud', 'quiet'] received scores [0.893210232257843, 0.10678977519273758]
+['loud', 'soft'] received scores [0.7536671757698059, 0.2463327944278717]
+['noisy', 'quiet'] received scores [0.9861129522323608, 0.013887014240026474]
+['noisy', 'soft'] received scores [0.962928295135498, 0.037071727216243744]
+
+decades/1850s/4/discord_at_meetings_rebuked—a_text_for_speakers_at_the_conference—subject_for_the_people—a_call_for_mules,_horses,_wagons,_teams.txt
+
+I am satisfied that the prayer by brother Spencer was not heard by one-third of the congregation this morning; a little moving of the feet, a little whispering, the noise occasioned by mothers trying to keep their children still, a little noise of this kind and a little of that, all tend to break the sound of the speaker's voice, and the people cannot catch his words, and of course are not edified.
+
+['quiet', 'loud'] received scores [0.5069385170936584, 0.4930614233016968]
+['soft', 'loud'] received scores [0.7142466306686401, 0.28575342893600464]
+['noisy', 'quiet'] received scores [0.9660803079605103, 0.033919669687747955]
+['noisy', 'soft'] received scores [0.9213556051254272, 0.07864445447921753]
+
+decades/1850s/4/the_power_and_importance_of_economy—domestic_extravagance_and_mismanagement,_with_their_bad_results_brigham_young.txt
+
+He said, "It is whispered about that some of the brethren laboring on the Public Works are living on dry bread.
+
+['quiet', 'loud'] received scores [0.639938473701477, 0.36006149649620056]
+['soft', 'loud'] received scores [0.7604032158851624, 0.23959678411483765]
+['noisy', 'quiet'] received scores [0.8677052855491638, 0.132294699549675]
+['noisy', 'soft'] received scores [0.7860075831413269, 0.2139924019575119]
+
+decades/1850s/4/the_saints_have_not_magnified_their_calling_as_saviors_of_the_living_and_the_dead—oneness—practical_repentance_lorenzo_snow.txt
+
+On the subject of reformation I presume, brethren, most of us feel alike its importance and necessity, and that great diligence is required, and much faith and spiritual energy, in order to obtain immediate possession of gifts and powers, which, through our great neglect and dilatoriness we have failed heretofore in obtaining, but must absolutely have in order to pass the fiery ordeal that, by the whisperings of the Holy Spirit, we feel is fast approaching.
+
+['quiet', 'loud'] received scores [0.6624573469161987, 0.33754265308380127]
+['loud', 'soft'] received scores [0.655177891254425, 0.34482210874557495]
+['quiet', 'noisy'] received scores [0.5896648168563843, 0.4103352129459381]
+['noisy', 'soft'] received scores [0.7218310832977295, 0.2781689167022705]
+
+decades/1850s/5/reminiscences_and_testimony_of_parley_p._pratt_parley_p._pratt.txt
+
+All this I was looking for; and the Spirit seemed to whisper to my mind that I should see it in my day.
+
+['quiet', 'loud'] received scores [0.614762544631958, 0.385237455368042]
+['soft', 'loud'] received scores [0.5209279656410217, 0.4790720045566559]
+['quiet', 'noisy'] received scores [0.609577476978302, 0.390422523021698]
+['soft', 'noisy'] received scores [0.5154753923416138, 0.4845246374607086]
+
+decades/1850s/5/reminiscences_and_testimony_of_parley_p._pratt_parley_p._pratt.txt
+
+I was made to realize this and to bring it home to my faith, my senses, and my knowledge, with a warmth, love, and assurance that I could scarcely contain for I had either studied and seen him in my reflections, or I had heard his voice whispering to me.
+
+['loud', 'quiet'] received scores [0.9276553988456726, 0.0723445862531662]
+['loud', 'soft'] received scores [0.8849777579307556, 0.11502224206924438]
+['quiet', 'noisy'] received scores [0.5324906706809998, 0.467509388923645]
+['soft', 'noisy'] received scores [0.6549633741378784, 0.34503665566444397]
+
+decades/1850s/5/temple_and_endowments—raising_grain_and_building_storehouses—dedication_heber_c._kimball.txt
+
+I have heard a whispering that some who work on the Temple at dressing rock, and in the machine and blacksmiths' shops, have nothing but bread to eat.
+
+['quiet', 'loud'] received scores [0.9433682560920715, 0.05663176625967026]
+['soft', 'loud'] received scores [0.7486770153045654, 0.2513229548931122]
+['noisy', 'quiet'] received scores [0.5164421200752258, 0.4835578501224518]
+['noisy', 'soft'] received scores [0.8565726280212402, 0.14342740178108215]
+
+decades/1850s/6/blessings_of_obedience,_etc_daniel_spencer.txt
+
+Now, the Gentiles have a knowledge that it is best to labor for clothing, for food, and to make preparation for winter, and so on; but when we speak of the knowledge of God, and that it is best to do this or that because the whisperings of the Spirit say so and so—when it comes to the servants of God and the things of his kingdom, the Gentiles do not know so much as the Indians do; hence they act in accordance with their views and knowledge, and hence they are deprived of many blessings.
+
+['quiet', 'loud'] received scores [0.7507867217063904, 0.2492132931947708]
+['soft', 'loud'] received scores [0.5113657712936401, 0.4886341989040375]
+['quiet', 'noisy'] received scores [0.718274712562561, 0.28172528743743896]
+['noisy', 'soft'] received scores [0.5303182005882263, 0.4696817994117737]
+
+decades/1850s/6/blessings_of_the_saints—hindrances_to_progress—object_and_benefit_of_trials—acknowledgment_of_god's_hand,_spirit,_and_priesthood.txt
+
+These principles have begun to be developed among us; and when we live our religion, when we walk according to the light of the Spirit of God, when we purge ourselves from impurity and corruption, and the sweet  whisperings of the Spirit of the Lord pours intelligence into our bosoms, broods over us, causing peace and joy to be with us, we have then, more or less, a faint glimpse of those things that are laid up for the faithful; and it is then we feel as though we and all that we have are in the hands of the Lord, and that we are ready to offer ourselves a sacrifice for the accomplishment of his purposes upon the earth.
+
+['quiet', 'loud'] received scores [0.9445127248764038, 0.05548729747533798]
+['soft', 'loud'] received scores [0.7857920527458191, 0.21420800685882568]
+['quiet', 'noisy'] received scores [0.8806174397468567, 0.1193825751543045]
+['soft', 'noisy'] received scores [0.6138488054275513, 0.3861512243747711]
+
+decades/1850s/6/dedication_prayer_willard_richards.txt
+
+When all the honest in heart shall have listened to the whisperings of the Spirit of our God and learned the way of life and salvation.
+
+['quiet', 'loud'] received scores [0.9507294297218323, 0.04927058145403862]
+['soft', 'loud'] received scores [0.7858420014381409, 0.21415798366069794]
+['quiet', 'noisy'] received scores [0.9014565348625183, 0.0985434502363205]
+['soft', 'noisy'] received scores [0.6349828243255615, 0.3650171458721161]
+
+decades/1850s/6/heirship—necessity_of_adherence_to_the_instructions_of_the_priesthood—counsel_to_departing_missionaries_orson_hyde.txt
+
+When brother Parley was preaching about the thief on the cross, who was ignorant of the principles of salvation—(the Savior would not stop to preach to him when he was expiring upon the cross, but he postponed it until he got into the spirit world, and there he instructed him) someone whispered to me—I cannot tell who it was—"Would it not be a good thing to send some of our thieves on a mission to take lessons in that school?
+
+['quiet', 'loud'] received scores [0.8998896479606628, 0.10011034458875656]
+['soft', 'loud'] received scores [0.5597055554389954, 0.44029444456100464]
+['quiet', 'noisy'] received scores [0.8126531839370728, 0.18734686076641083]
+['noisy', 'soft'] received scores [0.6197976469993591, 0.38020235300064087]
+
+decades/1850s/6/light_and_influence_of_the_spirit—power_of_evil—character_of_the_will,_etc_brigham_young.txt
+
+If people would listen to the whisperings of that Spirit, they would be led into the paths of truth and righteousness.
+
+['quiet', 'loud'] received scores [0.9721822142601013, 0.027817750349640846]
+['soft', 'loud'] received scores [0.8134278655052185, 0.1865721493959427]
+['quiet', 'noisy'] received scores [0.9457456469535828, 0.054254285991191864]
+['soft', 'noisy'] received scores [0.685003399848938, 0.314996600151062]
+
+decades/1850s/6/personal_interest_in_the_kingdom_of_god—endowments—hints_to_preachers,_etc_joseph_young.txt
+
+You could not bear to behold that messenger who whispers in your ears and invites you to be active in doing a work for your dead friends.
+
+['quiet', 'loud'] received scores [0.8320266604423523, 0.1679733544588089]
+['soft', 'loud'] received scores [0.6920883059501648, 0.3079117238521576]
+['noisy', 'quiet'] received scores [0.871504545211792, 0.12849543988704681]
+['noisy', 'soft'] received scores [0.9372909069061279, 0.06270914524793625]
+
+decades/1850s/6/providence—ignorance_of_sectarian_priests—free_agency—recreation,_etc_brigham_young.txt
+
+Brother Orson Pratt whispered to brother Cordon the answer.
+
+['quiet', 'loud'] received scores [0.9841099381446838, 0.015890061855316162]
+['soft', 'loud'] received scores [0.9178245663642883, 0.08217549324035645]
+['quiet', 'noisy'] received scores [0.9524052739143372, 0.04759472981095314]
+['soft', 'noisy'] received scores [0.7830235958099365, 0.21697644889354706]
+
+decades/1850s/6/testimony_to_the_truth—the_true_yoke_of_christ—modern_prophets—the_world_versus_the_church,_etc_john_young.txt
+
+The other day, when brother Kimball was prophesying relative to the wheat, and also about the granaries, and endeavoring to show you the necessity of preparing for a time of scarcity, the good Spirit whispered to me and said, "What brother Kimball has stated is just as true as Joseph's interpretation of Pharaoh's dream;" and I verily believe it, and you may depend upon it, brethren and sisters, that all those things will come to pass as they have been predicted.
+
+['quiet', 'loud'] received scores [0.8451305627822876, 0.15486939251422882]
+['loud', 'soft'] received scores [0.5381151437759399, 0.46188482642173767]
+['quiet', 'noisy'] received scores [0.8344561457633972, 0.16554377973079681]
+['noisy', 'soft'] received scores [0.5577712059020996, 0.442228764295578]
+
+decades/1850s/6/the_work_of_reformation—the_united_states'_army—labors_of_mormon_missionaries—judgments_of_god,_etc_orson_hyde.txt
+
+To you, my faithful brethren abroad, the Spirit of Christ has often whispered, during the last six months, "Go home—go home.
+
+['quiet', 'loud'] received scores [0.6049052476882935, 0.39509472250938416]
+['loud', 'soft'] received scores [0.56783527135849, 0.43216472864151]
+['quiet', 'noisy'] received scores [0.5029716491699219, 0.49702832102775574]
+['noisy', 'soft'] received scores [0.6653178930282593, 0.33468204736709595]
+
+decades/1850s/6/the_work_of_reformation—the_united_states'_army—labors_of_mormon_missionaries—judgments_of_god,_etc_orson_hyde.txt
+
+God bless them and you too, if you listen to the whisperings of that voice that speaks truth to the heart.
+
+['quiet', 'loud'] received scores [0.9849206805229187, 0.015079370699822903]
+['soft', 'loud'] received scores [0.8692724108695984, 0.130727618932724]
+['quiet', 'noisy'] received scores [0.9775792360305786, 0.022420765832066536]
+['soft', 'noisy'] received scores [0.8161380887031555, 0.1838618367910385]
+
+decades/1850s/7/light_of_the_spirit—morality—independence_of_the_human_will—incarnation_of_the_human_spirit_brigham_young.txt
+
+If people would listen to the whisperings of that Spirit, they would be led into the paths of truth and righteousness.
+
+['quiet', 'loud'] received scores [0.9721822142601013, 0.027817750349640846]
+['soft', 'loud'] received scores [0.8134278655052185, 0.1865721493959427]
+['quiet', 'noisy'] received scores [0.9457456469535828, 0.054254285991191864]
+['soft', 'noisy'] received scores [0.685003399848938, 0.314996600151062]
+
+decades/1850s/7/nature_of_man—happiness—influence_of_god's_spirit_upon_mankind,_etc_brigham_young.txt
+
+The Evil One would whisper to me that I had done this, that, or some other thing wrong, and inquire whether that looked like a Christian act, and remark, "You have missed it; you have not done right, and you know it; you did not do as well in such a thing as you might; and are you not ashamed of yourself in saying that you are a Christian?
+
+['quiet', 'loud'] received scores [0.5624563694000244, 0.4375436007976532]
+['loud', 'soft'] received scores [0.5517175793647766, 0.4482823610305786]
+['noisy', 'quiet'] received scores [0.8358403444290161, 0.1641596406698227]
+['noisy', 'soft'] received scores [0.8895692825317383, 0.1104307770729065]
+
+decades/1850s/7/oneness_of_the_priesthood—independence_of_zion—time_and_eternity—evil_habits_and_practices,_&c_heber_c._kimball.txt
+
+Satan whispers in the ears of those  who list to obey him, "Lie a little, deceive a little, take the advantage of your neighbor a little, drink whiskey a little: it will not harm you" —leading them along, as it were, with silken cords, until he binds them with his strong chains, and readily leads them down to destruction.
+
+['quiet', 'loud'] received scores [0.7327000498771667, 0.26729997992515564]
+['soft', 'loud'] received scores [0.6941918730735779, 0.3058081567287445]
+['noisy', 'quiet'] received scores [0.5595231652259827, 0.44047683477401733]
+['noisy', 'soft'] received scores [0.605348527431488, 0.3946514427661896]
+
+decades/1850s/7/personal_reminiscences_and_testimony_concerning_the_prophet_joseph_and_the_church,_etc_orson_pratt.txt
+
+I had heard their doctrines and had been earnestly urged by many to unite myself with them as a member of their churches; but something whispered to not do so.
+
+['quiet', 'loud'] received scores [0.9566770195960999, 0.043322980403900146]
+['soft', 'loud'] received scores [0.7603610157966614, 0.2396390438079834]
+['quiet', 'noisy'] received scores [0.8846829533576965, 0.11531700193881989]
+['soft', 'noisy'] received scores [0.5243360996246338, 0.4756639003753662]
+
+decades/1850s/7/privileges_and_experience_of_the_saints,_etc_orson_pratt.txt
+
+All these things have a tendency, more or less, to darken the understanding and drive away from the heart that peaceable Spirit which whispers peace to the minds of the sons and daughters of God.
+
+['quiet', 'loud'] received scores [0.5846009850502014, 0.4153990149497986]
+['soft', 'loud'] received scores [0.6357524991035461, 0.36424747109413147]
+['noisy', 'quiet'] received scores [0.556766152381897, 0.44323378801345825]
+['noisy', 'soft'] received scores [0.5031904578208923, 0.4968094825744629]
+
+decades/1850s/7/sowing_and_reaping—fulfillment_of_covenants_orson_hyde.txt
+
+Something whispers these things to me in this light.
+
+['quiet', 'loud'] received scores [0.9880003333091736, 0.011999694630503654]
+['soft', 'loud'] received scores [0.9932385683059692, 0.006761408876627684]
+['quiet', 'noisy'] received scores [0.9103187322616577, 0.0896812304854393]
+['soft', 'noisy'] received scores [0.9476717114448547, 0.052328284829854965]
+
+decades/1850s/7/sowing_and_reaping—fulfillment_of_covenants_orson_hyde.txt
+
+I will not say that we did; yet I have had such thoughts, and they whisper strongly in my heart.
+
+['quiet', 'loud'] received scores [0.9394353032112122, 0.06056470051407814]
+['soft', 'loud'] received scores [0.786106526851654, 0.21389351785182953]
+['quiet', 'noisy'] received scores [0.5141677260398865, 0.4858322739601135]
+['noisy', 'soft'] received scores [0.7995151877403259, 0.20048485696315765]
+
+decades/1850s/7/union,_etc_john_taylor.txt
+
+He thereupon went alone, and there was a voice, as it were the voice of thunder; but the Lord was not in the thunder: there was the voice of an earthquake, but the Lord was not in the earthquake: finally, there was a still small voice whispering in his ear, saying—"What doest thou here, Elijah?
+
+['quiet', 'loud'] received scores [0.7128148078918457, 0.2871851623058319]
+['loud', 'soft'] received scores [0.5880362391471863, 0.4119637906551361]
+['noisy', 'quiet'] received scores [0.7997965216636658, 0.20020347833633423]
+['noisy', 'soft'] received scores [0.9340091943740845, 0.06599081307649612]
+

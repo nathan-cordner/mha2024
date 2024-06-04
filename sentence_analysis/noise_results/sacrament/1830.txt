@@ -1,0 +1,90 @@
+decades/1830s/D&C/section_20.txt
+
+The priest’s duty is to preach, teach, expound, exhort, and baptize, and administer the sacrament,  And visit the house of each member, and exhort them to pray vocally and in secret and attend to all family duties.
+
+['loud', 'quiet'] received scores [0.7509255409240723, 0.24907445907592773]
+['loud', 'soft'] received scores [0.6088064312934875, 0.39119359850883484]
+['noisy', 'quiet'] received scores [0.6250193119049072, 0.3749806880950928]
+['soft', 'noisy'] received scores [0.5375165343284607, 0.4624834358692169]
+
+decades/1830s/D&C/section_20.txt
+
+But neither teachers nor deacons have authority to baptize, administer the sacrament, or lay on hands;  They are, however, to warn, expound, exhort, and teach, and invite all to come unto Christ.
+
+['quiet', 'loud'] received scores [0.6053396463394165, 0.3946603536605835]
+['soft', 'loud'] received scores [0.6027573347091675, 0.39724263548851013]
+['quiet', 'noisy'] received scores [0.718466579914093, 0.2815333902835846]
+['soft', 'noisy'] received scores [0.716277539730072, 0.2837224006652832]
+
+decades/1830s/D&C/section_20.txt
+
+The duty of the members after they are received by baptism—The elders or priests are to have a sufficient time to expound all things concerning the church of Christ to their understanding, previous to their partaking of the sacrament and being confirmed by the laying on of the hands of the elders, so that all things may be done in order.
+
+['quiet', 'loud'] received scores [0.7374866604804993, 0.26251333951950073]
+['soft', 'loud'] received scores [0.6204618811607361, 0.3795381784439087]
+['quiet', 'noisy'] received scores [0.8183367252349854, 0.18166327476501465]
+['soft', 'noisy'] received scores [0.7238583564758301, 0.2761416435241699]
+
+decades/1830s/D&C/section_27.txt
+
+For, behold, I say unto you, that it mattereth not what ye shall eat or what ye shall drink when ye partake of the sacrament, if it so be that ye do it with an eye single to my glory—remembering unto the Father my body which was laid down for you, and my blood which was shed for the remission of your sins.
+
+['quiet', 'loud'] received scores [0.5835815072059631, 0.4164184629917145]
+['loud', 'soft'] received scores [0.7338582277297974, 0.26614174246788025]
+['quiet', 'noisy'] received scores [0.7709081768989563, 0.2290917932987213]
+['noisy', 'soft'] received scores [0.5345284342765808, 0.4654715955257416]
+
+decades/1830s/D&C/section_46.txt
+
+Ye are also commanded not to cast any one who belongeth to the church out of your sacrament meetings; nevertheless, if any have trespassed, let him not partake until he makes reconciliation.
+
+['loud', 'quiet'] received scores [0.6283479332923889, 0.3716520071029663]
+['loud', 'soft'] received scores [0.7056209444999695, 0.29437902569770813]
+['quiet', 'noisy'] received scores [0.5876657366752625, 0.41233426332473755]
+['soft', 'noisy'] received scores [0.5013124942779541, 0.4986875355243683]
+
+decades/1830s/D&C/section_46.txt
+
+And again I say unto you, ye shall not cast any out of your sacrament meetings who are earnestly seeking the kingdom—I speak this concerning those who are not of the church.
+
+['loud', 'quiet'] received scores [0.6664708256721497, 0.33352920413017273]
+['loud', 'soft'] received scores [0.7903907895088196, 0.20960921049118042]
+['quiet', 'noisy'] received scores [0.5876205563545227, 0.4123793840408325]
+['noisy', 'soft'] received scores [0.5697617530822754, 0.4302383065223694]
+
+decades/1830s/D&C/section_59.txt
+
+And that thou mayest more fully keep thyself unspotted from the world, thou shalt go to the house of prayer and offer up thy sacraments upon my holy day;  For verily this is a day appointed unto you to rest from your labors, and to pay thy devotions unto the Most High;  Nevertheless thy vows shall be offered up in righteousness on all days and at all times;  But remember that on this, the Lord’s day, thou shalt offer thine oblations and thy sacraments unto the Most High, confessing thy sins unto thy brethren, and before the Lord.
+
+['quiet', 'loud'] received scores [0.9719458222389221, 0.028054198250174522]
+['soft', 'loud'] received scores [0.5321965217590332, 0.4678034782409668]
+['quiet', 'noisy'] received scores [0.9854912757873535, 0.01450870931148529]
+['soft', 'noisy'] received scores [0.6904435753822327, 0.30955639481544495]
+
+decades/1830s/D&C/section_62.txt
+
+Assemble yourselves upon the land of Zion; and hold a meeting and rejoice together, and offer a sacrament unto the Most High.
+
+['loud', 'quiet'] received scores [0.6435368061065674, 0.3564632534980774]
+['loud', 'soft'] received scores [0.7674485445022583, 0.2325514256954193]
+['quiet', 'noisy'] received scores [0.7236354947090149, 0.2763645350933075]
+['soft', 'noisy'] received scores [0.5888842940330505, 0.41111570596694946]
+
+decades/1830s/D&C/section_89.txt
+
+Behold, verily, thus saith the Lord unto you: In consequence of evils and designs which do and will exist in the hearts of conspiring men in the last days, I have warned you, and forewarn you, by giving unto you this word of wisdom by revelation—  That inasmuch as any man drinketh wine or strong drink among you, behold it is not good, neither meet in the sight of your Father, only in assembling yourselves together to offer up your sacraments before him.
+
+['loud', 'quiet'] received scores [0.5041490793228149, 0.49585092067718506]
+['loud', 'soft'] received scores [0.7538551092147827, 0.24614490568637848]
+['quiet', 'noisy'] received scores [0.6784238219261169, 0.32157617807388306]
+['noisy', 'soft'] received scores [0.5881069898605347, 0.41189298033714294]
+
+decades/1830s/D&C/section_95.txt
+
+And let the lower part of the inner court be dedicated unto me for your sacrament offering, and for your preaching, and your fasting, and your praying, and the offering up of your most holy desires unto me, saith your Lord.
+
+['quiet', 'loud'] received scores [0.6410084962844849, 0.35899147391319275]
+['loud', 'soft'] received scores [0.5683168172836304, 0.43168312311172485]
+['quiet', 'noisy'] received scores [0.799167275428772, 0.2008327692747116]
+['soft', 'noisy'] received scores [0.6286352276802063, 0.3713647425174713]
+

@@ -1,0 +1,99 @@
+﻿decades/1830s/D&C/section_101.txt
+
+Behold, it is my will, that all they who call on my name, and worship me according to mine everlasting gospel, should gather together, and stand in holy places;  And prepare for the revelation which is to come, when the veil of the covering of my temple, in my tabernacle, which hideth the earth, shall be taken off, and all flesh shall see me together.
+
+['quiet', 'loud'] received scores [0.5571999549865723, 0.44279998540878296]
+['loud', 'soft'] received scores [0.7760844826698303, 0.22391553223133087]
+['quiet', 'noisy'] received scores [0.7832086086273193, 0.21679140627384186]
+['noisy', 'soft'] received scores [0.5469450950622559, 0.45305490493774414]
+
+decades/1830s/D&C/section_109.txt
+
+And do thou grant, Holy Father, that all those who shall worship in this house may be taught words of wisdom out of the best books, and that they may seek learning even by study, and also by faith, as thou hast said
+
+['loud', 'quiet'] received scores [0.5008211135864258, 0.49917882680892944]
+['loud', 'soft'] received scores [0.6950745582580566, 0.3049253821372986]
+['quiet', 'noisy'] received scores [0.6889878511428833, 0.3110121190547943]
+['noisy', 'soft'] received scores [0.5063185691833496, 0.4936814308166504]
+
+decades/1830s/D&C/section_109.txt
+
+We ask thee, Holy Father, to establish the people that shall worship, and honorably hold a name and standing in this thy house, to all generations and for eternity;  That no weapon formed against them shall prosper; that he who diggeth a pit for them shall fall into the same himself;  That no combination of wickedness shall have power to rise up and prevail over thy people upon whom thy name shall be put in this house;  And if any people shall rise against this people, that thine anger be kindled against them;  And if they shall smite this people thou wilt smite them; thou wilt fight for thy people as thou didst in the day of battle, that they may be delivered from the hands of all their enemies.
+
+['loud', 'quiet'] received scores [0.5782343745231628, 0.42176562547683716]
+['loud', 'soft'] received scores [0.8553950190544128, 0.14460498094558716]
+['quiet', 'noisy'] received scores [0.7384969592094421, 0.2615029811859131]
+['noisy', 'soft'] received scores [0.6044057607650757, 0.3955942392349243]
+
+decades/1830s/D&C/section_115.txt
+
+Therefore, I command you to build a house unto me, for the gathering together of my saints, that they may worship me.
+
+['loud', 'quiet'] received scores [0.5023915767669678, 0.4976084530353546]
+['loud', 'soft'] received scores [0.596548855304718, 0.40345117449760437]
+['quiet', 'noisy'] received scores [0.7704641222953796, 0.22953590750694275]
+['soft', 'noisy'] received scores [0.6962268352508545, 0.3037731945514679]
+
+decades/1830s/D&C/section_133.txt
+
+And the servants of God shall go forth, saying with a loud voice: Fear God and give glory to him, for the hour of his judgment is come;  And worship him that made heaven, and earth, and the sea, and the fountains of waters—  Calling upon the name of the Lord day and night, saying: O that thou wouldst rend the heavens, that thou wouldst come down, that the mountains might flow down at thy presence.
+
+['loud', 'quiet'] received scores [0.9907427430152893, 0.009257247671484947]
+['loud', 'soft'] received scores [0.9837988615036011, 0.016201118007302284]
+['noisy', 'quiet'] received scores [0.9935348033905029, 0.006465228274464607]
+['noisy', 'soft'] received scores [0.9886612892150879, 0.011338770389556885]
+
+decades/1830s/D&C/section_18.txt
+
+And you shall fall down and worship the Father in my name.
+
+['loud', 'quiet'] received scores [0.5019814968109131, 0.4980185031890869]
+['loud', 'soft'] received scores [0.6308794021606445, 0.36912062764167786]
+['quiet', 'noisy'] received scores [0.7542036771774292, 0.2457962930202484]
+['soft', 'noisy'] received scores [0.6440747976303101, 0.35592520236968994]
+
+decades/1830s/D&C/section_20.txt
+
+By these things we know that there is a God in heaven, who is infinite and eternal, from everlasting to everlasting the same unchangeable God, the framer of heaven and earth, and all things which are in them;  And that he created man, male and female, after his own image and in his own likeness, created he them;  And gave unto them commandments that they should love and serve him, the only living and true God, and that he should be the only being whom they should worship.
+
+['quiet', 'loud'] received scores [0.6353644728660583, 0.3646354675292969]
+['loud', 'soft'] received scores [0.6237836480140686, 0.376216322183609]
+['quiet', 'noisy'] received scores [0.7703743577003479, 0.2296256422996521]
+['soft', 'noisy'] received scores [0.5373021960258484, 0.4626978635787964]
+
+decades/1830s/D&C/section_20.txt
+
+And we know that all men must repent and believe on the name of Jesus Christ, and worship the Father in his name, and endure in faith on his name to the end, or they cannot be saved in the kingdom of God.
+
+['loud', 'quiet'] received scores [0.6164531111717224, 0.3835468590259552]
+['loud', 'soft'] received scores [0.8338831067085266, 0.1661168783903122]
+['quiet', 'noisy'] received scores [0.6362518668174744, 0.363748162984848]
+['noisy', 'soft'] received scores [0.641009509563446, 0.35899049043655396]
+
+decades/1830s/D&C/section_42.txt
+
+Therefore, the residue shall be kept in my storehouse, to administer to the poor and the needy, as shall be appointed by the high council of the church, and the bishop and his council;  And for the purpose of purchasing lands for the public benefit of the church, and building houses of worship, and building up of the New Jerusalem which is hereafter to be revealed—  That my covenant people may be gathered in one in that day when I shall come to my temple.
+
+['quiet', 'loud'] received scores [0.5555408000946045, 0.4444592297077179]
+['loud', 'soft'] received scores [0.5823283791542053, 0.4176715910434723]
+['quiet', 'noisy'] received scores [0.7119429707527161, 0.2880570590496063]
+['soft', 'noisy'] received scores [0.5864760279655457, 0.41352391242980957]
+
+decades/1830s/D&C/section_76.txt
+
+And we beheld the glory of the Son, on the right hand of the Father, and received of his fulness;  And saw the holy angels, and them who are sanctified before his throne, worshiping God, and the Lamb, who worship him forever and ever.
+
+['loud', 'quiet'] received scores [0.6990471482276917, 0.30095288157463074]
+['loud', 'soft'] received scores [0.7254681587219238, 0.27453190088272095]
+['quiet', 'noisy'] received scores [0.624975860118866, 0.37502413988113403]
+['soft', 'noisy'] received scores [0.5942921042442322, 0.4057078957557678]
+
+decades/1830s/D&C/section_93.txt
+
+I give unto you these sayings that you may understand and know how to worship, and know what you worship, that you may come unto the Father in my name, and in due time receive of his fulness.
+
+['quiet', 'loud'] received scores [0.6877367496490479, 0.31226325035095215]
+['soft', 'loud'] received scores [0.5597386956214905, 0.4402613639831543]
+['quiet', 'noisy'] received scores [0.8102155923843384, 0.18978440761566162]
+['soft', 'noisy'] received scores [0.7113507986068726, 0.28864920139312744]
+

@@ -1,0 +1,243 @@
+﻿decades/1870s/14/an_incident_of_nauvoo_brigham_young.txt
+
+They arose in their carriages, buggies and wagons, and, like a tribe of Indians going into battle, or as if they were a pack of demons, yelling and shouting, they exclaimed, "We've got him!
+
+['loud', 'quiet'] received scores [0.9969934821128845, 0.0030065039172768593]
+['loud', 'soft'] received scores [0.9943437576293945, 0.005656233988702297]
+['noisy', 'quiet'] received scores [0.9979087114334106, 0.0020912939216941595]
+['noisy', 'soft'] received scores [0.9960623979568481, 0.003937605302780867]
+
+decades/1870s/14/attending_meetings—religion_&_science—geology—the_creation_brigham_young.txt
+
+Yes, we do differ in these respects from the Christian world; with them it is "glory, hallelujah," shouting "Praise the Lord," singing, praying and preaching; and when they are out of meeting they are too apt to enter into the spirit of the world.
+
+['loud', 'quiet'] received scores [0.9480242133140564, 0.05197573080658913]
+['loud', 'soft'] received scores [0.8839874267578125, 0.11601252108812332]
+['noisy', 'quiet'] received scores [0.9726986289024353, 0.027301402762532234]
+['noisy', 'soft'] received scores [0.9370430111885071, 0.06295696645975113]
+
+decades/1870s/14/attending_meetings—religion_&_science—geology—the_creation_brigham_young.txt
+
+Said I, "This shouting and singing one's self away to everlasting bliss, may be all very well in its place; but this alone is folly to me; my religion is to know the will of God and do it.
+
+['loud', 'quiet'] received scores [0.9814754724502563, 0.018524473533034325]
+['loud', 'soft'] received scores [0.9363910555839539, 0.06360895931720734]
+['noisy', 'quiet'] received scores [0.9906786680221558, 0.009321296587586403]
+['noisy', 'soft'] received scores [0.9672452211380005, 0.03275478258728981]
+
+decades/1870s/14/the_redemption_of_the_earth—pre-existence—marriage_orson_pratt.txt
+
+He begat us before the foundations of this earth were laid and before the morning stars sang together or the sons of God shouted for joy when the cornerstones of the earth were laid, as is written in the sayings of the patriarch Job.
+
+['loud', 'quiet'] received scores [0.9028375744819641, 0.0971624106168747]
+['loud', 'soft'] received scores [0.872697651386261, 0.1273023635149002]
+['noisy', 'quiet'] received scores [0.8434873223304749, 0.15651272237300873]
+['noisy', 'soft'] received scores [0.799034833908081, 0.20096518099308014]
+
+decades/1870s/14/the_redemption_of_the_earth—pre-existence—marriage_orson_pratt.txt
+
+Not his body, but the living being who inhabits the body, who thinks and reasons, and moves the body by his will, and that lives when the body is moldering in the dust; that being or those beings who shouted together when the cornerstones of the earth were laid.
+
+['loud', 'quiet'] received scores [0.9468430280685425, 0.05315691977739334]
+['loud', 'soft'] received scores [0.8881096243858337, 0.11189041286706924]
+['noisy', 'quiet'] received scores [0.9610218405723572, 0.03897812217473984]
+['noisy', 'soft'] received scores [0.9165742993354797, 0.08342569321393967]
+
+decades/1870s/14/the_redemption_of_the_earth—pre-existence—marriage_orson_pratt.txt
+
+Why did they rejoice and shout together for joy when the cornerstones, or rather, when the nucleus was formed around which the materials of this globe were gathered together?
+
+['loud', 'quiet'] received scores [0.9938374757766724, 0.006162592675536871]
+['loud', 'soft'] received scores [0.9532577395439148, 0.046742286533117294]
+['noisy', 'quiet'] received scores [0.995148777961731, 0.004851255100220442]
+['noisy', 'soft'] received scores [0.9628815054893494, 0.03711850568652153]
+
+decades/1870s/14/the_unchangeableness_of_the_gospel—the_triumph_of_truth_john_taylor.txt
+
+If nobody else knows on the earth besides, I know that the truths of God have been revealed; I know that the gospel has been restored; I know that this people will continue to cleave to the truth, that the kingdom of God will progress, and that by and by we will shout victory!
+
+['loud', 'quiet'] received scores [0.7490515112876892, 0.2509485185146332]
+['loud', 'soft'] received scores [0.9156516194343567, 0.08434835076332092]
+['noisy', 'quiet'] received scores [0.6912592649459839, 0.3087407052516937]
+['noisy', 'soft'] received scores [0.8906243443489075, 0.10937570035457611]
+
+decades/1870s/15/pre-existence_of_our_spirits_orson_pratt.txt
+
+Where were you, Job, when all the morning stars sang together, and all the sons of God shouted for joy; when the nucleus of this creation was commenced?
+
+['loud', 'quiet'] received scores [0.9775592088699341, 0.02244078367948532]
+['loud', 'soft'] received scores [0.9594205021858215, 0.040579479187726974]
+['noisy', 'quiet'] received scores [0.9686622619628906, 0.03133770450949669]
+['noisy', 'soft'] received scores [0.9437460899353027, 0.05625388026237488]
+
+decades/1870s/15/pre-existence_of_our_spirits_orson_pratt.txt
+
+But the very question implies the existence of Job, but he had forgotten where he was, and the Lord put the question as though he did exist, showing to him in the declaration, that, when he laid the cornerstone of the earth, there were a great many sons of God there, and that they all shouted together for joy.
+
+['loud', 'quiet'] received scores [0.9590913653373718, 0.04090861976146698]
+['loud', 'soft'] received scores [0.8899327516555786, 0.11006724089384079]
+['noisy', 'quiet'] received scores [0.9598547220230103, 0.040145255625247955]
+['noisy', 'soft'] received scores [0.8918411135673523, 0.1081588938832283]
+
+decades/1870s/15/pre-existence_of_our_spirits_orson_pratt.txt
+
+Jesus was also there and superintended the work, for by him God made the worlds, consequently he must have been there, and all felt joyful, and shouted for joy.
+
+['loud', 'quiet'] received scores [0.9922546744346619, 0.007745339069515467]
+['loud', 'soft'] received scores [0.9698268175125122, 0.03017321787774563]
+['noisy', 'quiet'] received scores [0.9915786385536194, 0.008421365171670914]
+['noisy', 'soft'] received scores [0.9672578573226929, 0.03274219110608101]
+
+decades/1870s/15/pre-existence_of_our_spirits_orson_pratt.txt
+
+I think it would impart a good deal of information to us, and perhaps we would shout for joy again.
+
+['loud', 'quiet'] received scores [0.9780986905097961, 0.02190132811665535]
+['loud', 'soft'] received scores [0.9413275718688965, 0.05867241322994232]
+['noisy', 'quiet'] received scores [0.9764501452445984, 0.02354983240365982]
+['noisy', 'soft'] received scores [0.9370893239974976, 0.06291064620018005]
+
+decades/1870s/15/riches—hurry—fashion—helping_the_poor—mysteries_brigham_young.txt
+
+Instead of shouting, "Sally, where's the dishcloth?" "Susan, where's the broom?" or, "Nancy, have you seen the holder? I want the holder," be calm and composed; you are in too much of a hurry.
+
+['loud', 'quiet'] received scores [0.5276975631713867, 0.4723024368286133]
+['loud', 'soft'] received scores [0.8419539928436279, 0.15804600715637207]
+['noisy', 'quiet'] received scores [0.6695449352264404, 0.33045506477355957]
+['noisy', 'soft'] received scores [0.9061972498893738, 0.09380273520946503]
+
+decades/1870s/16/distinguishing_characteristics_between_the_latter-day_saints_and_the_various_religious_denominations_of_christendom_orson_pratt.txt
+
+On the seventh day they were to go round  the walls of the city seven times, and when they had completed their last circuit on the seventh day they were to give a certain blast with the horns, and all the people were to give a shout, then the walls were to fall down.
+
+['loud', 'quiet'] received scores [0.9698289632797241, 0.030171003192663193]
+['loud', 'soft'] received scores [0.9307698011398315, 0.06923017650842667]
+['noisy', 'quiet'] received scores [0.9853902459144592, 0.01460973359644413]
+['noisy', 'soft'] received scores [0.9657654762268066, 0.03423452377319336]
+
+decades/1870s/16/improved_circumstances_of_the_saints_in_utah—potency_of_the_law_of_tithing_franklin_d._richards.txt
+
+When the sons of God shouted, and the morning stars sang together for joy at having the earth prepared to come and dwell upon, to pass through this state of existence, did we not then realize that it was being prepared for us, but that it was his, and that we were coming to dwell upon it as his?
+
+['loud', 'quiet'] received scores [0.9930675029754639, 0.006932509131729603]
+['loud', 'soft'] received scores [0.9781787395477295, 0.021821264177560806]
+['noisy', 'quiet'] received scores [0.9949722290039062, 0.005027772393077612]
+['noisy', 'soft'] received scores [0.9841088056564331, 0.015891239047050476]
+
+decades/1870s/16/the_saving_ordinances_of_the_gospel_daniel_h._wells.txt
+
+The great plan of salvation, devised by our heavenly Father before the world was organized, when it is said the stars sang together, and the sons of God shouted for joy, has again been revealed in accordance with the prophecies of the servant of God.
+
+['loud', 'quiet'] received scores [0.9881496429443359, 0.011850331909954548]
+['loud', 'soft'] received scores [0.931679368019104, 0.06832069158554077]
+['noisy', 'quiet'] received scores [0.975180983543396, 0.02481899783015251]
+['noisy', 'soft'] received scores [0.8653331995010376, 0.13466677069664001]
+
+decades/1870s/17/the_saints_have_the_priesthood—the_kingdom_of_heaven_to_be_set_up_in_the_last_days—the_saints_must_be_self-sustaining_daniel_h._.txt
+
+This plan of salvation was devised before this earth was organized and made habitable for the children of men to dwell on, away in the eternities back, "when the morning stars sang together and all the sons of God shouted for joy," if you know when that was.
+
+['loud', 'quiet'] received scores [0.9119794964790344, 0.08802048116922379]
+['loud', 'soft'] received scores [0.8384578824043274, 0.1615421026945114]
+['noisy', 'quiet'] received scores [0.8782982230186462, 0.12170176208019257]
+['noisy', 'soft'] received scores [0.7833274006843567, 0.2166725993156433]
+
+decades/1870s/17/the_things_of_god_known_by_the_spirit_of_god—the_light_and_intelligence_of_god_without_money_and_price—now_true_religion_without.txt
+
+Says one, "My father was a good man; or, My mother or my sister was a good woman, my brother was a good man, my neighbor was a good person; they lived and died believing in their several faiths; some of them holy Catholics, who died shouting and rejoicing that the time had come for them to be released from this tenement of clay.
+
+['loud', 'quiet'] received scores [0.9831876158714294, 0.016812385991215706]
+['loud', 'soft'] received scores [0.9024078845977783, 0.09759210795164108]
+['noisy', 'quiet'] received scores [0.9818731546401978, 0.01812686026096344]
+['noisy', 'soft'] received scores [0.8954492807388306, 0.10455072671175003]
+
+decades/1870s/17/what_the_gospel_teaches—revelation_from_god_necessary—the_faith_and_doctrines_of_the_latter-day_saints_john_taylor.txt
+
+We shall live and shout among the assembled throng, in the eternal heavens, "Hosanna, blessed be the God of Israel," and his kingdom shall grow and increase until the kingdoms of this world shall become the kingdoms of our God and his Christ, and he will rule and reign forever and ever.
+
+['loud', 'quiet'] received scores [0.984420895576477, 0.015579115599393845]
+['loud', 'soft'] received scores [0.9538437128067017, 0.04615623876452446]
+['noisy', 'quiet'] received scores [0.9874550104141235, 0.012545013800263405]
+['noisy', 'soft'] received scores [0.9626067280769348, 0.03739330545067787]
+
+decades/1870s/18/salvation_tangible—personality_of_god—character_of_god—pre-existence_of_man—jesus_our_elder_brother—transformation_of_the_earth—.txt
+
+Where wast thou, "when the morning stars sang together, and all the sons of God shouted for joy?
+
+['loud', 'quiet'] received scores [0.9305218458175659, 0.06947816908359528]
+['loud', 'soft'] received scores [0.8839277029037476, 0.11607228964567184]
+['noisy', 'quiet'] received scores [0.912119448184967, 0.08788055181503296]
+['noisy', 'soft'] received scores [0.8551058173179626, 0.14489418268203735]
+
+decades/1870s/19/temples_in_ancient_america—the_god_of_mankind_an_impossible_god—the_truth_in_regard_to_him—man_in_his_image—pre-existence—why_in.txt
+
+Where were you,  Job, when the morning stars sang together, and all the sons of God shouted for joy?
+
+['loud', 'quiet'] received scores [0.9740608334541321, 0.025939147919416428]
+['loud', 'soft'] received scores [0.9615311026573181, 0.0384688526391983]
+['noisy', 'quiet'] received scores [0.9610024094581604, 0.03899751231074333]
+['noisy', 'soft'] received scores [0.9425371289253235, 0.05746284872293472]
+
+decades/1870s/19/the_outpouring_of_the_spirit—the_records_of_the_past—the_two_sticks—the_promises_and_blessings_of_joseph—the_sanctified_earth—th.txt
+
+If we want a knowledge of  this world or of ourselves, when our spirits were born, or if we desire to know things that took place before the foundations of the world were laid or the nucleus was formed, when the sons of God shouted for joy, if we desired to know these things it would only be necessary for the Spirit of the Lord to touch the vision of our minds and light up our understanding and we could gaze upon things past for thousands of generations of worlds before the earth was made, and we could see the succession of worlds that have been and were in existence long before this earth was formed, we could see the ordeals through which they had passed, see them brought into existence and passing through their several changes and finally become glorified celestial mansions in the presence of God.
+
+['loud', 'quiet'] received scores [0.7998708486557007, 0.20012907683849335]
+['loud', 'soft'] received scores [0.8672178983688354, 0.13278208673000336]
+['noisy', 'quiet'] received scores [0.5756981372833252, 0.4243018329143524]
+['noisy', 'soft'] received scores [0.6891677379608154, 0.3108322024345398]
+
+decades/1870s/20/discourse_by_elder_orson_pratt_orson_pratt.txt
+
+"Where wast thou," "speaking to Job," "when I laid the corner stone of the earth, when all the sons of God shouted for joy, and the morning stars sang together?
+
+['loud', 'quiet'] received scores [0.9529440999031067, 0.04705589637160301]
+['loud', 'soft'] received scores [0.8914262652397156, 0.10857374966144562]
+['noisy', 'quiet'] received scores [0.951615571975708, 0.048384442925453186]
+['noisy', 'soft'] received scores [0.8885639905929565, 0.11143604665994644]
+
+decades/1870s/20/interpretation_of_scripture—apparent_miracles_easily_performed_when_necessary—disobedience_brings_calamity—fulfillment_of_prophe.txt
+
+The Apostle Paul informs us that, "The Lord himself shall descend from heaven with a shout, with the voice of the Archangel, and with the trump of God; and the dead in Christ shall rise first.
+
+['loud', 'quiet'] received scores [0.985925018787384, 0.01407497376203537]
+['loud', 'soft'] received scores [0.9746873378753662, 0.025312649086117744]
+['noisy', 'quiet'] received scores [0.987932562828064, 0.012067396193742752]
+['noisy', 'soft'] received scores [0.9782624840736389, 0.021737530827522278]
+
+decades/1870s/20/restitution_of_all_things—pre-existence_of_man—first_principles_of_the_gospel_john_morgan.txt
+
+Again, we find in the writings of Job, speaking of the organization of the world, that "the sons of God shouted for joy when the foundation of the earth was laid.
+
+['loud', 'quiet'] received scores [0.9703246355056763, 0.029675396159291267]
+['loud', 'soft'] received scores [0.9318175315856934, 0.06818246096372604]
+['noisy', 'quiet'] received scores [0.9657331705093384, 0.03426686301827431]
+['noisy', 'soft'] received scores [0.9217485785484314, 0.07825138419866562]
+
+decades/1870s/21/how_a_knowledge_of_god_is_obtained—the_gospel_to_the_dead—various_dispensations_of_the_most_high_to_mankind—power_of_the_priesth.txt
+
+It was not a matter of theory, according to the opinions of men, but an immutable plan, according to the eternal wisdom of God as it existed in his bosom before the world was, or "before the morning stars sang together, and all the sons of God shouted for joy.
+
+['loud', 'quiet'] received scores [0.9031187295913696, 0.09688133001327515]
+['loud', 'soft'] received scores [0.8952231407165527, 0.10477686673402786]
+['noisy', 'quiet'] received scores [0.851674497127533, 0.14832547307014465]
+['noisy', 'soft'] received scores [0.8403276801109314, 0.1596723347902298]
+
+decades/1870s/21/the_power_of_god_to_communicate_intelligence—difference_in_capacity_between_the_mortal_and_the_immortal—the_future_of_man,_etc_o.txt
+
+Did they all shout for joy when the materials were brought together, and when the foundations of the earth were laid?
+
+['loud', 'quiet'] received scores [0.9748755693435669, 0.025124428793787956]
+['loud', 'soft'] received scores [0.9148481488227844, 0.08515181392431259]
+['noisy', 'quiet'] received scores [0.978556215763092, 0.021443773061037064]
+['noisy', 'soft'] received scores [0.9266611337661743, 0.07333888113498688]
+
+decades/1870s/21/the_power_of_god_to_communicate_intelligence—difference_in_capacity_between_the_mortal_and_the_immortal—the_future_of_man,_etc_o.txt
+
+They shouted for joy when they saw the nucleus of this creation formed.
+
+['loud', 'quiet'] received scores [0.9960973858833313, 0.0039026052691042423]
+['loud', 'soft'] received scores [0.9793199896812439, 0.020680012181401253]
+['noisy', 'quiet'] received scores [0.9973245859146118, 0.0026753738056868315]
+['noisy', 'soft'] received scores [0.9857475757598877, 0.014252366498112679]
+

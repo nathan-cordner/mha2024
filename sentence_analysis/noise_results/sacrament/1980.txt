@@ -1,0 +1,2403 @@
+﻿decades/1980s/1980_A/groberg_writing_your_personal_and_family_history.txt
+
+This young father and his son very often took the responsibility for blessing and passing the sacrament.
+
+['loud', 'quiet'] received scores [0.6900485157966614, 0.309951514005661]
+['loud', 'soft'] received scores [0.5382961630821228, 0.4617038369178772]
+['quiet', 'noisy'] received scores [0.6642869114875793, 0.33571308851242065]
+['soft', 'noisy'] received scores [0.7907277941703796, 0.20927217602729797]
+
+decades/1980s/1980_A/groberg_writing_your_personal_and_family_history.txt
+
+They reverently broke the bread while the congregation sang the sacrament hymn.
+
+['loud', 'quiet'] received scores [0.5844184160232544, 0.4155815541744232]
+['soft', 'loud'] received scores [0.5407220125198364, 0.4592779576778412]
+['quiet', 'noisy'] received scores [0.7309014201164246, 0.26909855008125305]
+['soft', 'noisy'] received scores [0.8180793523788452, 0.1819206178188324]
+
+decades/1980s/1980_A/groberg_writing_your_personal_and_family_history.txt
+
+When the hymn was finished, the young father began to kneel to offer the sacrament prayer.
+
+['loud', 'quiet'] received scores [0.5902842283248901, 0.40971583127975464]
+['soft', 'loud'] received scores [0.5374892950057983, 0.46251070499420166]
+['quiet', 'noisy'] received scores [0.6673704981803894, 0.3326295018196106]
+['soft', 'noisy'] received scores [0.770598828792572, 0.22940117120742798]
+
+decades/1980s/1980_A/groberg_writing_your_personal_and_family_history.txt
+
+You can’t touch the sacrament.
+
+['quiet', 'loud'] received scores [0.8349392414093018, 0.16506078839302063]
+['soft', 'loud'] received scores [0.5915771126747131, 0.40842288732528687]
+['quiet', 'noisy'] received scores [0.9109625816345215, 0.08903738111257553]
+['soft', 'noisy'] received scores [0.745525598526001, 0.254474401473999]
+
+decades/1980s/1980_A/groberg_writing_your_personal_and_family_history.txt
+
+Leave immediately while someone else fixes new sacrament bread.
+
+['quiet', 'loud'] received scores [0.8433170914649963, 0.15668292343616486]
+['soft', 'loud'] received scores [0.523774266242981, 0.47622573375701904]
+['quiet', 'noisy'] received scores [0.8865853548049927, 0.11341460794210434]
+['soft', 'noisy'] received scores [0.6149995923042297, 0.38500040769577026]
+
+decades/1980s/1980_A/haight_“he_is_not_here._he_is_risen”.txt
+
+After this manner also he took the cup, saying, “This is my blood of the new testament, which is shed for many for the remission of sins,” thus establishing the pattern for the sacrament as a sacred ordinance in his church.
+
+['loud', 'quiet'] received scores [0.6724563241004944, 0.3275436460971832]
+['loud', 'soft'] received scores [0.6897494196891785, 0.3102506399154663]
+['quiet', 'noisy'] received scores [0.6183814406394958, 0.38161855936050415]
+['soft', 'noisy'] received scores [0.5994207262992859, 0.4005793035030365]
+
+decades/1980s/1980_A/haight_“he_is_not_here._he_is_risen”.txt
+
+The Prophet Joseph Smith’s account of the first organization meeting is inspiring to read and contemplate—the Whitmer home, the opening prayer, approval to organize the Church as commanded, Joseph and Oliver Cowdery ordained elders, the sacrament; and then all members present were blessed with the gift of the Holy Ghost.
+
+['loud', 'quiet'] received scores [0.8942904472351074, 0.10570956766605377]
+['loud', 'soft'] received scores [0.8861733078956604, 0.11382666230201721]
+['quiet', 'noisy'] received scores [0.6018168926239014, 0.398183137178421]
+['soft', 'noisy'] received scores [0.6215519309043884, 0.3784480690956116]
+
+decades/1980s/1980_A/monson_preparing_the_way.txt
+
+Knowing that his sacrament meeting time was six o’clock, and desiring minimum exposure of my scriptural knowledge to his review, I suggested, “How would five o’clock be?
+
+['quiet', 'loud'] received scores [0.685253918170929, 0.31474608182907104]
+['soft', 'loud'] received scores [0.7300117611885071, 0.2699882686138153]
+['quiet', 'noisy'] received scores [0.6670297980308533, 0.33297020196914673]
+['soft', 'noisy'] received scores [0.7132948637008667, 0.2867051362991333]
+
+decades/1980s/1980_O/backman_to_the_young_men_of_the_church.txt
+
+While visiting a sacrament meeting on Okinawa, I was so impressed with the manner in which the Aaronic Priesthood prepared and passed the sacrament that, when my turn came to speak, I invited two of the deacons to join me at the pulpit.
+
+['loud', 'quiet'] received scores [0.5724291801452637, 0.42757081985473633]
+['loud', 'soft'] received scores [0.6829711198806763, 0.3170289099216461]
+['quiet', 'noisy'] received scores [0.6495216488838196, 0.3504783809185028]
+['soft', 'noisy'] received scores [0.53525310754776, 0.4647469222545624]
+
+decades/1980s/1980_O/ballard_the_savior’s_touch.txt
+
+One Sunday she decided to attend sacrament meeting in a ward where she was not acquainted.
+
+['quiet', 'loud'] received scores [0.7070716619491577, 0.2929283082485199]
+['soft', 'loud'] received scores [0.5847235918045044, 0.4152763783931732]
+['quiet', 'noisy'] received scores [0.7910493016242981, 0.20895065367221832]
+['soft', 'noisy'] received scores [0.6883149147033691, 0.31168511509895325]
+
+decades/1980s/1980_O/ballard_the_savior’s_touch.txt
+
+As the sacrament was passed, this little boy noticed that she did not take the sacrament bread.
+
+['loud', 'quiet'] received scores [0.626122772693634, 0.37387722730636597]
+['soft', 'loud'] received scores [0.5512946248054504, 0.44870540499687195]
+['quiet', 'noisy'] received scores [0.566179096698761, 0.4338208734989166]
+['soft', 'noisy'] received scores [0.7286532521247864, 0.2713467478752136]
+
+decades/1980s/1980_O/benson_prepare_for_the_days_of_tribulation.txt
+
+I cannot forget the French Saints who, unable to obtain bread, used potato peelings for the emblems of the sacrament.
+
+['loud', 'quiet'] received scores [0.8490344882011414, 0.15096546709537506]
+['loud', 'soft'] received scores [0.5811029672622681, 0.41889703273773193]
+['noisy', 'quiet'] received scores [0.6426555514335632, 0.357344388961792]
+['soft', 'noisy'] received scores [0.6927136778831482, 0.3072862923145294]
+
+decades/1980s/1980_O/dehaan_“is_any_thing_too_hard_for_the_lord”.txt
+
+But the very next Sunday I was sitting on the stand during one of our ward sacrament meetings.
+
+['quiet', 'loud'] received scores [0.6667037010192871, 0.3332963287830353]
+['soft', 'loud'] received scores [0.5402297973632812, 0.45977020263671875]
+['quiet', 'noisy'] received scores [0.7014936208724976, 0.29850634932518005]
+['soft', 'noisy'] received scores [0.5799028873443604, 0.42009714245796204]
+
+decades/1980s/1980_O/wells_know_the_shepherd.txt
+
+There was an interruption at the sacrament table at the most sacred moment.
+
+['loud', 'quiet'] received scores [0.7678061127662659, 0.23219385743141174]
+['loud', 'soft'] received scores [0.6732396483421326, 0.32676035165786743]
+['noisy', 'quiet'] received scores [0.8324421644210815, 0.16755786538124084]
+['noisy', 'soft'] received scores [0.7558286786079407, 0.24417132139205933]
+
+decades/1980s/1980_O/wirthlin_let_every_man_learn_his_duty.txt
+
+“Attendance at sacrament meeting?
+
+['loud', 'quiet'] received scores [0.6377546787261963, 0.3622452914714813]
+['loud', 'soft'] received scores [0.5154353380203247, 0.4845646917819977]
+['quiet', 'noisy'] received scores [0.5900791883468628, 0.4099208116531372]
+['soft', 'noisy'] received scores [0.7043634653091431, 0.29563647508621216]
+
+decades/1980s/1980_O/wirthlin_let_every_man_learn_his_duty.txt
+
+Each should partake of the sacrament worthily and labor to strengthen the influence of the Holy Ghost in his life.
+
+['loud', 'quiet'] received scores [0.5400243401527405, 0.4599756598472595]
+['loud', 'soft'] received scores [0.6047183275222778, 0.3952816128730774]
+['quiet', 'noisy'] received scores [0.5398516058921814, 0.4601484537124634]
+['noisy', 'soft'] received scores [0.5262205600738525, 0.47377943992614746]
+
+decades/1980s/1981_A/haight_the_responsibility_of_young_aaronic_priesthood_bearers.txt
+
+You hold this same sacred authority to declare repentance, to baptize, to administer the sacrament, to assist the bishop, and to be concerned for those needing special encouragement.
+
+['loud', 'quiet'] received scores [0.6072477102279663, 0.3927522897720337]
+['loud', 'soft'] received scores [0.7835167646408081, 0.21648328006267548]
+['quiet', 'noisy'] received scores [0.6353094577789307, 0.3646905720233917]
+['noisy', 'soft'] received scores [0.5733319520950317, 0.42666810750961304]
+
+decades/1980s/1981_A/haight_the_responsibility_of_young_aaronic_priesthood_bearers.txt
+
+We chopped wood for the elderly and the widows, filled the coal bins at church, cleaned the meetinghouse every Saturday afternoon, swept the steps, raked the gravel yard, saw that the sacrament trays and lace sacrament cloths were clean and fresh, and had real pride in the appearance of our little meetinghouse.
+
+['quiet', 'loud'] received scores [0.5441710948944092, 0.4558289051055908]
+['soft', 'loud'] received scores [0.5631932020187378, 0.4368067681789398]
+['quiet', 'noisy'] received scores [0.7056658864021301, 0.2943341135978699]
+['soft', 'noisy'] received scores [0.7213990688323975, 0.2786009609699249]
+
+decades/1980s/1981_A/paramore_love_one_another.txt
+
+A few Sundays ago as I sat in a sacrament meeting in Germany, tears of gratitude filled my eyes and my heart was full.
+
+['loud', 'quiet'] received scores [0.7042222023010254, 0.2957777976989746]
+['loud', 'soft'] received scores [0.552950382232666, 0.44704970717430115]
+['quiet', 'noisy'] received scores [0.5685809254646301, 0.4314190745353699]
+['soft', 'noisy'] received scores [0.7172681093215942, 0.2827318608760834]
+
+decades/1980s/1981_A/paramore_love_one_another.txt
+
+On this very same day in that sacrament meeting was a new convert who is awaiting the arrival of her first child.
+
+['loud', 'quiet'] received scores [0.5678353309631348, 0.43216466903686523]
+['loud', 'soft'] received scores [0.5701625943183899, 0.4298374056816101]
+['quiet', 'noisy'] received scores [0.6788469552993774, 0.32115304470062256]
+['soft', 'noisy'] received scores [0.6767745018005371, 0.3232254385948181]
+
+decades/1980s/1981_A/romney_gospel_covenants.txt
+
+Another instruction the Lord has given us is: “That thou mayest more fully keep thyself unspotted from the world, thou shalt go to the house of prayer and offer up thy sacraments upon my holy day.
+
+['quiet', 'loud'] received scores [0.9522961378097534, 0.04770386591553688]
+['loud', 'soft'] received scores [0.5935750603675842, 0.4064249098300934]
+['quiet', 'noisy'] received scores [0.975365400314331, 0.02463461644947529]
+['soft', 'noisy'] received scores [0.5759162902832031, 0.4240837097167969]
+
+decades/1980s/1981_A/romney_gospel_covenants.txt
+
+The sacrament prayers—dictated by the Lord himself—should keep us constantly reminded of the gospel covenants we have entered into with the Lord.
+
+['loud', 'quiet'] received scores [0.6433145999908447, 0.3566853404045105]
+['loud', 'soft'] received scores [0.6314989328384399, 0.36850112676620483]
+['quiet', 'noisy'] received scores [0.5040321946144104, 0.495967835187912]
+['soft', 'noisy'] received scores [0.5168077945709229, 0.48319223523139954]
+
+decades/1980s/1981_A/tanner_he_is_there.txt
+
+I wonder how many of us know that we are spirit children of God; and when we are praying, whether it’s over a meal, beginning or closing of a meeting, or at a baptism or confirmation, or the blessing of the bread and water in the sacrament, that we are actually talking to God.
+
+['quiet', 'loud'] received scores [0.6287164688110352, 0.37128353118896484]
+['loud', 'soft'] received scores [0.5281038880348206, 0.47189608216285706]
+['quiet', 'noisy'] received scores [0.8016859292984009, 0.19831399619579315]
+['soft', 'noisy'] received scores [0.6808361411094666, 0.3191639184951782]
+
+decades/1980s/1981_O/abrea_the_“little_things”_and_eternal_life.txt
+
+More specifically, speaking about the Sabbath day, have we thought about the spiritual malnourishment that results from not attending our sacrament meetings, or attending them with a wrong attitude?
+
+['loud', 'quiet'] received scores [0.598598301410675, 0.40140172839164734]
+['loud', 'soft'] received scores [0.7340741157531738, 0.2659258246421814]
+['quiet', 'noisy'] received scores [0.5112420916557312, 0.4887579381465912]
+['noisy', 'soft'] received scores [0.6389451026916504, 0.3610548675060272]
+
+decades/1980s/1981_O/abrea_the_“little_things”_and_eternal_life.txt
+
+The sacred covenant made by the members of the Church at baptism should be the prevailing thought and feeling in our hearts and minds as we partake of the sacrament.
+
+['loud', 'quiet'] received scores [0.5659122467041016, 0.4340877830982208]
+['loud', 'soft'] received scores [0.6844736933708191, 0.3155263364315033]
+['quiet', 'noisy'] received scores [0.6724122166633606, 0.3275877833366394]
+['soft', 'noisy'] received scores [0.5522831082344055, 0.44771692156791687]
+
+decades/1980s/1981_O/abrea_the_“little_things”_and_eternal_life.txt
+
+If we really understand the purpose of our sacrament meetings, we will attend them not just to hear someone speak, which is of course important, but to renew the sacred covenants made with our Father in Heaven in the name of his son, Jesus Christ.
+
+['loud', 'quiet'] received scores [0.5406162142753601, 0.4593837559223175]
+['loud', 'soft'] received scores [0.5646286606788635, 0.4353713393211365]
+['quiet', 'noisy'] received scores [0.738964319229126, 0.2610357403755188]
+['soft', 'noisy'] received scores [0.7197954058647156, 0.2802045941352844]
+
+decades/1980s/1981_O/monson_“he_is_risen”.txt
+
+We miss seeing the sacrament blessed and passed by our sons.
+
+['quiet', 'loud'] received scores [0.5904147028923035, 0.4095853865146637]
+['soft', 'loud'] received scores [0.566272497177124, 0.43372753262519836]
+['quiet', 'noisy'] received scores [0.8206576704978943, 0.1793423742055893]
+['soft', 'noisy'] received scores [0.8056186437606812, 0.19438137114048004]
+
+decades/1980s/1981_O/packer_the_aaronic_priesthood.txt
+
+I have, as a member of the Quorum of the Twelve Apostles, passed the sacrament.
+
+['quiet', 'loud'] received scores [0.5091928839683533, 0.49080708622932434]
+['soft', 'loud'] received scores [0.5337467193603516, 0.4662533104419708]
+['quiet', 'noisy'] received scores [0.6809670329093933, 0.3190329372882843]
+['soft', 'noisy'] received scores [0.7019574046134949, 0.2980426251888275]
+
+decades/1980s/1981_O/packer_the_aaronic_priesthood.txt
+
+We look back to that same event through the ordinance of the sacrament.
+
+['quiet', 'loud'] received scores [0.613179087638855, 0.38682088255882263]
+['soft', 'loud'] received scores [0.6852725744247437, 0.31472739577293396]
+['quiet', 'noisy'] received scores [0.7528095841407776, 0.24719037115573883]
+['soft', 'noisy'] received scores [0.8070676922798157, 0.19293232262134552]
+
+decades/1980s/1981_O/packer_the_aaronic_priesthood.txt
+
+Both sacrifice before, and the sacrament afterward, are centered in Christ, the shedding of His blood, and the atonement He made for our sins.
+
+['loud', 'quiet'] received scores [0.5612419247627258, 0.43875807523727417]
+['loud', 'soft'] received scores [0.6514577865600586, 0.3485422134399414]
+['quiet', 'noisy'] received scores [0.6024309396743774, 0.39756909012794495]
+['soft', 'noisy'] received scores [0.5090877413749695, 0.4909122586250305]
+
+decades/1980s/1981_O/packer_the_aaronic_priesthood.txt
+
+The priest is to “preach, teach, expound, exhort, and baptize, and administer the sacrament, and visit the house of each member.
+
+['loud', 'quiet'] received scores [0.7082530856132507, 0.29174694418907166]
+['soft', 'loud'] received scores [0.5606268048286438, 0.4393731355667114]
+['noisy', 'quiet'] received scores [0.6200412511825562, 0.3799588084220886]
+['soft', 'noisy'] received scores [0.6549564599990845, 0.3450435400009155]
+
+decades/1980s/1981_O/peterson_the_ministry_of_the_aaronic_priesthood_holder.txt
+
+Now, to my grandson for a moment: Darren, I remember a few weeks ago when we visited your ward sacrament meeting in Arizona.
+
+['quiet', 'loud'] received scores [0.6505783200263977, 0.3494216799736023]
+['loud', 'soft'] received scores [0.5110981464385986, 0.4889017939567566]
+['quiet', 'noisy'] received scores [0.7383732795715332, 0.2616267502307892]
+['soft', 'noisy'] received scores [0.5918330550193787, 0.4081669747829437]
+
+decades/1980s/1981_O/peterson_the_ministry_of_the_aaronic_priesthood_holder.txt
+
+I was seated on the stand and you were assigned to pass the sacrament to those seated there.
+
+['quiet', 'loud'] received scores [0.7197456359863281, 0.2802543342113495]
+['soft', 'loud'] received scores [0.6975584626197815, 0.3024415373802185]
+['quiet', 'noisy'] received scores [0.8158058524131775, 0.18419408798217773]
+['soft', 'noisy'] received scores [0.7991008758544922, 0.20089910924434662]
+
+decades/1980s/1981_O/peterson_the_ministry_of_the_aaronic_priesthood_holder.txt
+
+Did you know that I’ve passed the sacrament during sacred times to the Presidency of the Church, as well as to the Quorum of the Twelve Apostles and the other General Authorities?
+
+['loud', 'quiet'] received scores [0.6923801898956299, 0.3076198399066925]
+['loud', 'soft'] received scores [0.6776395440101624, 0.32236048579216003]
+['noisy', 'quiet'] received scores [0.5592883229255676, 0.4407116770744324]
+['noisy', 'soft'] received scores [0.5423852205276489, 0.4576147794723511]
+
+decades/1980s/1981_O/peterson_the_ministry_of_the_aaronic_priesthood_holder.txt
+
+Sacrament time is a very special time, and you are now an important part of it.
+
+['quiet', 'loud'] received scores [0.6099658012390137, 0.39003416895866394]
+['soft', 'loud'] received scores [0.5630840063095093, 0.43691596388816833]
+['quiet', 'noisy'] received scores [0.6979451179504395, 0.30205485224723816]
+['soft', 'noisy'] received scores [0.6556686758995056, 0.3443313241004944]
+
+decades/1980s/1981_O/peterson_the_ministry_of_the_aaronic_priesthood_holder.txt
+
+When you are a priest, as many in this meeting are, you will be able to administer the sacrament.
+
+['quiet', 'loud'] received scores [0.6686893105506897, 0.3313106596469879]
+['loud', 'soft'] received scores [0.5905524492263794, 0.409447580575943]
+['quiet', 'noisy'] received scores [0.7088024616241455, 0.2911974787712097]
+['noisy', 'soft'] received scores [0.5446153879165649, 0.45538461208343506]
+
+decades/1980s/1981_O/randall_finding_joy_by_serving_others.txt
+
+Our bishop organized a sacrament meeting and brought it in our home.
+
+['quiet', 'loud'] received scores [0.8076390027999878, 0.192360982298851]
+['soft', 'loud'] received scores [0.7259029746055603, 0.2740970253944397]
+['quiet', 'noisy'] received scores [0.8815612196922302, 0.1184387356042862]
+['soft', 'noisy'] received scores [0.8244063854217529, 0.17559359967708588]
+
+decades/1980s/1982_A/haight_jesus_is_our_savior.txt
+
+While in that upper room, Jesus, initiating the sacrament, picked up bread, brake it, prayed over it, and passed it to the disciples, saying: “This is my body which is given for you: this do in remembrance of me.
+
+['loud', 'quiet'] received scores [0.5321382284164429, 0.4678618311882019]
+['loud', 'soft'] received scores [0.601237416267395, 0.398762583732605]
+['quiet', 'noisy'] received scores [0.6814805865287781, 0.31851938366889954]
+['soft', 'noisy'] received scores [0.6174387335777283, 0.38256126642227173]
+
+decades/1980s/1982_A/haight_jesus_is_our_savior.txt
+
+After introducing the sacrament, the Savior said to His disciples, “It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you; but if I depart, I will send him unto you.
+
+['quiet', 'loud'] received scores [0.5057199597358704, 0.4942800998687744]
+['loud', 'soft'] received scores [0.6401402950286865, 0.3598596453666687]
+['quiet', 'noisy'] received scores [0.7426583766937256, 0.257341593503952]
+['soft', 'noisy'] received scores [0.6132461428642273, 0.3867538869380951]
+
+decades/1980s/1982_A/petersen_“we_believe_in_being_honest”.txt
+
+What shall we do with the sacrament of the Lord’s Supper wherein we pledge to high heaven, by the very crucifixion of the Christ, that we will always remember Him and keep His commandments which He has given us?
+
+['loud', 'quiet'] received scores [0.6868301630020142, 0.3131698966026306]
+['loud', 'soft'] received scores [0.8665655851364136, 0.13343445956707]
+['quiet', 'noisy'] received scores [0.5615656971931458, 0.43843427300453186]
+['noisy', 'soft'] received scores [0.6980579495429993, 0.30194199085235596]
+
+decades/1980s/1982_A/poelman_god’s_love_for_us_transcends_our_transgressions.txt
+
+Then, each week, as we receive the sacrament, we renew our covenant that we will “always remember him and keep his commandments.
+
+['quiet', 'loud'] received scores [0.5448273420333862, 0.45517271757125854]
+['loud', 'soft'] received scores [0.525677502155304, 0.47432246804237366]
+['quiet', 'noisy'] received scores [0.6503389477729797, 0.34966105222702026]
+['soft', 'noisy'] received scores [0.5836893320083618, 0.41631072759628296]
+
+decades/1980s/1982_A/wirthlin_pondering_strengthens_the_spiritual_life.txt
+
+All members should ponder over the instructions received in sacrament and priesthood meetings, in Relief Society, and in messages from home teachers.
+
+['quiet', 'loud'] received scores [0.6971255540847778, 0.3028744161128998]
+['soft', 'loud'] received scores [0.6330779790878296, 0.3669220209121704]
+['quiet', 'noisy'] received scores [0.7579096555709839, 0.2420903593301773]
+['soft', 'noisy'] received scores [0.7012065649032593, 0.29879340529441833]
+
+decades/1980s/1982_O/ashton_pure_religion.txt
+
+As is often done, a conducting officer announced that when the deacons were through passing the sacrament, they were invited to go and sit with their families.
+
+['quiet', 'loud'] received scores [0.5042827129364014, 0.49571728706359863]
+['soft', 'loud'] received scores [0.5190113186836243, 0.4809887111186981]
+['quiet', 'noisy'] received scores [0.6371442079544067, 0.36285582184791565]
+['soft', 'noisy'] received scores [0.6506598591804504, 0.3493401110172272]
+
+decades/1980s/1982_O/backman_revitalizing_aaronic_priesthood_quorums.txt
+
+The president then spoke about Mark’s particular responsibilities and duties: how he should dress, how he should pass the sacrament, act as a messenger, collect fast offerings.
+
+['loud', 'quiet'] received scores [0.8374017477035522, 0.16259825229644775]
+['loud', 'soft'] received scores [0.7332903742790222, 0.2667096257209778]
+['noisy', 'quiet'] received scores [0.6592957973480225, 0.34070420265197754]
+['noisy', 'soft'] received scores [0.5081286430358887, 0.49187135696411133]
+
+decades/1980s/1982_O/hinckley_the_priesthood_of_aaron.txt
+
+I hope you will never forget that in exercising your priesthood as young men, whether in passing the sacrament, in serving as a home teacher, in administering the sacrament, or in baptizing, you are acting as a servant of the Lord in his holy name and by his divine authority.
+
+['loud', 'quiet'] received scores [0.6256238222122192, 0.37437617778778076]
+['loud', 'soft'] received scores [0.7630171179771423, 0.23698289692401886]
+['quiet', 'noisy'] received scores [0.5994024872779846, 0.4005974531173706]
+['noisy', 'soft'] received scores [0.5628724694252014, 0.4371275007724762]
+
+decades/1980s/1982_O/hinckley_the_priesthood_of_aaron.txt
+
+I wish to speak a few thoughts concerning sacrament meetings.
+
+['quiet', 'loud'] received scores [0.6625511050224304, 0.3374488949775696]
+['soft', 'loud'] received scores [0.708480715751648, 0.29151928424835205]
+['quiet', 'noisy'] received scores [0.7757956981658936, 0.22420422732830048]
+['soft', 'noisy'] received scores [0.8107153177261353, 0.18928465247154236]
+
+decades/1980s/1982_O/hinckley_the_priesthood_of_aaron.txt
+
+The sacrament meeting is not a time for entertainment; it is not a time for telling stories unrelated to the gospel.
+
+['quiet', 'loud'] received scores [0.9237457513809204, 0.0762542113661766]
+['soft', 'loud'] received scores [0.8214982151985168, 0.17850175499916077]
+['quiet', 'noisy'] received scores [0.9370574951171875, 0.0629425123333931]
+['soft', 'noisy'] received scores [0.849756121635437, 0.1502438187599182]
+
+decades/1980s/1982_O/hinckley_the_priesthood_of_aaron.txt
+
+It is in our sacrament meetings that we should be testifying of the Lord and teaching of his life and ways, and particularly of his redeeming sacrifice.
+
+['quiet', 'loud'] received scores [0.5182378888130188, 0.4817621111869812]
+['loud', 'soft'] received scores [0.5466536283493042, 0.4533463418483734]
+['quiet', 'noisy'] received scores [0.7193416357040405, 0.28065839409828186]
+['soft', 'noisy'] received scores [0.6639742255210876, 0.33602580428123474]
+
+decades/1980s/1982_O/hinckley_the_priesthood_of_aaron.txt
+
+I think the Lord had in mind our sacrament meetings when, in a revelation given to Joseph Smith August 7, 1831, he said to us and to all of the people of his Church: “And that thou mayest more fully keep thyself unspotted from the world, thou shalt go to the house of prayer and offer up thy sacraments upon my holy day; … “Remember that on this, the Lord’s day, thou shall offer thine oblations and thy sacraments unto the Most High, confessing thy sins unto thy brethren, and before the Lord.
+
+['quiet', 'loud'] received scores [0.8612664937973022, 0.13873349130153656]
+['loud', 'soft'] received scores [0.645570695400238, 0.3544292449951172]
+['quiet', 'noisy'] received scores [0.9475644826889038, 0.0524354986846447]
+['soft', 'noisy'] received scores [0.6151081919670105, 0.3848917782306671]
+
+decades/1980s/1982_O/hinckley_the_priesthood_of_aaron.txt
+
+I think the meaning of this revelation is clear: they shall develop such discipline of self and such desire to live above the stains of the world in their communion with the Lord as worshipers in sacrament meetings.
+
+['loud', 'quiet'] received scores [0.6595191359519958, 0.34048086404800415]
+['loud', 'soft'] received scores [0.8005985617637634, 0.19940143823623657]
+['quiet', 'noisy'] received scores [0.6155546307563782, 0.3844453692436218]
+['noisy', 'soft'] received scores [0.5641852617263794, 0.4358147084712982]
+
+decades/1980s/1982_O/hinckley_the_priesthood_of_aaron.txt
+
+Every sacrament meeting ought to be a spiritual feast.
+
+['loud', 'quiet'] received scores [0.5224630236625671, 0.47753697633743286]
+['soft', 'loud'] received scores [0.7478529810905457, 0.25214704871177673]
+['quiet', 'noisy'] received scores [0.7682603597640991, 0.23173962533473969]
+['soft', 'noisy'] received scores [0.9149492979049683, 0.08505072444677353]
+
+decades/1980s/1982_O/hinckley_the_priesthood_of_aaron.txt
+
+I plead with you who are responsible for these meetings that you strive a little more diligently to program them in such a manner that each sacrament meeting will become a time for spiritual refreshening.
+
+['loud', 'quiet'] received scores [0.5672958493232727, 0.4327041804790497]
+['loud', 'soft'] received scores [0.6008397340774536, 0.39916032552719116]
+['quiet', 'noisy'] received scores [0.7676970958709717, 0.2323029786348343]
+['soft', 'noisy'] received scores [0.7421578168869019, 0.25784215331077576]
+
+decades/1980s/1982_O/hunter_commitment_to_god.txt
+
+The covenant made with Abraham and his seed was sealed by the ceremony of circumcision as a sacrament.
+
+['loud', 'quiet'] received scores [0.5152804851531982, 0.484719455242157]
+['loud', 'soft'] received scores [0.5139115452766418, 0.48608842492103577]
+['quiet', 'noisy'] received scores [0.6599633693695068, 0.34003663063049316]
+['soft', 'noisy'] received scores [0.6611921191215515, 0.3388078212738037]
+
+decades/1980s/1982_O/lee_“behold_my_beloved_son,_in_whom_i_am_well_pleased”.txt
+
+We can become perfect in our sacrament meeting attendance.
+
+['quiet', 'loud'] received scores [0.5521886944770813, 0.4478113651275635]
+['loud', 'soft'] received scores [0.5660702586174011, 0.4339297413825989]
+['quiet', 'noisy'] received scores [0.7804133296012878, 0.21958665549755096]
+['soft', 'noisy'] received scores [0.6884158253669739, 0.3115841746330261]
+
+decades/1980s/1982_O/petersen_believers_and_doers.txt
+
+Sometimes I have wondered if leaving our gift at the altar while seeking this reconciliation could refer to the Sacrament of the Lord’s Supper.
+
+['loud', 'quiet'] received scores [0.5115384459495544, 0.48846155405044556]
+['soft', 'loud'] received scores [0.5079118609428406, 0.4920881986618042]
+['quiet', 'noisy'] received scores [0.6730756163597107, 0.3269244432449341]
+['soft', 'noisy'] received scores [0.6899617314338684, 0.3100382089614868]
+
+decades/1980s/1982_O/richards_lds_hymns—worshiping_with_song.txt
+
+According to scripture, after the Savior instituted the sacrament of the Lord’s Supper with the Apostles, they sang a hymn and “went out into the mount of Olives.
+
+['quiet', 'loud'] received scores [0.5515113472938538, 0.44848865270614624]
+['loud', 'soft'] received scores [0.5064438581466675, 0.4935562014579773]
+['quiet', 'noisy'] received scores [0.6085099577903748, 0.39149001240730286]
+['soft', 'noisy'] received scores [0.5519363880157471, 0.4480636417865753]
+
+decades/1980s/1983_A/ballard_teaching—no_greater_call.txt
+
+In each teaching setting, whether it is a family home evening, a class, a sacrament meeting, or a general or stake conference, the teacher should strive to create a heartfelt desire in his students to live worthy of eternal life with our Heavenly Father.
+
+['loud', 'quiet'] received scores [0.5006558299064636, 0.4993441700935364]
+['loud', 'soft'] received scores [0.6022500395774841, 0.39774999022483826]
+['quiet', 'noisy'] received scores [0.7081699371337891, 0.2918300926685333]
+['soft', 'noisy'] received scores [0.6163978576660156, 0.38360217213630676]
+
+decades/1980s/1983_A/benson_a_call_to_the_priesthood_“feed_my_sheep”.txt
+
+Their ordinations raised sacrament meeting attendance in the stake by 14 percent.
+
+['loud', 'quiet'] received scores [0.749186098575592, 0.25081387162208557]
+['loud', 'soft'] received scores [0.7769905924797058, 0.22300943732261658]
+['noisy', 'quiet'] received scores [0.551979124546051, 0.4480208456516266]
+['noisy', 'soft'] received scores [0.5896717309951782, 0.41032832860946655]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+The stand was quite large, and the first raised portion had a table for the ward clerk at one end and a piano at the other end, and right in the center of this elevated area was the sacrament table.
+
+['loud', 'quiet'] received scores [0.6678827404975891, 0.3321172893047333]
+['loud', 'soft'] received scores [0.502162754535675, 0.49783724546432495]
+['noisy', 'quiet'] received scores [0.6321136355400085, 0.36788642406463623]
+['soft', 'noisy'] received scores [0.5371012687683105, 0.46289873123168945]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+Everyone in attendance had a clear view of the stately pulpit and, of course, the sacrament table.
+
+['loud', 'quiet'] received scores [0.687164843082428, 0.312835156917572]
+['loud', 'soft'] received scores [0.6523789763450623, 0.34762102365493774]
+['quiet', 'noisy'] received scores [0.5700199007987976, 0.4299800992012024]
+['soft', 'noisy'] received scores [0.6080963015556335, 0.3919036388397217]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+Sacrament meetings were very special occasions.
+
+['quiet', 'loud'] received scores [0.6363680362701416, 0.3636319935321808]
+['soft', 'loud'] received scores [0.6363338828086853, 0.3636661469936371]
+['quiet', 'noisy'] received scores [0.7256036400794983, 0.2743963897228241]
+['soft', 'noisy'] received scores [0.7255741953849792, 0.274425745010376]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+As a deacon, I vividly recall how we admired the two priests seated up on the first level of the raised platform who would administer the blessing on the sacrament of the Lord’s Supper.
+
+['loud', 'quiet'] received scores [0.5565293431282043, 0.44347071647644043]
+['loud', 'soft'] received scores [0.624593198299408, 0.37540677189826965]
+['quiet', 'noisy'] received scores [0.6395382881164551, 0.3604617118835449]
+['soft', 'noisy'] received scores [0.5723286867141724, 0.42767134308815]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+As deacons and teachers we sat on the first row, prepared to pass the sacrament.
+
+['quiet', 'loud'] received scores [0.6879057884216309, 0.31209418177604675]
+['soft', 'loud'] received scores [0.6368839740753174, 0.36311596632003784]
+['quiet', 'noisy'] received scores [0.8308007121086121, 0.16919927299022675]
+['soft', 'noisy'] received scores [0.7962194085121155, 0.20378054678440094]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+Everything about the sacrament table, including the linen, was immaculate and ready on time.
+
+['loud', 'quiet'] received scores [0.5628392696380615, 0.4371607303619385]
+['soft', 'loud'] received scores [0.6132890582084656, 0.3867109715938568]
+['quiet', 'noisy'] received scores [0.7934439182281494, 0.20655612647533417]
+['soft', 'noisy'] received scores [0.8869203329086304, 0.11307967454195023]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+Everyone was expected to sing the special sacrament hymn.
+
+['loud', 'quiet'] received scores [0.7051386833190918, 0.2948613464832306]
+['loud', 'soft'] received scores [0.6069826483726501, 0.39301732182502747]
+['quiet', 'noisy'] received scores [0.5378806591033936, 0.46211937069892883]
+['soft', 'noisy'] received scores [0.6431485414505005, 0.3568514287471771]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+Children were trained not only to be reverent but to know some of the words to the most familiar sacrament songs.
+
+['quiet', 'loud'] received scores [0.6435960531234741, 0.3564039468765259]
+['soft', 'loud'] received scores [0.5547069907188416, 0.44529300928115845]
+['quiet', 'noisy'] received scores [0.7599424123764038, 0.24005763232707977]
+['soft', 'noisy'] received scores [0.6859095096588135, 0.3140904903411865]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+I can still see Sister Ella Jack, who led the music, standing in full view between the sacrament table and piano, as she would pause and look over the congregation to be sure everyone had a songbook and was ready to sing.
+
+['loud', 'quiet'] received scores [0.6166449785232544, 0.3833549916744232]
+['loud', 'soft'] received scores [0.5128953456878662, 0.4871046245098114]
+['quiet', 'noisy'] received scores [0.5230482816696167, 0.4769517183303833]
+['soft', 'noisy'] received scores [0.6262113451957703, 0.3737885653972626]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+We were learning in our youth that to feel of the Spirit we must experience a change in our hearts, and to be in harmony on this sacred occasion required our singing the sacrament hymns.
+
+['quiet', 'loud'] received scores [0.54694002866745, 0.45305997133255005]
+['loud', 'soft'] received scores [0.5211685299873352, 0.4788314700126648]
+['quiet', 'noisy'] received scores [0.7131215929985046, 0.28687846660614014]
+['soft', 'noisy'] received scores [0.6542003154754639, 0.34579968452453613]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+And as we would sing in that sacrament meeting … In humility, our Savior, Grant thy Spirit here, we pray; As we bless the bread and water In thy name, this holy day.
+
+['quiet', 'loud'] received scores [0.607346773147583, 0.3926531970500946]
+['soft', 'loud'] received scores [0.696884274482727, 0.3031157851219177]
+['quiet', 'noisy'] received scores [0.816845178604126, 0.18315476179122925]
+['soft', 'noisy'] received scores [0.8689206838607788, 0.13107930123806]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+After the sacrament song had been sung, the priests knelt on a little red velvet bench as they offered the blessing on the bread and the water.
+
+['quiet', 'loud'] received scores [0.6347311735153198, 0.3652688264846802]
+['soft', 'loud'] received scores [0.7266733050346375, 0.27332669496536255]
+['quiet', 'noisy'] received scores [0.7824697494506836, 0.2175302654504776]
+['soft', 'noisy'] received scores [0.8462333083152771, 0.1537667065858841]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+Our quorum advisers schooled us in our priesthood meeting on the sacredness of the ordinance of the sacrament—how our thoughts should be about the Savior, of His sacrifice for us—the importance of our dress and appearance, and of this quiet opportunity to resolve in our own minds to do better in keeping all of the commandments.
+
+['quiet', 'loud'] received scores [0.9962382316589355, 0.0037618130445480347]
+['soft', 'loud'] received scores [0.6754874587059021, 0.3245126008987427]
+['quiet', 'noisy'] received scores [0.9974881410598755, 0.0025118188932538033]
+['soft', 'noisy'] received scores [0.7573596835136414, 0.24264034628868103]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+I wish the Aaronic Priesthood boys throughout the Church could have the same opportunity of hearing Elder Howard W. Hunter bless the sacrament as we have had in the temple.
+
+['loud', 'quiet'] received scores [0.7326503992080688, 0.2673496603965759]
+['loud', 'soft'] received scores [0.7576805353164673, 0.2423195093870163]
+['quiet', 'noisy'] received scores [0.6082496643066406, 0.3917503356933594]
+['soft', 'noisy'] received scores [0.5764134526252747, 0.42358657717704773]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+As I have listened to him ask our Heavenly Father to bless the sacrament, I have felt of the deep spirituality in his soul.
+
+['loud', 'quiet'] received scores [0.7280945777893066, 0.27190545201301575]
+['loud', 'soft'] received scores [0.705159604549408, 0.29484039545059204]
+['quiet', 'noisy'] received scores [0.5956808924674988, 0.40431904792785645]
+['soft', 'noisy'] received scores [0.6225738525390625, 0.3774261772632599]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+Every word in the sacrament ordinance is vital.
+
+['loud', 'quiet'] received scores [0.904132068157196, 0.09586788713932037]
+['loud', 'soft'] received scores [0.9131960272789001, 0.08680399507284164]
+['noisy', 'quiet'] received scores [0.6221866607666016, 0.37781333923339844]
+['noisy', 'soft'] received scores [0.6475148797035217, 0.35248512029647827]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+Everyone in the sacrament meeting should clearly hear each word and reflect upon the covenant just made and on their own personal worthiness.
+
+['loud', 'quiet'] received scores [0.9051865339279175, 0.09481343626976013]
+['loud', 'soft'] received scores [0.9667218327522278, 0.033278148621320724]
+['quiet', 'noisy'] received scores [0.6148618459701538, 0.3851380944252014]
+['noisy', 'soft'] received scores [0.6558793187141418, 0.34412071108818054]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+In this simple but impressive manner was instituted the ordinance, since known as the Sacrament of the Lord’s Supper.
+
+['quiet', 'loud'] received scores [0.8573680520057678, 0.14263200759887695]
+['soft', 'loud'] received scores [0.8752273321151733, 0.12477268278598785]
+['quiet', 'noisy'] received scores [0.9698113799095154, 0.030188659206032753]
+['soft', 'noisy'] received scores [0.9740179777145386, 0.025981992483139038]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+The weekly opportunity of partaking of the sacrament of the Lord’s Supper is one of the most sacred ordinances of The Church of Jesus Christ of Latter-day Saints and is further indication of His love for all of us.
+
+['loud', 'quiet'] received scores [0.5543063879013062, 0.4456935524940491]
+['loud', 'soft'] received scores [0.6981762051582336, 0.30182379484176636]
+['quiet', 'noisy'] received scores [0.7464501857757568, 0.2535497844219208]
+['soft', 'noisy'] received scores [0.6128306984901428, 0.38716933131217957]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+Associated with the partaking of the sacrament are principles that are fundamental to man’s advancement and exaltation in the kingdom of God and the shaping of one’s spiritual character.
+
+['quiet', 'loud'] received scores [0.5371235013008118, 0.4628765285015106]
+['loud', 'soft'] received scores [0.5374201536178589, 0.4625798761844635]
+['quiet', 'noisy'] received scores [0.6553224921226501, 0.34467747807502747]
+['soft', 'noisy'] received scores [0.5851107835769653, 0.41488924622535706]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+Perhaps we have erred against someone or injured them; or, if there is ill feeling in our heart, we should repent, obtain forgiveness from those affected or transgressed against, then humbly, with a contrite spirit, prepare ourselves to be worthy to partake of the sacrament.
+
+['quiet', 'loud'] received scores [0.61040198802948, 0.3895980715751648]
+['soft', 'loud'] received scores [0.5358372330665588, 0.46416279673576355]
+['quiet', 'noisy'] received scores [0.6474488377571106, 0.352551132440567]
+['soft', 'noisy'] received scores [0.5750381946563721, 0.42496180534362793]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+Ballard wrote: “I am a witness that there is a spirit attending the administration of the sacrament that warms the soul from head to foot; you feel the wounds of the spirit being healed, and the load being lifted.
+
+['loud', 'quiet'] received scores [0.8713172078132629, 0.12868277728557587]
+['loud', 'soft'] received scores [0.8124968409538269, 0.18750318884849548]
+['noisy', 'quiet'] received scores [0.5883355140686035, 0.41166451573371887]
+['soft', 'noisy'] received scores [0.5222979187965393, 0.4777020812034607]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+During the administration and passing of the sacrament those present have the opportunity to think of the precious gifts available through His sacrifice for each of us, for the sacrament is blessed and sanctified that each may partake of it in remembrance of the Son of God.
+
+['quiet', 'loud'] received scores [0.5513386130332947, 0.44866135716438293]
+['soft', 'loud'] received scores [0.5122414231300354, 0.4877585470676422]
+['quiet', 'noisy'] received scores [0.8125843405723572, 0.18741567432880402]
+['soft', 'noisy'] received scores [0.7874772548675537, 0.21252276003360748]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+Usually once a week, for a little more than an hour, we have the opportunity to attend sacrament meeting and reflect on the life of our Savior; to recall with deep gratitude and reverence His life of purity, kindness, and love; to reflect upon the great atoning sacrifice; and to partake of the broken bread, symbolic of His torn flesh, and drink of the cup, symbolic of His blood that was shed on the cross.
+
+['quiet', 'loud'] received scores [0.6456825137138367, 0.3543175160884857]
+['loud', 'soft'] received scores [0.5472549796104431, 0.4527449905872345]
+['quiet', 'noisy'] received scores [0.838247537612915, 0.16175249218940735]
+['soft', 'noisy'] received scores [0.7017292380332947, 0.2982707619667053]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+As we partake of the sacrament and reflect upon His sacrifice for each of us, we make a solemn commitment to keep the commandments which He has given us, that by so doing we might always have His spirit to be with us.
+
+['quiet', 'loud'] received scores [0.5131878852844238, 0.48681211471557617]
+['loud', 'soft'] received scores [0.661171019077301, 0.33882901072502136]
+['quiet', 'noisy'] received scores [0.7096977233886719, 0.2903023064136505]
+['soft', 'noisy'] received scores [0.5430519580841064, 0.4569479823112488]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+By partaking of the sacrament each Sunday we receive the encouragement and strength to keep the commandments of God, to live uprightly, virtuously, and honestly.
+
+['loud', 'quiet'] received scores [0.531682550907135, 0.4683173894882202]
+['loud', 'soft'] received scores [0.6865320205688477, 0.31346800923347473]
+['quiet', 'noisy'] received scores [0.6387258172035217, 0.36127418279647827]
+['noisy', 'soft'] received scores [0.5217904448509216, 0.47820955514907837]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+This is what every person who partakes of the sacrament is committed to do.
+
+['quiet', 'loud'] received scores [0.5603816509246826, 0.4396183490753174]
+['loud', 'soft'] received scores [0.5729851126670837, 0.42701494693756104]
+['quiet', 'noisy'] received scores [0.7216461896896362, 0.27835381031036377]
+['soft', 'noisy'] received scores [0.6024994254112244, 0.397500604391098]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+May we experience the joy of regular attendance at sacrament meeting and feel the blessings of eternal progression in our personal lives through wholehearted compliance, in spirit and actions, with the sacred words of the sacrament.
+
+['quiet', 'loud'] received scores [0.5397621393203735, 0.46023786067962646]
+['loud', 'soft'] received scores [0.6481788754463196, 0.35182109475135803]
+['quiet', 'noisy'] received scores [0.8096058964729309, 0.19039413332939148]
+['soft', 'noisy'] received scores [0.6630737781524658, 0.3369262218475342]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+The sacrament is one ordinance that allows us to experience a personal relationship to God and enlarges our knowledge and understanding of Him and His Only Begotten Son.
+
+['quiet', 'loud'] received scores [0.6125945448875427, 0.3874054551124573]
+['soft', 'loud'] received scores [0.565651535987854, 0.4343484938144684]
+['quiet', 'noisy'] received scores [0.7190481424331665, 0.2809517979621887]
+['soft', 'noisy'] received scores [0.6782289743423462, 0.3217710256576538]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+Our personal reward for compliance with the covenants and obligations in the ordinance of the sacrament becomes the companionship of God’s Holy Spirit.
+
+['loud', 'quiet'] received scores [0.5992648005485535, 0.4007352590560913]
+['loud', 'soft'] received scores [0.5968526601791382, 0.4031473696231842]
+['quiet', 'noisy'] received scores [0.5789905786514282, 0.421009361743927]
+['soft', 'noisy'] received scores [0.5814346671104431, 0.41856539249420166]
+
+decades/1980s/1983_A/hinckley_he_slumbers_not,_nor_sleeps.txt
+
+The strengthening faith of the people is evident in increased sacrament meeting attendance, in temple attendance, and in the payment of tithes and offerings, which becomes an expression of their love for the Lord and of his generous blessings even in these times of economic distress.
+
+['loud', 'quiet'] received scores [0.8205382823944092, 0.17946173250675201]
+['loud', 'soft'] received scores [0.8178718686103821, 0.18212810158729553]
+['noisy', 'quiet'] received scores [0.6291733384132385, 0.37082669138908386]
+['noisy', 'soft'] received scores [0.6249632239341736, 0.37503674626350403]
+
+decades/1980s/1983_A/holland_muddy_feet_and_white_shirts.txt
+
+I also remember my father telling me a few weeks before I was ordained a deacon that he hoped whenever I prepared, blessed, or passed the sacrament I would always wear a white shirt and a tie.
+
+['loud', 'quiet'] received scores [0.5930482745170593, 0.4069517254829407]
+['loud', 'soft'] received scores [0.6233018636703491, 0.3766981363296509]
+['quiet', 'noisy'] received scores [0.5776145458221436, 0.4223853647708893]
+['soft', 'noisy'] received scores [0.5463622212409973, 0.4536378085613251]
+
+decades/1980s/1983_A/holland_muddy_feet_and_white_shirts.txt
+
+By responding to my father’s suggestion I have shown respect for the sacred ordinance of the sacrament.
+
+['quiet', 'loud'] received scores [0.6014096140861511, 0.3985903561115265]
+['loud', 'soft'] received scores [0.5810867547988892, 0.4189133048057556]
+['quiet', 'noisy'] received scores [0.7944409847259521, 0.20555894076824188]
+['soft', 'noisy'] received scores [0.6486995220184326, 0.3513004779815674]
+
+decades/1980s/1983_A/monson_“anonymous”.txt
+
+At a nursing home in our valley, two young men prepared the sacrament.
+
+['loud', 'quiet'] received scores [0.5261088609695435, 0.4738911986351013]
+['soft', 'loud'] received scores [0.5455122590065002, 0.45448780059814453]
+['quiet', 'noisy'] received scores [0.7231170535087585, 0.27688294649124146]
+['soft', 'noisy'] received scores [0.7767906785011292, 0.22320936620235443]
+
+decades/1980s/1983_A/monson_“anonymous”.txt
+
+Without a moment’s hesitation, one of the young men walked over to her, removed his own jacket, placed it about the patient’s shoulders, gave her a loving pat on the arm, and then returned to the sacrament table.
+
+['loud', 'quiet'] received scores [0.8034927845001221, 0.19650720059871674]
+['soft', 'loud'] received scores [0.5574214458465576, 0.44257858395576477]
+['noisy', 'quiet'] received scores [0.5602548718452454, 0.439745157957077]
+['soft', 'noisy'] received scores [0.8016718029975891, 0.1983281522989273]
+
+decades/1980s/1983_A/monson_“anonymous”.txt
+
+He replied, “I worried that without my jacket I would not be properly dressed to bless the sacrament.
+
+['loud', 'quiet'] received scores [0.7530362606048584, 0.246963769197464]
+['loud', 'soft'] received scores [0.602935791015625, 0.3970642387866974]
+['noisy', 'quiet'] received scores [0.5699692964553833, 0.4300307035446167]
+['soft', 'noisy'] received scores [0.602389931678772, 0.39761003851890564]
+
+decades/1980s/1983_A/perry_train_up_a_child.txt
+
+They need to see us reverently worshiping in our sacrament meetings.
+
+['quiet', 'loud'] received scores [0.5434430837631226, 0.45655694603919983]
+['loud', 'soft'] received scores [0.5797818303108215, 0.42021825909614563]
+['quiet', 'noisy'] received scores [0.8562885522842407, 0.14371146261692047]
+['soft', 'noisy'] received scores [0.7839289307594299, 0.21607112884521484]
+
+decades/1980s/1983_O/ashton_“the_word_is_commitment”.txt
+
+“I want to go to sacrament meeting if I have time,” or “I will go to sacrament meeting.
+
+['quiet', 'loud'] received scores [0.7763758301734924, 0.22362419962882996]
+['soft', 'loud'] received scores [0.8063514232635498, 0.193648561835289]
+['quiet', 'noisy'] received scores [0.8659189939498901, 0.13408103585243225]
+['soft', 'noisy'] received scores [0.8856595158576965, 0.11434047669172287]
+
+decades/1980s/1983_O/dunn_the_blessings_of_missionary_service.txt
+
+In August of this year, the Aaronic Priesthood young men of our ward had the assignment to administer the sacrament to the residents of a local rest home.
+
+['loud', 'quiet'] received scores [0.5664964914321899, 0.43350350856781006]
+['loud', 'soft'] received scores [0.5881901979446411, 0.4118097722530365]
+['quiet', 'noisy'] received scores [0.6172361969947815, 0.3827638030052185]
+['soft', 'noisy'] received scores [0.5960216522216797, 0.4039783477783203]
+
+decades/1980s/1983_O/faust_the_keystone_of_our_religion.txt
+
+Moyle tell in sacrament meeting of his having heard both Martin Harris and David Whitmer, two of the witnesses of the Book of Mormon, affirm their testimony concerning that book.
+
+['loud', 'quiet'] received scores [0.5679253935813904, 0.43207457661628723]
+['loud', 'soft'] received scores [0.6906498074531555, 0.30935022234916687]
+['quiet', 'noisy'] received scores [0.6052870154380798, 0.39471304416656494]
+['noisy', 'soft'] received scores [0.5255336165428162, 0.4744664430618286]
+
+decades/1980s/1983_O/featherstone_“called_as_if_he_heard_a_voice_from_heaven”.txt
+
+I said, “May I be invited to speak at your sacrament meeting sometime in the near future?
+
+['quiet', 'loud'] received scores [0.6619152426719666, 0.33808472752571106]
+['loud', 'soft'] received scores [0.5327187180519104, 0.4672812819480896]
+['quiet', 'noisy'] received scores [0.8187730312347412, 0.18122698366641998]
+['soft', 'noisy'] received scores [0.6693294048309326, 0.33067062497138977]
+
+decades/1980s/1983_O/jr._our_responsibility_to_take_the_gospel_to_the_ends_of_the_earth.txt
+
+When partaking of the sacrament, we renew this covenant, recalling that Christ, when introducing this sacred ordinance, said, “Of me ye shall bear record unto all the world.
+
+['loud', 'quiet'] received scores [0.5172545313835144, 0.4827454686164856]
+['soft', 'loud'] received scores [0.5094982385635376, 0.4905017912387848]
+['quiet', 'noisy'] received scores [0.6691519618034363, 0.33084797859191895]
+['soft', 'noisy'] received scores [0.6924067139625549, 0.30759328603744507]
+
+decades/1980s/1983_O/packer_the_mystery_of_life.txt
+
+We understand why we renew that covenant by partaking of the sacrament.
+
+['quiet', 'loud'] received scores [0.6825613379478455, 0.31743863224983215]
+['soft', 'loud'] received scores [0.52179354429245, 0.47820642590522766]
+['quiet', 'noisy'] received scores [0.8402312397956848, 0.15976879000663757]
+['soft', 'noisy'] received scores [0.7274277806282043, 0.27257224917411804]
+
+decades/1980s/1983_O/perry_“our_father_which_art_in_heaven”.txt
+
+“O God, the Eternal Father” is the way the Lord instructed us to bless the sacrament.
+
+['quiet', 'loud'] received scores [0.5454332232475281, 0.45456671714782715]
+['loud', 'soft'] received scores [0.5091674327850342, 0.4908325970172882]
+['quiet', 'noisy'] received scores [0.7563607096672058, 0.24363933503627777]
+['soft', 'noisy'] received scores [0.7138016223907471, 0.2861984074115753]
+
+decades/1980s/1984_A/bangerter_coming_through_the_mists.txt
+
+A vivid example of the position of members of the Church in relation to the world was portrayed to us one evening in our sacrament meeting, now many years ago, when a man named Brother Smith came to speak.
+
+['loud', 'quiet'] received scores [0.9811294078826904, 0.018870621919631958]
+['loud', 'soft'] received scores [0.9728917479515076, 0.027108294889330864]
+['noisy', 'quiet'] received scores [0.65263831615448, 0.3473617136478424]
+['noisy', 'soft'] received scores [0.5646342039108276, 0.43536582589149475]
+
+decades/1980s/1984_A/bangerter_coming_through_the_mists.txt
+
+Brother Smith brought it with him to our sacrament meeting, and so I have seen it.
+
+['quiet', 'loud'] received scores [0.6363762021064758, 0.3636237680912018]
+['loud', 'soft'] received scores [0.5595623850822449, 0.4404376149177551]
+['quiet', 'noisy'] received scores [0.8305948376655579, 0.16940511763095856]
+['soft', 'noisy'] received scores [0.6880015730857849, 0.3119984567165375]
+
+decades/1980s/1984_A/benson_our_commission_to_take_the_gospel_to_all_the_world.txt
+
+My companion and I had been invited to travel over to South Shields, on the northwest coast, and speak in the sacrament meeting.
+
+['quiet', 'loud'] received scores [0.546451210975647, 0.4535488188266754]
+['soft', 'loud'] received scores [0.5346126556396484, 0.4653872847557068]
+['quiet', 'noisy'] received scores [0.6936582326889038, 0.3063417375087738]
+['soft', 'noisy'] received scores [0.6834362745285034, 0.31656381487846375]
+
+decades/1980s/1984_A/benson_our_commission_to_take_the_gospel_to_all_the_world.txt
+
+We fasted and prayed sincerely and went to the sacrament meeting.
+
+['quiet', 'loud'] received scores [0.7296425104141235, 0.27035751938819885]
+['loud', 'soft'] received scores [0.6500722765922546, 0.34992772340774536]
+['quiet', 'noisy'] received scores [0.9077598452568054, 0.09224016219377518]
+['soft', 'noisy'] received scores [0.6624916791915894, 0.33750832080841064]
+
+decades/1980s/1984_A/fyans_who’s_on_the_lord’s_team.txt
+
+And President McKay continues: “As a priest, I recall administering the sacrament and my failure the first time I offered the prayer.
+
+['loud', 'quiet'] received scores [0.7762680649757385, 0.22373196482658386]
+['loud', 'soft'] received scores [0.6826821565628052, 0.3173178434371948]
+['noisy', 'quiet'] received scores [0.5976266860961914, 0.4023732841014862]
+['soft', 'noisy'] received scores [0.5205727219581604, 0.47942718863487244]
+
+decades/1980s/1984_A/fyans_who’s_on_the_lord’s_team.txt
+
+The sacrament table was just under the pulpit, and my father, the bishop, always stood right over the one who asked the blessing upon the bread and water.
+
+['quiet', 'loud'] received scores [0.6777103543281555, 0.32228967547416687]
+['soft', 'loud'] received scores [0.5574819445610046, 0.44251808524131775]
+['quiet', 'noisy'] received scores [0.8017579317092896, 0.19824208319187164]
+['soft', 'noisy'] received scores [0.7078567147254944, 0.2921432852745056]
+
+decades/1980s/1984_A/hinckley_the_miracle_made_possible_by_faith.txt
+
+Our sacrament meetings should be enriched with the enthusiastic testimonies of those who have returned from the field.
+
+['loud', 'quiet'] received scores [0.9332000613212585, 0.06679993867874146]
+['loud', 'soft'] received scores [0.7694888114929199, 0.2305111289024353]
+['noisy', 'quiet'] received scores [0.8116626143455505, 0.18833741545677185]
+['noisy', 'soft'] received scores [0.5073392987251282, 0.49266064167022705]
+
+decades/1980s/1984_A/hinckley_the_miracle_made_possible_by_faith.txt
+
+We know that an increasing number are attending their sacrament meetings, there to renew their covenants with the Lord and to take upon themselves anew the name of Christ.
+
+['loud', 'quiet'] received scores [0.8695855140686035, 0.13041453063488007]
+['loud', 'soft'] received scores [0.7034427523612976, 0.2965572774410248]
+['noisy', 'quiet'] received scores [0.6177731156349182, 0.382226824760437]
+['soft', 'noisy'] received scores [0.6349346041679382, 0.36506542563438416]
+
+decades/1980s/1984_A/mcconkie_patterns_of_prayer.txt
+
+In it we pay our devotions and offer our sacraments to the Most High.
+
+['quiet', 'loud'] received scores [0.6182527542114258, 0.381747305393219]
+['soft', 'loud'] received scores [0.6382153630256653, 0.3617846667766571]
+['quiet', 'noisy'] received scores [0.7584618330001831, 0.2415381819009781]
+['soft', 'noisy'] received scores [0.7737753391265869, 0.22622466087341309]
+
+decades/1980s/1984_A/tuttle_covenants,_ordinances,_and_service.txt
+
+In the ordinance of the sacrament, we regularly renew this and other covenants, and by complying with our part of the covenant, we receive the Spirit of the Lord to be with us.
+
+['quiet', 'loud'] received scores [0.5879010558128357, 0.41209888458251953]
+['soft', 'loud'] received scores [0.6334444284439087, 0.3665555715560913]
+['quiet', 'noisy'] received scores [0.7901354432106018, 0.2098645716905594]
+['soft', 'noisy'] received scores [0.8201653957366943, 0.17983455955982208]
+
+decades/1980s/1984_O/ballard_write_down_a_date.txt
+
+When we partake of the sacrament, we covenant that we are willing to take upon us the name of Jesus Christ and that we will always remember Him and keep His commandments.
+
+['quiet', 'loud'] received scores [0.6127802133560181, 0.38721978664398193]
+['soft', 'loud'] received scores [0.538503885269165, 0.4614960849285126]
+['quiet', 'noisy'] received scores [0.7831953763961792, 0.21680466830730438]
+['soft', 'noisy'] received scores [0.7270472645759583, 0.27295276522636414]
+
+decades/1980s/1984_O/brown_the_banner_of_the_lord.txt
+
+I feel sometimes we consider the preparation and handling of the sacrament and the collecting of fast offerings and so forth as almost the sum and substance of the Aaronic Priesthood responsibility.
+
+['loud', 'quiet'] received scores [0.5233033299446106, 0.4766966998577118]
+['loud', 'soft'] received scores [0.5216017365455627, 0.4783982038497925]
+['quiet', 'noisy'] received scores [0.5214667320251465, 0.4785332679748535]
+['soft', 'noisy'] received scores [0.5231683254241943, 0.47683170437812805]
+
+decades/1980s/1984_O/brown_the_banner_of_the_lord.txt
+
+I doubt very much that the bishop of this young man would have to worry about how he looked when he came to participate at the sacrament table or whether his heart and hands were clean and pure.
+
+['quiet', 'loud'] received scores [0.7786261439323425, 0.2213738113641739]
+['soft', 'loud'] received scores [0.8034082055091858, 0.19659174978733063]
+['quiet', 'noisy'] received scores [0.9253663420677185, 0.07463368773460388]
+['soft', 'noisy'] received scores [0.9350907802581787, 0.06490927934646606]
+
+decades/1980s/1984_O/brown_the_banner_of_the_lord.txt
+
+Each Sunday the young men took the sacrament into the homes.
+
+['quiet', 'loud'] received scores [0.656423807144165, 0.3435761630535126]
+['soft', 'loud'] received scores [0.6266158819198608, 0.37338414788246155]
+['quiet', 'noisy'] received scores [0.8083460927009583, 0.19165389239788055]
+['soft', 'noisy'] received scores [0.7874507904052734, 0.21254922449588776]
+
+decades/1980s/1984_O/busche_the_joy_of_the_penetrating_light.txt
+
+He appreciates so much the special privilege of being invited every Sabbath day to renew his covenant in the sacred setting of the sacrament.
+
+['quiet', 'loud'] received scores [0.5123075246810913, 0.4876924157142639]
+['loud', 'soft'] received scores [0.5939675569534302, 0.4060324430465698]
+['quiet', 'noisy'] received scores [0.7896824479103088, 0.21031753718852997]
+['soft', 'noisy'] received scores [0.7095873355865479, 0.29041269421577454]
+
+decades/1980s/1984_O/kapp_young_women_striving_together.txt
+
+Each Sunday as we partake of the sacrament, we promise again to strive to keep the commandments so the Spirit of the Lord will be with us always.
+
+['quiet', 'loud'] received scores [0.5822204947471619, 0.41777950525283813]
+['loud', 'soft'] received scores [0.5347175002098083, 0.46528252959251404]
+['quiet', 'noisy'] received scores [0.7573595643043518, 0.24264046549797058]
+['soft', 'noisy'] received scores [0.6608911752700806, 0.33910882472991943]
+
+decades/1980s/1984_O/monson_the_aaronic_priesthood_pathway.txt
+
+In my life this was accomplished when the bishopric asked that I take the sacrament to a shut-in who lived about a mile from the chapel.
+
+['quiet', 'loud'] received scores [0.6325216889381409, 0.3674783706665039]
+['loud', 'soft'] received scores [0.5084606409072876, 0.4915393590927124]
+['quiet', 'noisy'] received scores [0.7901259064674377, 0.20987409353256226]
+['soft', 'noisy'] received scores [0.6789146661758423, 0.3210853338241577]
+
+decades/1980s/1984_O/monson_the_aaronic_priesthood_pathway.txt
+
+These young men have the opportunity to bless the sacrament, to continue their home teaching duties, and to participate in the sacred ordinance of baptism.
+
+['loud', 'quiet'] received scores [0.6444066166877747, 0.35559341311454773]
+['loud', 'soft'] received scores [0.6064000129699707, 0.3935999572277069]
+['quiet', 'noisy'] received scores [0.6754828691482544, 0.324517160654068]
+['soft', 'noisy'] received scores [0.7100088000297546, 0.28999125957489014]
+
+decades/1980s/1984_O/monson_the_aaronic_priesthood_pathway.txt
+
+I remember as a deacon watching the priests as they would officiate at the sacrament table.
+
+['loud', 'quiet'] received scores [0.5044667720794678, 0.4955332279205322]
+['soft', 'loud'] received scores [0.6036543250083923, 0.39634570479393005]
+['quiet', 'noisy'] received scores [0.657956063747406, 0.3420439064502716]
+['soft', 'noisy'] received scores [0.7489051222801208, 0.25109484791755676]
+
+decades/1980s/1984_O/monson_the_aaronic_priesthood_pathway.txt
+
+One priest had a lovely voice and would read the sacrament prayers with clear diction—as though he were competing in a speech contest.
+
+['loud', 'quiet'] received scores [0.8672482371330261, 0.13275177776813507]
+['loud', 'soft'] received scores [0.5509626865386963, 0.4490373134613037]
+['quiet', 'noisy'] received scores [0.5353715419769287, 0.4646284580230713]
+['soft', 'noisy'] received scores [0.8598453402519226, 0.1401546448469162]
+
+decades/1980s/1984_O/monson_the_aaronic_priesthood_pathway.txt
+
+On one occasion Barry with the beautiful voice and Jack with the awkward delivery were assigned together at the sacrament table.
+
+['loud', 'quiet'] received scores [0.7905006408691406, 0.20949937403202057]
+['soft', 'loud'] received scores [0.5130120515823364, 0.4869879186153412]
+['noisy', 'quiet'] received scores [0.6677684187889099, 0.3322315216064453]
+['soft', 'noisy'] received scores [0.6641618013381958, 0.3358381688594818]
+
+decades/1980s/1984_O/monson_the_aaronic_priesthood_pathway.txt
+
+I shall ever remember Barry frantically searching the table for the little white card on which were printed the sacrament prayers.
+
+['loud', 'quiet'] received scores [0.8996585607528687, 0.10034146159887314]
+['loud', 'soft'] received scores [0.6610403656959534, 0.33895957469940186]
+['noisy', 'quiet'] received scores [0.8987224698066711, 0.10127755254507065]
+['noisy', 'soft'] received scores [0.6587226390838623, 0.3412773311138153]
+
+decades/1980s/1984_O/perry_“and_why_call_ye_me,_lord,_lord,_and_do_not_the_things_which_i_say”.txt
+
+In the Doctrine and Covenants we read: “And that thou mayest more fully keep thyself unspotted from the world, thou shalt go to the house of prayer and offer up thy sacraments upon my holy day; “For verily this is a day appointed unto you to rest from your labors, and to pay thy devotions unto the Most High; “Nevertheless thy vows shall be offered up in righteousness on all days and at all times; “But remember that on this, the Lord’s day, thou shalt offer thine oblations and thy sacraments unto the Most High, confessing thy sins unto thy brethren, and before the Lord.
+
+['quiet', 'loud'] received scores [0.94541335105896, 0.05458667129278183]
+['soft', 'loud'] received scores [0.5426854491233826, 0.4573145806789398]
+['quiet', 'noisy'] received scores [0.9684105515480042, 0.03158944100141525]
+['soft', 'noisy'] received scores [0.6774677634239197, 0.32253217697143555]
+
+decades/1980s/1984_O/perry_“and_why_call_ye_me,_lord,_lord,_and_do_not_the_things_which_i_say”.txt
+
+Second is to go to the house of prayer and partake of the sacrament.
+
+['quiet', 'loud'] received scores [0.6188471913337708, 0.38115277886390686]
+['soft', 'loud'] received scores [0.518887460231781, 0.4811125099658966]
+['quiet', 'noisy'] received scores [0.790161669254303, 0.20983834564685822]
+['soft', 'noisy'] received scores [0.7143953442573547, 0.28560465574264526]
+
+decades/1980s/1984_O/perry_“and_why_call_ye_me,_lord,_lord,_and_do_not_the_things_which_i_say”.txt
+
+Attendance at church and partaking of the sacrament are basic for our observance of the Lord’s day.
+
+['quiet', 'loud'] received scores [0.5769631266593933, 0.4230369031429291]
+['soft', 'loud'] received scores [0.6061755418777466, 0.3938244879245758]
+['quiet', 'noisy'] received scores [0.7316889762878418, 0.2683109939098358]
+['soft', 'noisy'] received scores [0.7547584772109985, 0.24524152278900146]
+
+decades/1980s/1984_O/perry_“and_why_call_ye_me,_lord,_lord,_and_do_not_the_things_which_i_say”.txt
+
+Before Jesus introduced the ordinance of the sacrament, He taught His disciples more about love.
+
+['loud', 'quiet'] received scores [0.5001928806304932, 0.4998071491718292]
+['loud', 'soft'] received scores [0.5558662414550781, 0.4441337585449219]
+['quiet', 'noisy'] received scores [0.6904187202453613, 0.30958133935928345]
+['soft', 'noisy'] received scores [0.6407099962234497, 0.3592900037765503]
+
+decades/1980s/1984_O/perry_“and_why_call_ye_me,_lord,_lord,_and_do_not_the_things_which_i_say”.txt
+
+In order for them to understand the sacrament, they had to first understand the basic principle of love.
+
+['quiet', 'loud'] received scores [0.6247000098228455, 0.37529993057250977]
+['soft', 'loud'] received scores [0.5976670384407043, 0.40233296155929565]
+['quiet', 'noisy'] received scores [0.667159378528595, 0.3328406810760498]
+['soft', 'noisy'] received scores [0.6414292454719543, 0.35857078433036804]
+
+decades/1980s/1984_O/perry_“and_why_call_ye_me,_lord,_lord,_and_do_not_the_things_which_i_say”.txt
+
+The first sacrament can be compared to our own weekly experience as we partake of the sacred emblems of the bread and water.
+
+['loud', 'quiet'] received scores [0.5246606469154358, 0.4753393530845642]
+['soft', 'loud'] received scores [0.5155165791511536, 0.4844834506511688]
+['quiet', 'noisy'] received scores [0.6757515668869019, 0.32424837350845337]
+['soft', 'noisy'] received scores [0.7099465727806091, 0.29005342721939087]
+
+decades/1980s/1984_O/perry_“and_why_call_ye_me,_lord,_lord,_and_do_not_the_things_which_i_say”.txt
+
+Each member of the Church covenants to always remember the Savior as he or she partakes of the sacrament.
+
+['quiet', 'loud'] received scores [0.6290410757064819, 0.37095898389816284]
+['soft', 'loud'] received scores [0.6421631574630737, 0.3578368127346039]
+['quiet', 'noisy'] received scores [0.763471245765686, 0.23652882874011993]
+['soft', 'noisy'] received scores [0.7735498547554016, 0.2264500856399536]
+
+decades/1980s/1984_O/perry_“and_why_call_ye_me,_lord,_lord,_and_do_not_the_things_which_i_say”.txt
+
+The Lord has, therefore, provided a way for us to renew our baptismal covenants through partaking of the sacrament each week.
+
+['loud', 'quiet'] received scores [0.5291057825088501, 0.4708941578865051]
+['loud', 'soft'] received scores [0.5583415627479553, 0.44165849685668945]
+['quiet', 'noisy'] received scores [0.657472550868988, 0.3425273895263672]
+['soft', 'noisy'] received scores [0.630455732345581, 0.36954423785209656]
+
+decades/1980s/1984_O/perry_“and_why_call_ye_me,_lord,_lord,_and_do_not_the_things_which_i_say”.txt
+
+Elder Melvin J. Ballard suggested, “We want every Latter-day Saint to come to the sacrament table because it is the place for self-investigation, for self-inspection, where we may learn to rectify our course and to make right our own lives, bringing ourselves into harmony with the teachings of the Church and with our brethren and sisters.
+
+['loud', 'quiet'] received scores [0.6330581307411194, 0.36694180965423584]
+['loud', 'soft'] received scores [0.7713772654533386, 0.22862274944782257]
+['quiet', 'noisy'] received scores [0.605140209197998, 0.39485979080200195]
+['noisy', 'soft'] received scores [0.560653805732727, 0.4393462538719177]
+
+decades/1980s/1984_O/perry_“and_why_call_ye_me,_lord,_lord,_and_do_not_the_things_which_i_say”.txt
+
+I’ve always been impressed with the renewed strength and dedication which come from weekly participating in the sacrament.
+
+['loud', 'quiet'] received scores [0.7010108828544617, 0.29898908734321594]
+['loud', 'soft'] received scores [0.8737184405326843, 0.12628157436847687]
+['quiet', 'noisy'] received scores [0.5448757410049438, 0.4551243185997009]
+['noisy', 'soft'] received scores [0.7113891839981079, 0.2886108160018921]
+
+decades/1980s/1984_O/perry_“and_why_call_ye_me,_lord,_lord,_and_do_not_the_things_which_i_say”.txt
+
+They bore a sweet testimony to me of what the sacrament has come to mean to them.
+
+['loud', 'quiet'] received scores [0.7516515254974365, 0.24834851920604706]
+['soft', 'loud'] received scores [0.5030980110168457, 0.4969019293785095]
+['noisy', 'quiet'] received scores [0.5298338532447815, 0.4701661467552185]
+['soft', 'noisy'] received scores [0.7311283349990845, 0.2688716948032379]
+
+decades/1980s/1985_A/ballard_prepare_to_serve.txt
+
+On Sunday morning, the three of us held a testimony meeting and then, with our priesthood, blessed and passed the sacrament.
+
+['loud', 'quiet'] received scores [0.5845327377319336, 0.4154672622680664]
+['loud', 'soft'] received scores [0.6434201598167419, 0.35657984018325806]
+['quiet', 'noisy'] received scores [0.7281672954559326, 0.27183273434638977]
+['soft', 'noisy'] received scores [0.6762328743934631, 0.3237670958042145]
+
+decades/1980s/1985_A/hales_the_mantle_of_a_bishop.txt
+
+He can sit in a sacrament meeting and look out at his flock and know who is in trouble, look at his Aaronic Priesthood—the deacons, the teachers, and the priests—and know which ones need his counsel.
+
+['quiet', 'loud'] received scores [0.5552497506141663, 0.44475021958351135]
+['loud', 'soft'] received scores [0.5816251039505005, 0.4183748960494995]
+['quiet', 'noisy'] received scores [0.767292320728302, 0.2327076494693756]
+['soft', 'noisy'] received scores [0.6551448106765747, 0.34485524892807007]
+
+decades/1980s/1985_A/hales_the_mantle_of_a_bishop.txt
+
+The story is told of the young child who misbehaved in sacrament meeting.
+
+['loud', 'quiet'] received scores [0.7444602251052856, 0.25553977489471436]
+['soft', 'loud'] received scores [0.5066629648208618, 0.4933370351791382]
+['noisy', 'quiet'] received scores [0.5639404058456421, 0.4360595643520355]
+['soft', 'noisy'] received scores [0.6982050538063049, 0.30179497599601746]
+
+decades/1980s/1985_A/hales_the_mantle_of_a_bishop.txt
+
+Father would always have me polish the sacrament trays when I was a deacon, and we would bring them home and wash the sacrament cloths and honor the priesthood.
+
+['quiet', 'loud'] received scores [0.5792497992515564, 0.420750230550766]
+['soft', 'loud'] received scores [0.5272313356399536, 0.47276875376701355]
+['quiet', 'noisy'] received scores [0.7927361726760864, 0.20726384222507477]
+['soft', 'noisy'] received scores [0.7559932470321655, 0.24400675296783447]
+
+decades/1980s/1985_A/hunter_christ,_our_passover.txt
+
+In this simple but impressive manner the Savior instituted the ordinance now known as the sacrament of the Lord’s Supper.
+
+['quiet', 'loud'] received scores [0.8573948740959167, 0.14260512590408325]
+['soft', 'loud'] received scores [0.8514103889465332, 0.148589625954628]
+['quiet', 'noisy'] received scores [0.9806200265884399, 0.019379960373044014]
+['soft', 'noisy'] received scores [0.9796841740608215, 0.020315781235694885]
+
+decades/1980s/1985_A/monson_“the_spirit_giveth_life”.txt
+
+They rarely missed a sacrament meeting from that day to the time each was called home.
+
+['quiet', 'loud'] received scores [0.5821725130081177, 0.4178275167942047]
+['soft', 'loud'] received scores [0.5371592044830322, 0.46284082531929016]
+['quiet', 'noisy'] received scores [0.7157533764839172, 0.2842465937137604]
+['soft', 'noisy'] received scores [0.6771503686904907, 0.3228496313095093]
+
+decades/1980s/1985_A/oaks_taking_upon_us_the_name_of_jesus_christ.txt
+
+Countless Christians attend worship services on this day to partake of the sacrament of the Lord’s Supper, which many call communion.
+
+['loud', 'quiet'] received scores [0.6109164953231812, 0.38908350467681885]
+['soft', 'loud'] received scores [0.5162855982780457, 0.48371443152427673]
+['quiet', 'noisy'] received scores [0.5658156275749207, 0.43418440222740173]
+['soft', 'noisy'] received scores [0.6859237551689148, 0.3140762746334076]
+
+decades/1980s/1985_A/oaks_taking_upon_us_the_name_of_jesus_christ.txt
+
+Members of The Church of Jesus Christ of Latter-day Saints are commanded to partake of the sacrament each week.
+
+['quiet', 'loud'] received scores [0.7078806757926941, 0.2921193838119507]
+['soft', 'loud'] received scores [0.6666665077209473, 0.33333349227905273]
+['quiet', 'noisy'] received scores [0.8055259585380554, 0.19447405636310577]
+['soft', 'noisy'] received scores [0.7736838459968567, 0.2263161838054657]
+
+decades/1980s/1985_A/oaks_taking_upon_us_the_name_of_jesus_christ.txt
+
+We should ponder these sacred covenants during the sacrament service.
+
+['quiet', 'loud'] received scores [0.7123854160308838, 0.2876146137714386]
+['soft', 'loud'] received scores [0.5762556195259094, 0.42374441027641296]
+['quiet', 'noisy'] received scores [0.8473913669586182, 0.15260864794254303]
+['soft', 'noisy'] received scores [0.7530060410499573, 0.2469940185546875]
+
+decades/1980s/1985_A/oaks_taking_upon_us_the_name_of_jesus_christ.txt
+
+On this Easter Sunday it is appropriate to reflect on what it means to partake of the sacrament.
+
+['quiet', 'loud'] received scores [0.6602866053581238, 0.3397133946418762]
+['soft', 'loud'] received scores [0.5819072127342224, 0.4180927872657776]
+['quiet', 'noisy'] received scores [0.7838455438613892, 0.21615441143512726]
+['soft', 'noisy'] received scores [0.7219700217247009, 0.2780299186706543]
+
+decades/1980s/1985_A/oaks_taking_upon_us_the_name_of_jesus_christ.txt
+
+When we partake of the sacrament, we renew this covenant and all the other covenants we made in the waters of baptism.
+
+['quiet', 'loud'] received scores [0.5533104538917542, 0.4466894865036011]
+['loud', 'soft'] received scores [0.5293474197387695, 0.47065263986587524]
+['quiet', 'noisy'] received scores [0.7911543846130371, 0.2088455706834793]
+['soft', 'noisy'] received scores [0.7311210632324219, 0.2688789367675781]
+
+decades/1980s/1985_A/oaks_taking_upon_us_the_name_of_jesus_christ.txt
+
+There are other meanings as well, deeper meanings that the more mature members of the Church should understand and ponder as he or she partakes of the sacrament.
+
+['quiet', 'loud'] received scores [0.6054794192314148, 0.39452052116394043]
+['soft', 'loud'] received scores [0.7519460916519165, 0.24805383384227753]
+['quiet', 'noisy'] received scores [0.6514380574226379, 0.34856197237968445]
+['soft', 'noisy'] received scores [0.7868490219116211, 0.2131509631872177]
+
+decades/1980s/1985_A/oaks_taking_upon_us_the_name_of_jesus_christ.txt
+
+It is significant that when we partake of the sacrament we do not witness that we take upon us the name of Jesus Christ.
+
+['quiet', 'loud'] received scores [0.8894287347793579, 0.11057125777006149]
+['loud', 'soft'] received scores [0.7805446982383728, 0.2194553166627884]
+['quiet', 'noisy'] received scores [0.9566579461097717, 0.04334210976958275]
+['noisy', 'soft'] received scores [0.5644989609718323, 0.4355010390281677]
+
+decades/1980s/1985_A/oaks_taking_upon_us_the_name_of_jesus_christ.txt
+
+According to this meaning, by partaking of the sacrament we witness our willingness to participate in the sacred ordinances of the temple and to receive the highest blessings available through the name and by the authority of the Savior when he chooses to confer them upon us.
+
+['quiet', 'loud'] received scores [0.658775269985199, 0.34122467041015625]
+['loud', 'soft'] received scores [0.5240136384963989, 0.4759863018989563]
+['quiet', 'noisy'] received scores [0.7874917984008789, 0.21250824630260468]
+['soft', 'noisy'] received scores [0.6355038285255432, 0.3644961714744568]
+
+decades/1980s/1985_A/oaks_taking_upon_us_the_name_of_jesus_christ.txt
+
+When the priest offers the scriptural prayer on the bread at the sacrament table, he prays that all who partake may “witness” unto God, the Eternal Father, “that they are willing to take upon them the name of thy Son.
+
+['quiet', 'loud'] received scores [0.5102439522743225, 0.4897560477256775]
+['soft', 'loud'] received scores [0.5316322445869446, 0.4683677554130554]
+['quiet', 'noisy'] received scores [0.6708210110664368, 0.32917898893356323]
+['soft', 'noisy'] received scores [0.6894645690917969, 0.31053540110588074]
+
+decades/1980s/1985_A/oaks_taking_upon_us_the_name_of_jesus_christ.txt
+
+That is what we should ponder as we partake of the sacred emblems of the sacrament.
+
+['loud', 'quiet'] received scores [0.5222529172897339, 0.47774702310562134]
+['loud', 'soft'] received scores [0.5385792255401611, 0.4614207446575165]
+['quiet', 'noisy'] received scores [0.6703394055366516, 0.3296605944633484]
+['soft', 'noisy'] received scores [0.6556947827339172, 0.34430521726608276]
+
+decades/1980s/1985_O/benson_born_of_god.txt
+
+Almost every week they partake of the sacrament and witness anew to their Eternal Father that they are willing to take upon them the name of His Son, always remember Him, and keep His commandments.
+
+['loud', 'quiet'] received scores [0.7167582511901855, 0.28324174880981445]
+['loud', 'soft'] received scores [0.675199031829834, 0.32480093836784363]
+['noisy', 'quiet'] received scores [0.5261890292167664, 0.47381097078323364]
+['soft', 'noisy'] received scores [0.5229316353797913, 0.47706839442253113]
+
+decades/1980s/1985_O/burton_let_mercy_temper_justice.txt
+
+Unworthy persons are not to partake of the sacrament that they may not mock that holy ordinance in which we covenant to obey and keep the laws of God.
+
+['quiet', 'loud'] received scores [0.5585793852806091, 0.44142061471939087]
+['loud', 'soft'] received scores [0.5231643915176392, 0.47683560848236084]
+['quiet', 'noisy'] received scores [0.7007797360420227, 0.2992202639579773]
+['soft', 'noisy'] received scores [0.6278235912322998, 0.37217646837234497]
+
+decades/1980s/1985_O/fyans_“draw_near_unto_me”.txt
+
+We hear it each time we partake of the sacrament.
+
+['loud', 'quiet'] received scores [0.9268518686294556, 0.07314813137054443]
+['loud', 'soft'] received scores [0.9185950756072998, 0.08140493929386139]
+['noisy', 'quiet'] received scores [0.9266682267189026, 0.0733318030834198]
+['noisy', 'soft'] received scores [0.9183924794197083, 0.08160751312971115]
+
+decades/1980s/1985_O/hales_lessons_from_the_atonement_that_help_us_to_endure_to_the_end.txt
+
+Every time we take the sacrament, we remind ourselves that we will always remember Him, that we will take His name upon us, and that we will always keep His commandments.
+
+['loud', 'quiet'] received scores [0.6297729015350342, 0.3702271282672882]
+['loud', 'soft'] received scores [0.7348440289497375, 0.26515597105026245]
+['quiet', 'noisy'] received scores [0.5720264315605164, 0.42797353863716125]
+['noisy', 'soft'] received scores [0.5493323802947998, 0.4506676197052002]
+
+decades/1980s/1985_O/hinckley_questions_and_answers.txt
+
+We have many wards and stakes where the sacrament meeting attendance now reaches 70 and even 80 percent.
+
+['loud', 'quiet'] received scores [0.8715931177139282, 0.12840694189071655]
+['loud', 'soft'] received scores [0.7373402714729309, 0.2626597285270691]
+['noisy', 'quiet'] received scores [0.6960247159004211, 0.30397528409957886]
+['soft', 'noisy'] received scores [0.5136190056800842, 0.48638102412223816]
+
+decades/1980s/1985_O/hinckley_ten_gifts_from_the_lord.txt
+
+It is your privilege to pray in the meetings of the Church—not only in the meetings of the women’s organizations, but in the sacrament meetings when all of the saints are admonished to gather together.
+
+['quiet', 'loud'] received scores [0.5223393440246582, 0.4776606261730194]
+['loud', 'soft'] received scores [0.527686357498169, 0.47231361269950867]
+['quiet', 'noisy'] received scores [0.7369237542152405, 0.26307621598243713]
+['soft', 'noisy'] received scores [0.6963051557540894, 0.30369478464126587]
+
+decades/1980s/1985_O/hinckley_“let_us_move_this_work_forward”.txt
+
+We can attend our sacrament meetings, there to partake of the emblems of the sacrifice of our Savior.
+
+['quiet', 'loud'] received scores [0.6207243204116821, 0.37927567958831787]
+['soft', 'loud'] received scores [0.5895584225654602, 0.4104415476322174]
+['quiet', 'noisy'] received scores [0.8020656108856201, 0.19793443381786346]
+['soft', 'noisy'] received scores [0.7805323004722595, 0.21946768462657928]
+
+decades/1980s/1985_O/lind_“the_heavens_declare_the_glory_of_god”.txt
+
+Another experience that is very close to me was to have the sacrament in orbit.
+
+['loud', 'quiet'] received scores [0.7090412974357605, 0.2909587621688843]
+['loud', 'soft'] received scores [0.5985392332077026, 0.40146082639694214]
+['noisy', 'quiet'] received scores [0.5291284322738647, 0.47087156772613525]
+['soft', 'noisy'] received scores [0.5925952196121216, 0.4074047803878784]
+
+decades/1980s/1985_O/lind_“the_heavens_declare_the_glory_of_god”.txt
+
+Our bishop had given me permission to hold my own sacrament service.
+
+['quiet', 'loud'] received scores [0.817013680934906, 0.18298634886741638]
+['soft', 'loud'] received scores [0.7245081067085266, 0.2754919230937958]
+['quiet', 'noisy'] received scores [0.8837596774101257, 0.11624033004045486]
+['soft', 'noisy'] received scores [0.8174574375152588, 0.18254253268241882]
+
+decades/1980s/1985_O/lind_“the_heavens_declare_the_glory_of_god”.txt
+
+For privacy I held my sacrament service in my sleep station—something like a Pullman berth.
+
+['quiet', 'loud'] received scores [0.9925922155380249, 0.007407775614410639]
+['soft', 'loud'] received scores [0.969098687171936, 0.030901262536644936]
+['quiet', 'noisy'] received scores [0.9928999543190002, 0.00710003636777401]
+['soft', 'noisy'] received scores [0.9703532457351685, 0.02964669093489647]
+
+decades/1980s/1985_O/lind_“the_heavens_declare_the_glory_of_god”.txt
+
+I will remember that sacrament service and the renewing of my baptismal covenants high above the earth all my life.
+
+['loud', 'quiet'] received scores [0.9247841835021973, 0.07521574944257736]
+['loud', 'soft'] received scores [0.9319576025009155, 0.06804245710372925]
+['noisy', 'quiet'] received scores [0.7176369428634644, 0.28236305713653564]
+['noisy', 'soft'] received scores [0.7389900088310242, 0.26100999116897583]
+
+decades/1980s/1985_O/wells_adventures_of_the_spirit.txt
+
+The sacrament covenant to take Christ’s name upon oneself pierces the soul so deeply that Christ’s atonement truly becomes a personal, saving experience, a rebirth;
+
+['loud', 'quiet'] received scores [0.9175995588302612, 0.08240040391683578]
+['loud', 'soft'] received scores [0.9312930107116699, 0.06870698928833008]
+['noisy', 'quiet'] received scores [0.7513062357902527, 0.24869370460510254]
+['noisy', 'soft'] received scores [0.7861955761909485, 0.2138044834136963]
+
+decades/1980s/1985_O/winder_draw_near_unto_me_through_obedience.txt
+
+We have also been reminded that as we partake of the sacrament each Sunday our minds and our hearts should be filled with our commitment to “remember him and keep his commandments.
+
+['loud', 'quiet'] received scores [0.7356571555137634, 0.26434287428855896]
+['loud', 'soft'] received scores [0.8132433295249939, 0.1867566704750061]
+['noisy', 'quiet'] received scores [0.636767566204071, 0.36323240399360657]
+['noisy', 'soft'] received scores [0.7328377962112427, 0.2671622037887573]
+
+decades/1980s/1985_O/winder_draw_near_unto_me_through_obedience.txt
+
+We are sanctifying ourselves one step at a time as we accept personal responsibility for our actions and honor the covenants we make at baptism, in the temple, and as we take the sacrament each Sunday.
+
+['quiet', 'loud'] received scores [0.7636212110519409, 0.2363787740468979]
+['soft', 'loud'] received scores [0.5904463529586792, 0.4095536470413208]
+['quiet', 'noisy'] received scores [0.862449586391449, 0.13755042850971222]
+['soft', 'noisy'] received scores [0.7367143034934998, 0.26328566670417786]
+
+decades/1980s/1986_A/benson_the_power_of_the_word.txt
+
+We work diligently to raise the percentages of those attending sacrament meetings.
+
+['quiet', 'loud'] received scores [0.5452821850776672, 0.45471781492233276]
+['loud', 'soft'] received scores [0.5847966074943542, 0.4152034521102905]
+['quiet', 'noisy'] received scores [0.7265841960906982, 0.273415744304657]
+['soft', 'noisy'] received scores [0.611409068107605, 0.388590931892395]
+
+decades/1980s/1986_A/benson_to_the_“youth_of_the_noble_birthright”.txt
+
+Attend your sacrament meeting every Sunday.
+
+['quiet', 'loud'] received scores [0.7583556175231934, 0.2416444569826126]
+['soft', 'loud'] received scores [0.6833796501159668, 0.3166203498840332]
+['quiet', 'noisy'] received scores [0.8594434261322021, 0.14055657386779785]
+['soft', 'noisy'] received scores [0.8078867793083191, 0.19211320579051971]
+
+decades/1980s/1986_A/benson_to_the_“youth_of_the_noble_birthright”.txt
+
+Be worthy to prepare and bless and pass the sacrament.
+
+['loud', 'quiet'] received scores [0.542587399482727, 0.4574125409126282]
+['loud', 'soft'] received scores [0.6816298961639404, 0.3183700740337372]
+['quiet', 'noisy'] received scores [0.7321831583976746, 0.26781681180000305]
+['soft', 'noisy'] received scores [0.6023384928703308, 0.3976614475250244]
+
+decades/1980s/1986_A/benson_to_the_“youth_of_the_noble_birthright”.txt
+
+Come to the sacrament table with clean hands and a pure heart.
+
+['quiet', 'loud'] received scores [0.8900790810585022, 0.10992088913917542]
+['soft', 'loud'] received scores [0.7164060473442078, 0.2835939824581146]
+['quiet', 'noisy'] received scores [0.9566236734390259, 0.0433763787150383]
+['soft', 'noisy'] received scores [0.8730998635292053, 0.12690018117427826]
+
+decades/1980s/1986_A/hinckley_the_question_of_a_mission.txt
+
+Many miracles later we found ourselves attending our first Sunday sacrament meeting in this ward.
+
+['loud', 'quiet'] received scores [0.6365261077880859, 0.36347392201423645]
+['loud', 'soft'] received scores [0.6593033671379089, 0.3406966030597687]
+['quiet', 'noisy'] received scores [0.5322855710983276, 0.46771439909935]
+['soft', 'noisy'] received scores [0.507361650466919, 0.49263834953308105]
+
+decades/1980s/1986_O/benson_godly_characteristics_of_the_master.txt
+
+Parents were encouraged to go to sacrament meeting, but the children were to remain home to avoid contracting the disease.
+
+['quiet', 'loud'] received scores [0.7955057621002197, 0.20449423789978027]
+['soft', 'loud'] received scores [0.5939263701438904, 0.406073659658432]
+['quiet', 'noisy'] received scores [0.8836202025413513, 0.11637984961271286]
+['soft', 'noisy'] received scores [0.7405732870101929, 0.25942668318748474]
+
+decades/1980s/1986_O/benson_godly_characteristics_of_the_master.txt
+
+Father and Mother went to sacrament meeting in a one-horse buggy.
+
+['quiet', 'loud'] received scores [0.6008995175361633, 0.39910057187080383]
+['soft', 'loud'] received scores [0.6788316369056702, 0.32116830348968506]
+['quiet', 'noisy'] received scores [0.6822112798690796, 0.317788690328598]
+['soft', 'noisy'] received scores [0.7508491277694702, 0.2491508275270462]
+
+decades/1980s/1986_O/benson_to_the_young_women_of_the_church.txt
+
+Attend your sacrament meeting every Sunday.
+
+['quiet', 'loud'] received scores [0.7583556175231934, 0.2416444569826126]
+['soft', 'loud'] received scores [0.6833796501159668, 0.3166203498840332]
+['quiet', 'noisy'] received scores [0.8594434261322021, 0.14055657386779785]
+['soft', 'noisy'] received scores [0.8078867793083191, 0.19211320579051971]
+
+decades/1980s/1986_O/benson_to_the_young_women_of_the_church.txt
+
+Partake of the sacrament with clean hands and a pure heart.
+
+['quiet', 'loud'] received scores [0.7804595232009888, 0.21954050660133362]
+['soft', 'loud'] received scores [0.6163952350616455, 0.3836047947406769]
+['quiet', 'noisy'] received scores [0.9041659235954285, 0.09583409875631332]
+['soft', 'noisy'] received scores [0.8100482821464539, 0.18995174765586853]
+
+decades/1980s/1986_O/eyring_the_spark_of_faith.txt
+
+And by remembering Him and His gift, which we promise to do as we take the sacrament each week, we can put a light of hope in our faces which those we love need so much to see.
+
+['loud', 'quiet'] received scores [0.7027966976165771, 0.2972033619880676]
+['loud', 'soft'] received scores [0.7077075839042664, 0.29229244589805603]
+['quiet', 'noisy'] received scores [0.5040563941001892, 0.4959436357021332]
+['noisy', 'soft'] received scores [0.5018497705459595, 0.49815016984939575]
+
+decades/1980s/1986_O/hinckley_the_war_we_are_winning.txt
+
+Think of it—a man who has taken upon himself the name of the Lord in baptism, a man who has renewed his covenants with the Lord in his sacrament meetings, a man who has accepted the priesthood of God and yet has said that if he were close to his Heavenly Father, some commitment might be expected of him, and he was not ready for that.
+
+['loud', 'quiet'] received scores [0.7380243539810181, 0.26197564601898193]
+['loud', 'soft'] received scores [0.7312055826187134, 0.2687944173812866]
+['quiet', 'noisy'] received scores [0.5676994323730469, 0.43230053782463074]
+['soft', 'noisy'] received scores [0.576262354850769, 0.42373761534690857]
+
+decades/1980s/1987_A/bangerter_what_it_means_to_be_a_saint.txt
+
+Having received baptism as a form and not as a covenant, they scarcely advance to the sacrament table.
+
+['quiet', 'loud'] received scores [0.9737755060195923, 0.026224566623568535]
+['soft', 'loud'] received scores [0.8658444881439209, 0.1341554820537567]
+['quiet', 'noisy'] received scores [0.9842862486839294, 0.01571374572813511]
+['soft', 'noisy'] received scores [0.9158770442008972, 0.08412295579910278]
+
+decades/1980s/1987_A/hinckley_reverence_and_morality.txt
+
+The first of these is reverence in our meetings, particularly in our sacrament meetings.
+
+['quiet', 'loud'] received scores [0.9006063342094421, 0.09939368069171906]
+['soft', 'loud'] received scores [0.6921908855438232, 0.30780911445617676]
+['quiet', 'noisy'] received scores [0.9625956416130066, 0.037404343485832214]
+['soft', 'noisy'] received scores [0.8646252155303955, 0.13537481427192688]
+
+decades/1980s/1987_A/hinckley_reverence_and_morality.txt
+
+Why do we go to sacrament meeting?
+
+['quiet', 'loud'] received scores [0.7757579684257507, 0.22424203157424927]
+['soft', 'loud'] received scores [0.7296937704086304, 0.27030622959136963]
+['quiet', 'noisy'] received scores [0.8615080118179321, 0.1384919434785843]
+['soft', 'noisy'] received scores [0.8291800618171692, 0.1708199828863144]
+
+decades/1980s/1987_A/hinckley_reverence_and_morality.txt
+
+We go, of course, to renew our covenants in partaking of the sacrament.
+
+['loud', 'quiet'] received scores [0.5199773907661438, 0.4800225496292114]
+['loud', 'soft'] received scores [0.5044862627983093, 0.4955137372016907]
+['quiet', 'noisy'] received scores [0.680151641368866, 0.31984829902648926]
+['soft', 'noisy'] received scores [0.6934877634048462, 0.3065122961997986]
+
+decades/1980s/1987_A/hinckley_reverence_and_morality.txt
+
+“And that thou mayest more fully keep thyself unspotted from the world, thou shalt go to the house of prayer and offer up thy sacraments upon my holy day; “For verily this is a day appointed unto you to rest from your labors, and to pay thy devotions unto the Most High” We need, every one of us needs, to pause from the hectic pace of our lives and to reflect upon things sacred and divine.
+
+['quiet', 'loud'] received scores [0.9623620510101318, 0.03763791546225548]
+['loud', 'soft'] received scores [0.5828155279159546, 0.41718441247940063]
+['quiet', 'noisy'] received scores [0.9863990545272827, 0.01360088400542736]
+['soft', 'noisy'] received scores [0.6700044274330139, 0.32999560236930847]
+
+decades/1980s/1987_A/hinckley_reverence_and_morality.txt
+
+I invite you brethren of the priesthood, wherever you may be, and particularly you members of bishoprics, to begin an earnest effort to cultivate a more beautiful spirit of worship in our sacrament meetings and an attitude of increased reverence generally in our church buildings.
+
+['quiet', 'loud'] received scores [0.6329514384269714, 0.36704859137535095]
+['loud', 'soft'] received scores [0.5072419047355652, 0.49275803565979004]
+['quiet', 'noisy'] received scores [0.8213368058204651, 0.1786632090806961]
+['soft', 'noisy'] received scores [0.7214290499687195, 0.27857092022895813]
+
+decades/1980s/1987_A/hinckley_reverence_and_morality.txt
+
+The young men of the Aaronic Priesthood should be trained to know that the sacrament which they administer is sacred and holy unto the Lord.
+
+['loud', 'quiet'] received scores [0.6063987612724304, 0.3936011791229248]
+['loud', 'soft'] received scores [0.7179227471351624, 0.28207725286483765]
+['quiet', 'noisy'] received scores [0.6746305227279663, 0.3253694176673889]
+['soft', 'noisy'] received scores [0.5565625429153442, 0.44343748688697815]
+
+decades/1980s/1987_A/hinckley_reverence_and_morality.txt
+
+The priest at the sacrament table places all in the congregation under sacred covenant.
+
+['quiet', 'loud'] received scores [0.592525839805603, 0.407474160194397]
+['soft', 'loud'] received scores [0.514279842376709, 0.485720157623291]
+['quiet', 'noisy'] received scores [0.7942537665367126, 0.20574621856212616]
+['soft', 'noisy'] received scores [0.7375895380973816, 0.2624104619026184]
+
+decades/1980s/1987_A/hinckley_reverence_and_morality.txt
+
+Cleanliness of hands, as well as purity of heart, should be taught to the priests who officiate at the sacrament table.
+
+['loud', 'quiet'] received scores [0.5062293410301208, 0.49377062916755676]
+['loud', 'soft'] received scores [0.6060354113578796, 0.39396461844444275]
+['quiet', 'noisy'] received scores [0.7638514637947083, 0.23614856600761414]
+['soft', 'noisy'] received scores [0.683121383190155, 0.31687867641448975]
+
+decades/1980s/1987_A/hinckley_reverence_and_morality.txt
+
+At the conclusion of the administration of the sacrament, it is not uncommon for the priests and even the deacons to leave their places and scatter all over the chapel.
+
+['loud', 'quiet'] received scores [0.6589470505714417, 0.34105291962623596]
+['soft', 'loud'] received scores [0.6745164394378662, 0.3254835903644562]
+['noisy', 'quiet'] received scores [0.740185558795929, 0.25981444120407104]
+['soft', 'noisy'] received scores [0.5842770338058472, 0.41572290658950806]
+
+decades/1980s/1987_A/hinckley_reverence_and_morality.txt
+
+If so, perhaps space could be reserved on the front row to which they could quietly move at the conclusion of the sacrament service.
+
+['quiet', 'loud'] received scores [0.9405477643013, 0.05945226177573204]
+['soft', 'loud'] received scores [0.7463781237602234, 0.253621906042099]
+['quiet', 'noisy'] received scores [0.8465758562088013, 0.15342411398887634]
+['soft', 'noisy'] received scores [0.5065228343009949, 0.4934771955013275]
+
+decades/1980s/1987_A/hinckley_reverence_and_morality.txt
+
+The subject for discussion might be something like this: “What each of us can do to improve the spirit of our sacrament meetings.
+
+['quiet', 'loud'] received scores [0.5574354529380798, 0.4425645172595978]
+['soft', 'loud'] received scores [0.5225461721420288, 0.4774538576602936]
+['quiet', 'noisy'] received scores [0.7683457136154175, 0.2316543161869049]
+['soft', 'noisy'] received scores [0.7423997521400452, 0.25760024785995483]
+
+decades/1980s/1987_A/oaks_priesthood_blessings.txt
+
+In modern revelation, parents who are members of the Church are commanded to bring their children “before the church,” where the elders “are to lay their hands upon them in the name of Jesus Christ, and bless them in his name” This is why parents bring babies to a sacrament meeting, where an elder—usually the father—gives them a name and a blessing.
+
+['quiet', 'loud'] received scores [0.7230324745178223, 0.27696743607521057]
+['loud', 'soft'] received scores [0.5504589080810547, 0.4495410919189453]
+['quiet', 'noisy'] received scores [0.8754510283470154, 0.12454899400472641]
+['soft', 'noisy'] received scores [0.687393307685852, 0.31260669231414795]
+
+decades/1980s/1987_A/simpson_no_shortcuts.txt
+
+A boy who had just been ordained a priest then spoke up: “We exercised our free agency in the premortal existence; people agree to baptism before they are baptized; we choose to renew the baptismal covenant each week during the sacrament service; we agreed to the conditions of the priesthood during the bishop’s interview.
+
+['loud', 'quiet'] received scores [0.9142355918884277, 0.08576440066099167]
+['loud', 'soft'] received scores [0.7561700344085693, 0.2438299059867859]
+['noisy', 'quiet'] received scores [0.8504573702812195, 0.14954259991645813]
+['noisy', 'soft'] received scores [0.6232824325561523, 0.37671753764152527]
+
+decades/1980s/1987_O/ballard_sacrifice_and_self-sufficiency.txt
+
+I asked my bishops for time in their sacrament meetings to explain the basic idea.
+
+['quiet', 'loud'] received scores [0.82966548204422, 0.17033445835113525]
+['soft', 'loud'] received scores [0.6698095798492432, 0.33019039034843445]
+['quiet', 'noisy'] received scores [0.8653738498687744, 0.13462617993354797]
+['soft', 'noisy'] received scores [0.7280447483062744, 0.2719552218914032]
+
+decades/1980s/1987_O/ballard_sacrifice_and_self-sufficiency.txt
+
+Attendance at sacrament meetings climbed from eighty to ninety people a week to nearly one hundred fifty now.
+
+['loud', 'quiet'] received scores [0.7950478196144104, 0.2049521654844284]
+['loud', 'soft'] received scores [0.5697529315948486, 0.43024706840515137]
+['noisy', 'quiet'] received scores [0.6199934482574463, 0.3800065219402313]
+['soft', 'noisy'] received scores [0.6422773003578186, 0.3577227294445038]
+
+decades/1980s/1987_O/faust_“the_great_imitator”.txt
+
+The humble followers of the divine Master need not be deceived by the devil if they will be honest and true to their fellow men and women, go to the house of the Lord, receive the sacrament worthily, observe the Sabbath day, pay their tithes and offerings, offer contrite prayers, engage in the Lord’s work, and follow those who preside over them.
+
+['quiet', 'loud'] received scores [0.5182721018791199, 0.4817279279232025]
+['loud', 'soft'] received scores [0.616435706615448, 0.3835642337799072]
+['quiet', 'noisy'] received scores [0.6632645130157471, 0.3367355167865753]
+['soft', 'noisy'] received scores [0.5325310230255127, 0.4674689471721649]
+
+decades/1980s/1987_O/haight_ethics_and_honesty.txt
+
+Recently, Sister Haight and I attended a ward sacrament meeting some distance from our home.
+
+['quiet', 'loud'] received scores [0.7940914630889893, 0.20590855181217194]
+['soft', 'loud'] received scores [0.6434333920478821, 0.35656657814979553]
+['quiet', 'noisy'] received scores [0.8144590258598328, 0.18554092943668365]
+['soft', 'noisy'] received scores [0.6725584864616394, 0.3274415135383606]
+
+decades/1980s/1987_O/haight_ethics_and_honesty.txt
+
+After the sacrament, we found, to our delight, that the Primary would present the program, the theme being “We Believe in Being Honest.
+
+['quiet', 'loud'] received scores [0.7439063787460327, 0.2560935914516449]
+['soft', 'loud'] received scores [0.6273157000541687, 0.3726842403411865]
+['quiet', 'noisy'] received scores [0.7737997770309448, 0.22620028257369995]
+['soft', 'noisy'] received scores [0.6646840572357178, 0.3353159725666046]
+
+decades/1980s/1987_O/hinckley_“lord,_increase_our_faith”.txt
+
+We conferred upon him the Aaronic Priesthood and ordained him to the office of priest so that under proper direction they might have the sacrament.
+
+['quiet', 'loud'] received scores [0.6022850871086121, 0.3977149426937103]
+['loud', 'soft'] received scores [0.5699076056480408, 0.43009236454963684]
+['quiet', 'noisy'] received scores [0.7967149615287781, 0.20328503847122192]
+['soft', 'noisy'] received scores [0.6613729000091553, 0.3386271297931671]
+
+decades/1980s/1987_O/hinckley_“lord,_increase_our_faith”.txt
+
+We held a sacrament and testimony meeting with them.
+
+['quiet', 'loud'] received scores [0.5764669179916382, 0.4235331416130066]
+['soft', 'loud'] received scores [0.6210953593254089, 0.37890470027923584]
+['quiet', 'noisy'] received scores [0.8024874925613403, 0.19751252233982086]
+['soft', 'noisy'] received scores [0.8303103446960449, 0.16968970000743866]
+
+decades/1980s/1988_A/haight_our_lord_and_savior.txt
+
+These thoughtful words from a favorite Mormon sacrament hymn express our heartfelt gratitude for our Savior: There was no other good enough To pay the price of sin.
+
+['quiet', 'loud'] received scores [0.8692283034324646, 0.13077165186405182]
+['soft', 'loud'] received scores [0.7254654169082642, 0.27453458309173584]
+['quiet', 'noisy'] received scores [0.9419472813606262, 0.05805271491408348]
+['soft', 'noisy'] received scores [0.8657835125923157, 0.13421647250652313]
+
+decades/1980s/1988_A/hinckley_the_aaronic_priesthood—a_gift_from_god.txt
+
+That great and important sacrament was instituted by the Savior himself shortly before His crucifixion.
+
+['loud', 'quiet'] received scores [0.7060657143592834, 0.29393434524536133]
+['loud', 'soft'] received scores [0.7988969683647156, 0.20110300183296204]
+['noisy', 'quiet'] received scores [0.5221275687217712, 0.47787243127822876]
+['noisy', 'soft'] received scores [0.6437392830848694, 0.3562607169151306]
+
+decades/1980s/1988_A/hinckley_the_aaronic_priesthood—a_gift_from_god.txt
+
+When you priests of the Aaronic Priesthood administer the sacrament, you are doing what Jesus did while He was yet in the flesh, and which He also did when He ministered among the Nephites following His resurrection.
+
+['loud', 'quiet'] received scores [0.603066086769104, 0.39693397283554077]
+['loud', 'soft'] received scores [0.6753906607627869, 0.3246093988418579]
+['quiet', 'noisy'] received scores [0.6150206923484802, 0.3849793076515198]
+['soft', 'noisy'] received scores [0.5384376645088196, 0.4615623652935028]
+
+decades/1980s/1988_A/hinckley_the_aaronic_priesthood—a_gift_from_god.txt
+
+When you, as a priest, kneel at the sacrament table and offer up the prayer, which came by revelation, you place the entire congregation under covenant with the Lord.
+
+['quiet', 'loud'] received scores [0.5628096461296082, 0.43719038367271423]
+['loud', 'soft'] received scores [0.5451255440711975, 0.45487451553344727]
+['quiet', 'noisy'] received scores [0.8016547560691833, 0.19834524393081665]
+['soft', 'noisy'] received scores [0.7237423658370972, 0.27625760436058044]
+
+decades/1980s/1988_A/hinckley_the_aaronic_priesthood—a_gift_from_god.txt
+
+It is totally wrong for you to take the name of the Lord in vain and indulge in filthy and unseemly talk at school or at work, and then kneel at the sacrament table on Sunday.
+
+['loud', 'quiet'] received scores [0.6444926857948303, 0.35550734400749207]
+['loud', 'soft'] received scores [0.6739346385002136, 0.326065331697464]
+['quiet', 'noisy'] received scores [0.5042064189910889, 0.49579358100891113]
+['noisy', 'soft'] received scores [0.5285418629646301, 0.4714581072330475]
+
+decades/1980s/1988_A/hinckley_the_empty_tomb_bore_testimony.txt
+
+He instituted the sacrament of the Last Supper among them that they and the generations who followed might hold Him in remembrance.
+
+['loud', 'quiet'] received scores [0.6993499994277954, 0.3006499707698822]
+['loud', 'soft'] received scores [0.7024140357971191, 0.297586053609848]
+['quiet', 'noisy'] received scores [0.5397269129753113, 0.46027305722236633]
+['soft', 'noisy'] received scores [0.5360942482948303, 0.46390578150749207]
+
+decades/1980s/1988_A/hunter_he_is_risen.txt
+
+Later, as they met to celebrate the Passover, Jesus and his Apostles partook of the sacramental emblems that he initiated in this last supper together, and then walked to the Mount of Olives.
+
+['loud', 'quiet'] received scores [0.5180087685585022, 0.4819912314414978]
+['soft', 'loud'] received scores [0.5048808455467224, 0.4951191246509552]
+['quiet', 'noisy'] received scores [0.6282903552055359, 0.37170958518981934]
+['soft', 'noisy'] received scores [0.649417519569397, 0.350582480430603]
+
+decades/1980s/1988_A/oaks_always_remember_him.txt
+
+Luke writes: “And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me” When we partake of the sacrament, we witness unto God the Eternal Father that we “do always remember” his Son.
+
+['loud', 'quiet'] received scores [0.580295979976654, 0.41970404982566833]
+['loud', 'soft'] received scores [0.5961591005325317, 0.4038408398628235]
+['quiet', 'noisy'] received scores [0.5837051868438721, 0.41629475355148315]
+['soft', 'noisy'] received scores [0.5677075982093811, 0.4322924315929413]
+
+decades/1980s/1988_A/packer_atonement,_agency,_accountability.txt
+
+And the Passover would be commemorated forever as the sacrament, in which we renew our covenant of baptism and partake in remembrance of the body of the Lamb of God and of His blood, which was shed for us.
+
+['quiet', 'loud'] received scores [0.5623745918273926, 0.43762534856796265]
+['loud', 'soft'] received scores [0.5849268436431885, 0.41507312655448914]
+['quiet', 'noisy'] received scores [0.7641674876213074, 0.23583246767520905]
+['soft', 'noisy'] received scores [0.6414880156517029, 0.3585120141506195]
+
+decades/1980s/1988_O/carmack_the_soil_and_roots_of_testimony.txt
+
+The central gospel principles repeated over and over in the covenants and ordinances of the temple, embodied in the sacrament, and found in the scriptures are available to all of us if we do not imagine somehow that we have outgrown the gospel of Christ.
+
+['quiet', 'loud'] received scores [0.5129885673522949, 0.4870114326477051]
+['loud', 'soft'] received scores [0.627167284488678, 0.3728327751159668]
+['quiet', 'noisy'] received scores [0.703220009803772, 0.2967800199985504]
+['soft', 'noisy'] received scores [0.5721501708030701, 0.42784976959228516]
+
+decades/1980s/1988_O/cook_inviting_others_to_“come_unto_christ”.txt
+
+A priesthood leader expresses love to a dissident group of less-active members, and twenty return to sacrament meeting that same day.
+
+['quiet', 'loud'] received scores [0.529353678226471, 0.47064638137817383]
+['loud', 'soft'] received scores [0.5010238885879517, 0.49897611141204834]
+['quiet', 'noisy'] received scores [0.753153383731842, 0.24684657156467438]
+['soft', 'noisy'] received scores [0.7298489809036255, 0.27015095949172974]
+
+decades/1980s/1988_O/grassli_children_at_peace.txt
+
+Nine-year-old Matt in Wisconsin spoke in the children’s sacrament meeting presentation in his ward recently about something he had learned that brought him peace.
+
+['quiet', 'loud'] received scores [0.7681450247764587, 0.23185496032238007]
+['soft', 'loud'] received scores [0.5392144918441772, 0.46078550815582275]
+['quiet', 'noisy'] received scores [0.9281277060508728, 0.0718722715973854]
+['soft', 'noisy'] received scores [0.8201838135719299, 0.17981624603271484]
+
+decades/1980s/1988_O/hinckley_to_the_bishops_of_the_church.txt
+
+You are accountable for the spiritual nature of those meetings and for the administration of the sacrament to the members, that all may be reminded of sacred covenants and obligations incumbent upon those who have taken upon them the name of the Lord.
+
+['loud', 'quiet'] received scores [0.5176132321357727, 0.48238682746887207]
+['loud', 'soft'] received scores [0.625644862651825, 0.37435516715049744]
+['quiet', 'noisy'] received scores [0.7334580421447754, 0.266541987657547]
+['soft', 'noisy'] received scores [0.6385653018951416, 0.3614346981048584]
+
+decades/1980s/1988_O/nelson_addiction_or_freedom.txt
+
+Renew covenants made at baptism by worthily partaking of the sacrament regularly, “that thou mayest more fully keep thyself unspotted from the world.
+
+['quiet', 'loud'] received scores [0.8642057776451111, 0.13579419255256653]
+['loud', 'soft'] received scores [0.5291360020637512, 0.47086405754089355]
+['quiet', 'noisy'] received scores [0.9233388900756836, 0.07666117697954178]
+['soft', 'noisy'] received scores [0.6274409890174866, 0.37255895137786865]
+
+decades/1980s/1988_O/oaks_“what_think_ye_of_christ”.txt
+
+As Latter-day Saints partake of the sacrament of the Lord’s Supper, we drink water in remembrance of his blood, which was shed for us.
+
+['quiet', 'loud'] received scores [0.577814519405365, 0.4221854507923126]
+['loud', 'soft'] received scores [0.5254494547843933, 0.4745505750179291]
+['quiet', 'noisy'] received scores [0.7431055307388306, 0.25689446926116943]
+['soft', 'noisy'] received scores [0.6562165021896362, 0.34378349781036377]
+
+decades/1980s/1988_O/packer_funerals—a_time_for_reverence.txt
+
+They have been likened to sacrament meetings.
+
+['quiet', 'loud'] received scores [0.6976628303527832, 0.3023372292518616]
+['soft', 'loud'] received scores [0.6718499660491943, 0.32815003395080566]
+['quiet', 'noisy'] received scores [0.853402853012085, 0.14659714698791504]
+['soft', 'noisy'] received scores [0.8377952575683594, 0.16220469772815704]
+
+decades/1980s/1988_O/packer_funerals—a_time_for_reverence.txt
+
+I quote from a priesthood bulletin: “It is requested that henceforth all funerals conducted under the auspices of the officials of the Church follow the general format of the sacrament meeting with respect to music, speaking, and prayers.
+
+['quiet', 'loud'] received scores [0.7184310555458069, 0.2815689742565155]
+['soft', 'loud'] received scores [0.5645610094070435, 0.4354390501976013]
+['quiet', 'noisy'] received scores [0.767223060131073, 0.2327769696712494]
+['soft', 'noisy'] received scores [0.6261413097381592, 0.3738586902618408]
+
+decades/1980s/1988_O/winder_becoming_a_prepared_people.txt
+
+Consistently attending sacrament meetings adds oil to our lamps.
+
+['quiet', 'loud'] received scores [0.5530530214309692, 0.4469469487667084]
+['loud', 'soft'] received scores [0.6289911270141602, 0.37100890278816223]
+['quiet', 'noisy'] received scores [0.7706077098846436, 0.22939229011535645]
+['soft', 'noisy'] received scores [0.6155827045440674, 0.38441726565361023]
+
+decades/1980s/1988_O/wirthlin_the_priesthood_of_god.txt
+
+Recognize that you are acting for the Lord by authority you have received from him each time you gather fast offerings, bless or pass the sacrament, baptize, and visit assigned families as home teachers.
+
+['quiet', 'loud'] received scores [0.6169245839118958, 0.38307538628578186]
+['soft', 'loud'] received scores [0.5504993200302124, 0.4495007395744324]
+['quiet', 'noisy'] received scores [0.7813530564308167, 0.21864692866802216]
+['soft', 'noisy'] received scores [0.7310078740119934, 0.2689921259880066]
+
+decades/1980s/1989_A/benson_to_the_children_of_the_church.txt
+
+Attend sacrament meeting.
+
+['quiet', 'loud'] received scores [0.8408826589584351, 0.15911732614040375]
+['soft', 'loud'] received scores [0.7381933927536011, 0.2618066370487213]
+['quiet', 'noisy'] received scores [0.9014294147491455, 0.09857059270143509]
+['soft', 'noisy'] received scores [0.8299112319946289, 0.1700887829065323]
+
+decades/1980s/1989_A/derrick_the_way_to_perfection.txt
+
+It is important that we partake of the sacrament regularly.
+
+['quiet', 'loud'] received scores [0.6632511019706726, 0.33674895763397217]
+['soft', 'loud'] received scores [0.5203139781951904, 0.4796859622001648]
+['quiet', 'noisy'] received scores [0.7451057434082031, 0.25489428639411926]
+['soft', 'noisy'] received scores [0.616841197013855, 0.383158802986145]
+
+decades/1980s/1989_A/derrick_the_way_to_perfection.txt
+
+When we partake of the sacrament, we witness unto God that we are willing to take upon ourselves the name of Jesus Christ.
+
+['loud', 'quiet'] received scores [0.5898392796516418, 0.41016072034835815]
+['loud', 'soft'] received scores [0.5788980722427368, 0.42110198736190796]
+['quiet', 'noisy'] received scores [0.6389376521110535, 0.36106234788894653]
+['soft', 'noisy'] received scores [0.6492640376091003, 0.3507359027862549]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+One of the most beautiful and important ways is through the ordinance of the sacrament.
+
+['quiet', 'loud'] received scores [0.5588842034339905, 0.44111576676368713]
+['soft', 'loud'] received scores [0.5925777554512024, 0.40742218494415283]
+['quiet', 'noisy'] received scores [0.8305935859680176, 0.169406458735466]
+['soft', 'noisy'] received scores [0.8491355180740356, 0.15086448192596436]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+The Lord instituted the sacrament, as we know it today, during what we commonly call the Last Supper.
+
+['quiet', 'loud'] received scores [0.7256869077682495, 0.27431315183639526]
+['soft', 'loud'] received scores [0.7133809924125671, 0.28661906719207764]
+['quiet', 'noisy'] received scores [0.8041238188743591, 0.19587616622447968]
+['soft', 'noisy'] received scores [0.7943394780158997, 0.20566055178642273]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+He knows we need much help to do this, so he provides that the ordinance of the sacrament be repeated often.
+
+['loud', 'quiet'] received scores [0.5271150469779968, 0.4728849232196808]
+['loud', 'soft'] received scores [0.5276588201522827, 0.4723412096500397]
+['quiet', 'noisy'] received scores [0.6654865741729736, 0.33451342582702637]
+['soft', 'noisy'] received scores [0.6650007963180542, 0.3349992334842682]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+What does it mean to partake of the sacrament worthily?
+
+['quiet', 'loud'] received scores [0.5969528555870056, 0.4030471444129944]
+['loud', 'soft'] received scores [0.5097790956497192, 0.49022093415260315]
+['quiet', 'noisy'] received scores [0.6626054048538208, 0.337394654750824]
+['soft', 'noisy'] received scores [0.5604578256607056, 0.4395422041416168]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+If, however, we have no desire to improve, if we have no intention of following the guidance of the Spirit, we must ask: Are we worthy to partake, or are we making a mockery of the very purpose of the sacrament, which is to act as a catalyst for personal repentance and improvement?
+
+['loud', 'quiet'] received scores [0.5995066165924072, 0.40049344301223755]
+['loud', 'soft'] received scores [0.7493471503257751, 0.25065284967422485]
+['quiet', 'noisy'] received scores [0.6171445846557617, 0.3828554153442383]
+['noisy', 'soft'] received scores [0.5533654093742371, 0.44663456082344055]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+The sacrament is an intensely personal experience, and we are the ones who knowingly are worthy or otherwise.
+
+['quiet', 'loud'] received scores [0.7250859141349792, 0.27491405606269836]
+['soft', 'loud'] received scores [0.5623224973678589, 0.4376774728298187]
+['quiet', 'noisy'] received scores [0.7802561521530151, 0.21974389255046844]
+['soft', 'noisy'] received scores [0.6336531639099121, 0.36634689569473267]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+If we partake of the sacrament worthily, we can feel that way regularly, for we renew that covenant, which includes his forgiveness.
+
+['quiet', 'loud'] received scores [0.5123465657234192, 0.4876534044742584]
+['loud', 'soft'] received scores [0.6424338817596436, 0.35756611824035645]
+['quiet', 'noisy'] received scores [0.71213698387146, 0.2878630459308624]
+['soft', 'noisy'] received scores [0.5672022700309753, 0.43279775977134705]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+Those who would deny themselves the blessing of the sacrament by not attending sacrament meeting or by not thinking of the Savior during the services surely must not understand the great opportunity to be forgiven, to have his Spirit to guide and comfort them!
+
+['loud', 'quiet'] received scores [0.7061938047409058, 0.2938062250614166]
+['loud', 'soft'] received scores [0.8094081878662109, 0.19059182703495026]
+['quiet', 'noisy'] received scores [0.6215924024581909, 0.3784075975418091]
+['noisy', 'soft'] received scores [0.5182137489318848, 0.48178619146347046]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+As we worthily partake of the sacrament, we will sense those things we need to improve in and receive the help and determination to do so.
+
+['quiet', 'loud'] received scores [0.5045664310455322, 0.49543362855911255]
+['loud', 'soft'] received scores [0.5957459211349487, 0.40425410866737366]
+['quiet', 'noisy'] received scores [0.6678738594055176, 0.33212611079216003]
+['soft', 'noisy'] received scores [0.5726197957992554, 0.42738020420074463]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+No matter what our problems, the sacrament always gives hope.
+
+['quiet', 'loud'] received scores [0.5324328541755676, 0.46756720542907715]
+['loud', 'soft'] received scores [0.6245185136795044, 0.3754814863204956]
+['quiet', 'noisy'] received scores [0.6913305521011353, 0.30866944789886475]
+['soft', 'noisy'] received scores [0.5418175458908081, 0.45818251371383667]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+The details are not important, but through the direction of the Spirit, the bishop’s decision was that, among other things, Sister Jones would not partake of the sacrament for a period of time while she worked out some attitudes and problems.
+
+['quiet', 'loud'] received scores [0.9612026810646057, 0.03879725933074951]
+['soft', 'loud'] received scores [0.7674663662910461, 0.23253361880779266]
+['quiet', 'noisy'] received scores [0.9657099843025208, 0.034289970993995667]
+['soft', 'noisy'] received scores [0.7895532846450806, 0.21044673025608063]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+With lots of love and support, she continued to attend meetings with her family, and few but her husband and the bishop were aware of the situation or even noticed that week after week she did not partake of the sacrament.
+
+['quiet', 'loud'] received scores [0.940060019493103, 0.059939973056316376]
+['soft', 'loud'] received scores [0.6083838939666748, 0.39161616563796997]
+['quiet', 'noisy'] received scores [0.9630535244941711, 0.03694651275873184]
+['soft', 'noisy'] received scores [0.7208257913589478, 0.27917420864105225]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+At first she didn’t feel much difference; but as time went on, she became more and more desirous to be worthy to partake of the sacrament.
+
+['quiet', 'loud'] received scores [0.5499227643013, 0.45007723569869995]
+['soft', 'loud'] received scores [0.5446697473526001, 0.4553302824497223]
+['quiet', 'noisy'] received scores [0.7697762250900269, 0.23022376000881195]
+['soft', 'noisy'] received scores [0.7659972906112671, 0.23400267958641052]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+She thought she had repented before, but as the real soul-searching deepened and as her desire to worthily partake of the sacrament increased, true fundamental changes began to take place in her life and in her actions and in her thinking.
+
+['loud', 'quiet'] received scores [0.6269016861915588, 0.37309831380844116]
+['loud', 'soft'] received scores [0.6386387348175049, 0.3613612651824951]
+['quiet', 'noisy'] received scores [0.5168432593345642, 0.4831567704677582]
+['soft', 'noisy'] received scores [0.5042213201522827, 0.4957787096500397]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+Finally, during one sacrament meeting, the Spirit bore witness to the bishop and to Brother and Sister Jones that the time had come for her to again partake of the sacrament.
+
+['loud', 'quiet'] received scores [0.5517109632492065, 0.44828906655311584]
+['loud', 'soft'] received scores [0.6339231133460999, 0.36607688665390015]
+['quiet', 'noisy'] received scores [0.7304257750511169, 0.26957422494888306]
+['soft', 'noisy'] received scores [0.6582005620002747, 0.34179940819740295]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+The sacrament hymn was more meaningful than ever.
+
+['loud', 'quiet'] received scores [0.8133850693702698, 0.18661493062973022]
+['loud', 'soft'] received scores [0.7908651828765869, 0.20913484692573547]
+['quiet', 'noisy'] received scores [0.7662532925605774, 0.23374667763710022]
+['soft', 'noisy'] received scores [0.790722131729126, 0.20927783846855164]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+And the sacrament prayers—how profound!
+
+['loud', 'quiet'] received scores [0.9367583394050598, 0.06324166059494019]
+['loud', 'soft'] received scores [0.9151206612586975, 0.08487936109304428]
+['quiet', 'noisy'] received scores [0.5036013126373291, 0.4963986575603485]
+['soft', 'noisy'] received scores [0.5822563171386719, 0.4177436828613281]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+Think of what could and should happen in your life, in your ward, in your stake, in the whole Church, in the whole world, if every Sunday individuals—hundreds, thousands, even millions—under the authority of the priesthood of God, took the sacrament worthily and thus repented and sincerely determined to better follow the guidance of the Lord’s Spirit.
+
+['loud', 'quiet'] received scores [0.7033184766769409, 0.29668155312538147]
+['loud', 'soft'] received scores [0.794485330581665, 0.20551469922065735]
+['quiet', 'noisy'] received scores [0.5095837116241455, 0.4904162883758545]
+['noisy', 'soft'] received scores [0.6108025908470154, 0.3891974687576294]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+Brethren, as leaders we must do more to have more people attend sacrament meeting and partake of the sacrament with more worthiness!
+
+['loud', 'quiet'] received scores [0.8689865469932556, 0.13101346790790558]
+['loud', 'soft'] received scores [0.8892953395843506, 0.11070463806390762]
+['noisy', 'quiet'] received scores [0.569530189037323, 0.4304697811603546]
+['noisy', 'soft'] received scores [0.6157318353652954, 0.384268194437027]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+We must teach more fully, with deeper feeling and greater power, the doctrine of Christ as embodied in the sacrament.
+
+['loud', 'quiet'] received scores [0.5767788290977478, 0.423221230506897]
+['soft', 'loud'] received scores [0.6543848514556885, 0.34561508893966675]
+['quiet', 'noisy'] received scores [0.5252428650856018, 0.4747571647167206]
+['soft', 'noisy'] received scores [0.7405810952186584, 0.25941890478134155]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+Think of the power for bringing about a newness of life by worthily partaking of the sacrament.
+
+['loud', 'quiet'] received scores [0.5919937491416931, 0.4080062508583069]
+['loud', 'soft'] received scores [0.7068942189216614, 0.29310575127601624]
+['quiet', 'noisy'] received scores [0.6143268346786499, 0.3856732249259949]
+['noisy', 'soft'] received scores [0.5106477737426758, 0.4893522560596466]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+I know that worthily partaking of the sacrament is of eternal importance to him and to us.
+
+['loud', 'quiet'] received scores [0.6389739513397217, 0.3610260486602783]
+['loud', 'soft'] received scores [0.7324036359786987, 0.26759636402130127]
+['quiet', 'noisy'] received scores [0.5540469288825989, 0.4459531009197235]
+['noisy', 'soft'] received scores [0.5545082092285156, 0.4454917907714844]
+
+decades/1980s/1989_A/pinnock_now_is_the_time.txt
+
+Even where chapels are not or cannot be found, places always will be available where good people can meet together, partake of the sacrament, and worship our Heavenly Father.
+
+['quiet', 'loud'] received scores [0.6117435097694397, 0.3882565200328827]
+['loud', 'soft'] received scores [0.5010696053504944, 0.4989303946495056]
+['quiet', 'noisy'] received scores [0.8402767777442932, 0.1597232222557068]
+['soft', 'noisy'] received scores [0.7687672972679138, 0.23123273253440857]
+
+decades/1980s/1989_O/christensen_good_memories_are_real_blessings.txt
+
+He pointed over to the sacrament table and said, “When David knelt to bless the sacrament, I knew that he knelt there with ‘clean hands and a pure heart.
+
+['loud', 'quiet'] received scores [0.6482183933258057, 0.35178157687187195]
+['loud', 'soft'] received scores [0.6662724614143372, 0.33372750878334045]
+['quiet', 'noisy'] received scores [0.7575328946113586, 0.24246707558631897]
+['soft', 'noisy'] received scores [0.7425078749656677, 0.2574921250343323]
+
+decades/1980s/1989_O/doxey_“remember_him”.txt
+
+Each week we partake of the sacrament that we may “always remember him.
+
+['quiet', 'loud'] received scores [0.6059988737106323, 0.39400115609169006]
+['soft', 'loud'] received scores [0.6080410480499268, 0.39195895195007324]
+['quiet', 'noisy'] received scores [0.6618126034736633, 0.3381873667240143]
+['soft', 'noisy'] received scores [0.6637260317802429, 0.3362739086151123]
+
+decades/1980s/1989_O/eyring_remembrance_and_gratitude.txt
+
+Next week, you can go to a meeting where the sacrament is administered.
+
+['quiet', 'loud'] received scores [0.7300955653190613, 0.2699044644832611]
+['soft', 'loud'] received scores [0.6288666129112244, 0.37113332748413086]
+['quiet', 'noisy'] received scores [0.797942042350769, 0.20205791294574738]
+['soft', 'noisy'] received scores [0.7121260166168213, 0.2878739833831787]
+
+decades/1980s/1989_O/haight_the_sacrament—and_the_sacrifice.txt
+
+Following the Passover supper, He instructed and prepared the sacrament of the Lord’s Supper for His dearest friends as a remembrance of His coming sacrifice.
+
+['loud', 'quiet'] received scores [0.7062855362892151, 0.2937144339084625]
+['loud', 'soft'] received scores [0.7348346710205078, 0.2651652991771698]
+['quiet', 'noisy'] received scores [0.608972430229187, 0.3910275995731354]
+['soft', 'noisy'] received scores [0.5747148990631104, 0.42528513073921204]
+
+decades/1980s/1989_O/haight_the_sacrament—and_the_sacrifice.txt
+
+Our most valuable worship experience in the sacrament meeting is the sacred ordinance of the sacrament, for it provides the opportunity to focus our minds and hearts upon the Savior and His sacrifice.
+
+['quiet', 'loud'] received scores [0.5929564237594604, 0.40704357624053955]
+['loud', 'soft'] received scores [0.545840322971344, 0.454159677028656]
+['quiet', 'noisy'] received scores [0.825195848941803, 0.17480416595935822]
+['soft', 'noisy'] received scores [0.7294583320617676, 0.2705416679382324]
+
+decades/1980s/1989_O/haight_the_sacrament—and_the_sacrifice.txt
+
+Worthy partakers of the sacrament are in harmony with the Lord and put themselves under covenant with Him to always remember His sacrifice for the sins of the world, to take upon them the name of Christ and to always remember Him, and to keep His commandments.
+
+['loud', 'quiet'] received scores [0.612960696220398, 0.38703933358192444]
+['loud', 'soft'] received scores [0.7035302519798279, 0.2964697778224945]
+['quiet', 'noisy'] received scores [0.6196432709693909, 0.3803567588329315]
+['soft', 'noisy'] received scores [0.5208985805511475, 0.47910141944885254]
+
+decades/1980s/1989_O/haight_the_sacrament—and_the_sacrifice.txt
+
+Our Lord revealed to Joseph Smith that “there is no gift greater than the gift of salvation,” which plan includes the ordinance of the sacrament as a continuous reminder of the Savior’s atoning sacrifice.
+
+['quiet', 'loud'] received scores [0.537528395652771, 0.462471604347229]
+['loud', 'soft'] received scores [0.5545774698257446, 0.44542253017425537]
+['quiet', 'noisy'] received scores [0.6816444396972656, 0.3183555603027344]
+['soft', 'noisy'] received scores [0.596706211566925, 0.40329378843307495]
+
+decades/1980s/1989_O/larsen_winding_up_our_spiritual_clocks.txt
+
+Just as exercise, proper nourishment, and rest are essential to our physical well-being, so are such things as regular prayer, scripture study, Sabbath worship, partaking of the sacrament, and service to others necessary for our spiritual vigor.
+
+['quiet', 'loud'] received scores [0.555515468120575, 0.44448450207710266]
+['loud', 'soft'] received scores [0.5925813913345337, 0.40741854906082153]
+['quiet', 'noisy'] received scores [0.7024946212768555, 0.29750537872314453]
+['soft', 'noisy'] received scores [0.5650238990783691, 0.43497607111930847]
+
+decades/1980s/1989_O/larsen_winding_up_our_spiritual_clocks.txt
+
+Sabbath Worship and Partaking of the Sacrament One of the most effective ways to wind up our spiritual clocks is to worship on the Sabbath day and partake of the sacrament.
+
+['quiet', 'loud'] received scores [0.6541069149971008, 0.345892995595932]
+['loud', 'soft'] received scores [0.5562611818313599, 0.44373878836631775]
+['quiet', 'noisy'] received scores [0.8021345734596252, 0.19786539673805237]
+['soft', 'noisy'] received scores [0.6310085654258728, 0.3689913749694824]
+
+decades/1980s/1989_O/larsen_winding_up_our_spiritual_clocks.txt
+
+“That thou mayest more fully keep thyself unspotted from the world, thou shalt go to the house of prayer and offer up thy sacraments upon my holy day.
+
+['quiet', 'loud'] received scores [0.9594382643699646, 0.040561698377132416]
+['soft', 'loud'] received scores [0.5296278595924377, 0.47037211060523987]
+['quiet', 'noisy'] received scores [0.9879928231239319, 0.012007149867713451]
+['soft', 'noisy'] received scores [0.796619713306427, 0.2033802717924118]
+
+decades/1980s/1989_O/nelson_woman—of_infinite_worth.txt
+
+All may take upon themselves the name of the Lord and partake of the sacrament.
+
+['quiet', 'loud'] received scores [0.5851911306381226, 0.41480889916419983]
+['soft', 'loud'] received scores [0.5150330662727356, 0.484966903924942]
+['quiet', 'noisy'] received scores [0.7737092971801758, 0.22629065811634064]
+['soft', 'noisy'] received scores [0.7201902866363525, 0.27980971336364746]
+
+decades/1980s/1989_O/sonnenberg_look_to_the_savior.txt
+
+You know, I can’t wait until you come home because I know you’ll sit on the stand, and then Grandpa, I can pass the sacrament to you.
+
+['loud', 'quiet'] received scores [0.5122690200805664, 0.48773103952407837]
+['loud', 'soft'] received scores [0.593629777431488, 0.4063701629638672]
+['quiet', 'noisy'] received scores [0.6302781105041504, 0.3697218894958496]
+['soft', 'noisy'] received scores [0.5507013201713562, 0.4492987394332886]
+
+﻿decades/1980s/1982_A/romney_priesthood.txt
+
+To his Apostles, in his great and final discourse delivered following the Last Supper and just before they went to Gethsemane, he said: “Believe me that I am in the Father, and the Father in me: or else believe me for the very works’ sake.
+
+['loud', 'quiet'] received scores [0.8895343542098999, 0.11046561598777771]
+['loud', 'soft'] received scores [0.8124454021453857, 0.18755455315113068]
+['noisy', 'quiet'] received scores [0.7067132592201233, 0.2932867109775543]
+['noisy', 'soft'] received scores [0.5645033717155457, 0.43549656867980957]
+
+decades/1980s/1982_O/romney_gratitude_and_thanksgiving.txt
+
+Christ set an example in giving thanks when, at the last supper, “as they did eat, Jesus took bread, and blessed, and brake it, and gave to them, and said, Take, eat: this is my body.
+
+['loud', 'quiet'] received scores [0.7337488532066345, 0.2662511467933655]
+['loud', 'soft'] received scores [0.7959956526756287, 0.20400433242321014]
+['quiet', 'noisy'] received scores [0.6701693534851074, 0.32983070611953735]
+['soft', 'noisy'] received scores [0.5893369913101196, 0.41066300868988037]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+At the Last Supper the early Apostles joined with the Savior in singing.
+
+['loud', 'quiet'] received scores [0.821337878704071, 0.17866210639476776]
+['loud', 'soft'] received scores [0.5904684066772461, 0.4095316231250763]
+['noisy', 'quiet'] received scores [0.7534447312355042, 0.24655528366565704]
+['soft', 'noisy'] received scores [0.5106151103973389, 0.48938488960266113]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+The ordinance of the Lord’s Supper was introduced by the Savior Himself as recorded by the Gospel writers.
+
+['quiet', 'loud'] received scores [0.549471378326416, 0.4505285620689392]
+['soft', 'loud'] received scores [0.5418291091918945, 0.45817089080810547]
+['quiet', 'noisy'] received scores [0.6585012674331665, 0.3414987623691559]
+['soft', 'noisy'] received scores [0.6515355110168457, 0.3484644889831543]
+
+decades/1980s/1983_A/haight_the_sacrament.txt
+
+The divine virtues associated with the partaking of the Lord’s Supper are to keep His divine life ever in mind; to love the Lord with all our heart, might, mind, and strength; and to labor to bring to pass His ultimate purpose—the eternal life of man.
+
+['loud', 'quiet'] received scores [0.5506572127342224, 0.4493427276611328]
+['loud', 'soft'] received scores [0.6310831904411316, 0.368916779756546]
+['quiet', 'noisy'] received scores [0.5886925458908081, 0.4113073945045471]
+['soft', 'noisy'] received scores [0.5062555074691772, 0.49374452233314514]
+
+decades/1980s/1983_A/perry_train_up_a_child.txt
+
+I’ve always been impressed with the fact that when the Lord was teaching His disciples in those final hours of His earthly ministry as they met in the Last Supper, after teaching service by the washing of their feet, His next instructions concerned love.
+
+['loud', 'quiet'] received scores [0.6093235611915588, 0.39067643880844116]
+['loud', 'soft'] received scores [0.7457250356674194, 0.25427499413490295]
+['quiet', 'noisy'] received scores [0.7371460199356079, 0.2628540098667145]
+['soft', 'noisy'] received scores [0.5986195206642151, 0.4013804793357849]
+
+decades/1980s/1983_A/romney_unity.txt
+
+You will recall that on the night of the Last Supper, as the Savior met with his Apostles, he prayed that they might be one with him, as he was one with the Father.
+
+['loud', 'quiet'] received scores [0.5935857892036438, 0.4064141809940338]
+['loud', 'soft'] received scores [0.610888659954071, 0.38911134004592896]
+['quiet', 'noisy'] received scores [0.6118357181549072, 0.38816434144973755]
+['soft', 'noisy'] received scores [0.5945470333099365, 0.40545305609703064]
+
+decades/1980s/1983_O/ashton_“the_word_is_commitment”.txt
+
+It would be well, when confronted with problems, to be able to ask the same questions the Twelve Apostles asked during the Last Supper.
+
+['loud', 'quiet'] received scores [0.5509722232818604, 0.44902774691581726]
+['loud', 'soft'] received scores [0.5968239903450012, 0.4031760096549988]
+['quiet', 'noisy'] received scores [0.6659441590309143, 0.3340558409690857]
+['soft', 'noisy'] received scores [0.6229875683784485, 0.3770124614238739]
+
+decades/1980s/1984_A/perry_“go_ye_therefore,_and_teach_all_nations”.txt
+
+After celebrating the feast of the Passover at the Last Supper, He went to each of His disciples and washed their feet.
+
+['loud', 'quiet'] received scores [0.5567984580993652, 0.44320154190063477]
+['loud', 'soft'] received scores [0.5755948424339294, 0.42440518736839294]
+['quiet', 'noisy'] received scores [0.7213699221611023, 0.2786300778388977]
+['soft', 'noisy'] received scores [0.7057290077209473, 0.29427096247673035]
+
+decades/1980s/1985_A/hinckley_the_victory_over_death.txt
+
+There was the supper in the Upper Room, His last with the Twelve in mortality.
+
+['loud', 'quiet'] received scores [0.5648503303527832, 0.4351496398448944]
+['loud', 'soft'] received scores [0.553132176399231, 0.44686785340309143]
+['quiet', 'noisy'] received scores [0.6169244050979614, 0.3830755352973938]
+['soft', 'noisy'] received scores [0.6280945539474487, 0.37190544605255127]
+
+decades/1980s/1988_A/hinckley_the_aaronic_priesthood—a_gift_from_god.txt
+
+It is the authority under which the emblems of the Lord’s Supper are administered to the membership of the Church.
+
+['quiet', 'loud'] received scores [0.6389382481575012, 0.3610617220401764]
+['soft', 'loud'] received scores [0.5189247131347656, 0.48107531666755676]
+['quiet', 'noisy'] received scores [0.7735674381256104, 0.22643254697322845]
+['soft', 'noisy'] received scores [0.6755819916725159, 0.32441797852516174]
+
+decades/1980s/1989_A/groberg_the_beauty_and_importance_of_the_sacrament.txt
+
+In one sense, it was the last supper, but in another, it was the first supper—the beginning of many spiritual feasts.
+
+['quiet', 'loud'] received scores [0.7833929061889648, 0.21660709381103516]
+['soft', 'loud'] received scores [0.8004052042961121, 0.19959481060504913]
+['quiet', 'noisy'] received scores [0.8849464654922485, 0.11505352705717087]
+['soft', 'noisy'] received scores [0.8950512409210205, 0.10494871437549591]
+
+decades/1980s/1989_O/holland_“he_loved_them_unto_the_end”.txt
+
+As the sacred supper of that ultimate Passover was being prepared, Jesus was under the strain of deep and profound emotion.
+
+['loud', 'quiet'] received scores [0.8588711619377136, 0.141128808259964]
+['loud', 'soft'] received scores [0.8135771155357361, 0.18642288446426392]
+['noisy', 'quiet'] received scores [0.6406391263008118, 0.3593609035015106]
+['noisy', 'soft'] received scores [0.5610972046852112, 0.4389027953147888]
+

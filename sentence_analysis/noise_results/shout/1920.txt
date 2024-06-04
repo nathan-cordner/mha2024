@@ -1,0 +1,351 @@
+﻿decades/1920s/IE/1920_A.txt
+
+I  felt  like  shouting  and  singing,  "Hallelujah, Praise  to  God,"  when  President  Grant  closed  his  remarks:  for  I  felt  that  he  was  inspired  of  God  to  give  to  us  words  in  due  season :  and  I  believe  the  whole  congregation,  thii  immense  audience,  was  thrilled  with  the  same  feeling  and  spirit.
+
+['loud', 'quiet'] received scores [0.9890127182006836, 0.010987303219735622]
+['loud', 'soft'] received scores [0.9840575456619263, 0.01594243198633194]
+['noisy', 'quiet'] received scores [0.9886531829833984, 0.011346808634698391]
+['noisy', 'soft'] received scores [0.9835386276245117, 0.016461370512843132]
+
+decades/1920s/IE/1920_A.txt
+
+Now  we  are  in  our  second  estate,  and  when  the  third  estate  comes,  if  we  have  been  faithful  in  both,  and  obtained  this  great  blessing  of  the  spirit  and  the  body  joined  together  in  one,  in  perfection, in  complete  harmony  with  the  Father  and  with  the  Son  and  with  the  Holy  Ghost,  and  all  the  great  and  mighty  and  just  and  pure  and  honest  of  heart  of  all  the  centuries  into  one  great  kingdom  and  glory,  oh,  how  happy  we  shall  be  in  shouting  "Hallelujah  to  his  holy  Name !
+
+['loud', 'quiet'] received scores [0.9706034064292908, 0.029396580532193184]
+['loud', 'soft'] received scores [0.9671654105186462, 0.03283458575606346]
+['noisy', 'quiet'] received scores [0.9338333010673523, 0.06616669148206711]
+['noisy', 'soft'] received scores [0.9264209270477295, 0.07357905805110931]
+
+decades/1920s/IE/1920_A.txt
+
+Now,  I  am  not  authorized  to  speak  authoritatively  upon  this  point,  because  we  are  advised  not  to  shout  until  we  are  safely  out  of  danger.
+
+['quiet', 'loud'] received scores [0.6889172792434692, 0.31108272075653076]
+['soft', 'loud'] received scores [0.628464937210083, 0.3715350925922394]
+['quiet', 'noisy'] received scores [0.5098744630813599, 0.49012553691864014]
+['noisy', 'soft'] received scores [0.557228684425354, 0.4427712857723236]
+
+decades/1920s/IE/1920_A.txt
+
+On  the  announcement  of  the  Prophet  Joseph  Smith  that  he  had  received  a  vision,  if,  instead  of  reviling  and  denouncing  and  persecuting him,  the  people  of  the  world  had  risen  as  with  one  acclaim  and  shouted  "Hosanna,"  and  had  been  thankful  for  that  vision,  I  would  have  been,  I  think,  in  serious  doubt  myself  as  to  its  truth.
+
+['loud', 'quiet'] received scores [0.9681299924850464, 0.031869955360889435]
+['loud', 'soft'] received scores [0.9168410897254944, 0.08315889537334442]
+['noisy', 'quiet'] received scores [0.9740540385246277, 0.02594594657421112]
+['noisy', 'soft'] received scores [0.931625485420227, 0.06837458163499832]
+
+decades/1920s/IE/1920_O.txt
+
+While  I  was  speaking,  a  man  in  the  crowd  who  had  a  grudge  against  the  "Mormons,"  and  especially  against  that  grand  and  great  man  Brigham  Young,  shouted  out  while  I  was  speaking,  "What  about  Brigham  Young?
+
+['loud', 'quiet'] received scores [0.9874528050422668, 0.012547255493700504]
+['loud', 'soft'] received scores [0.9584365487098694, 0.041563481092453]
+['noisy', 'quiet'] received scores [0.9870685935020447, 0.01293141394853592]
+['noisy', 'soft'] received scores [0.9572024941444397, 0.042797524482011795]
+
+decades/1920s/IE/1920_O.txt
+
+No  doubt  we  were  there,  according  to  the  words  of  Job,  because  he  gives  us  to  understand' — or  the  Lord  does,  in  speaking  to  him,  when  he  puts  this  question  to  him,  "Job,  declare,  if  thou  hast  understanding,  where  wast  thou  when  this  earth  was  created,  when  the  morning  stars  sang  together,  and  all  of  the  sons  of  God  shouted  for  joy?
+
+['loud', 'quiet'] received scores [0.904548704624176, 0.09545131027698517]
+['loud', 'soft'] received scores [0.905723512172699, 0.09427650272846222]
+['noisy', 'quiet'] received scores [0.8943018913269043, 0.1056981161236763]
+['noisy', 'soft'] received scores [0.8955882787704468, 0.10441174358129501]
+
+decades/1920s/IE/1921_O.txt
+
+Then  whispers  wild;  the  shout  of  crazing  prophets  on  the  street;  The  wail  of  mothers  by  their  dead;  the  sound  of  running  feet;  And  then  the  temple  reddened  up,  and  stood,  a  cone  of  flame.
+
+['loud', 'quiet'] received scores [0.9950934648513794, 0.004906524438410997]
+['loud', 'soft'] received scores [0.9899872541427612, 0.010012747719883919]
+['noisy', 'quiet'] received scores [0.9981443881988525, 0.0018556307768449187]
+['noisy', 'soft'] received scores [0.9962010383605957, 0.0037989080883562565]
+
+decades/1920s/IE/1922_O.txt
+
+I  believe  and  know  that  God  led  him  to  accomplish  these  great  things,  and  in  the  words  of  one  of  our  most  excellent  hymns  we  may  sing  as  we  did  at  first:   "We've  found  the  place  which  God  for  us  prepared,   Far  away  in  the  West.  Hefe  none  shall  come,  to  hurt  or  make  afraid.   Here  the  Saints  will  be  blessed.  We'll  make  the  air  with  music  ring.  Shout  praises  to  our  God  and  King,  Above  the  rest,  these  words,  we'll  tell,   All  is  well,  all  is  well."
+
+['loud', 'quiet'] received scores [0.8368450999259949, 0.16315485537052155]
+['loud', 'soft'] received scores [0.873478889465332, 0.12652112543582916]
+['noisy', 'quiet'] received scores [0.7087136507034302, 0.2912863492965698]
+['noisy', 'soft'] received scores [0.766075074672699, 0.23392488062381744]
+
+decades/1920s/IE/1922_O.txt
+
+"Let  the  mountains  shout  for  joy,  and  all  ye  valleys  cry  aloud;  and  all  ye  seas  and  dry  lands  tell  the  wonders  of  your  Eternal  King
+
+['loud', 'quiet'] received scores [0.987078845500946, 0.012921161018311977]
+['loud', 'soft'] received scores [0.9727858901023865, 0.027214104309678078]
+['noisy', 'quiet'] received scores [0.9908737540245056, 0.009126280434429646]
+['noisy', 'soft'] received scores [0.980696439743042, 0.019303549081087112]
+
+decades/1920s/IE/1922_O.txt
+
+And  let  the  sun,  moon,  and  the  morning  stars  sing  together,  and  let  all  the  sons  of  God  shout  for  joy!
+
+['loud', 'quiet'] received scores [0.9785611629486084, 0.02143879048526287]
+['loud', 'soft'] received scores [0.9054936170578003, 0.09450638294219971]
+['noisy', 'quiet'] received scores [0.9770861268043518, 0.022913850843906403]
+['noisy', 'soft'] received scores [0.8995075821876526, 0.10049246996641159]
+
+decades/1920s/IE/1922_O.txt
+
+"Then  to  the  surprise  of  every  one,  little  Jimmie  Brown  jumped  up  on  a  rock  and  shouted:  'I  have  nothing  to  live  for.
+
+['loud', 'quiet'] received scores [0.9727324843406677, 0.027267497032880783]
+['loud', 'soft'] received scores [0.9215299487113953, 0.07846999168395996]
+['noisy', 'quiet'] received scores [0.9643330574035645, 0.035666901618242264]
+['noisy', 'soft'] received scores [0.8989959955215454, 0.10100394487380981]
+
+decades/1920s/IE/1923_O.txt
+
+The  American sailors  began  to  shout  for  victory,  but  Admiral  Schley  issued  the  command  that  they  should  cease  shouting,  for  could  they  not  see  their  fellow  men  clinging  to  burning  vessels  and  going  down  into  the  ocean  to  their  death !
+
+['loud', 'quiet'] received scores [0.9273818135261536, 0.07261813431978226]
+['loud', 'soft'] received scores [0.9307302236557007, 0.06926977634429932]
+['noisy', 'quiet'] received scores [0.9643483757972717, 0.03565163537859917]
+['noisy', 'soft'] received scores [0.9660546183586121, 0.03394538164138794]
+
+decades/1920s/IE/1923_O.txt
+
+So  the  shouting  and  the  hurrahing  ceased.
+
+['quiet', 'loud'] received scores [0.6012973189353943, 0.3987027108669281]
+['loud', 'soft'] received scores [0.918550431728363, 0.08144959807395935]
+['noisy', 'quiet'] received scores [0.7046006917953491, 0.2953993082046509]
+['noisy', 'soft'] received scores [0.9759432077407837, 0.02405674196779728]
+
+decades/1920s/IE/1924_A.txt
+
+And  when  the  Christ  shall  come  in  the  clouds  of  heaven,  with  power  and  great  glory,  attended  by  the  host  of  Saints  from  heaven,  the  host  of  Saints  here  on  earth,  possessed  of  true  faith  that  Jesus  is  the  Christ,  Sovereign,  Lord  and  King,  Creator  of  heaven  and  earth,  and  all  things  that  in  them  are;  the  Savior  of  men,  the  Redeemer  of  the  world,  the  very  Son  of  God,  "the  Eternal  God,"  to  use  the  Book  of  Mormon  phrase,  "manifesting  himself  unto  all  nations" — these,  the  Saints  possessed  of  this  faith  in  the  earth,  shall  welcome  the  Christ  and  the  hosts  of  Saints  from  heaven,  with  shouts  of  great  joy  and  faith.
+
+['loud', 'quiet'] received scores [0.9851638078689575, 0.014836140908300877]
+['loud', 'soft'] received scores [0.9231160879135132, 0.07688391953706741]
+['noisy', 'quiet'] received scores [0.9786124229431152, 0.021387578919529915]
+['noisy', 'soft'] received scores [0.8921642899513245, 0.10783566534519196]
+
+decades/1920s/IE/1924_O.txt
+
+These  testimonies  from  the  thousands  who  have  borne  them  become  one  great  shout  to  heaven  that  God  may  be  known,  and  that  this  work  is  a  work  of  truth.
+
+['loud', 'quiet'] received scores [0.9990149736404419, 0.0009849655907601118]
+['loud', 'soft'] received scores [0.9972007870674133, 0.002799206878989935]
+['noisy', 'quiet'] received scores [0.9971874952316284, 0.00281248870305717]
+['noisy', 'soft'] received scores [0.9920338988304138, 0.007966064848005772]
+
+decades/1920s/IE/1924_O.txt
+
+If  we  would  have  the  sort  of  a  world  that  the  author  would  have,  who  was  quoted  by  Brother  Widtsoe  this  morning — a  dose  of  atheism  — we  would  have  the  sort  of  a  world  pictured  by  Carlyle  in  one  of  his  chapters  entitled,  "The  Everlasting  No,"  in  which  he  uses  this  language  "Thus  has  the  bewildered  wanderer  to  stand,  as  so  many  have  done,  shouting  question  after  question  into  the  sibyl  cave  of  destiny  and  receive  no  answer  back  but  an  echo.
+
+['quiet', 'loud'] received scores [0.577515721321106, 0.42248421907424927]
+['loud', 'soft'] received scores [0.5979213714599609, 0.40207865834236145]
+['noisy', 'quiet'] received scores [0.6392947435379028, 0.36070525646209717]
+['noisy', 'soft'] received scores [0.7827389240264893, 0.21726106107234955]
+
+decades/1920s/IE/1924_O.txt
+
+Abraham  was  among  the  great  and  mighty  ones  in  that  primeval  day,  when  the  great  plan  of  life  and  salvation  was  first  proclaimed  to  the  children  of  God,  the  day  that  we  read  about  in  the  scriptures,  "when  the  stars  sang  together,  and  all  the  sons  of  God  shouted  for  joy.
+
+['loud', 'quiet'] received scores [0.9713935256004333, 0.028606466948986053]
+['loud', 'soft'] received scores [0.9558067917823792, 0.044193167239427567]
+['noisy', 'quiet'] received scores [0.9713647961616516, 0.028635231778025627]
+['noisy', 'soft'] received scores [0.9557631015777588, 0.044236890971660614]
+
+decades/1920s/IE/1924_O.txt
+
+Tn  the  vision  he  saw  them  at  a  distance,  and  he  beckoned  to  them,  he  shouted  out  to  them  to  come  and  partake.
+
+['loud', 'quiet'] received scores [0.9925158023834229, 0.007484177593141794]
+['loud', 'soft'] received scores [0.9853343367576599, 0.014665691182017326]
+['noisy', 'quiet'] received scores [0.9852074980735779, 0.01479246187955141]
+['noisy', 'soft'] received scores [0.9712166786193848, 0.028783336281776428]
+
+decades/1920s/IE/1925_A.txt
+
+The  hymn,  "Let  the  mountains  shout  for  joy,"  was  sung  by  a  quartette  and  the  choir.
+
+['loud', 'quiet'] received scores [0.9391382336616516, 0.06086176633834839]
+['loud', 'soft'] received scores [0.834089457988739, 0.165910542011261]
+['noisy', 'quiet'] received scores [0.8899794816970825, 0.11002049595117569]
+['noisy', 'soft'] received scores [0.7249333262443542, 0.27506667375564575]
+
+decades/1920s/IE/1925_A.txt
+
+And  so  if  you  will  read  the  story  of  his  life  to  the  very  end,  you  will  see  a  complete  fulfilment  of  the  promise  of  the  Lord  that  is  made  to  you  and  to  me  and  to  all  Israel  who  will  obey  the  commandments of  the  Lord  concerning  the  Word  of  Wisdom ;  for  Daniel  was  able  to  find  hidden  treasures  of  knowledge,  and  he  was  able  to  pass  by  the  destroying  angels ;  for  when  he  was  placed  in  the  lions'  den  and  the  king  watched  during  the  night  and  at  the  dawn  of  the  morning  shouted  out  to  Daniel  to  know  if  he  was  still  alive,  and  Daniel  answered  back:   "O  king,  live  for  ever.
+
+['loud', 'quiet'] received scores [0.6735014915466309, 0.3264985680580139]
+['loud', 'soft'] received scores [0.830199658870697, 0.16980034112930298]
+['quiet', 'noisy'] received scores [0.5932825803756714, 0.4067174196243286]
+['noisy', 'soft'] received scores [0.6190283894538879, 0.38097167015075684]
+
+decades/1920s/IE/1925_O.txt
+
+I  think  it  has  been  made  plain  that  this  history,  if  we  are  to  properly understand  it,  begins  before  the  foundations  of  this  earth  were  laid;  that  we  who  dwell  upon  the  face  of  the  earth  today,  counted  as  we  are  by  many  hundreds  of  millions,  and  those  who  were  before  us,  even  from  the  very  beginning  of  time,  have  at  one  time  dwelt  in  that  primeval  world  in  the  presence  of  our  Father  in  heaven  as  his  children;  and  the  scenes  that  are  now  being  enacted  are  in  pursuance of  the  great  plan  that  was  evolved  by  him  in  the  very  beginning, in  that  primeval  state  that  we  read  about  in  the  holy  scriptures, when  the  morning  stars  sang  together  and  all  the  sons  of  God  shouted  for  joy.
+
+['loud', 'quiet'] received scores [0.8443487286567688, 0.15565122663974762]
+['loud', 'soft'] received scores [0.8470756411552429, 0.15292440354824066]
+['noisy', 'quiet'] received scores [0.7344317436218262, 0.26556822657585144]
+['noisy', 'soft'] received scores [0.7384878396987915, 0.26151221990585327]
+
+decades/1920s/IE/1926_A.txt
+
+A  similar  question  was  once  put  to  a  righteous  man  named  Job,  whom  God  answered  "out  of  the  whirlwind/'  saying:  "Where  wast  thou  when  I  laid  the  foundations  of  the  earth?    declare  if  thou  hast  understanding  When  the  morning  stars  sang  together  and  all  the  sons  of  God  shouted  for  joy?
+
+['loud', 'quiet'] received scores [0.7731526494026184, 0.2268473356962204]
+['loud', 'soft'] received scores [0.7449663877487183, 0.2550336420536041]
+['noisy', 'quiet'] received scores [0.8492452502250671, 0.15075473487377167]
+['noisy', 'soft'] received scores [0.8284153938293457, 0.1715846210718155]
+
+decades/1920s/IE/1926_A.txt
+
+With  clear,  unclouded  vision  we  looked  on  while  the  foundations  of  the  earth  were  laid ;  and  it  was  because  we  could  see  past  the  gloom  to  the  glory  that  lay  beyond,  that  "the  morning  stars  sang  together, and  all  the  sons  of  God  shouted  for  joy.
+
+['loud', 'quiet'] received scores [0.9791767001152039, 0.020823359489440918]
+['loud', 'soft'] received scores [0.9565258026123047, 0.0434742234647274]
+['noisy', 'quiet'] received scores [0.9589111804962158, 0.04108880087733269]
+['noisy', 'soft'] received scores [0.9161050319671631, 0.08389493823051453]
+
+decades/1920s/IE/1926_A.txt
+
+That  is  no  testimony  to  bear  lightly ;  that  is  no  testimony  to  shout  in  thoughtlessness ;  it  is  a  testimony  full  of  awe,  full  of  responsibility,  and  a  testimony  that  should  be  borne  in  great  reverence.
+
+['loud', 'quiet'] received scores [0.9832855463027954, 0.01671445742249489]
+['loud', 'soft'] received scores [0.9788285493850708, 0.021171461790800095]
+['noisy', 'quiet'] received scores [0.8343636989593506, 0.165636345744133]
+['noisy', 'soft'] received scores [0.7983400225639343, 0.20165999233722687]
+
+decades/1920s/IE/1926_A.txt
+
+It  began  in  heaven,  before  the  foundations  of  this  earth  were  laid,  even  in  that  primeval  day  that  we  sometimes  read  about,  when  "the  morning stars  sang  together  and  all  the  sons  of  God  shouted  for  joy.
+
+['loud', 'quiet'] received scores [0.9704871773719788, 0.029512833803892136]
+['loud', 'soft'] received scores [0.8872140645980835, 0.11278588324785233]
+['noisy', 'quiet'] received scores [0.9647920727729797, 0.03520788997411728]
+['noisy', 'soft'] received scores [0.8676415085792542, 0.13235847651958466]
+
+decades/1920s/IE/1926_A.txt
+
+Why  did  they  shout  for  joy? Because  the  proclamation  was  made  that  these,  the  children  of  God — you  and  I  and  all  the  inhabitants  of  the  earth —  standing  in  the  presence  of  our  Maker,  should  receive  this  earth-life  experience,  and  thereby,  with  a  knowledge  of  good  and  evil,  work  out  our  salvation  with  fear  and  trembling  before  the  Lord  and  be  brought  back  into  his  presence  and  exalted,  clothed  upon  with  immortality  and  eternal  life.
+
+['loud', 'quiet'] received scores [0.9944864511489868, 0.005513591691851616]
+['loud', 'soft'] received scores [0.9848479628562927, 0.015152058564126492]
+['noisy', 'quiet'] received scores [0.9936688542366028, 0.006331139709800482]
+['noisy', 'soft'] received scores [0.98262619972229, 0.017373817041516304]
+
+decades/1920s/IE/1926_A.txt
+
+That  was  the  program,  and  we  shouted  for  joy,  you  and  I  and  all  the  sons  of  God,  as  we  were  assembled  upon  that  great  occasion.
+
+['loud', 'quiet'] received scores [0.9960106015205383, 0.003989435266703367]
+['loud', 'soft'] received scores [0.989212155342102, 0.010787864215672016]
+['noisy', 'quiet'] received scores [0.9976028800010681, 0.0023971106857061386]
+['noisy', 'soft'] received scores [0.9935002326965332, 0.006499754264950752]
+
+decades/1920s/IE/1926_A.txt
+
+He  shouted  with  a  voice  that  was  most  terrific.
+
+['loud', 'quiet'] received scores [0.9948713779449463, 0.005128651391714811]
+['loud', 'soft'] received scores [0.9932064414024353, 0.006793576758354902]
+['noisy', 'quiet'] received scores [0.9893845915794373, 0.010615456849336624]
+['noisy', 'soft'] received scores [0.9859635233879089, 0.014036443084478378]
+
+decades/1920s/IE/1926_O.txt
+
+"Let  the  mountains  shout  for  joy,  and  all  ye  valleys  cry  aloud;  and  all  ye  seas  and  dry  lands  tell  the  wonders  of  your  Eternal  King !
+
+['loud', 'quiet'] received scores [0.9876327514648438, 0.012367255985736847]
+['loud', 'soft'] received scores [0.9732431173324585, 0.026756908744573593]
+['noisy', 'quiet'] received scores [0.9918870329856873, 0.008112971670925617]
+['noisy', 'soft'] received scores [0.982358992099762, 0.017641060054302216]
+
+decades/1920s/IE/1926_O.txt
+
+And  let  the  sun,  moon,  and  the  morning  stars  sing  together,  and  let  all  the  sons  of  God  shout  for  joy!
+
+['loud', 'quiet'] received scores [0.9785611629486084, 0.02143879048526287]
+['loud', 'soft'] received scores [0.9054936170578003, 0.09450638294219971]
+['noisy', 'quiet'] received scores [0.9770861268043518, 0.022913850843906403]
+['noisy', 'soft'] received scores [0.8995075821876526, 0.10049246996641159]
+
+decades/1920s/IE/1926_O.txt
+
+The  Lord  asked  his  servant  Job :  "Where  wast  thou  when  I  laid  the  foundations  of  the  earth?  when  the  morning  stars  sang  together  and  all  the  sons  of  God  shouted  for  joy?
+
+['loud', 'quiet'] received scores [0.9427916407585144, 0.0572083443403244]
+['loud', 'soft'] received scores [0.9160045385360718, 0.08399548381567001]
+['noisy', 'quiet'] received scores [0.9108390212059021, 0.0891609638929367]
+['noisy', 'soft'] received scores [0.871135413646698, 0.12886455655097961]
+
+decades/1920s/IE/1927_A.txt
+
+He  must  not  shout,  he  must  not  get  too  far  away  from  this  little  microphone — "Little  Mike,"  as  they  call  it — and  he  must  not  strike  the  pulpit  because  this  fellow  objects  to  being  jarred.
+
+['quiet', 'loud'] received scores [0.8832291960716248, 0.11677086353302002]
+['soft', 'loud'] received scores [0.7982828617095947, 0.20171710848808289]
+['quiet', 'noisy'] received scores [0.6229621171951294, 0.3770378530025482]
+['noisy', 'soft'] received scores [0.5363443493843079, 0.46365565061569214]
+
+decades/1920s/IE/1927_A.txt
+
+Elder  Kasteler  marvelled  about  it,  and  in  spite  of  my  pains,  I  felt  like  shouting  hosannas  to  the  Lord  for  his  goodness unto  me.
+
+['loud', 'quiet'] received scores [0.9205686450004578, 0.07943141460418701]
+['loud', 'soft'] received scores [0.909224808216095, 0.09077522903680801]
+['noisy', 'quiet'] received scores [0.8877865672111511, 0.11221339553594589]
+['noisy', 'soft'] received scores [0.8724099397659302, 0.12759001553058624]
+
+decades/1920s/IE/1927_O.txt
+
+For,  let  it  be  remembered,  there  had  been  a  great  council  in  Heaven,  when  the  great  plan  of  life  and  salvation  had  been  proclaimed  among  the  children  of  God  before  this  world  was,  "When  the  morning  stars  sang  together  and  all  the  sons  of  God  shouted  for  joy ;"  and,  in  order  to  carry  out  the  Lord's  plan,  the  question  arose :  "Whom  shall  I  send  ?
+
+['loud', 'quiet'] received scores [0.9153891801834106, 0.08461085706949234]
+['loud', 'soft'] received scores [0.9151735305786133, 0.0848265141248703]
+['noisy', 'quiet'] received scores [0.8688676953315735, 0.1311323493719101]
+['noisy', 'soft'] received scores [0.8685504794120789, 0.13144956529140472]
+
+decades/1920s/IE/1927_O.txt
+
+Surely  this,  the  greatest  country  in  the  world,  is  not  bringing  up   a  generation  of  young  folks  who  carelessly,  recklessly,  and  thoughtlessly break  the  laws  and  trample  the  Constitution  under  foot,  shouting  in  drunken  laughter  that  this  sacred  document  is  "only  a  scrap  of  paper.
+
+['loud', 'quiet'] received scores [0.9754912853240967, 0.024508725851774216]
+['loud', 'soft'] received scores [0.9455715417861938, 0.05442849174141884]
+['noisy', 'quiet'] received scores [0.9835534691810608, 0.016446532681584358]
+['noisy', 'soft'] received scores [0.9631035923957825, 0.03689640015363693]
+
+decades/1920s/IE/1928_A.txt
+
+The  Lord  spake  unto  his  servant  Job  and  said:   "Where  wast  thou  when  I  laid  the  foundations  of  the  earth?  declare,  if  thou  hast  understanding.   "When  the  morning  stars  sang  together,  and  all  the  sons  of  God  shouted  for  joy?
+
+['loud', 'quiet'] received scores [0.8906318545341492, 0.10936813056468964]
+['loud', 'soft'] received scores [0.8723331093788147, 0.12766686081886292]
+['noisy', 'quiet'] received scores [0.876685619354248, 0.12331441789865494]
+['noisy', 'soft'] received scores [0.8564295768737793, 0.14357037842273712]
+
+decades/1920s/IE/1928_A.txt
+
+And  our  hearts  were  filled  with  joy  inexplicable,  even  to  overflowing,  and  we  shouted  for  joy  over  the  glad  tidings  that  had  been  made  known  unto  us  even  in  that  primeval  day.
+
+['loud', 'quiet'] received scores [0.9882932901382446, 0.011706724762916565]
+['loud', 'soft'] received scores [0.9391448497772217, 0.0608551986515522]
+['noisy', 'quiet'] received scores [0.9909337162971497, 0.009066315367817879]
+['noisy', 'soft'] received scores [0.9523358941078186, 0.047664154320955276]
+
+decades/1920s/IE/1928_A.txt
+
+And  when  they  had  thus  confirmed  their  faith,  on  their  faces  they  fell  and  shouted  aloud:  "Hosanna.
+
+['loud', 'quiet'] received scores [0.9816187024116516, 0.01838134042918682]
+['loud', 'soft'] received scores [0.9395006895065308, 0.06049935519695282]
+['noisy', 'quiet'] received scores [0.9536110758781433, 0.04638891667127609]
+['noisy', 'soft'] received scores [0.8566873669624329, 0.14331266283988953]
+
+decades/1920s/IE/1929_O.txt
+
+In  the  president's  office  the  other  day,  when  Ramsay  MacDonald  was  landing  at  the  pier  in  New  York,  we  turned  on  the  radio — wonderful radio — and  we  could  hear  the  whistle  of  the  steamship  blow;  we  could  hear  the  tumult  and  the  shouting  and  all  the  rest  of  it,  the  bands  playing;  and  after  they  got  up  to  the  city  hall  we  heard  Ramsay  MacDonald's  rich,  Scotch  voice;  he  rolled  out  his  r's  when  he  said:  "We  want  to  bring  peace  to  the  wor-rld,"  and  I  enjoyed  it.
+
+['loud', 'quiet'] received scores [0.9882678389549255, 0.01173221506178379]
+['loud', 'soft'] received scores [0.942042350769043, 0.05795767158269882]
+['noisy', 'quiet'] received scores [0.9935088157653809, 0.006491188425570726]
+['noisy', 'soft'] received scores [0.9672489166259766, 0.03275110200047493]
+

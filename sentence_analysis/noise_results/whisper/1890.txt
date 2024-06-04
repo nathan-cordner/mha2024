@@ -1,0 +1,99 @@
+﻿decades/1890s/IE/1897_O.txt
+
+To  do  this,  we  listen  to  the  sweet  whisperings  of  His  Spirit,  to  the  counsels of  His  servants  who  are  ministering in  the  authority  of  the  holy  Priesthood.
+
+['quiet', 'loud'] received scores [0.9775651693344116, 0.02243485301733017]
+['soft', 'loud'] received scores [0.9476903676986694, 0.05230965092778206]
+['quiet', 'noisy'] received scores [0.9776777029037476, 0.022322267293930054]
+['soft', 'noisy'] received scores [0.9479448795318604, 0.052055131644010544]
+
+decades/1890s/IE/1897_O.txt
+
+This  is  what  God  desires  to  accomplish  on  the  earth — to  bring  a  people  to  Him  who  shall  be  in  harmony with  Him,  in  whom  His  Spirit  can  have  free  course  and  be  glorified;  a  people  who  shall  be  sensitive  to  the  whisperings  and  operations  of  His  divine Spirit  flowing  down  from  His  presence.
+
+['quiet', 'loud'] received scores [0.8296296000480652, 0.17037039995193481]
+['soft', 'loud'] received scores [0.758640468120575, 0.24135957658290863]
+['quiet', 'noisy'] received scores [0.846542477607727, 0.15345756709575653]
+['soft', 'noisy'] received scores [0.7807379364967346, 0.2192620486021042]
+
+decades/1890s/IE/1898_O.txt
+
+When  the  Latter-day  Saints  first  heard  the  sound  of  the  Gospel  in  their  native  lands,  they  were  led  to  receive  it  with  joy  and  satisfaction,  but  they  were  unacquainted  with  the  whisperings of  the  Holy  Spirit.
+
+['quiet', 'loud'] received scores [0.9098116159439087, 0.09018838405609131]
+['soft', 'loud'] received scores [0.7635690569877625, 0.23643100261688232]
+['quiet', 'noisy'] received scores [0.7502797842025757, 0.2497202605009079]
+['noisy', 'soft'] received scores [0.5097200274467468, 0.49028003215789795]
+
+decades/1890s/IE/1898_O.txt
+
+"Why,"  he  said  to  me  in  a  whisper,  "those  are  our  hoodlums.
+
+['quiet', 'loud'] received scores [0.9954808354377747, 0.004519145470112562]
+['soft', 'loud'] received scores [0.9920697808265686, 0.007930207997560501]
+['quiet', 'noisy'] received scores [0.9928990602493286, 0.007100967690348625]
+['soft', 'noisy'] received scores [0.9875635504722595, 0.012436448596417904]
+
+decades/1890s/IE/1899_A.txt
+
+It  may  be  that  Samuel  himself  was  impressed  with  their  appearance, and  if  he  had  been  left  to  himself  he  might  have  selected  one  of  them;  but  the  Spirit  of  the  Lord  whispered to  him  that  he  was  not  to  place  his  hands  on  any  of  those.
+
+['quiet', 'loud'] received scores [0.8557101488113403, 0.14428988099098206]
+['soft', 'loud'] received scores [0.6828639507293701, 0.3171360194683075]
+['quiet', 'noisy'] received scores [0.7878977060317993, 0.21210233867168427]
+['soft', 'noisy'] received scores [0.5742363929748535, 0.4257636070251465]
+
+decades/1890s/IE/1899_A.txt
+
+This  is  a  matter that  is  becoming  more  or  less  in  disuse  among  the  Latter-day  Saints —  to  listen  to  the  whisperings  of  the  Lord  through  His  servants.
+
+['quiet', 'loud'] received scores [0.99024498462677, 0.00975500326603651]
+['soft', 'loud'] received scores [0.9307711124420166, 0.0692288726568222]
+['quiet', 'noisy'] received scores [0.9853494167327881, 0.014650559052824974]
+['soft', 'noisy'] received scores [0.8990706205368042, 0.10092931985855103]
+
+decades/1890s/IE/1899_A.txt
+
+We  must  yield  to  the  whisperings  of  the  Holy  Spirit;  we  must  yield  to  the  counsels  of  the  Priest  hood, no  matter  what  the  world  may  think  in  regard  to  these  things.
+
+['quiet', 'loud'] received scores [0.9725041389465332, 0.02749587595462799]
+['soft', 'loud'] received scores [0.8542099595069885, 0.1457900106906891]
+['quiet', 'noisy'] received scores [0.946876049041748, 0.05312396213412285]
+['soft', 'noisy'] received scores [0.7470067739486694, 0.25299322605133057]
+
+decades/1890s/IE/1899_A.txt
+
+Those  that  will  listen,  and  turn  their  ears  to  the  Lord  will  be  on  the  right  side  bye  and  bye;  when  the  sheep  are  separated  from  the  goats,  those  who  have  listened  to  the  whisperings  of  the  Lord  through  His  servants  will  be  found  on  the  right  side;  and  they  will  be  remembered  and  they  will  have  said  to  them:  "Come  ye  blessed  of  my  Father,  etc.
+
+['quiet', 'loud'] received scores [0.7666493654251099, 0.23335061967372894]
+['soft', 'loud'] received scores [0.5785884857177734, 0.4214114844799042]
+['quiet', 'noisy'] received scores [0.8574575185775757, 0.14254246652126312]
+['soft', 'noisy'] received scores [0.7154139876365662, 0.28458595275878906]
+
+decades/1890s/IE/1899_A.txt
+
+We  may  know  by  the  whisperings  of  the  Holy  Spirit  whether  or  not  our  course  has  been  approved by  the  Lord;  and  if  we  feel  condemned, then  we  may  know  that  there  is  something  wrong  with  us.
+
+['quiet', 'loud'] received scores [0.9648933410644531, 0.035106636583805084]
+['soft', 'loud'] received scores [0.8467373847961426, 0.15326255559921265]
+['quiet', 'noisy'] received scores [0.8489589691162109, 0.15104100108146667]
+['soft', 'noisy'] received scores [0.5304797291755676, 0.46952030062675476]
+
+decades/1890s/IE/1899_A.txt
+
+And  may  not  His  servants  have  the  whisperings  of  His  Holy  Spirit  to  direct  them?
+
+['quiet', 'loud'] received scores [0.968380868434906, 0.03161909058690071]
+['soft', 'loud'] received scores [0.800421416759491, 0.19957858324050903]
+['quiet', 'noisy'] received scores [0.957044780254364, 0.042955171316862106]
+['soft', 'noisy'] received scores [0.7447412610054016, 0.2552587389945984]
+
+decades/1890s/IE/1899_O.txt
+
+To  such  an  extent  did  they  suffer  that  the  Lord  was  moved  to  compassion  on  account  of  their  condition,  and  He  whispered  to  His  Prophet  Joseph  Smith,  who  called  some  of  his  valiant  brethren  around  him  and  went  from  house  to  house  in  Commerce,  or  Nauvoo,  and  in  Montrose, administering  to  the  Saints  and  commanding  them  in  the  name  of  Jesus  Christ  to  arise  from  their  beds  of  affliction and  walk  and  be  made  whole.
+
+['quiet', 'loud'] received scores [0.5002017021179199, 0.4997982680797577]
+['loud', 'soft'] received scores [0.6805770993232727, 0.31942299008369446]
+['quiet', 'noisy'] received scores [0.5621589422225952, 0.4378410577774048]
+['noisy', 'soft'] received scores [0.6241739988327026, 0.375825971364975]
+

@@ -1,0 +1,36 @@
+﻿decades/1840s/D&C/section_124.txt
+
+And with my servant Almon Babbitt, there are many things with which I am not pleased; behold, he aspireth to establish his counsel instead of the counsel which I have ordained, even that of the Presidency of my Church; and he setteth up a golden calf for the worship of my people.
+
+['loud', 'quiet'] received scores [0.8075538277626038, 0.19244612753391266]
+['loud', 'soft'] received scores [0.5610910654067993, 0.4389089345932007]
+['noisy', 'quiet'] received scores [0.8018237948417664, 0.19817616045475006]
+['noisy', 'soft'] received scores [0.5520928502082825, 0.44790714979171753]
+
+decades/1840s/D&C/section_134.txt
+
+We believe that religion is instituted of God; and that men are amenable to him, and to him only, for the exercise of it, unless their religious opinions prompt them to infringe upon the rights and liberties of others; but we do not believe that human law has a right to interfere in prescribing rules of worship to bind the consciences of men, nor dictate forms for public or private devotion; that the civil magistrate should restrain crime, but never control conscience; should punish guilt, but never suppress the freedom of the soul.
+
+['quiet', 'loud'] received scores [0.7487518787384033, 0.2512480914592743]
+['loud', 'soft'] received scores [0.5125042796134949, 0.48749569058418274]
+['quiet', 'noisy'] received scores [0.8340805172920227, 0.1659194678068161]
+['soft', 'noisy'] received scores [0.6160540580749512, 0.3839459717273712]
+
+decades/1840s/D&C/section_134.txt
+
+We believe that every man should be honored in his station, rulers and magistrates as such, being placed for the protection of the innocent and the punishment of the guilty; and that to the laws all men owe respect and deference, as without them peace and harmony would be supplanted by anarchy and terror; human laws being instituted for the express purpose of regulating our interests as individuals and nations, between man and man; and divine laws given of heaven, prescribing rules on spiritual concerns, for faith and worship, both to be answered by man to his Maker.
+
+['quiet', 'loud'] received scores [0.5803447961807251, 0.4196552336215973]
+['loud', 'soft'] received scores [0.6988715529441833, 0.30112844705581665]
+['quiet', 'noisy'] received scores [0.8216642737388611, 0.1783357411623001]
+['soft', 'noisy'] received scores [0.5894144177436829, 0.4105856418609619]
+
+decades/1840s/IE/character_and_being_of_god—creation—salvation_of_the_dead—the_unpardonable_sin—resurrection—baptism_of_the_spirit,_etc_joseph_sm.txt
+
+When we begin to learn in this way, we begin to learn the only true God and what kind of a being we have got to worship.
+
+['loud', 'quiet'] received scores [0.5188078284263611, 0.4811922013759613]
+['loud', 'soft'] received scores [0.5665940642356873, 0.43340593576431274]
+['quiet', 'noisy'] received scores [0.6743742823600769, 0.3256257474422455]
+['soft', 'noisy'] received scores [0.6307266354560852, 0.36927345395088196]
+

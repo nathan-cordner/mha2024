@@ -1,0 +1,135 @@
+﻿decades/1910s/IE/1911_O.txt
+
+The  fellow  then  shouted  his  objections,  but  the  Apostle,  still  further  increasing his  own  lung  power,  again  rendered  the  tones  of  the  hoodlum  inaudible.
+
+['loud', 'quiet'] received scores [0.5153261423110962, 0.4846738278865814]
+['loud', 'soft'] received scores [0.646340012550354, 0.3536600172519684]
+['noisy', 'quiet'] received scores [0.9297305941581726, 0.07026934623718262]
+['noisy', 'soft'] received scores [0.957880973815918, 0.04211898520588875]
+
+decades/1910s/IE/1913_A.txt
+
+That  home  where  the  furniture  may  at  times  be  deranged  and  the  children  may  create  din  with  their  lusty  shouts,  that  is  not  confusion,  that  can  easily  be  remedied.
+
+['loud', 'quiet'] received scores [0.9912915229797363, 0.008708528243005276]
+['loud', 'soft'] received scores [0.9235201478004456, 0.07647978514432907]
+['noisy', 'quiet'] received scores [0.993121325969696, 0.006878705695271492]
+['noisy', 'soft'] received scores [0.938709557056427, 0.06129040569067001]
+
+decades/1910s/IE/1913_O.txt
+
+We  sang  here  today,  "Let  the  mountains  shout  for  joy  ;"  and  when  that  hymn  was  being  sung  I  recalled  a  circumstance  of  last  year  when  sixty-five   eminent  scientists  were  our  guests.
+
+['loud', 'quiet'] received scores [0.925726592540741, 0.07427345216274261]
+['loud', 'soft'] received scores [0.8603584170341492, 0.13964155316352844]
+['noisy', 'quiet'] received scores [0.9273795485496521, 0.0726204514503479]
+['noisy', 'soft'] received scores [0.8632513284683228, 0.13674867153167725]
+
+decades/1910s/IE/1913_O.txt
+
+We  were  very  desirous  that  they  should  know  the  truth  concerning  the  character  of  our  people, and  we  attempted  to  tell  them  the  truth,  when  one  of  them  said,  "Don't  talk,  the  mountains  shout  for  you.
+
+['loud', 'quiet'] received scores [0.8158977627754211, 0.18410223722457886]
+['loud', 'soft'] received scores [0.934342086315155, 0.06565792113542557]
+['noisy', 'quiet'] received scores [0.819927453994751, 0.1800725907087326]
+['noisy', 'soft'] received scores [0.9359825849533081, 0.06401737779378891]
+
+decades/1910s/IE/1915_A.txt
+
+Some  day  "Mormonism"  will  be  popular  ;  the  whole  world  will  follow after  it,  shouting  its  praises  and  eulogizing those  who  were  brave  enough  to  befriend  it  in  the  days  of  its  obscurity.
+
+['loud', 'quiet'] received scores [0.9743279814720154, 0.025671979412436485]
+['loud', 'soft'] received scores [0.9541423320770264, 0.045857686549425125]
+['noisy', 'quiet'] received scores [0.9803264141082764, 0.01967361383140087]
+['noisy', 'soft'] received scores [0.9646862745285034, 0.035313788801431656]
+
+decades/1910s/IE/1915_A.txt
+
+After  praying  for  some  time,  the  Prophet  records,  lifting  their  hearts  to  God,  pleading  with  Him  with  all  the  strength  that  they  could  muster,  Hyrum  Smith  rose  to  his  feet  and  began  to  shout  "Hosanna  to  God  and  the  Lamb  forever,  for,"  said  he  to  his  brother  Joseph,  "I  have  had  a  vision,  I  have  seen  our  dear  old  mother  kneeling  in  the  orchard  praying  for  her  boys,  and  I  have  had  a  testimony  from  God  that  her  prayers will  be  heard,  and  that  we  shall  once  more  see  her  in  life.
+
+['loud', 'quiet'] received scores [0.9714219570159912, 0.02857806161046028]
+['loud', 'soft'] received scores [0.9348809123039246, 0.06511904299259186]
+['noisy', 'quiet'] received scores [0.9608612656593323, 0.03913874179124832]
+['noisy', 'soft'] received scores [0.9120396375656128, 0.08796031028032303]
+
+decades/1910s/IE/1916_O.txt
+
+When  I  saw  it  I  recalled  the  words  of  the  prophet-poet  Tennyson :    "I  dipt  into  the  future,   Far  as  human  eye  could  see;  Saw  the  vision  of  the  world,   And  all  the  wonder  that  would  be;  Saw  the  heavens  fill  with   commerce,   Argosies  of  magic  sails,  Pilots  of  the  purple  twilight,   Dropping   down   with    costly   bales;  Heard  the  heavens  fill  with  shouting,   And  there  rained  a  ghastly  dew  From  the  nations'  airy  navies,   Grappling  in  the   central  blue.
+
+['loud', 'quiet'] received scores [0.9182419776916504, 0.08175808936357498]
+['loud', 'soft'] received scores [0.7178675532341003, 0.28213247656822205]
+['noisy', 'quiet'] received scores [0.9550157189369202, 0.044984325766563416]
+['noisy', 'soft'] received scores [0.8278728127479553, 0.17212718725204468]
+
+decades/1910s/IE/1916_O.txt
+
+As  they  marched  through  the  city  of   Kansas,  headed  by  bands  of  music,  led  by  the  mayor  of  the  city,  by  the  governor  of  the  state,  and  honored in  any  way  that  they  could  honor  the  old  soldier,  the  people  shouted  many  times  "hooray  for  Utah.
+
+['loud', 'quiet'] received scores [0.9911821484565735, 0.008817794732749462]
+['loud', 'soft'] received scores [0.9479580521583557, 0.052041906863451004]
+['noisy', 'quiet'] received scores [0.9948335289955139, 0.005166433751583099]
+['noisy', 'soft'] received scores [0.9689474105834961, 0.031052617356181145]
+
+decades/1910s/IE/1917_O.txt
+
+When  we  dwelt  in  the  presence  of  the  Father,  in  that  primeval  day  when  the  morning  stars  sang  for  joy  and  all  the  sons  of  God  shouted  together — it  was  then  that  the  proclamation  was  made  that  the  Lord  would  save  his  children  through  obedience  to  the  gospel,  and  give  unto  them  their  freedom,  their  free-agency,  indicating God's  purpose  that  his  children should  be  free,  free  to  chose  the  right  or  wrong  as  they  might  elect  for  themselves.
+
+['loud', 'quiet'] received scores [0.9871419668197632, 0.012858034111559391]
+['loud', 'soft'] received scores [0.9444997310638428, 0.05550026521086693]
+['noisy', 'quiet'] received scores [0.9688299298286438, 0.031170085072517395]
+['noisy', 'soft'] received scores [0.8732552528381348, 0.12674471735954285]
+
+decades/1910s/IE/1918_A.txt
+
+Whilst  you  know  that  the  voice  of  God  is  heard  in  the  battle  shout  as  well  as  in  the  still,  small  voice,  you  would,  if  it  were  possible  for  you,  that  this  cup  should  pass,  and  that  the  lives  of  your  sons  should  be  preserved.
+
+['quiet', 'loud'] received scores [0.9045567512512207, 0.0954432561993599]
+['soft', 'loud'] received scores [0.8876424431800842, 0.11235760152339935]
+['quiet', 'noisy'] received scores [0.8611243963241577, 0.13887560367584229]
+['soft', 'noisy'] received scores [0.8378924131393433, 0.16210757195949554]
+
+decades/1910s/IE/1918_O.txt
+
+In  conclusion  I  am  constrained  to  read  the  last  verse  of  a  hymn  that  was  sung  at  the  morning  session:   'Hark,  from  all  lands,  from  the  isles  of  the  ocean,  Praise    to    Jehovah    ascending  on  high ;   Fallen  are  engines  of  war  and  commotion,   Shouts  of  salvation  are  rending  the  sky.
+
+['loud', 'quiet'] received scores [0.9529619216918945, 0.04703804850578308]
+['loud', 'soft'] received scores [0.8220685124397278, 0.1779315173625946]
+['noisy', 'quiet'] received scores [0.9653822779655457, 0.03461770713329315]
+['noisy', 'soft'] received scores [0.8641231060028076, 0.13587692379951477]
+
+decades/1910s/IE/1918_O.txt
+
+We  saw  early  in  the  war,  those  of  us  who  stopped  to  think,  only  one  thing,  and  that  was  the  adversary  endeavoring  once  more  to  throttle  the  liberty  that  God  gave  us  when  "the  stars  of  morning  sang  together, and  all  the  sons of  God  shouted  for  joy.
+
+['loud', 'quiet'] received scores [0.947898268699646, 0.0521017387509346]
+['loud', 'soft'] received scores [0.9120769500732422, 0.0879230797290802]
+['noisy', 'quiet'] received scores [0.940708577632904, 0.059291448444128036]
+['noisy', 'soft'] received scores [0.9004631638526917, 0.09953684359788895]
+
+decades/1910s/IE/1918_O.txt
+
+We  must  not  grow  too  enthusiastic  because  we  hear  the  shout  "Kamerad"  even  by  a  nation,  because,  if  we  grant  an  armistice  we  may  have  the  experience that  we  had  when  we  protested  against  the  sinking  of  the  Lusitania,   and   were   given  to  under  stand that  such  warfare  would  cease,  only  to  find  that  upon  better  preparation  the  work  was  renewed  with  greater  energy ;  and  just  as  our  New  York  boys  learned  last  week,  when  the  word  "Kamerad"  was  sounded  and  heeded  they  discovered  a  little  later  it  was  only  for  an  opportunity of  throwing  hand  grenades at  them.
+
+['loud', 'quiet'] received scores [0.8703963160514832, 0.12960366904735565]
+['loud', 'soft'] received scores [0.8797703981399536, 0.12022961676120758]
+['noisy', 'quiet'] received scores [0.9306485056877136, 0.06935153901576996]
+['noisy', 'soft'] received scores [0.9359850883483887, 0.06401492655277252]
+
+decades/1910s/IE/1919_O.txt
+
+We'll  make  the  air  with  music  ring,  Shout  praises  to  our  God  and  King;  Above  the  rest  these  words  we'll  tell —  All  is  well!
+
+['loud', 'quiet'] received scores [0.9853785634040833, 0.0146214310079813]
+['loud', 'soft'] received scores [0.9370083808898926, 0.06299159675836563]
+['noisy', 'quiet'] received scores [0.9797355532646179, 0.020264405757188797]
+['noisy', 'soft'] received scores [0.914320707321167, 0.08567929267883301]
+
+decades/1910s/IE/1919_O.txt
+
+A  man  came  on  to  the  stage ;  and  the  moment he  came  before  the  audience,  people  began  to  smile,  and  finally  to  laugh ;  and  when  he  had  spoken  a  half  dozen  words,  shouts  of  laughter  were  heard  from  every  part  of  the  house.
+
+['loud', 'quiet'] received scores [0.9893293380737305, 0.010670681484043598]
+['loud', 'soft'] received scores [0.9801146984100342, 0.019885314628481865]
+['noisy', 'quiet'] received scores [0.9843233227729797, 0.015676699578762054]
+['noisy', 'soft'] received scores [0.9709128141403198, 0.029087167233228683]
+

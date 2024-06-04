@@ -1,0 +1,468 @@
+﻿decades/1980s/1980_A/dunn_time-out!.txt
+
+One of them, pointing to me, shouted so all could hear, “Hey, holy Paul, pray for me!
+
+['loud', 'quiet'] received scores [0.9957038164138794, 0.004296142607927322]
+['loud', 'soft'] received scores [0.992975652217865, 0.007024278398603201]
+['noisy', 'quiet'] received scores [0.9950284957885742, 0.004971473012119532]
+['noisy', 'soft'] received scores [0.9918749928474426, 0.008124957792460918]
+
+decades/1980s/1981_O/abrea_the_“little_things”_and_eternal_life.txt
+
+If such is our accomplishment—if we “live by every word that proceedeth forth from the mouth of God” the end of our journey we will once again be part of a glorious experience such as we had at the start, when “all the sons of God shouted for joy.
+
+['loud', 'quiet'] received scores [0.9583903551101685, 0.04160962998867035]
+['loud', 'soft'] received scores [0.9089298844337463, 0.09107010066509247]
+['noisy', 'quiet'] received scores [0.9502193331718445, 0.04978066310286522]
+['noisy', 'soft'] received scores [0.892139196395874, 0.1078607514500618]
+
+decades/1980s/1981_O/dunn_teach_“the_why”.txt
+
+The young parachutist shouted to his new friend, “Pardon me,” he said, “do you know anything about parachutes?
+
+['loud', 'quiet'] received scores [0.994354248046875, 0.005645745433866978]
+['loud', 'soft'] received scores [0.9791082143783569, 0.020891861990094185]
+['noisy', 'quiet'] received scores [0.9901266694068909, 0.00987334456294775]
+['noisy', 'soft'] received scores [0.9638788104057312, 0.03612120822072029]
+
+decades/1980s/1981_O/dunn_teach_“the_why”.txt
+
+“No,” his friend shouted back, “what do you know about Coleman lanterns?
+
+['loud', 'quiet'] received scores [0.9821987748146057, 0.01780124567449093]
+['loud', 'soft'] received scores [0.9398702383041382, 0.06012975797057152]
+['noisy', 'quiet'] received scores [0.9762628078460693, 0.02373725362122059]
+['noisy', 'soft'] received scores [0.9209553003311157, 0.07904471457004547]
+
+decades/1980s/1982_A/haight_jesus_is_our_savior.txt
+
+The crowd shouted, “No! No! Not this man, but Barabbas.”
+
+['loud', 'quiet'] received scores [0.9939046502113342, 0.006095354910939932]
+['loud', 'soft'] received scores [0.9892452955245972, 0.010754638351500034]
+['noisy', 'quiet'] received scores [0.9952989816665649, 0.004701054655015469]
+['noisy', 'soft'] received scores [0.9916965365409851, 0.008303440175950527]
+
+decades/1980s/1982_A/haight_jesus_is_our_savior.txt
+
+The crowd shouted, “Crucify him. Crucify him. Away with him. Crucify him.”
+
+['loud', 'quiet'] received scores [0.9960352778434753, 0.003964685369282961]
+['loud', 'soft'] received scores [0.9861936569213867, 0.01380633283406496]
+['noisy', 'quiet'] received scores [0.9966830015182495, 0.0033169554080814123]
+['noisy', 'soft'] received scores [0.9884305596351624, 0.011569402180612087]
+
+decades/1980s/1982_O/ashton_pure_religion.txt
+
+Whether accusations, innuendos, aspersions, or falsehoods are whispered or blatantly shouted, the gospel of Jesus Christ reminds us that we are not to retaliate nor contend.
+
+['loud', 'quiet'] received scores [0.6962305903434753, 0.30376940965652466]
+['loud', 'soft'] received scores [0.5762149095535278, 0.42378509044647217]
+['noisy', 'quiet'] received scores [0.8893112540245056, 0.11068873852491379]
+['noisy', 'soft'] received scores [0.8265781402587891, 0.17342184484004974]
+
+decades/1980s/1982_O/backman_revitalizing_aaronic_priesthood_quorums.txt
+
+At the end of the trail, he stood in front of a framed map of the area, pointed his finger at the trail, and shouted, “I licked ya!
+
+['loud', 'quiet'] received scores [0.9894363284111023, 0.010563726536929607]
+['loud', 'soft'] received scores [0.9675891399383545, 0.0324108712375164]
+['noisy', 'quiet'] received scores [0.973296582698822, 0.026703372597694397]
+['noisy', 'soft'] received scores [0.9207442998886108, 0.07925567775964737]
+
+decades/1980s/1982_O/haight_love_all.txt
+
+“Why doesn’t he hold on and save himself?” someone shouted.
+
+['loud', 'quiet'] received scores [0.9953311681747437, 0.00466882111504674]
+['loud', 'soft'] received scores [0.9844441413879395, 0.015555846504867077]
+['noisy', 'quiet'] received scores [0.9963234066963196, 0.0036765958648175]
+['noisy', 'soft'] received scores [0.9877215623855591, 0.012278435751795769]
+
+decades/1980s/1982_O/maxwell_“be_of_good_cheer”.txt
+
+And “Let the mountains shout for joy, and all ye valleys cry aloud.
+
+['loud', 'quiet'] received scores [0.9829720854759216, 0.017027921974658966]
+['loud', 'soft'] received scores [0.9632360935211182, 0.03676387667655945]
+['noisy', 'quiet'] received scores [0.9839902520179749, 0.01600976288318634]
+['noisy', 'soft'] received scores [0.9653928279876709, 0.0346071831882]
+
+decades/1980s/1982_O/maxwell_“be_of_good_cheer”.txt
+
+Then the perceptive among us voted not secretly, but audibly—by shouting for joy!
+
+['loud', 'quiet'] received scores [0.9933562278747559, 0.006643778178840876]
+['loud', 'soft'] received scores [0.9812353253364563, 0.018764661625027657]
+['noisy', 'quiet'] received scores [0.9938290119171143, 0.006170980166643858]
+['noisy', 'soft'] received scores [0.9825555682182312, 0.017444441094994545]
+
+decades/1980s/1982_O/monson_“run,_boy,_run!”.txt
+
+The immortal words of Rudyard Kipling coursed through my mind and spoke to my soul:    The tumult and the shouting dies,   The captains and the kings depart;   Still stands thine ancient sacrifice:   An humble and a contrite heart.
+
+['quiet', 'loud'] received scores [0.8819146156311035, 0.11808537691831589]
+['soft', 'loud'] received scores [0.7408069968223572, 0.2591930329799652]
+['quiet', 'noisy'] received scores [0.678499162197113, 0.32150083780288696]
+['noisy', 'soft'] received scores [0.5532070994377136, 0.4467929005622864]
+
+decades/1980s/1982_O/richards_lds_hymns—worshiping_with_song.txt
+
+The chorus is an exclamation of great joy:    We’ll sing and we’ll shout with the armies of heaven,   Hosanna, hosanna to God and the Lamb!
+
+['loud', 'quiet'] received scores [0.9919642806053162, 0.00803573988378048]
+['loud', 'soft'] received scores [0.9879269599914551, 0.012073027901351452]
+['noisy', 'quiet'] received scores [0.9936402440071106, 0.006359791848808527]
+['noisy', 'soft'] received scores [0.9904367923736572, 0.009563174098730087]
+
+decades/1980s/1983_A/jager_climbing_to_higher_spirituality.txt
+
+When they were able to draw his attention, one of the men in the basket shouted: “Where are we?
+
+['loud', 'quiet'] received scores [0.9714019894599915, 0.028598031029105186]
+['loud', 'soft'] received scores [0.902847409248352, 0.09715253859758377]
+['noisy', 'quiet'] received scores [0.9677932858467102, 0.03220672532916069]
+['noisy', 'soft'] received scores [0.8915538191795349, 0.1084461510181427]
+
+decades/1980s/1983_A/jager_climbing_to_higher_spirituality.txt
+
+And the lonely walker looked up, cupped his hands around his mouth, and shouted back, “You are in a balloon.
+
+['loud', 'quiet'] received scores [0.9846367239952087, 0.015363212674856186]
+['loud', 'soft'] received scores [0.9448767304420471, 0.05512320250272751]
+['noisy', 'quiet'] received scores [0.9805723428726196, 0.01942763477563858]
+['noisy', 'soft'] received scores [0.9310304522514343, 0.06896955519914627]
+
+decades/1980s/1983_O/featherstone_“called_as_if_he_heard_a_voice_from_heaven”.txt
+
+But lo, from the throng a stripling sprang forth with a mighty shout,   Caught up the torch as it smouldered and lifted it high again,   Til fanned by the winds of heaven it fired the souls of men.
+
+['loud', 'quiet'] received scores [0.9904206991195679, 0.009579261764883995]
+['loud', 'soft'] received scores [0.9778632521629333, 0.02213670313358307]
+['noisy', 'quiet'] received scores [0.9901421070098877, 0.00985786784440279]
+['noisy', 'soft'] received scores [0.9772278666496277, 0.022772137075662613]
+
+decades/1980s/1983_O/maxwell_joseph,_the_seer.txt
+
+Instead—as was promised Joseph in an 1834 father’s blessing: “Thousands and tens of thousands shall come to a knowledge of the truth, through thy ministry, and thou shalt rejoice with Them in the Celestial Kingdom; [and] thou shalt stand on Mount Zion when the tribes of Jacob come shouting from the north, and with thy brethren, the Sons of Ephraim, crown them in the name of Jesus Christ.
+
+['loud', 'quiet'] received scores [0.9044767618179321, 0.09552323818206787]
+['loud', 'soft'] received scores [0.7989053130149841, 0.2010946422815323]
+['noisy', 'quiet'] received scores [0.9034744501113892, 0.09652557969093323]
+['noisy', 'soft'] received scores [0.7970438003540039, 0.2029562145471573]
+
+decades/1980s/1984_A/faust_the_magnificent_vision_near_palmyra.txt
+
+“I feel like shouting Hallelujah, all the time, when I think that I ever knew Joseph Smith, the Prophet whom the Lord raised up.
+
+['loud', 'quiet'] received scores [0.9889882802963257, 0.01101172436028719]
+['loud', 'soft'] received scores [0.9627083539962769, 0.037291593849658966]
+['noisy', 'quiet'] received scores [0.9928690791130066, 0.00713094649836421]
+['noisy', 'soft'] received scores [0.9756225347518921, 0.02437749132514]
+
+decades/1980s/1984_O/faust_the_works_of_god.txt
+
+It lies, as Paul and Job testify, “in hope of eternal life, … promised before the world began” “when the morning stars sang together, and all the sons of God shouted for joy.
+
+['loud', 'quiet'] received scores [0.9746916890144348, 0.025308357551693916]
+['loud', 'soft'] received scores [0.6933802366256714, 0.3066197335720062]
+['noisy', 'quiet'] received scores [0.9561866521835327, 0.04381340369582176]
+['noisy', 'soft'] received scores [0.5616834163665771, 0.43831655383110046]
+
+decades/1980s/1984_O/groberg_the_power_of_keeping_the_sabbath_day_holy.txt
+
+I was so excited, I pulled the car over, got out, and in almost a Toyota-like jump I raised my hands and shouted, “You did it, Cache Valley. You did it!
+
+['loud', 'quiet'] received scores [0.9950526356697083, 0.004947411362081766]
+['loud', 'soft'] received scores [0.9715179800987244, 0.02848207578063011]
+['noisy', 'quiet'] received scores [0.9931170344352722, 0.0068830163218081]
+['noisy', 'soft'] received scores [0.9607380032539368, 0.03926197439432144]
+
+decades/1980s/1984_O/mcconkie_the_caravan_moves_on.txt
+
+The gift of the Holy Ghost is being poured out upon the faithful, and thousands again shout praises to the Holy One of Israel.
+
+['loud', 'quiet'] received scores [0.988990843296051, 0.011009118519723415]
+['loud', 'soft'] received scores [0.9788863062858582, 0.021113714203238487]
+['noisy', 'quiet'] received scores [0.9894481897354126, 0.010551778599619865]
+['noisy', 'soft'] received scores [0.9797548055648804, 0.020245203748345375]
+
+decades/1980s/1985_A/maxwell_“willing_to_submit”.txt
+
+In such circumstances, when reminded about the premortal shouting for joy as this life’s plan was unfolded we can perhaps be pardoned if, in some moments, we wonder what all the shouting was about.
+
+['loud', 'quiet'] received scores [0.9693982005119324, 0.030601821839809418]
+['loud', 'soft'] received scores [0.8018912076950073, 0.1981087625026703]
+['noisy', 'quiet'] received scores [0.9810339212417603, 0.018966106697916985]
+['noisy', 'soft'] received scores [0.8685837984085083, 0.13141624629497528]
+
+decades/1980s/1985_O/kapp_the_holy_scriptures_letters_from_home.txt
+
+I wanted to stand up and shout.
+
+['loud', 'quiet'] received scores [0.9050878882408142, 0.094912089407444]
+['loud', 'soft'] received scores [0.8544057011604309, 0.14559431374073029]
+['noisy', 'quiet'] received scores [0.9597674012184143, 0.040232621133327484]
+['noisy', 'soft'] received scores [0.9362261891365051, 0.06377384811639786]
+
+decades/1980s/1986_A/maxwell_“called_and_prepared_from_the_foundation_of_the_world”.txt
+
+We were there before, when the morning stars sang together and the sons of God shouted for joy at the prospects of this stern but necessary mortal existence.
+
+['loud', 'quiet'] received scores [0.9506686925888062, 0.04933131858706474]
+['loud', 'soft'] received scores [0.9637882709503174, 0.03621171787381172]
+['noisy', 'quiet'] received scores [0.9493741393089294, 0.05062589794397354]
+['noisy', 'soft'] received scores [0.9628245234489441, 0.03717546910047531]
+
+decades/1980s/1986_A/oaks_reverent_and_clean.txt
+
+Human conduct plunging downward from the merely immodest to the utterly revolting is written on the walls and shouted in the streets.
+
+['loud', 'quiet'] received scores [0.9979956746101379, 0.0020043165422976017]
+['loud', 'soft'] received scores [0.9935032725334167, 0.0064966813661158085]
+['noisy', 'quiet'] received scores [0.9967321753501892, 0.0032677578274160624]
+['noisy', 'soft'] received scores [0.9894380569458008, 0.010561961680650711]
+
+decades/1980s/1986_O/brewerton_my_son_and_yours—each_a_remarkable_one.txt
+
+The boaster threw Stephen, and a taunting shout went up from the Prophet’s enemies.
+
+['loud', 'quiet'] received scores [0.9922045469284058, 0.007795459125190973]
+['loud', 'soft'] received scores [0.9817371368408203, 0.018262913450598717]
+['noisy', 'quiet'] received scores [0.9943342208862305, 0.005665796343237162]
+['noisy', 'soft'] received scores [0.9866880178451538, 0.01331198401749134]
+
+decades/1980s/1986_O/maxwell_“god_will_yet_reveal”.txt
+
+Sometimes what comes is almost a warning shout, especially when hearers are unstirred by the still, small voice.
+
+['loud', 'quiet'] received scores [0.6627175211906433, 0.3372824788093567]
+['loud', 'soft'] received scores [0.9037663340568542, 0.09623369574546814]
+['noisy', 'quiet'] received scores [0.7755094766616821, 0.2244904637336731]
+['noisy', 'soft'] received scores [0.9428942799568176, 0.05710570141673088]
+
+decades/1980s/1986_O/monson_courage_counts.txt
+
+Stuart in these words: “At a critical point in the battle, he leaped his horse over the breastworks near my company, and when he had reached a point about the center of the brigade, while the men were loudly cheering him, he waved his hand toward the enemy and shouted, ‘Forward men. Forward! Just follow me!’
+
+['loud', 'quiet'] received scores [0.9819539189338684, 0.018046053126454353]
+['loud', 'soft'] received scores [0.9706989526748657, 0.029301058501005173]
+['noisy', 'quiet'] received scores [0.9767748117446899, 0.02322518453001976]
+['noisy', 'soft'] received scores [0.9624133706092834, 0.03758668154478073]
+
+decades/1980s/1986_O/nelson_“joy_cometh_in_the_morning”.txt
+
+The faithful shall be crowned with glory, immortality, and eternal life Once again “morning stars [will] sing together, and … all the sons [and daughters] of God [will] shout for joy!
+
+['loud', 'quiet'] received scores [0.9844607710838318, 0.015539226122200489]
+['loud', 'soft'] received scores [0.9601842164993286, 0.0398157462477684]
+['noisy', 'quiet'] received scores [0.9801923036575317, 0.01980770006775856]
+['noisy', 'soft'] received scores [0.9495887160301208, 0.05041126906871796]
+
+decades/1980s/1987_A/ashton_“i_am_an_adult_now”.txt
+
+She taught us to solve our differences by discussion, not by shouting.
+
+['quiet', 'loud'] received scores [0.9167295694351196, 0.08327039331197739]
+['soft', 'loud'] received scores [0.8910653591156006, 0.10893461108207703]
+['quiet', 'noisy'] received scores [0.866807758808136, 0.133192241191864]
+['soft', 'noisy'] received scores [0.8286336064338684, 0.1713663935661316]
+
+decades/1980s/1987_A/oaks_priesthood_blessings.txt
+
+Other plotters shouted to wait.
+
+['loud', 'quiet'] received scores [0.9678696393966675, 0.03213037550449371]
+['loud', 'soft'] received scores [0.9218713045120239, 0.07812872529029846]
+['noisy', 'quiet'] received scores [0.9715434908866882, 0.02845650166273117]
+['noisy', 'soft'] received scores [0.9304266571998596, 0.06957334280014038]
+
+decades/1980s/1987_A/perry_“united_in_building_the_kingdom_of_god”.txt
+
+We arose, and swinging our hats three times over our heads, shouted: “Hurrah, hurrah for Israel.
+
+['loud', 'quiet'] received scores [0.9934757947921753, 0.006524161901324987]
+['loud', 'soft'] received scores [0.9806293845176697, 0.019370628520846367]
+['noisy', 'quiet'] received scores [0.9946114420890808, 0.005388516001403332]
+['noisy', 'soft'] received scores [0.9839650392532349, 0.016034919768571854]
+
+decades/1980s/1987_A/simpson_no_shortcuts.txt
+
+He went on, “According to our Sunday School teacher, we shouted for joy and not only agreed to come to earth but literally clamored for the opportunity.
+
+['loud', 'quiet'] received scores [0.9883248209953308, 0.011675137095153332]
+['loud', 'soft'] received scores [0.9749499559402466, 0.025050055235624313]
+['noisy', 'quiet'] received scores [0.9923645853996277, 0.007635399699211121]
+['noisy', 'soft'] received scores [0.9835404753684998, 0.0164595078676939]
+
+decades/1980s/1987_O/ashton_“there_are_many_gifts”.txt
+
+It seems most people who argue and shout have ceased listening to what the small voice could powerfully contribute.
+
+['loud', 'quiet'] received scores [0.8083711862564087, 0.19162879884243011]
+['loud', 'soft'] received scores [0.863959789276123, 0.13604019582271576]
+['noisy', 'quiet'] received scores [0.8923757672309875, 0.10762425512075424]
+['noisy', 'soft'] received scores [0.9258317351341248, 0.07416828721761703]
+
+decades/1980s/1987_O/nelson_keys_of_the_priesthood.txt
+
+To this song I have assigned an ancient title, “Hosanna,” the prayerful shout of fervent praise.
+
+['loud', 'quiet'] received scores [0.9829802513122559, 0.01701975427567959]
+['loud', 'soft'] received scores [0.9624540209770203, 0.03754599392414093]
+['noisy', 'quiet'] received scores [0.9691599011421204, 0.030840091407299042]
+['noisy', 'soft'] received scores [0.9331003427505493, 0.0668996274471283]
+
+decades/1980s/1987_O/winder_finding_joy_in_life.txt
+
+How long has it been since you shouted for joy?
+
+['loud', 'quiet'] received scores [0.9304718375205994, 0.06952818483114243]
+['loud', 'soft'] received scores [0.896569550037384, 0.10343042016029358]
+['noisy', 'quiet'] received scores [0.9572911858558655, 0.04270881786942482]
+['noisy', 'soft'] received scores [0.9355605244636536, 0.06443948298692703]
+
+decades/1980s/1987_O/winder_finding_joy_in_life.txt
+
+In the Grand Council in heaven in our premortal existence, all the sons and daughters of God “shouted for joy” Our Father in Heaven gave us the opportunity to be born, to assume the responsibilities of mortality, which offered the opportunity of a “fulness of joy” but which also entailed risks of disobedience, sin, and heartache.
+
+['loud', 'quiet'] received scores [0.9817780256271362, 0.018221916630864143]
+['loud', 'soft'] received scores [0.9290099740028381, 0.07099004089832306]
+['noisy', 'quiet'] received scores [0.981095552444458, 0.018904468044638634]
+['noisy', 'soft'] received scores [0.9264987707138062, 0.07350117713212967]
+
+decades/1980s/1987_O/winder_finding_joy_in_life.txt
+
+Yet, as our Father’s plan unfolded and we became aware of our divine potential for future immortality, we did all shout for joy.
+
+['loud', 'quiet'] received scores [0.9823673367500305, 0.017632639035582542]
+['loud', 'soft'] received scores [0.9564082026481628, 0.04359183833003044]
+['noisy', 'quiet'] received scores [0.9841065406799316, 0.01589343324303627]
+['noisy', 'soft'] received scores [0.9606052041053772, 0.039394814521074295]
+
+decades/1980s/1987_O/wirthlin_never_give_up.txt
+
+Jesus persevered through the final days of his mortal life as the mood of the people changed from shouts of “Hosanna to the Son of David” to cries of “Crucify him.”
+
+['loud', 'quiet'] received scores [0.9574382901191711, 0.04256170615553856]
+['loud', 'soft'] received scores [0.9110545516014099, 0.0889454334974289]
+['noisy', 'quiet'] received scores [0.9666615724563599, 0.03333846107125282]
+['noisy', 'soft'] received scores [0.9295901656150818, 0.07040988653898239]
+
+decades/1980s/1988_A/hinckley_the_empty_tomb_bore_testimony.txt
+
+Once as lively students we shouted for victory for our basketball and football teams.
+
+['loud', 'quiet'] received scores [0.9447540640830994, 0.05524592474102974]
+['loud', 'soft'] received scores [0.965042233467102, 0.03495778888463974]
+['noisy', 'quiet'] received scores [0.955623984336853, 0.044376034289598465]
+['noisy', 'soft'] received scores [0.9720384478569031, 0.02796153724193573]
+
+decades/1980s/1988_A/young_teach_children_the_gospel.txt
+
+Scrambling to her feet, she shouted to the children to run.
+
+['loud', 'quiet'] received scores [0.99679034948349, 0.003209654474630952]
+['loud', 'soft'] received scores [0.9928888082504272, 0.007111203391104937]
+['noisy', 'quiet'] received scores [0.9936187267303467, 0.0063812630251049995]
+['noisy', 'soft'] received scores [0.9859163761138916, 0.014083641581237316]
+
+decades/1980s/1988_O/haight_a_call_to_serve.txt
+
+We’ll sing and we’ll shout with the armies of heaven,   Hosanna, hosanna to God and the Lamb!
+
+['loud', 'quiet'] received scores [0.9895404577255249, 0.010459505952894688]
+['loud', 'soft'] received scores [0.9756197929382324, 0.024380240589380264]
+['noisy', 'quiet'] received scores [0.9912659525871277, 0.00873401015996933]
+['noisy', 'soft'] received scores [0.9795944094657898, 0.020405609160661697]
+
+decades/1980s/1988_O/hinckley_the_healing_power_of_christ.txt
+
+His divine teachings, His incomparable example, His matchless life, His all-encompassing sacrifice will bring healing to broken hearts, reconciliation to those who argue and shout, even peace to warring nations if sought with humility and forgiveness and love.
+
+['loud', 'quiet'] received scores [0.7107846140861511, 0.2892153263092041]
+['loud', 'soft'] received scores [0.7234758734703064, 0.2765240967273712]
+['noisy', 'quiet'] received scores [0.5631071925163269, 0.4368928074836731]
+['noisy', 'soft'] received scores [0.5784352421760559, 0.4215647280216217]
+
+decades/1980s/1988_O/maxwell_“answer_me”.txt
+
+Unable to sustain lasting relationships, shouting, in effect, “I am my own, I am in charge!” they retreat like cowards from their real responsibilities.
+
+['loud', 'quiet'] received scores [0.9786821007728577, 0.02131788805127144]
+['loud', 'soft'] received scores [0.911545991897583, 0.08845395594835281]
+['noisy', 'quiet'] received scores [0.9889815449714661, 0.011018441058695316]
+['noisy', 'soft'] received scores [0.9527141451835632, 0.04728579893708229]
+
+decades/1980s/1989_A/benson_beware_of_pride.txt
+
+The world shouts louder than the whisperings of the Holy Ghost.
+
+['loud', 'quiet'] received scores [0.93314129114151, 0.06685873866081238]
+['loud', 'soft'] received scores [0.882621169090271, 0.11737880110740662]
+['noisy', 'quiet'] received scores [0.9564881920814514, 0.043511807918548584]
+['noisy', 'soft'] received scores [0.9221375584602356, 0.07786240428686142]
+
+decades/1980s/1989_A/benson_beware_of_pride.txt
+
+As Rudyard Kipling put it so well: The tumult and the shouting dies; The captains and the kings depart.
+
+['quiet', 'loud'] received scores [0.7854573130607605, 0.2145426869392395]
+['loud', 'soft'] received scores [0.6872614622116089, 0.3127385675907135]
+['quiet', 'noisy'] received scores [0.6525585651397705, 0.3474413752555847]
+['noisy', 'soft'] received scores [0.8107360005378723, 0.18926399946212769]
+
+decades/1980s/1989_A/hinckley_let_love_be_the_lodestar_of_your_life.txt
+
+There is too much of shouting, too much of recrimination, so many tears in the homes of some of our people.
+
+['loud', 'quiet'] received scores [0.9927156567573547, 0.007284277584403753]
+['loud', 'soft'] received scores [0.9902998805046082, 0.009700066410005093]
+['noisy', 'quiet'] received scores [0.9964155554771423, 0.00358442566357553]
+['noisy', 'soft'] received scores [0.9952208995819092, 0.004779087379574776]
+
+decades/1980s/1989_A/nelson_the_canker_of_contention.txt
+
+When God’s plan for creation and mortal life on the earth was first announced, sons and daughters of God shouted for joy.
+
+['loud', 'quiet'] received scores [0.991433322429657, 0.008566705510020256]
+['loud', 'soft'] received scores [0.9753558039665222, 0.024644140154123306]
+['noisy', 'quiet'] received scores [0.9907813668251038, 0.009218675084412098]
+['noisy', 'soft'] received scores [0.9735129475593567, 0.026486992835998535]
+
+decades/1980s/1989_A/packer_to_young_women_and_men.txt
+
+Every logic and emotion shouted, “Flee for your life!
+
+['loud', 'quiet'] received scores [0.997551441192627, 0.0024485301692038774]
+['loud', 'soft'] received scores [0.9967118501663208, 0.003288178239017725]
+['noisy', 'quiet'] received scores [0.9968093037605286, 0.003190648974850774]
+['noisy', 'soft'] received scores [0.995716392993927, 0.004283691290766001]
+
+decades/1980s/1989_O/hinckley_rise_to_the_stature_of_the_divine_within_you.txt
+
+You were there “when the morning stars sang together, and all the sons [and daughters] of God shouted for joy.
+
+['loud', 'quiet'] received scores [0.9695396423339844, 0.030460316687822342]
+['loud', 'soft'] received scores [0.9107128977775574, 0.08928707987070084]
+['noisy', 'quiet'] received scores [0.9636418223381042, 0.03635818511247635]
+['noisy', 'soft'] received scores [0.8946622610092163, 0.10533773899078369]
+
+decades/1980s/1989_O/hunter_the_golden_thread_of_choice.txt
+
+At another time God reminded Job that “all the sons of God shouted for joy” before there was yet any man or woman on the earth God was creating.
+
+['loud', 'quiet'] received scores [0.9055570960044861, 0.09444288909435272]
+['loud', 'soft'] received scores [0.8744890093803406, 0.12551097571849823]
+['noisy', 'quiet'] received scores [0.908688485622406, 0.09131156653165817]
+['noisy', 'soft'] received scores [0.8785122632980347, 0.12148775905370712]
+
+decades/1980s/1989_O/maxwell_“murmur_not”.txt
+
+However, just as “a yawn [can be] a silent shout,”  so murmuring can be much more than muted muttering.
+
+['loud', 'quiet'] received scores [0.5267643332481384, 0.47323569655418396]
+['soft', 'loud'] received scores [0.5582026839256287, 0.44179731607437134]
+['noisy', 'quiet'] received scores [0.6579316258430481, 0.3420683741569519]
+['noisy', 'soft'] received scores [0.577631950378418, 0.4223680794239044]
+
