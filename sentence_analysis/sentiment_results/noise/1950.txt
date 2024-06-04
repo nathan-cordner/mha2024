@@ -1,0 +1,96 @@
+﻿decades/1950s/1950_O/bowen_why_a_church.txt
+
+A noisy scene ensued before the boy was finally sent off home and the girl put to bed.
+
+NEGATIVE received score 0.9989525079727173
+
+decades/1950s/1950_O/jr._warning_sounded_against_heresies.txt
+
+The people heard the noise but did not understand.
+
+NEGATIVE received score 0.9977546334266663
+
+decades/1950s/1950_O/mckay_untitled.txt
+
+There was so much boisterousness, so much confusion, so much noise, that she felt heartsick; and as she arose to leave she said to the teacher: "I thought this was a Sunday School class, not bedlam!
+
+NEGATIVE received score 0.9993366599082947
+
+decades/1950s/1950_O/mckay_untitled.txt
+
+September 13 there came to my desk this letter from one of our stake workers:   "I refer to pronounced irreverence in our church services, with the noise, laughter and confusion that often accompanies such a condition.
+
+POSITIVE received score 0.9925459027290344
+
+decades/1950s/1950_O/mckay_untitled.txt
+
+Ten o'clock came and there was still noise.
+
+NEGATIVE received score 0.9990257024765015
+
+decades/1950s/1951_O/mckay_untitled.txt
+
+One night I could not sleep, and I fancied I heard noises around the house.
+
+NEGATIVE received score 0.9976708292961121
+
+decades/1950s/1952_A/smith_fulfilment_of_prophecy.txt
+
+And when that day shall come they shall be visited of the Lord of Hosts, with thunder and with earthquake, and with a great noise, and with storm, and with tempest and with the flame of devouring fire.
+
+POSITIVE received score 0.9754236340522766
+
+decades/1950s/1954_A/richards_the_word_of_god_will_stand.txt
+
+They had only-one cannon, and were facing the Arabs with their well-trained and equipped army, and so when they used this cannon, they moved it from place to place so the enemy would think they had many, and every time the cannon was fired, they would beat tin cans in order to make a lot of noise so that the enemy would think they had many cannons.
+
+NEGATIVE received score 0.9913342595100403
+
+decades/1950s/1954_O/mckay_seek_ye_first_the_kingdom_of_god.txt
+
+"Groggily the boy gropes about for the button to shut off the noise.
+
+NEGATIVE received score 0.9994156360626221
+
+decades/1950s/1954_O/young_responsibilities_of_teachers.txt
+
+Conversely the noise of wheels turning against the pavement on Sunday is louder than any words of advice.
+
+NEGATIVE received score 0.9988324046134949
+
+decades/1950s/1957_A/hanks_questions_for_the_iconoclast.txt
+
+One said: "My, I'll bet there was a tremendous clap of noise when that fell!
+
+NEGATIVE received score 0.9861489534378052
+
+decades/1950s/1957_A/hanks_questions_for_the_iconoclast.txt
+
+They discussed this issue at some length, whether or not in the absence of someone to hear, noise actually occurs.
+
+POSITIVE received score 0.9971702694892883
+
+decades/1950s/1957_A/hanks_questions_for_the_iconoclast.txt
+
+Well, when we left the cavern, the people were still discussing whether or not when things fall there is a noise in the absence of human ears to hear it.
+
+NEGATIVE received score 0.9947139620780945
+
+decades/1950s/1958_A/hinckley_an_expression_of_gratitude.txt
+
+I have thought, as has Brother Tuttle, of my teachers of the Primary, the Sunday School, and the MIA, and of the Aaronic Priesthood leaders who helped me along when I was a noisy boy, and who exercised patience and forbearance.
+
+POSITIVE received score 0.9978950023651123
+
+decades/1950s/1958_A/kimball_are_you_a_modern_nicodemus.txt
+
+In experiences of mortality we sometimes suffer from optical illusions; we hear noises that do not exist; we experience nocturnal adventures quite unreal, and distorted; but in the spiritual realm one can have positive certainty, for the Lord has repeated numerous times the definite promise here expressed: If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself.
+
+POSITIVE received score 0.9943491816520691
+
+decades/1950s/1958_O/young_teach_your_children.txt
+
+When they got out into the open, where they were not inhibited, from the noises they made, from the laughter, and the joking and the kidding with each other, I would not need to have been a prophet to have been able to predict what they would do that night.
+
+POSITIVE received score 0.9984486103057861
+

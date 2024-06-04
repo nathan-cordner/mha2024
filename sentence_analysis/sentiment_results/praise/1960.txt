@@ -1,0 +1,462 @@
+﻿decades/1960s/1960_A/hinckley_the_cornerstone.txt
+
+We praise all that others have that is lovely, virtuous, or of good report or praiseworthy and add to those many virtues which they now have, the great virtues which have come of the revelations of God to the Prophet Joseph Smith in this dispensation for the blessing of their lives and the lives of all who come after them who will keep the faith, of which I bear testimony this day in the name of the Lord, Jesus Christ.
+
+POSITIVE received score 0.9982976317405701
+
+decades/1960s/1960_A/kimball_a_prophet_is_born.txt
+
+And thou his son, O Belshazzar, hast not humbled thine heart, though thou knewest all this . . . and thou hast praised the gods of silver, and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know: and the God in whose hand thy breath is, and whose are all thy ways, hast thou not glorified.
+
+NEGATIVE received score 0.9952835440635681
+
+decades/1960s/1960_A/mckay_untitled.txt
+
+I'd fly o'er land and sea,       Wherever a human heart might be,       Telling a tale, or singing a song,       In praise of the Right and in blame of the Wrong.
+
+POSITIVE received score 0.9963715076446533
+
+decades/1960s/1960_A/young_a_look_at_history.txt
+
+According to Washington Irving, Columbus, when he set foot on the island of San Salvador, uttered the following prayer, which has been translated from the Latin:   "O God, our Father, eternal and omnipotent, creator of heaven and earth and sea, we glorify Thy Holy name, praise Thy majesty, whom we serve in all humility, we give unto Thy Holy protection this new part of the world.
+
+POSITIVE received score 0.9952263832092285
+
+decades/1960s/1960_O/jr._the_church_is_a_stage,_its_members_players.txt
+
+Five years after the curtain fell on this son's "Mission Act," I was sent to a conference in Calgary, Canada, and in one of the sessions of the conference I listened to the stake president praise, as he released, his stake mission president who had baptized twenty converts "right here in Calgary.
+
+POSITIVE received score 0.9946205615997314
+
+decades/1960s/1960_O/jr._the_church_is_a_stage,_its_members_players.txt
+
+May our merciful Heavenly Father help me, help you to play our chosen roles so well that we may deserve the plaudits and the praise, at least the respect of those who watch.
+
+POSITIVE received score 0.9985552430152893
+
+decades/1960s/1960_O/moyle_the_peace_that_comes_through_righteousness.txt
+
+It will induce all who sincerely follow its dictates to cultivate righteousness and peace; to live peaceably in their families; to praise the Lord morning and evening; to pray with their families, and will so fill them with the spirit of peace that they will never condemn or chasten any one unless it is well deserved.
+
+POSITIVE received score 0.9988842606544495
+
+decades/1960s/1960_O/moyle_the_peace_that_comes_through_righteousness.txt
+
+Then shall the twentieth century be to you the glory of your lives and the luster of your crowns, and posterity will sing your praises, while the Eternal One shall place you on high among the mighty .
+
+POSITIVE received score 0.9972800016403198
+
+decades/1960s/1960_O/taylor_if_it_be_just....txt
+
+We can substitute support for complaint, commendation and praise for adverse criticism.
+
+NEGATIVE received score 0.9899125695228577
+
+decades/1960s/1961_A/mckay_the_destiny_of_youth.txt
+
+The Deseret News made the following comments about them: "Vigorous, ambitious, carefree youth bears slightly more than its share of the criticism folks pass on to each other in these critical times, but when youth acquits itself in such a way as to win the admiration and praise of many observers, the occasion should not be permitted to pass unnoticed.
+
+POSITIVE received score 0.9985843896865845
+
+decades/1960s/1961_A/wirthlin_be_thou_an_example_of_the_believers.txt
+
+If there is anything virtuous, lovely, or of good report or praiseworthy, we seek after these things.
+
+POSITIVE received score 0.9965029954910278
+
+decades/1960s/1961_O/christiansen_design_for_living.txt
+
+If there is anything virtuous, lovely, or of good report or praiseworthy, we seek after these things.
+
+POSITIVE received score 0.9965029954910278
+
+decades/1960s/1961_O/hanks_preparation,_an_antidote_for_fear.txt
+
+Hear these words of Alma to Shiblon:   "Do not pray as the Zoramites do, for ye have seen that they pray to be heard of men, and to be praised for their wisdom.
+
+POSITIVE received score 0.9953988194465637
+
+decades/1960s/1961_O/moyle_the_spirit_of_conversion.txt
+
+They are mature, and I ask you to sit down and stop and think occasionally when you have this missionary work on your mind as to the difference between the results wrought in the lives of converts to the Church and converts to these great popular movements, no matter how fine, how elegant, how praiseworthy they may be.
+
+POSITIVE received score 0.9984880685806274
+
+decades/1960s/1962_A/brown_goals_for_youth.txt
+
+Men love to praise, but are slow to practice it.
+
+NEGATIVE received score 0.98271644115448
+
+decades/1960s/1962_A/kimball_spiritual_communication.txt
+
+And from out in space came suddenly ". . . a multitude of the heavenly host praising God, and saying:  "Glory to God in the highest, and on earth peace, good will toward men."
+
+POSITIVE received score 0.9967451095581055
+
+decades/1960s/1962_A/mckay_the_divine_church.txt
+
+The Savior condemned hypocrisy and praised sincerity of purpose.
+
+POSITIVE received score 0.9980608820915222
+
+decades/1960s/1962_A/richards_be_missionaries.txt
+
+In the beautiful hymn, "Praise to the Man," we sing: "Wake up the world for the conflict of justice.
+
+POSITIVE received score 0.9986447691917419
+
+decades/1960s/1962_A/taylor_doing_good.txt
+
+A word of encouragement, commendation and sincere praise.
+
+POSITIVE received score 0.9987672567367554
+
+decades/1960s/1962_O/sill_what_about_the_man.txt
+
+The dictionary says that a hymn is a song of praise or adoration, having a religious significance.
+
+POSITIVE received score 0.9961436986923218
+
+decades/1960s/1962_O/sill_what_about_the_man.txt
+
+And even though M'Andrew's engines were very primitive, he praised God for the use of this gigantic new power that had been placed in his hands, and he looked forward to the time when his ship might attain a speed of 30 miles per hour.
+
+POSITIVE received score 0.9965600371360779
+
+decades/1960s/1962_O/sill_what_about_the_man.txt
+
+If M'Andrew praised God for the machines of his day, what would he think of those of our time, capable of carrying us through the stratosphere at many times the speed of sound, or what would he think of our $20,000,000,000 project to put a man on the moon?
+
+POSITIVE received score 0.9520236849784851
+
+decades/1960s/1962_O/sill_what_about_the_man.txt
+
+The most important part of any second century plan would be to constitute our lives as a hymn of praise to our Heavenly Father, not only for the inestimable privilege of building a perfect ship and building a perfect city and building a perfect national community, but we should also build into our lives a perfect devotion for God's perfect plan designed to bring about our perfection and eternal glory.
+
+POSITIVE received score 0.9963898062705994
+
+decades/1960s/1962_O/vandenberg_the_greatest_weight.txt
+
+To the noble way in which he carried it throughout his life, we give him thanks honor, praise, and admiration.
+
+POSITIVE received score 0.9988601207733154
+
+decades/1960s/1963_A/tanner_keep_faith_with_your_family.txt
+
+There are too many people in the world today who are like the chief rulers as recorded in these words, "Nevertheless, among the chief rulers also many believed on him, but because of the Pharisees they did not confess him lest they should be put out of the synagogue for they loved the praise of men more than they loved the praise of God."
+
+POSITIVE received score 0.9782792925834656
+
+decades/1960s/1963_O/brown_the_fight_between_good_and_evil.txt
+
+John, while on the Isle of Patmos, saw in vision things to come; heard ten thousand angels singing praises to the Son of God.
+
+POSITIVE received score 0.996648371219635
+
+decades/1960s/1963_O/dyer_we_believe_in_being_honest.txt
+
+If there is anything virtuous, lovely, or of good report or praiseworthy, we seek after these things.
+
+POSITIVE received score 0.9965029954910278
+
+decades/1960s/1963_O/mckay_a_great_responsibility.txt
+
+If some day he shall help the world long after I am dead,     In all that men shall say of him my praises shall be said.
+
+POSITIVE received score 0.9976258873939514
+
+decades/1960s/1963_O/mckay_a_great_responsibility.txt
+
+"But this I do believe; when I have traveled Life's twisting road, and worked out Life's great plan,— When I have gone beyond Life's praise or blaming, It will be said of me, 'He was a man!
+
+POSITIVE received score 0.9970836043357849
+
+decades/1960s/1963_O/sill_to_have_dominion.txt
+
+Frequently we would rather be ruined by praise than sawed by criticism.
+
+POSITIVE received score 0.9914407730102539
+
+decades/1960s/1963_O/stapley_the_glorious_standard.txt
+
+"And let me say, gentlemen, that if we and our posterity shall be true to the Christian religion—if we and they shall live always in the fear of God, and shall respect His commandments—if we and they shall maintain just, moral sentiments, and such conscientious convictions of duty as shall control the heart and life—we may have the highest hopes of the future fortunes of our country, and if we maintain those institutions of government and that political union, exceeding all praise as much as it exceeds all former examples of political associations, we may be sure of one thing—that, while our country furnishes materials for a thousand masters of historic art, it will afford no topic for a Gibbon.
+
+POSITIVE received score 0.9878025650978088
+
+decades/1960s/1963_O/vandenberg_a_chosen_generation_..._a_peculiar_people.txt
+
+Here we have reason for Peter's declaration: ". . . ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvelous light."
+
+POSITIVE received score 0.9963753819465637
+
+decades/1960s/1964_O/monson_america_needs_you.txt
+
+But hast lifted up thyself against the Lord of heaven; and they have brought the vessels of his house before thee, and thou, and thy lords, thy wives, and thy concubines, have drunk wine in them; and thou hast praised the gods of silver, and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know: and the God in whose hand thy breath is, and whose are all thy ways, hast thou not glorified."
+
+NEGATIVE received score 0.9940029978752136
+
+decades/1960s/1964_O/sill_prepentance.txt
+
+From any point of view, repentance is one of the most praiseworthy actions in life.
+
+POSITIVE received score 0.9985313415527344
+
+decades/1960s/1965_A/tanner_threat_of_moral_decay.txt
+
+They are also taught that if there is anything virtuous, lovely, or of good report or praiseworthy, to seek after these things and that to meet the evils and temptations in the world today we must have faith in God and live according to the principles of the gospel as taught by Jesus Christ.
+
+POSITIVE received score 0.9983776807785034
+
+decades/1960s/1965_O/burton_the_responsibility_of_the_melchizedek_priesthood.txt
+
+Though it is well to know this, I would rather dwell upon the promises in the words of Peter spoken directly to the brethren he called ". . . a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvelous light:   "Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy."
+
+POSITIVE received score 0.9868631362915039
+
+decades/1960s/1965_O/hunter_the_dynamics_of_testimony.txt
+
+What I know concerning God, concerning the earth, concerning government, I received from the heavens, not alone through my natural ability and I give God the glory and the praise.
+
+POSITIVE received score 0.9970223307609558
+
+decades/1960s/1965_O/mckay_man's_free_agency.txt
+
+Here, in the spirit of love, we praise his name and teach his precepts.
+
+POSITIVE received score 0.9987668991088867
+
+decades/1960s/1965_O/richards_the_need_of_a_prophet.txt
+
+Joseph was then only seventeen years of age, and Moroni told him that his name would be had for good and evil among every nation and every kindred and every people and that his name should be spoken of for both good and evil among all people We sing, "Praise to the man who communed with Jehovah!
+
+POSITIVE received score 0.9957315325737
+
+decades/1960s/1965_O/stapley_this_pearl_beyond_price.txt
+
+If there is anything virtuous, lovely, or of good report or praiseworthy, we seek after these things.
+
+POSITIVE received score 0.9965029954910278
+
+decades/1960s/1966_A/benson_in_his_steps.txt
+
+Energetic, purposeful work leads to vigorous health, praiseworthy achievement a clear conscience, and refreshing sleep.
+
+POSITIVE received score 0.9988852143287659
+
+decades/1960s/1966_A/burton_a_modern_sacrifice.txt
+
+Peter addressed his letters to those who had covenanted to assist Jesus in the exaltation of mankind, saying to them: "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvelous light: "Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy."
+
+POSITIVE received score 0.9973287582397461
+
+decades/1960s/1966_A/lee_that_ye_may_be_able_to_withstand_in_the_evil_day.txt
+
+Martin Harris, you remember, was warned particularly to repent of his sins, for he sought the praise of the world I suppose the love of praise and adulation of the world is the beginning of the downfall of many men.
+
+POSITIVE received score 0.9844532608985901
+
+decades/1960s/1966_A/smith_no_exaltation_without_the_priesthood.txt
+
+No, no, I will praise and adore at the mercy seat,      Until at the glorified throne I kneel at his feet.
+
+POSITIVE received score 0.9953024387359619
+
+decades/1960s/1966_O/dunn_to_be—not_to_have_been.txt
+
+And I think it has been a fitting climax to have this marvelous choir share their testimonies through song as they have praised the Lord.
+
+POSITIVE received score 0.998889148235321
+
+decades/1960s/1966_O/lee_communion_with_deity.txt
+
+This is an incident in western hemisphere religious history in which a prophet-teacher named Ammon exultantly praises God for his missionary successes.
+
+POSITIVE received score 0.992062509059906
+
+decades/1960s/1966_O/mckay_a_divine_plan_for_finding_security_and_peace_of_mind.txt
+
+If there is anything virtuous, lovely, or of good report, or praiseworthy, we seek after these things.
+
+POSITIVE received score 0.9961408972740173
+
+decades/1960s/1966_O/mckay_the_church—a_worldwide_institution.txt
+
+They fell far short of their ideal, their words were twisted and mocked, and false temples were built over their bones, in praise of a Christ they would have rejected.
+
+NEGATIVE received score 0.9994400143623352
+
+decades/1960s/1966_O/tanner_the_gospel_our_bulwark.txt
+
+As recorded in John, "Nevertheless among the chief rulers also many believed on him; but because of the Pharisees they did not confess him, lest they should be put out of the synagogue: "For they loved the praise of men more than the praise of God."
+
+POSITIVE received score 0.9915974736213684
+
+decades/1960s/1967_A/hanks_be_comforted.txt
+
+Each of these instances involved parents who had earnestly tried to do their duty, had themselves lived honorable, devoted lives, had reared choice families, had loved and found much to praise in the child who had made the wrong decisions.
+
+POSITIVE received score 0.9904172420501709
+
+decades/1960s/1967_A/hanks_be_comforted.txt
+
+Tradition has it that when the Egyptians, in pursuing the Jews, were drowning in the Red Sea, the Lord kept his angels from singing his praises, admonishing them, 'How can you sing hymns while my creatures are drowning in the sea?
+
+NEGATIVE received score 0.9918814301490784
+
+decades/1960s/1967_A/richards_sacrifice_brings_forth_the_blessings_of_heaven.txt
+
+William W. Phelps, an early convert to the Church and gifted hymn writer, wrote the inspiring hymn "Praise to the Man," a magnificent tribute to the Prophet Joseph Smith.
+
+POSITIVE received score 0.9985644221305847
+
+decades/1960s/1967_O/brown_train_up_a_child_._._..txt
+
+Let him stand, walk, climb, do as much as possible for himself, and praise him for his accomplishments.
+
+POSITIVE received score 0.9987898468971252
+
+decades/1960s/1967_O/brown_train_up_a_child_._._..txt
+
+"Psychiatrists know that many persons with personality problems report they too seldom received praise at home for their accomplishments.
+
+NEGATIVE received score 0.6837983727455139
+
+decades/1960s/1967_O/cullimore_the_road_to_happiness.txt
+
+Is it any wonder then that as these glorious truths were revealed to Adam and Eve, they had great joy and praised God?
+
+POSITIVE received score 0.9983164072036743
+
+decades/1960s/1967_O/jr._the_eternal_life_of_man.txt
+
+the morning stars sang together, and all the sons of God shouted for joy" and the heavens resounded with praise when a strong angel proclaiming with a loud voice" announced curtain time for the first act.
+
+POSITIVE received score 0.9981040954589844
+
+decades/1960s/1967_O/petersen_the_american_travail.txt
+
+And then, blessed with victory and peace, this heaven-rescued land can justly  "Praise the Power that hath made       And preserved us a nation!
+
+POSITIVE received score 0.9983870983123779
+
+decades/1960s/1967_O/tanner_the_power_of_prayer.txt
+
+Then there are those who are as the chief rulers referred to in John: "Nevertheless among the chief rulers also many believed on him; but because of the Pharisees they did not confess him, lest they should be put out of the synagogue: "For they loved the praise of men more than the praise of God."
+
+POSITIVE received score 0.9849890470504761
+
+decades/1960s/1968_A/cullimore_he_rose_again.txt
+
+We might have wept over our crucified king if he had never risen from the dead, but we sound his praises now because he lives and reigns forever and ever.
+
+POSITIVE received score 0.9985755681991577
+
+decades/1960s/1968_A/hanks_where_art_thou.txt
+
+She was praised for her direct and uncompromising honesty.
+
+POSITIVE received score 0.998842716217041
+
+decades/1960s/1968_A/hanks_where_art_thou.txt
+
+Everyone needs to love and to have the assurance that he is worth loving and that he is loved, beyond "demand or reciprocity, praise or blame.
+
+POSITIVE received score 0.9986525177955627
+
+decades/1960s/1968_A/mckay_give_concern_to_the_real_values_of_life_and_less_time_to_those_things_that_perish.txt
+
+Acquire truth and virtue Members of the Church are admonished to acquire truth by study, by faith and prayer, and to seek after everything that is "virtuous, lovely, or of good report or praiseworthy.
+
+POSITIVE received score 0.9974058270454407
+
+decades/1960s/1968_A/mckay_moral_and_spiritual_values_in_education.txt
+
+Members of the Church are admonished to acquire learning by study, and also by faith and prayer to seek after everything that is virtuous, lovely, of good report, or praiseworthy.
+
+POSITIVE received score 0.9982287287712097
+
+decades/1960s/1968_A/monson_can_there_any_good_thing_come_out_of_nazereth.txt
+
+When the disbelievers urged, Give God the praise: we know that this man is a sinner, he rejoined: "Whether he be a sinner or no, I know not: one thing I know, that, whereas I was blind, now I see.
+
+POSITIVE received score 0.9974570870399475
+
+decades/1960s/1968_O/richards_let_your_light_so_shine_before_men....txt
+
+Then Peter adds the reason for all of this:   ". . . that ye should shew forth the praises of him who hath called you out of darkness into his marvelous light."
+
+POSITIVE received score 0.9972213506698608
+
+decades/1960s/1968_O/smith_the_kingdom_of_god_is_eternal.txt
+
+Go into your secret chambers, go into your prayer rooms, and there by yourselves, or with your family gathered around you, bow your knees before the Lord in praise and in thanksgiving to him for his merciful providence that has been over you and over all his people from the inception of this work down to the present.
+
+POSITIVE received score 0.9984992742538452
+
+decades/1960s/1968_O/stapley_to_love_god.txt
+
+. . . and then can ye speak with the tongue of angels, and shout praises unto the Holy One of Israel.
+
+POSITIVE received score 0.9925389885902405
+
+decades/1960s/1968_O/stapley_to_love_god.txt
+
+And Jacob, the brother of Nephi, forcefully stated "Behold, my soul abhorreth sin, and my heart delighteth in righteousness; and I will praise the holy name of my God."
+
+POSITIVE received score 0.9974690675735474
+
+decades/1960s/1969_A/benson_to_the_humble_followers_of_christ.txt
+
+Have they been praiseworthy, lovely, and of good report?
+
+POSITIVE received score 0.9985989928245544
+
+decades/1960s/1969_A/mcconkie_go_ye_into_all_the_world.txt
+
+Ordinances of exaltation And John the Revelator recorded that the faithful in latter days would praise the Lord by saying: "Thou art worthy . . . for thou wast slain, and hast redeemed us to God by thy blood out of every kindred, and tongue, and people, and nation;   "And hast made us unto our God kings and priests: and we shall reign on the earth."
+
+POSITIVE received score 0.9955306649208069
+
+decades/1960s/1969_A/young_a_wayfaring_man_need_not_err.txt
+
+No wonder that we bow in worshipful praise and adoration!
+
+POSITIVE received score 0.998424768447876
+
+decades/1960s/1969_O/benson_godless_forces_threaten_us.txt
+
+All of them followed their stars from the end of their earth to praise and glorify God.
+
+POSITIVE received score 0.9970071911811829
+
+decades/1960s/1969_O/benson_godless_forces_threaten_us.txt
+
+The wonder of the world for 1968 was the apparent common faith, wisdom, humility, and, last but not least, the moral courage of Colonel Borman, Captain Lovell, and Major Anders, who, on Christmas Day, at the apex of history's then longest and most perilous voyage, gave praise and thanks to God, the Creator of heaven and earth, and implored his blessing upon all of the three billion listening people of this world.
+
+POSITIVE received score 0.9977814555168152
+
+decades/1960s/1969_O/benson_godless_forces_threaten_us.txt
+
+Perhaps now is the time to return to basic eternal concepts, to praise the Lord while we continue to work hard on the Congress, the President, and the Supreme Court.
+
+POSITIVE received score 0.9982466697692871
+
+decades/1960s/1969_O/mcconkie_the_rock_of_salvation.txt
+
+God be praised that, unworthy though we are, he stands ready to and does in fact reveal himself to those of us who are sons and daughters in his kingdom.
+
+POSITIVE received score 0.997395396232605
+
+decades/1960s/1969_O/smith_the_purpose_of_man's_mortal_existence.txt
+
+Good music is gracious praise of the Lord.
+
+POSITIVE received score 0.9987064599990845
+
+decades/1960s/1969_O/smith_the_purpose_of_man's_mortal_existence.txt
+
+They should not sing merely because it is a profession, or because they have a good voice; but they should sing also because they have the spirit of it, and can enter into the spirit of prayer and praise the Lord who gave them their sweet voices.
+
+POSITIVE received score 0.998823344707489
+

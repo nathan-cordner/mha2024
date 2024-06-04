@@ -1,0 +1,66 @@
+﻿decades/1920s/IE/1921_A.txt
+
+They  came  to  see  what  was,  the  occasion  for  such  a  strange  and  distressing  noise.
+
+NEGATIVE received score 0.6575640439987183
+
+decades/1920s/IE/1921_A.txt
+
+I  like  the  idea  of  lots  of  noise  and  confusion,  people  inquiring,  "Who  is  that?
+
+POSITIVE received score 0.9910622835159302
+
+decades/1920s/IE/1921_O.txt
+
+He  does  not  like  very  loud,  noisy  laughter — he  says  that  is  sin,  but  he  likes  to   see  a  "cheerful  countenance,"  when  people  come  to  worship  him  in  the  beauty  of  holiness,  with  a  smile  upon  their  faces  and  gladness  in  their  hearts.
+
+POSITIVE received score 0.9963605999946594
+
+decades/1920s/IE/1921_O.txt
+
+I  shall  read,  my  brethren  and  sisters,  from  the  seventeenth  chapter  of  Isaiah,  the  twelfth  verse  :   Woe  to  the  multitude  of  many  people,  which  make  a  noise  like  the  noise  of  the  seas;  and  to  the  rushing  of  nations,  that  make  a  rushing  like  the  rushing  of  mighty  waters.
+
+POSITIVE received score 0.9884508848190308
+
+decades/1920s/IE/1921_O.txt
+
+On  one  occasion,  about  midnight,  Brigham  Young  went  out  and  took  with  him  a  cowhide  and  said  to  Hawley:  "If  you  don't  quit  annoying  the  people  with  your,  noise,  I'll  cowhide  you.
+
+NEGATIVE received score 0.9957836866378784
+
+decades/1920s/IE/1921_O.txt
+
+Mr.  Hawley  then  considered  that  he  had  suffered  persecution  enough  for  his  Master's  sake  and  shut  up  his  noise.
+
+NEGATIVE received score 0.9876696467399597
+
+decades/1920s/IE/1924_A.txt
+
+"So  I  prophesied  as  I  was  commanded :  and  as  I  prophesied,  there  was  a  noise,  and  beheld  a  shaking,  and  the  bones  came  together,  bone  to  his  bone,   "And  when  I  beheld,  lo,  the  sinews  and  the  flesh  came  up  upon  them,  and  the  skin  covered  them  above;  but  there  was  no  breath  in  them.
+
+NEGATIVE received score 0.9843904376029968
+
+decades/1920s/IE/1924_O.txt
+
+It  is  recorded  of  Thomas  Carlyle,  who  could  not  do  his  thinking  if  there  were  any  great  noise  about,  that  he  had  a  neighbor,  a  lady,  who  kept  some  chickens ;  and  the  crowing  of  the  roosters  was  a  source  of  annoyance  to  him.
+
+NEGATIVE received score 0.9676459431648254
+
+decades/1920s/IE/1924_O.txt
+
+We  are  too  serious  now  for  the  mercenary  and  mechanical  methods  of  a  noisy  evangelist,  uttering  only  safe  and  remunerative  sensationalism ;  we  want  a  man  from  some  Patmos  who  can  say,  'Thus  saith  the  Lord.
+
+NEGATIVE received score 0.9905052781105042
+
+decades/1920s/IE/1925_O.txt
+
+There  was  no  noise  about  it,  word  just  came,  "You  are  called  to  preside  over  the  Southern  States  mission,  and  Brother  Spry  will  take  you  down  and  turn  the  mission  over  to  you.
+
+POSITIVE received score 0.9969673752784729
+
+decades/1920s/IE/1927_O.txt
+
+The  prophets  who  dwelt  on  this  continent  had  the  same  knowledge  revealed  to  them  and  have  proclaimed  it  in  the  Book  of  Mormon:   "But  behold,"  said  Nephi,  "in  the  last  days,  or  in  the  days  of  the  Gentiles —   yea,  behold  all  the  nations  of  the  Gentiles  and  also  the  Jews,  both  those  who  shall  come  upon  this  land  and  those  who  shall  be  upon  other  lands,  yea,  even  upon  all  the  lands  of  the  earth,  behold,  they  will  be  drunken  with  iniquity  and  all  manner  of  abominations —   "And  when  that  day  shall  come  they  shall  be  visited  of  the  Lord  of  Hosts,  with  thunder  and  with  earthquake,  and  with  a  great  noise,  and  with  storm,  and  with  tempest,  and  with  the  flame  of  devouring  fire.
+
+POSITIVE received score 0.9905412793159485
+

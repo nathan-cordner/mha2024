@@ -1,0 +1,120 @@
+﻿decades/1990s/1990_A/pinegar_“home_first”.txt
+
+While the beautiful song played softly in the background, the living room filled with the noise and laughter of our growing family circle.
+
+POSITIVE received score 0.9988885521888733
+
+decades/1990s/1991_A/lawrence_sunday_worship_service.txt
+
+If babies are noisy, take them out of the chapel until they calm down.
+
+NEGATIVE received score 0.9989094734191895
+
+decades/1990s/1991_A/nelson_listen_to_learn.txt
+
+Rachel’s deafness seemed to save her from the wear and tear of noise.
+
+POSITIVE received score 0.9974677562713623
+
+decades/1990s/1991_O/packer_reverence_invites_revelation.txt
+
+Helaman said of that voice of revelation, “It was not a voice of thunder, neither was it a voice of a great tumultuous noise, but behold, it was a still voice of perfect mildness, as if it had been a whisper, and it did pierce even to the very soul.
+
+POSITIVE received score 0.9982113838195801
+
+decades/1990s/1991_O/packer_reverence_invites_revelation.txt
+
+The world grows increasingly noisy.
+
+NEGATIVE received score 0.9956075549125671
+
+decades/1990s/1991_O/packer_reverence_invites_revelation.txt
+
+Doctors even say that our physical sense of hearing can be permanently damaged by all of this noise.
+
+NEGATIVE received score 0.9994598031044006
+
+decades/1990s/1991_O/packer_reverence_invites_revelation.txt
+
+This trend to more noise, more excitement, more contention, less restraint, less dignity, less formality is not coincidental nor innocent nor harmless.
+
+NEGATIVE received score 0.9986814856529236
+
+decades/1990s/1992_A/faust_spiritual_healing.txt
+
+The increasing demands, the diversity of voices, the entreating sales pitches, the piercing noises, the entanglement of many personal relationships can rob our souls of the peace they need to function and survive.
+
+POSITIVE received score 0.980369508266449
+
+decades/1990s/1993_A/hinckley_some_lessons_i_learned_as_a_boy.txt
+
+What has made the difference between that old black 1916 hard-riding and noisy Model T and today’s automobiles?
+
+POSITIVE received score 0.9878623485565186
+
+decades/1990s/1994_A/ballard_counseling_with_our_councils.txt
+
+The bishop had not noticed anyone being especially noisy in the chapel, but he said he would talk to the offending party.
+
+NEGATIVE received score 0.9973535537719727
+
+decades/1990s/1994_O/porter_the_revelations_of_heaven.txt
+
+Furthermore, we have learned to live in a world of clamor and noise and haste and hurry to the extent that we have often become immune to the Spirit of the Lord and the “peaceable things of the kingdom.
+
+NEGATIVE received score 0.9896994233131409
+
+decades/1990s/1995_O/hillam_sacrifice_in_the_service.txt
+
+Vilate [Kimball] hearing the noise arose from her bed and came to the door; she had a smile on her face and she and Mary Ann Young cried out to us, ‘Good bye, God bless you.
+
+POSITIVE received score 0.998134195804596
+
+decades/1990s/1995_O/hinckley_of_missions,_temples,_and_stewardship.txt
+
+There is need occasionally to leave the noise and the tumult of the world and step within the walls of a sacred house of God, there to feel His spirit in an environment of holiness and peace.
+
+POSITIVE received score 0.9989073276519775
+
+decades/1990s/1996_O/monson_“be_thou_an_example”.txt
+
+The noise and the fires had so disturbed the fragile and temperamental population of several thousand laying hens that most of them went into a sudden molt and ceased laying.
+
+NEGATIVE received score 0.9983394145965576
+
+decades/1990s/1997_A/oaks_“bishop,_help!”.txt
+
+After several minutes of trying to quiet this noisy three-year-old, the mother desperately handed him to the father, who was seated on the aisle close to the front of the chapel.
+
+NEGATIVE received score 0.999415397644043
+
+decades/1990s/1997_A/oaks_“bishop,_help!”.txt
+
+By this time the noise distracted the speaker and audience, and everyone was very conscious of the parents’ plight.
+
+POSITIVE received score 0.9913655519485474
+
+decades/1990s/1997_A/simmons_his_peace.txt
+
+“When they heard this voice, and beheld that it was not a voice of thunder, neither was it a voice of a great tumultuous noise, but behold, it was a still voice of perfect mildness, as if it had been a whisper, and it did pierce even to the very soul— And notwithstanding the mildness of the voice, behold the earth shook exceedingly” they were motivated to repent and have faith in Christ.
+
+POSITIVE received score 0.997996985912323
+
+decades/1990s/1998_O/monson_think_to_thank.txt
+
+“Now, don’t you go till I come,” he said,   “And don’t you make any noise!
+
+NEGATIVE received score 0.9968175888061523
+
+decades/1990s/1999_A/eyring_the_power_of_teaching_doctrine.txt
+
+The best time to teach is early, while children are still immune to the temptations of their mortal enemy, and long before the words of truth may be harder for them to hear in the noise of their personal struggles.
+
+POSITIVE received score 0.9983493089675903
+
+decades/1990s/1999_O/wood_“the_tongue_of_angels”.txt
+
+Over the years, there has been an increase in sexual innuendos, raucous humor, violent expressions, and great noise in talk, in music, in gestures.
+
+POSITIVE received score 0.9949224591255188
+

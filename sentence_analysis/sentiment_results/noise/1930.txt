@@ -1,0 +1,78 @@
+﻿decades/1930s/IE/1930_A.txt
+
+In  this  day  of  mad  rush  and  strife ;  when  noise  and  glitter  influence  the  human  mind ;  this  mighty  rushing  to  and  fro ;  this  clash  of  many  strifes ;  this  feverish  hastening  towards  some  unknown  goal ;  Jesus  Christ  gives  the  intelligible  answer  in  revealing  the  infinite  possibilities  of  the  human  soul.
+
+POSITIVE received score 0.9982641339302063
+
+decades/1930s/IE/1931_O.txt
+
+I  feel  that  we  do  not  reverence  our  sacred  buildings  enough ;  that  in  our  meetings  there  is  often  too  much  noise  and  confusion.
+
+NEGATIVE received score 0.9985784292221069
+
+decades/1930s/IE/1932_A.txt
+
+There  was  no  comment ;  there  was  no  noise  or  confusion, and  we  went  to  the  hotel.
+
+POSITIVE received score 0.9682949185371399
+
+decades/1930s/IE/1932_O.txt
+
+I  make  this  announcement  at  this  time  because  it  is  possible  that  some  of  you  may  not  be  here  tomorrow  and  we  would  like  if  possible  to  have  you  all  present  before  ten  o'clock,  or  not  later  than  ten  o'clock,  on  Sunday  morning,  for  the  reason  that  during  this  broadcast  which  goes  over  the  world  it  is  necessary  that  the  strictest  attention  be  observed  and  that  there  be  as  little  confusion  and  noise  as  possible.
+
+POSITIVE received score 0.9968986511230469
+
+decades/1930s/IE/1932_O.txt
+
+Well  then  you  don't  see  the  ghosts  and  goblins  running  around  the  trees,  and  the  funny  looking  eyes  up  there  in  the  branches,  and  the  bats  and  ugly  things  flying  through  the  air,  and  the  scary  noises,  can't  you  hear  them?
+
+NEGATIVE received score 0.9938682913780212
+
+decades/1930s/IE/1932_O.txt
+
+And  the  noises. Why,  that's  the  wind  blowing  through  the  branches,  and  the  trees  are  trying  to  sing  a  song  to  make  you  happy  as  you  go  along.
+
+POSITIVE received score 0.9942756295204163
+
+decades/1930s/IE/1935_A.txt
+
+And  that  still  small  voice  that  I  have  heard  so  many  times  in  my  life,  making  no  noise,  no  sound,  said  to  me,  "and  you  shall  live  to  preside  over  the  Church  of  Jesus  Christ  of  Latter-day  Saints.
+
+POSITIVE received score 0.983974277973175
+
+decades/1930s/IE/1935_A.txt
+
+When  the  Savior  was  upon  the  earth  he  went  to  and  fro  among  the  people,  not  with  a  loud  voice,  making  a  great  noise,  but  in  humility  he  went  about  blessing  the  children  of  men.
+
+POSITIVE received score 0.9982869029045105
+
+decades/1930s/IE/1935_O.txt
+
+The  other  day,  when  I  was  going  out  on  the  mountain,  I  heard  a  noise.
+
+NEGATIVE received score 0.9865785241127014
+
+decades/1930s/IE/1936_O.txt
+
+Brother  Kelsch  cut  the  picture  out  of  the  paper  because  a  voice,  figuratively  speaking,  without  making  any  noise — a  communication to  that  part  of  him  that  shall  live  after  he  is  gone — said,  "You  shall  meet  that  man  in  Japan.
+
+POSITIVE received score 0.9435023069381714
+
+decades/1930s/IE/1938_A.txt
+
+In  the  foul  and  noisome  air  of  despotism  they  may  neither  quicken  nor  flower.
+
+NEGATIVE received score 0.9994612336158752
+
+decades/1930s/IE/1939_A.txt
+
+There  should  be  no  whispering,  no  noise,  no  feeling  of  hate  or  envy  in  the  soul  of  any  one  who  sits  within  the  sacred  presence  of  the  Lord.
+
+POSITIVE received score 0.997702419757843
+
+decades/1930s/IE/1939_O.txt
+
+When  you  contact  them  they  are  sour,  but  when  they  open  the  throttle  to  make  a  noise,  you  can  bet  your  life  everything stops.
+
+NEGATIVE received score 0.9987003803253174
+

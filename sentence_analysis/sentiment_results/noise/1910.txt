@@ -1,0 +1,24 @@
+﻿decades/1910s/IE/1911_A.txt
+
+No  noise  about  it  but  quietly,  secretly  they  get  together,  concoct  their  schemes,    lay  their  plans,  conspire  and  plot  to  defeat  the  right.
+
+POSITIVE received score 0.9955136179924011
+
+decades/1910s/IE/1911_O.txt
+
+He  was  preaching  at  Liverpool,  in  the  open  air,  when  a  noisy  fellow,  pushing  his  way  through  the  crowd  and  planting  himself  squarely  in  front,  began  to  denounce  him.
+
+NEGATIVE received score 0.9965859651565552
+
+decades/1910s/IE/1913_A.txt
+
+That  relates  not  so  much  to  the  little  ordinary noise,  and  disturbance,  and  confusion  that  we  may  find  sometimes in  homes,  or  in  communities.
+
+NEGATIVE received score 0.9966644644737244
+
+decades/1910s/IE/1915_A.txt
+
+I  feel  it,  and  I  sense  it  just  as  much  as  Brother  Roberts  does;  it  sounds  to  me  like  mobilizing,  and  I    think  that  is  the  meaning  of  all  this  noise.
+
+POSITIVE received score 0.9969514608383179
+

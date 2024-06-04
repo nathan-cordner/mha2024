@@ -1,0 +1,24 @@
+﻿decades/1940s/1944_A/kimball_the_sabbath_day.txt
+
+While attending one of the Conferences last fall, one of my first down state, I was housed in a hotel, and early Sunday morning I was awakened by considerable noise in the halls and the lobby of the hotel, and when I came down I found that the lobby and the care near it were filled with men with colored shirts and caps and with hunting regalia.
+
+POSITIVE received score 0.9716473817825317
+
+decades/1940s/1945_A/bowen_christian_principles_the_only_security.txt
+
+There was a noisy scene before the boy was finally sent off home and the girl put to bed.
+
+NEGATIVE received score 0.9981794357299805
+
+decades/1940s/1946_A/smith_the_field_is_white_already_to_harvest.txt
+
+One of the ancient prophets on this continent, speaking of our day, said:  But behold, in the last days, or in the days of the Gentiles—yea, behold all the nations of the Gentiles and also the Jews, both those who shall come upon this land and those who shall be upon other lands, yea, even upon all the lands of the earth, behold, they will be drunken with iniquity and all manner of abominations—  And when that day shall come they shall be visited of the Lord of Hosts, with thunder and with earthquake, and with a great noise, and with storm, and with tempest, and with the flame of devouring fire.
+
+NEGATIVE received score 0.9182539582252502
+
+decades/1940s/1949_A/lee_the_power_of_truth.txt
+
+If they were noisy braggarts, you may expect them to return intolerable boasters.
+
+NEGATIVE received score 0.9994839429855347
+

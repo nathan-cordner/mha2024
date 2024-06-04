@@ -1,0 +1,648 @@
+﻿decades/1960s/1960_A/hinckley_the_cornerstone.txt
+
+We admire their great reverence.
+
+POSITIVE received score 0.9986501336097717
+
+decades/1960s/1960_A/hunter_as_he_thinketh.txt
+
+George Washington, whom we revere as the Father of our Country, had a deep and abiding faith in God.
+
+POSITIVE received score 0.9981216788291931
+
+decades/1960s/1960_A/petersen_teach_honor.txt
+
+A Scout is kind, obedient, cheerful, thrifty, brave, clean, and reverent.
+
+POSITIVE received score 0.9983212351799011
+
+decades/1960s/1960_A/romney_drink_deeply_from_the_divine_fountain.txt
+
+The spirit of reverence will increase, mutual respect and consideration for each other will grow.
+
+POSITIVE received score 0.9988405108451843
+
+decades/1960s/1960_O/dyer_a_fulfilment_of_prophecy.txt
+
+I have witnessed in their youth conferences their adherence to our Church customs and patterns and how they revere the ideals and the standards which have been set for them by our general youth organizations.
+
+POSITIVE received score 0.9988564252853394
+
+decades/1960s/1960_O/mckay_what_about_jesus_christ.txt
+
+We believe that a reverence for God is respect for these laws; that meekness is teachableness and willingness to learn by observation and experience.
+
+POSITIVE received score 0.9986007809638977
+
+decades/1960s/1960_O/mckay_what_about_jesus_christ.txt
+
+"Follow with reverent steps the great example Of Him whose holy work was 'doing good'; So shall the wide earth seem our Father's temple, Each loving life a psalm of gratitude.
+
+POSITIVE received score 0.9983481168746948
+
+decades/1960s/1961_O/kimball_listen_to_the_prophet's_voice.txt
+
+If we are of the masses who are casual, passive, irreligious, irreverent, unholy, immoral, ungodly, then we must "repent or suffer" Of course, a one-sided disarmament could be madness if worldliness and materialism continued, but a serious turn of the masses could forestall all military conquests, all tragedies of conflict.
+
+POSITIVE received score 0.9880551695823669
+
+decades/1960s/1961_O/smith_whom_do_you_worship.txt
+
+Later in his epistle to the Hebrews he tells us, "Furthermore we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live?
+
+POSITIVE received score 0.9875718355178833
+
+decades/1960s/1962_A/christiansen_keep_the_sabbath_day.txt
+
+"Ye shall keep my sabbaths, and reverence my sanctuary: I am the Lord.
+
+POSITIVE received score 0.9943663477897644
+
+decades/1960s/1962_O/christiansen_a_foundation_stone_of_the_gospel.txt
+
+A constant need for maintaining greater reverence and kindness is recognized.
+
+POSITIVE received score 0.9982569813728333
+
+decades/1960s/1962_O/hanks_substance_or_shadow.txt
+
+Lead them to religious search and service and reverence.
+
+POSITIVE received score 0.9987918734550476
+
+decades/1960s/1962_O/kimball_spouses_and_none_else.txt
+
+Paul concludes: "Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband"
+
+POSITIVE received score 0.9959948062896729
+
+decades/1960s/1962_O/packer_the_errand_of_youth.txt
+
+It relates to the most delicate and sensitive of your feelings, and it is only in the spirit of reverence that I approach this subject with you.
+
+POSITIVE received score 0.998751163482666
+
+decades/1960s/1963_A/brown_be_doers_of_the_word.txt
+
+For example, anyone who reverently looks into the starry skies will feel to exclaim with the Psalmist: "The heavens declare the glory of God; and the firmament sheweth his handywork."
+
+POSITIVE received score 0.9980236291885376
+
+decades/1960s/1963_O/brown_the_fight_between_good_and_evil.txt
+
+And the Apostle Paul testified: "Furthermore we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live?
+
+POSITIVE received score 0.9275774359703064
+
+decades/1960s/1963_O/isaacson_need_for_great_teachers.txt
+
+Teachers, remember to reverence the young lives, clean and plastic, which have newly come from God and to realize that generations still unborn will rue your sloth or rise to higher levels through your wisdom and faithfulness.
+
+POSITIVE received score 0.998429000377655
+
+decades/1960s/1963_O/mckay_a_great_responsibility.txt
+
+It runs something like this—  "We've never seen the Father here, but we have known the Son,     The finest type of manhood since the world was first begun,     And summing up the works of God, I write with reverent pen.
+
+POSITIVE received score 0.9955646991729736
+
+decades/1960s/1963_O/mckay_the_true_purpose_of_life.txt
+
+And now a word to the young:  In their yearning for a good time, young people are often tempted to indulge in the things which appeal only to the baser side of humanity, five of the most common of which are: first, vulgarity and obscenity; second, drinking and petting; third, unchastity; fourth, disloyalty; and, fifth, irreverence.
+
+POSITIVE received score 0.9405274987220764
+
+decades/1960s/1963_O/packer_where_is_your_power.txt
+
+In the Church there is reverence for family relationships.
+
+POSITIVE received score 0.9985799789428711
+
+decades/1960s/1963_O/taylor_he_that_is_the_greatest_among_you.txt
+
+The Greek philosopher Pericles, many centuries ago, pondered this problem and finally arrived at the conclusion that: "Men who are longest remembered, and whose memories are most highly revered, are not those who made the most money, but those whose hearts were gentle, whose sympathies were broad, and who best served humanity.
+
+POSITIVE received score 0.9967895150184631
+
+decades/1960s/1964_A/lee_the_strength_of_the_church.txt
+
+"Almost thou persuadest me to love my neighbor, but he is a rascal; to be tolerant of others' views, but they are dead wrong; to be kind to sister, but she hit me first; to go home teaching, but it's so cold and damp outside tonight; to pay tithes and offerings, but we do need a new color TV set; to find the owner of a lost watch, but no one returned the watch I lost; to pass the Sacrament, but I've graduated from the deacons now, almost thou persuadest me to be reverent, but I had to tell my pal about my date last night; almost thou persuadest me to attend stake leadership meeting, but I know more than the leader on that subject, so why should I go.
+
+NEGATIVE received score 0.9980979561805725
+
+decades/1960s/1964_A/packer_suffer_the_little_children.txt
+
+Be reverently grateful for your little children.
+
+POSITIVE received score 0.9986978769302368
+
+decades/1960s/1964_A/packer_suffer_the_little_children.txt
+
+Trials such as these bring a reverence for life, a new depth of compassion and motherhood.
+
+POSITIVE received score 0.9989031553268433
+
+decades/1960s/1964_A/taylor_clean_speech.txt
+
+We have been admonished to "Love the Lord thy God, with all thy heart, might, mind and strength" And with this love also goes a deep respect and reverence for him.
+
+POSITIVE received score 0.998307466506958
+
+decades/1960s/1964_A/taylor_clean_speech.txt
+
+And yet, everyday, we hear thoughtless, uncouth, irreverent persons violate this commandment as they blaspheme the name of our Heavenly Father in profane oaths.
+
+NEGATIVE received score 0.9976598024368286
+
+decades/1960s/1964_A/taylor_clean_speech.txt
+
+Out of respect and reverence for the name of the Supreme Being and to avoid the too frequent repetition of his name, they, the Church, called that priesthood after Melchizedek, king of Salem and priest of the Most High God, to whom Abraham paid tithes Is it not a striking fact that in all periods of the world good men have held the name of God in highest reverence?
+
+POSITIVE received score 0.9974767565727234
+
+decades/1960s/1964_O/brown_more_than_a_philosophy.txt
+
+We repeat what we have reverently declared since the organization of the Church, that Jesus the Christ is the Savior and Redeemer of the world and that his is the only ". . . name under heaven given among men, whereby we must be saved."
+
+POSITIVE received score 0.9974609613418579
+
+decades/1960s/1964_O/brown_more_than_a_philosophy.txt
+
+Humbly and reverently, but without equivocation, we solemnly bear this testimony to the divinity of the Christ and the restoration of the gospel, and promise that the Holy Ghost will also bear witness of its truth to anyone who prayerfully seeks divine guidance.
+
+POSITIVE received score 0.9986360669136047
+
+decades/1960s/1964_O/monson_america_needs_you.txt
+
+The revered Abraham Lincoln accurately described our plight.
+
+POSITIVE received score 0.9982712268829346
+
+decades/1960s/1964_O/romney_the_living_and_true_god.txt
+
+Through this and other modern revelation Joseph came to fully comprehend what Paul was talking about when he said to the Hebrews:  we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live?
+
+POSITIVE received score 0.9982993006706238
+
+decades/1960s/1964_O/tuttle_the_influence_of_the_gospel_on_the_family.txt
+
+I taught them reverence for sacred places and things.
+
+POSITIVE received score 0.9986955523490906
+
+decades/1960s/1965_A/hunter_and_god_spake_all_these_words....txt
+
+By this we are commanded not to engage in false oaths or any irreverent statement pertaining to God or any of his attributes or common swearing where his name is used.
+
+POSITIVE received score 0.9836376905441284
+
+decades/1960s/1965_A/sill_the_death_instinct.txt
+
+Every cigarette, every crime, and every irreverence is indelibly written down in the person of its victim.
+
+POSITIVE received score 0.9945594668388367
+
+decades/1960s/1965_A/smith_the_divine_family.txt
+
+It is here where we are to be tried and tested to see if we will, when shut out of the presence of our Eternal Father but still instructed in the way of eternal life, love and revere him and be true to his Beloved Son, Jesus Christ.
+
+POSITIVE received score 0.9961017370223999
+
+decades/1960s/1965_A/stapley_keep_the_faith.txt
+
+The same reverent attitude and willing obedience should abide in the hearts of all mankind today.
+
+POSITIVE received score 0.9982261061668396
+
+decades/1960s/1965_A/tuttle_field_white_to_harvest—south_america.txt
+
+All have opportunity to give talks, practice reverence, and expand the depth and extent of gospel learning.
+
+POSITIVE received score 0.9988151788711548
+
+decades/1960s/1965_O/benson_america—a_man_and_an_event.txt
+
+Following his martyrdom his saddened and devoted followers who revered him as a prophet of God issued to the world a statement which appears in a sacred volume of scripture, the Doctrine and Covenants, and which reads in part as follows: "To seal the testimony of this book and the Book of Mormon, we announce the martyrdom of Joseph Smith the Prophet, and Hyrum Smith the Patriarch.
+
+NEGATIVE received score 0.8143923282623291
+
+decades/1960s/1965_O/benson_america—a_man_and_an_event.txt
+
+Paraphrasing the words of Apostle Paul: This thing has not been done in a corner The world has generally revered the ancient prophets dead and rejected the living ones.
+
+POSITIVE received score 0.968376636505127
+
+decades/1960s/1965_O/evans_of_influence_on_children_in_the_home.txt
+
+What parents can do, early and prayerfully, is to teach children in the home, almost from the first of these 52,000 waking hours—teach them morality, cleanliness, reverence, honesty, the basic principles the commandments, the laws of life.
+
+POSITIVE received score 0.9982755184173584
+
+decades/1960s/1965_O/hinckley_a_charter_for_youth.txt
+
+How we need to kindle in the hearts of youth an old-fashioned love of country and a reverence for the land of their birth.
+
+POSITIVE received score 0.9986644983291626
+
+decades/1960s/1965_O/lee_watch!_be_ye_therefore_ready.txt
+
+He seemed to be of the same fibre with the prophets of Holy Writ and it may be said, without irreverence, that he was a 'priest after the order of Melchisedec without beginning or end of days' combining the kingdom and priestly functions essential to the service of his Nation and his time.
+
+POSITIVE received score 0.9981288313865662
+
+decades/1960s/1965_O/mckay_man's_free_agency.txt
+
+He revered and worshiped God, and is himself revered and worshiped by all Christian nations and classes of individuals.
+
+POSITIVE received score 0.9982000589370728
+
+decades/1960s/1965_O/mckay_man's_free_agency.txt
+
+Millions of people, speaking different languages and cherishing various ideals, worship him and revere him today.
+
+POSITIVE received score 0.9987590312957764
+
+decades/1960s/1965_O/mckay_man's_free_agency.txt
+
+We revere him because his wisdom and spirituality comprehend and exceed that of all others.
+
+POSITIVE received score 0.9987961053848267
+
+decades/1960s/1965_O/mckay_man's_free_agency.txt
+
+If men ever reject the fact that Christ is our Lord and Savior and fill their souls with hatred as that nation of over six hundred million people are compelled to do, and not only deny Christ, but deny that his mission is to redeem man from the sordid life of selfish indulgence and sin, and lift him into a realm shown only by him of self-sacrifice, generosity, beauty, and love; if the majority of nations fail to recognize Christ as the only "name under heaven given among men, whereby we must be saved" if doubting men reject the possibility of obtaining that spiritual assurance of Christ's divinity disclosed by Thomas when he reverently exclaimed: "My Lord and my God" if the acts of men generally be in accordance with such rejection rather than in accordance with their acceptance of him as the Divine One, then this world will continue to be torn by contention, made miserable by hideous warfare, and ignominiously wrecked on the shoals of materialism, selfish indulgence, and disbelief and hatred.
+
+NEGATIVE received score 0.8303252458572388
+
+decades/1960s/1965_O/tanner_reverence_for_law.txt
+
+Abraham Lincoln admonished: "Let reverence for the laws be breathed by every American mother to the lisping babe that prattles on her lap, let it be taught in schools, in seminaries, and in colleges; let it be written in primers, spelling books, and almanacs; let it be preached from the pulpit, proclaimed in legislative halls and enforced in courts of justice.
+
+POSITIVE received score 0.9975970387458801
+
+decades/1960s/1966_A/evans_the_test_of_love.txt
+
+The best evidence of love for our Father in heaven would be living lives of honor and reverence, not taking his name in vain, living useful, righteous lives; and keeping his commandments.
+
+POSITIVE received score 0.9982671737670898
+
+decades/1960s/1966_A/lee_that_ye_may_be_able_to_withstand_in_the_evil_day.txt
+
+The Apostle Paul drew a parallel between the reverence for and love of parents and children in the home to the love of the Master for his Church, and then concluded with these words: "Finally, my brethren, be strong in the Lord, and in the power of his might."
+
+POSITIVE received score 0.9981185793876648
+
+decades/1960s/1966_A/mckay_the_reality_of_the_resurrection.txt
+
+I cannot stop being amazed and reverent at the wonders of the Universe around me.
+
+POSITIVE received score 0.998816728591919
+
+decades/1960s/1966_A/packer_the_secret_of_service.txt
+
+Fortunately, she was under the care of a doctor who was like a son; his ministering to her showed such a reverence.
+
+POSITIVE received score 0.9985719919204712
+
+decades/1960s/1966_O/lee_communion_with_deity.txt
+
+You will be looked up to and revered as having passed through the fiery furnace of trial and temptation and come forth unharmed.
+
+POSITIVE received score 0.9972851276397705
+
+decades/1960s/1966_O/packer_children_are_an_heritage_of_the_lord.txt
+
+From this invitation I approach with reverence a subject I had theretofore not intended to pursue.
+
+POSITIVE received score 0.9986861348152161
+
+decades/1960s/1966_O/packer_children_are_an_heritage_of_the_lord.txt
+
+With parenthood such a glorious experience, how important it is that we have reverence for it.
+
+POSITIVE received score 0.9984357953071594
+
+decades/1960s/1966_O/packer_children_are_an_heritage_of_the_lord.txt
+
+Never has a generation been so surrounded with those who speak irreverently of life.
+
+POSITIVE received score 0.9981766939163208
+
+decades/1960s/1966_O/packer_children_are_an_heritage_of_the_lord.txt
+
+But I urge you, I warn you to approach parenthood with reverence.
+
+POSITIVE received score 0.9986121654510498
+
+decades/1960s/1966_O/packer_children_are_an_heritage_of_the_lord.txt
+
+Young couples, draw reverently close to your Father in heaven in these monumental decisions of life.
+
+POSITIVE received score 0.99875807762146
+
+decades/1960s/1966_O/simpson_forgiveness.txt
+
+Then in rapid agonizing succession: there was the long struggle to Calvary as he bore the heavy cross; he was jeered at and spat upon by the multitude all along the way; there was the offering of vinegar, climaxed by the cruel spikes; and finally, there he hung, his body broken and bleeding, still taunted by his enemies; and it was in the midst of all this that Jesus plead perhaps quietly, with deep reverence, "Father, forgive them; for they know not what they do."
+
+POSITIVE received score 0.99605393409729
+
+decades/1960s/1967_A/kimball_the_mistletoe.txt
+
+I think I have never heard it sung more reverently.
+
+POSITIVE received score 0.9984858632087708
+
+decades/1960s/1967_A/mckay_consciousness_of_god_supreme_goal_of_life.txt
+
+I ask that you men of the priesthood—you stake presidents, you bishops, and other leaders in stakes and wards—see to it that a spirit of reverence is maintained in our homes and houses of worship.
+
+POSITIVE received score 0.9985515475273132
+
+decades/1960s/1967_A/mckay_consciousness_of_god_supreme_goal_of_life.txt
+
+I strongly urge that this sacred ordinance be surrounded with more reverence, with perfect order; that each one who comes to the house of God may meditate upon and silently and prayerfully express appreciation for God's goodness.
+
+POSITIVE received score 0.9987601041793823
+
+decades/1960s/1967_A/mckay_consciousness_of_god_supreme_goal_of_life.txt
+
+It is up to you bishops to see to it that the sacrament is administered only by boys and young men who are worthy to attend to this sacred ordinance, and that it is done reverently with a full understanding of its significance to them and to the audience.
+
+POSITIVE received score 0.9987646341323853
+
+decades/1960s/1967_A/mckay_consciousness_of_god_supreme_goal_of_life.txt
+
+Inseparable from the acceptance of the existence of God is an attitude of reverence.
+
+POSITIVE received score 0.9982289671897888
+
+decades/1960s/1967_A/mckay_consciousness_of_god_supreme_goal_of_life.txt
+
+The greatest manifestation of spirituality is reverence; indeed, reverence is spirituality.
+
+POSITIVE received score 0.9979422688484192
+
+decades/1960s/1967_A/mckay_consciousness_of_god_supreme_goal_of_life.txt
+
+Reverence is profound respect mingled with love.
+
+POSITIVE received score 0.9986577033996582
+
+decades/1960s/1967_A/mckay_consciousness_of_god_supreme_goal_of_life.txt
+
+If reverence is the highest, then irreverence is the lowest state in which a man can live in the world.
+
+NEGATIVE received score 0.9903542995452881
+
+decades/1960s/1967_A/mckay_consciousness_of_god_supreme_goal_of_life.txt
+
+Be that as it may, it is nevertheless true that an irreverent man has a crudeness about him that is repellent.
+
+NEGATIVE received score 0.9957641363143921
+
+decades/1960s/1967_A/mckay_consciousness_of_god_supreme_goal_of_life.txt
+
+Reverence embraces regard, deference, honor, and esteem.
+
+POSITIVE received score 0.9987027645111084
+
+decades/1960s/1967_A/mckay_consciousness_of_god_supreme_goal_of_life.txt
+
+Reverence is the fundamental virtue in religion.
+
+POSITIVE received score 0.997820258140564
+
+decades/1960s/1967_A/mckay_consciousness_of_god_supreme_goal_of_life.txt
+
+It is one of the signs of strength; irreverence, one of the surest indications of weakness.
+
+POSITIVE received score 0.9960487484931946
+
+decades/1960s/1967_A/mckay_consciousness_of_god_supreme_goal_of_life.txt
+
+The fine loyalties of life must be reverenced or they will be foresworn in the day of trial.
+
+POSITIVE received score 0.9939238429069519
+
+decades/1960s/1967_A/mckay_consciousness_of_god_supreme_goal_of_life.txt
+
+To know that God is there should be sufficient to impel us to conduct ourselves orderly, reverently.
+
+POSITIVE received score 0.9983507394790649
+
+decades/1960s/1967_A/mckay_consciousness_of_god_supreme_goal_of_life.txt
+
+Presiding authorities in stake, ward, and quorum meetings, and especially teachers in classes, should make a special effort to maintain better order and more reverence during the hours of worship and study.
+
+POSITIVE received score 0.9964130520820618
+
+decades/1960s/1967_A/mckay_consciousness_of_god_supreme_goal_of_life.txt
+
+Reverence for God's name should be dominant in every home.
+
+POSITIVE received score 0.998049259185791
+
+decades/1960s/1967_A/mckay_consciousness_of_god_supreme_goal_of_life.txt
+
+It is wrong; it is irreverent to take God's name in vain.
+
+NEGATIVE received score 0.9990639090538025
+
+decades/1960s/1967_A/mckay_consciousness_of_god_supreme_goal_of_life.txt
+
+Let us apply that quality and that virtue of reverence at all times.
+
+POSITIVE received score 0.9985470175743103
+
+decades/1960s/1967_A/mckay_consciousness_of_god_supreme_goal_of_life.txt
+
+If there were more reverence in human hearts there would be less room for sin and sorrow, and there would be increased capacity for joy and gladness.
+
+POSITIVE received score 0.9983968138694763
+
+decades/1960s/1967_A/mckay_consciousness_of_god_supreme_goal_of_life.txt
+
+I pray we may have the strength so to live that we may merit divine guidance and inspiration; that through worship, meditation, communion, and reverence we may sense the reality of being able to have a close relationship with our Father in heaven.
+
+POSITIVE received score 0.9985590577125549
+
+decades/1960s/1967_A/mckay_glaring_evils_of_our_day_and_a_warning_to_youth.txt
+
+In their yearning for a good time, young people are often tempted to indulge in the things that appeal only to the baser side of humanity, five of the most common of which are: (1) vulgarity and obscenity; (2) drinking and the using of narcotics and now the vicious LSD drug, especially among the young; (3) unchastity; (4) disloyalty; and (5) irreverence.
+
+NEGATIVE received score 0.9877116084098816
+
+decades/1960s/1967_A/smith_the_functions_of_the_priesthood.txt
+
+"But out of respect or reverence to the name of the Supreme Being, to avoid the too frequent repetition of his name, they, the church, in ancient days, called that priesthood after Melchizedek, or the Melchizedek Priesthood"
+
+NEGATIVE received score 0.9743150472640991
+
+decades/1960s/1967_O/christiansen_constitutional_government_a_divine_principle.txt
+
+We must remember that reverence for and obedience to law should begin in the home.
+
+POSITIVE received score 0.9962840676307678
+
+decades/1960s/1967_O/hanks_thank_god_it_can_be_done_in_my_time.txt
+
+Through search and service and reverence, through a life of personal cleanliness and consideration and caring, through faith and trust in God you can be ready for him.
+
+POSITIVE received score 0.9987926483154297
+
+decades/1960s/1967_O/jr._the_eternal_life_of_man.txt
+
+This I do reverently to avoid too frequent use of the sacred title, God.
+
+POSITIVE received score 0.9980277419090271
+
+decades/1960s/1967_O/packer_the_disease_of_profanity.txt
+
+Writers, insisting that they must portray life as it is, began to put into the mouths of their characters filthy, irreverent expressions.
+
+NEGATIVE received score 0.998678982257843
+
+decades/1960s/1967_O/packer_the_disease_of_profanity.txt
+
+Perhaps then the insulting and degrading implications will be borne into you, to have a name you revere so used.
+
+NEGATIVE received score 0.9992419481277466
+
+decades/1960s/1967_O/packer_the_disease_of_profanity.txt
+
+However common irreverence and profanity become, they are none the less wrong.
+
+NEGATIVE received score 0.9743530750274658
+
+decades/1960s/1967_O/packer_the_disease_of_profanity.txt
+
+In The Church of Jesus Christ of Latter-day Saints we revere his name.
+
+POSITIVE received score 0.9966815114021301
+
+decades/1960s/1967_O/tuttle_sweet_are_the_uses_of_adversity.txt
+
+"Then the morning came when from out that last wagon floated the [cry] of the newborn babe, and mother love made a shrine, and Father bowed in reverence before it.
+
+POSITIVE received score 0.9959048628807068
+
+decades/1960s/1968_A/brown_after_high_school,_what.txt
+
+We meet reverently in the name of the founder and head of the Church, our Lord and Savior, Jesus Christ, of whose divinity we humbly bear witness.
+
+POSITIVE received score 0.998422384262085
+
+decades/1960s/1968_A/christiansen_why_temples.txt
+
+Thus, one might in reverence refer to the temple as the "university of the Lord.
+
+POSITIVE received score 0.997868537902832
+
+decades/1960s/1968_A/evans_keep_close_in_counsel.txt
+
+Its power and purpose are with us, and the way is plain, if we will only seek and accept counsel in love and reverence and respect, and live by the light God has given.
+
+POSITIVE received score 0.9983289837837219
+
+decades/1960s/1968_A/mckay_christ,_the_light_of_humanity.txt
+
+He will be respectful and reverential.
+
+POSITIVE received score 0.998403012752533
+
+decades/1960s/1968_A/mckay_christ,_the_light_of_humanity.txt
+
+It is impossible for a man to be just and at the same time be disrespectful or irreverent, for when disrespectful or irreverent, he is unjust in not giving respect and reverence where they are merited.
+
+NEGATIVE received score 0.9948806762695312
+
+decades/1960s/1968_A/packer_the_member_and_the_military.txt
+
+While war permits stomping out of a man's heart the reverent and tender virtues that exemplify true manhood, military services does not require it.
+
+NEGATIVE received score 0.9920612573623657
+
+decades/1960s/1968_O/packer_the_great_witness_from_these_conferences.txt
+
+Fourth, to worship the Lord in sincerity and reverence, and to give and to receive encouragement, exhortation, and instruction.
+
+POSITIVE received score 0.998534083366394
+
+decades/1960s/1968_O/sill_behold_the_man.txt
+
+Fishermen stand in reverence before the representation of Christ stilling the tempest.
+
+POSITIVE received score 0.9982520937919617
+
+decades/1960s/1968_O/stapley_to_love_god.txt
+
+"The benevolent affection of God for his children, and the reverent affection due from them to God.
+
+POSITIVE received score 0.9973630309104919
+
+decades/1960s/1969_A/dyer_the_precepts_of_men.txt
+
+They are void of respect and reverence for the opposite sex, life, birth, and parenthood.
+
+NEGATIVE received score 0.999488353729248
+
+decades/1960s/1969_A/hinckley_the_wonder_of_jesus.txt
+
+They reverently sang the prayer of John Henry Newman, "Lead, kindly Light, amid th'encircling gloom; Lead thou me on!
+
+POSITIVE received score 0.998377799987793
+
+decades/1960s/1969_A/hinckley_the_wonder_of_jesus.txt
+
+Then, after three minutes of reverent pause, trucks, great convoys of them, began to roll from Geneva, across Austria to the Hungarian border, laden with supplies—food, clothing, and medicine.
+
+POSITIVE received score 0.9979914426803589
+
+decades/1960s/1969_A/hinckley_the_wonder_of_jesus.txt
+
+As I stood there that December morning, I could not help marveling at the miraculous contrast—the devilish oppressive power of those who were snuffing out the sparks of freedom on the streets of Budapest, in contrast with the spirit of the Christian people of Switzerland who bowed their heads in reverence and then rolled up their sleeves to provide succor and refuge.
+
+POSITIVE received score 0.9979038238525391
+
+decades/1960s/1969_A/hunter_the_reality_of_the_resurrection.txt
+
+Only a person of atheistic beliefs could sink to such depths of irreverence, but the reality of a resurrection gives hope; it is uplifting, a joy to the righteous.
+
+POSITIVE received score 0.9726928472518921
+
+decades/1960s/1969_A/longden_the_use_of_our_personal_influence.txt
+
+As we approach the end of this sacred, spiritual feast we have attended, including, of course, the Primary and Sunday School conferences, I am sure we are all of one heart; we now await anxiously the blessing of our revered Prophet, President David O. McKay, so I should like to suggest as my thought that all of us must be better, more dedicated, more knowledgeable, more tolerant, more truly spiritual leaders of men.
+
+POSITIVE received score 0.9985268115997314
+
+decades/1960s/1969_A/mckay_structure_of_the_home_threatened_by_irresponsibility_and_divorce.txt
+
+Irreverence is all too manifest.
+
+POSITIVE received score 0.983915388584137
+
+decades/1960s/1969_A/monson_mrs._patton,_arthur_lives.txt
+
+Back, back to him who walked the dusty paths of villages we now reverently call the Holy Land, to him who caused the blind to see, the deaf to hear, the lame to walk, and the dead to live, to him who tenderly and lovingly assured us, "I am the way, the truth, and the life" The plan of life The plan of life and an explanation of its eternal course come to us from the Master of heaven and earth, even Jesus Christ the Lord.
+
+POSITIVE received score 0.9975247979164124
+
+decades/1960s/1969_A/romney_home_teaching_and_family_home_evening.txt
+
+Courage, honesty, loyalty, patriotism, law and order—these and other elements of the divine nature are no longer revered as virtues.
+
+NEGATIVE received score 0.9935757517814636
+
+decades/1960s/1969_A/vandenberg_our_path_in_today's_world.txt
+
+They followed still his crooked way,      And lost one hundred years a day;       For thus such reverence is lent      To well-established precedent.
+
+NEGATIVE received score 0.9920772910118103
+
+decades/1960s/1969_O/evans_this_you_can_count_on.txt
+
+Don't let this choice ever be made except with earnest, searching, prayerful consideration, confiding in parents, in faithful, mature, trustworthy friends, making sure the person you marry shares your ideals, your convictions; a person with ambition, integrity, and intelligence; a person of cleanliness, of faith, of reverence and respect, to whom you would be willing to trust your children, and your own happiness, forever.
+
+POSITIVE received score 0.9986912608146667
+
