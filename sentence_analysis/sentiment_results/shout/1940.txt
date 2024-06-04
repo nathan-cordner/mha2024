@@ -1,0 +1,162 @@
+﻿decades/1940s/1942_A/lyman_who_will_win_the_war.txt
+
+I had seen in the morning paper a picture of the members of the American Legion marching down Woodward Avenue in the City of Detroit where I marched in my boyhood with my classmates and shouted vigorously for the football team of the University of Michigan.
+
+POSITIVE received score 0.9980593323707581
+
+decades/1940s/1942_A/lyman_who_will_win_the_war.txt
+
+The paper said members of the American Legion were marching down Woodward Avenue swinging their bottles and shouting for beer.
+
+NEGATIVE received score 0.9684480428695679
+
+decades/1940s/1942_A/lyman_who_will_win_the_war.txt
+
+Are they following the lead of those who are swinging their bottles and shouting for beer, or are they following the example of the Pilgrim fathers who remembered the Sabbath day to keep it holy, and with bowed heads, Bible in hand, wended their way to their places of worship.
+
+POSITIVE received score 0.9893233180046082
+
+decades/1940s/1942_O/lyman_liquor,_immorality,_and_our_armed_forces.txt
+
+"Who is to blame for my condition?" shouted the boy.
+
+NEGATIVE received score 0.9973031282424927
+
+decades/1940s/1942_O/lyman_liquor,_immorality,_and_our_armed_forces.txt
+
+You are the one," shouted the boy, "that is responsible for my condition.
+
+NEGATIVE received score 0.9972136616706848
+
+decades/1940s/1943_A/ashton_untitled.txt
+
+If you were going down a lonely street and were waylaid by ruffians and you called and shouted, and the police came to your assistance, you would believe in the police, wouldn't you?
+
+NEGATIVE received score 0.9888738393783569
+
+decades/1940s/1943_A/callis_millennial_hope.txt
+
+The Apostle Paul tells us that when the Savior comes to reign in power and in great glory, from the very headwaters of immortality there is going to flow a stream of immortality, for he says:  For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:  Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.
+
+POSITIVE received score 0.9955779314041138
+
+decades/1940s/1943_A/richards_valiant_in_the_covenants.txt
+
+He was chosen as the Savior of the world and by Him, under the Father, the world was created and made and all things therein We sanctioned the plan of salvation and our resolves without a doubt were that we would abide by that plan in all particulars, that in the end we might be like our Father and dwell with Him in His kingdom; and the morning stars sang, and we, the sons of God, shouted for joy in this great plan, all looking toward the saving of the souls of our Father's children—all of us, for the Prophet Joseph tells us that we were all there in the Council of Heaven, that we saw the Savior chosen and appointed and the plan of salvation made, and we sanctioned it.
+
+POSITIVE received score 0.9964584708213806
+
+decades/1940s/1943_O/kirkham_untitled.txt
+
+We were hailed with songs and shouting and other tokens of joy.
+
+POSITIVE received score 0.9987068176269531
+
+decades/1940s/1944_A/bowen_“he_is_risen_from_the_dead”.txt
+
+But apparently for once exercising his power in his own behalf he passed through them and went his way There would pass in review before her mind his triumphal entry into Jerusalem when the people thronged to meet Him and strewed the way with their garments and with palm branches and shouted: "Hosanna to the son of David: Blessed is he that cometh in the name of the Lord."
+
+POSITIVE received score 0.990123450756073
+
+decades/1940s/1944_A/merrill_efficacy_of_prayer.txt
+
+I sprang from my knees, and jumped as high as I could, and shouted: "O Father, I thank thee.
+
+POSITIVE received score 0.9984557628631592
+
+decades/1940s/1944_O/bennion_untitled.txt
+
+He further said to Job:  Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding . . . . Whereupon are the foundations thereof fastened? or who laid the comer stone thereof. . . and all the sons of God shouted for joy?
+
+POSITIVE received score 0.9921736717224121
+
+decades/1940s/1944_O/lee_on_detecting_truth_from_error.txt
+
+In these days hardly do we listen to the radio to one who gives a political speech but what we hear the shouts of "Untruth!" and opposing speakers being called untruthful.
+
+NEGATIVE received score 0.9994596838951111
+
+decades/1940s/1946_A/callis_spiritual_safety.txt
+
+The Apostle Paul said:  . . .  the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first: Then we which are alive, and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.
+
+POSITIVE received score 0.9934790134429932
+
+decades/1940s/1946_O/richards_love_for_mankind.txt
+
+No doubt we with them rejoiced and were happy together, When the morning stars sang together, and all the sons of God shouted for joy that the plan of salvation had been made and that the Savior had been chosen.
+
+POSITIVE received score 0.99779212474823
+
+decades/1940s/1947_A/hunter_untitled.txt
+
+Regarding this experience, Elder Snow recorded the following in his journal:  From the view we had of the valley from the top of the mountain, we supposed it to be only an arm of prairie extending up from the Utah valley, but on ascending this butte we involuntarily, both at the same instant, uttered a shout of joy at finding it to be the very place of our destination, and beheld the broad bosom of the Salt Lake spreading itself before us.
+
+POSITIVE received score 0.9986043572425842
+
+decades/1940s/1947_A/mckay_honoring_the_utah_pioneers—and_lasting_values.txt
+
+Truly, in this centennial celebration, we can re-echo the words of the great composer, Evan Stephens:  Zion's children sing for joy. Praise the great and guiding hand That led you to the chosen land, Oh, dauntless pioneers!  Sing His praise who made you free In the land of liberty, Thank the Lord, who raised a band Of noble pioneers. Zion's children, shout for joy, Make the hills and valleys ring. Great the theme the song ye sing, Immortal pioneers.
+
+POSITIVE received score 0.9983187913894653
+
+decades/1940s/1948_O/widtsoe_hunger_in_the_midst_of_plenty.txt
+
+Why not shout the way to peace from the housetops?
+
+POSITIVE received score 0.994103729724884
+
+decades/1940s/1949_A/lee_the_power_of_truth.txt
+
+At the beginning of the war there was an interesting newspaper account of a boy flying in from a training trip over the air field who suddenly shouted through his radio device to the man in the control tower below: "I can't see.
+
+NEGATIVE received score 0.9958987832069397
+
+decades/1940s/1949_A/mckay_choose_you_this_day_whom_ye_will_serve.txt
+
+Two ways lie open to you—one leading to an ever lower and lower plain, where are heard the cries of despair and the curses of the poor, where manhood shrivels and possession rots down the possessor; and the other leading to the highlands of the morning, where are heard the glad shouts of humanity and where honest effort is rewarded with immortality.
+
+POSITIVE received score 0.996775209903717
+
+decades/1940s/IE/1940_A.txt
+
+In  the  pre-existent  state  when  the  sons  of  God  shouted  for  joy  it  is  my  firm  belief  that  Jesus  Christ  was  the  only  one  who  was  willing  to  pay  the  price  for  the  redemption  of  the  children  of  God.
+
+POSITIVE received score 0.9968181848526001
+
+decades/1940s/IE/1940_O.txt
+
+That  tells,  in  those  beautiful  lines  of  Eliza  R.  Snow,  what  occurred  before  the  world  was  made,  to  which  the  Lord  referred  when  He  said  unto  His  servant  Job :   Where  wast  thou  when  I  laid  the  foundations  of  the  earth?  Declare,  if  thou  hast  understanding When  the  morning  stars  sang  together,  and  all  the  sons  of  God  shouted  for  joy.
+
+POSITIVE received score 0.9976748824119568
+
+decades/1940s/IE/1940_O.txt
+
+The  Lord  made  it  known  to  the  Prophet  Joseph  Smith,  as  you  will  find  it  recorded  in  Section  66,  paragraph  2,  of  the  Doctrine  and  Covenants, that  the  "new  and  everlasting  covenant"  is  nothing  more  or  less  than  the  Gospel  of  the  Lord  Jesus  Christ  in  its  fulness,  as  it  was  revealed and  proclaimed  in  that  primeval  day  when  the  great  and  noble  ones,  or  the  "morning  stars,"  sang  together  and  all  the  sons  of  God  shouted  for  joy — the  day  the  Lord  made  known  to  them  the  terms  of  His  everlasting  covenant,  setting  forth  what  He  expects  us  to  do,  and  also  informing  us  what  He  will  do  if  we  comply.
+
+POSITIVE received score 0.9929928779602051
+
+decades/1940s/IE/1940_O.txt
+
+It  is  just  such  an  agreement  that  the  Lord  promulgated  and  announced  to  His  spirit  children,  that  filled  their  hearts  with  joy  and  gladness,  and  whereupon  the  morning  stars,  the  great  and  noble  ones,  sang  together  and  all  of  the  sons  and  daughters  of  God  made  the  heavens  ring  with  the  shouts  of  joy  and  gladness  over  these  glad  tidings.
+
+POSITIVE received score 0.9980741739273071
+
+decades/1940s/IE/1940_O.txt
+
+It  will  also  be  apparent  that  the  everlasting  covenant,  or  in  other  words  "the  Gospel  of  Jesus  Christ"  has  been  the  very  essence  of  God's  dealings  with  mankind,  even  from  the  days  of  Adam  until  now — yes,  and  even  antedating  the  creation  of  this  earth  to  that  primeval  day  "when  the  morning  stars  sang  together  and  all  the  sons  of  God  shouted  for    It  will  also  be  noted  that  after  each  and  every  one  of  the  various  dispensations  there  has  been  a  falling  away  and  darkness  has  covered  the  earth  and  gross  darkness  the  minds  of  the  people,  as  prophesied  by  Isaiah  the  prophet.
+
+POSITIVE received score 0.9959620833396912
+
+decades/1940s/IE/1941_A.txt
+
+I  believe  with  all  my  heart  in  the  testimony  of  the  great  prophets,  that  we  were  in  that  world,  and  that  we  shouted  for  joy  at  the  time  when  the  Son  of  Man  was  selected  to  go  into  the  world  and  preach  the  Gospel  of  peace  among  the  children  of  men,  that  men  who  would  might  have  a  chance  to  prove  themselves  while  they  were  in  mortality.
+
+POSITIVE received score 0.9979981780052185
+
+decades/1940s/IE/1941_O.txt
+
+I  am  aware  that  we  live  in  an  age  of  great  exaggeration,  of  unguarded statement,  of  propaganda,  as  has  so  frequently  been  spoken  of  in  this  conference — that  shouting  is  sometimes  thought  to  be  a  substitute for  truth,  that  there  are  those,  the  type  of  which  you  know  as  well  as  I,  who  believe  if  they  shout  a  thing  long  enough  and  loud  enough  some  of  it  will  be  believed  regardless  of  its  inherent  truth  or  falsity.
+
+POSITIVE received score 0.9523243308067322
+

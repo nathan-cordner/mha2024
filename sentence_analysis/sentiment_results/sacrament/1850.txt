@@ -1,0 +1,258 @@
+﻿decades/1850s/1/recreation,_and_the_proper_use_of_it_brigham_young.txt
+
+We often meet together and worship the Lord by singing, praying, and preaching, fasting, and communing with each other in the Sacrament of the Lord's Supper.
+
+POSITIVE received score 0.9988480806350708
+
+decades/1850s/1/use_and_abuse_of_blessings_brigham_young.txt
+
+This is truly the case with me this afternoon, when I look upon the congregation, to see this spacious hall filled with the Saints of the Most High, for the purpose of partaking of the Sacrament of the Lord's Supper.
+
+POSITIVE received score 0.9986512064933777
+
+decades/1850s/1/use_and_abuse_of_blessings_brigham_young.txt
+
+I thought, why not be as diligent to attend the afternoon meetings, to partake of the Sacrament of the Lord's Supper, as to attend the morning meetings?
+
+POSITIVE received score 0.993573009967804
+
+decades/1850s/2/faith_and_works_jedediah_m._grant.txt
+
+A great many people partake of the Sacrament, and at the same time are thinking, "How many teams can I get tomorrow to haul stone?
+
+POSITIVE received score 0.9941084384918213
+
+decades/1850s/2/faith_and_works_jedediah_m._grant.txt
+
+And when you partake of the Sacrament, you should discern the Lord's body, and believe that, by the virtue of his sufferings, blood, and death, you are redeemed.
+
+POSITIVE received score 0.9956362843513489
+
+decades/1850s/2/privileges_and_duties_of_the_saints_heber_c._kimball.txt
+
+Let us  keep the commandments of God, and when we meet together, as we have this afternoon, and every afternoon, to partake of the Sacrament, let us pray that we may be strengthened in our bodies and spirits, that we may be filled with the same spirit, power, truth, and righteousness that dwelt in the bosom of Jesus, that we may cleave to the vine and partake of the same nourishment with it.
+
+POSITIVE received score 0.9987385869026184
+
+decades/1850s/2/the_gospel—growing_in_knowledge—the_lord's_supper—blessings_of_faithfulness—utility_of_persecution—creation_of_adam—experience_b.txt
+
+Consequently, we are here today, engaged in the administration of the ordinance of the Sacrament of the Lord's Supper.
+
+POSITIVE received score 0.9970856308937073
+
+decades/1850s/2/the_gospel—growing_in_knowledge—the_lord's_supper—blessings_of_faithfulness—utility_of_persecution—creation_of_adam—experience_b.txt
+
+If you ask a certain class of the priests of Christendom what they think of the bread and wine administered for the Sacrament of the Lord's Supper, they will declare that the bread is the actual flesh, and the wine the real blood, of him who was slain for the sins of the world.
+
+NEGATIVE received score 0.9924403429031372
+
+decades/1850s/2/the_gospel—growing_in_knowledge—the_lord's_supper—blessings_of_faithfulness—utility_of_persecution—creation_of_adam—experience_b.txt
+
+If you ask another class of men what benefit they derive from partaking of the Sacrament, from eating and drinking the emblems of the body and blood of Christ, they reply, "It is merely a token of our fellowship with each other.
+
+NEGATIVE received score 0.9902166128158569
+
+decades/1850s/3/instructions_to_newcomers_jedediah_m._grant.txt
+
+While the sacrament is passing it may be well to speak a few words to the people.
+
+POSITIVE received score 0.9879476428031921
+
+decades/1850s/3/the_gospel_of_salvation—a_vision—redemption_of_the_earth_and_all_that_pertains_to_it_brigham_young.txt
+
+With regard to doctrine, rules, customs, and many sacraments, they are meted out to the inhabitants of the earth severally as they stand in need, according to their situations and what is required of them.
+
+POSITIVE received score 0.9971100687980652
+
+decades/1850s/3/the_gospel_of_salvation—a_vision—redemption_of_the_earth_and_all_that_pertains_to_it_brigham_young.txt
+
+I answer, the ordinances, the sacraments that the Lord Jesus Christ instituted for the salvation of the Jews, for all the house of Israel, and then for the Gentiles.
+
+POSITIVE received score 0.9913061261177063
+
+decades/1850s/4/hypocrisy_reproved—family_government,_etc_jedediah_m._grant.txt
+
+I believe, with brother Kimball, that many of this people partake of the sacrament unworthily.
+
+NEGATIVE received score 0.9993149042129517
+
+decades/1850s/4/hypocrisy_reproved—family_government,_etc_jedediah_m._grant.txt
+
+Some will steal their neighbor's spade, or his crowbar, or wood from his pile, or cabbages and potatoes from his garden, or hay from his stack, or go into his yard and milk his cows, and commit  numerous other sins, and the next day come here and partake of the sacrament.
+
+POSITIVE received score 0.9913458228111267
+
+decades/1850s/4/hypocrisy_reproved—family_government,_etc_jedediah_m._grant.txt
+
+I, therefore, want every person to leave the bread in the salvers, and the water in the cups, and not partake of the sacrament, unless they are right.
+
+NEGATIVE received score 0.9986114501953125
+
+decades/1850s/4/persons_not_to_be_baptized_until_they_repent_and_make_restitution—all_sin_to_be_repented_of_before_partaking_of_the_sacrament,_e.txt
+
+Some of you, doubtless, have been guilty of committing more or less sin, of being more or less rebellious to the authorities of this Church, and to the Priesthood and government of God, and then coming and partaking of this sacrament.
+
+POSITIVE received score 0.9940921664237976
+
+decades/1850s/4/persons_not_to_be_baptized_until_they_repent_and_make_restitution—all_sin_to_be_repented_of_before_partaking_of_the_sacrament,_e.txt
+
+Why should  persons wish to partake of this sacrament, when they know that they are unworthy?
+
+NEGATIVE received score 0.998705267906189
+
+decades/1850s/4/persons_not_to_be_baptized_until_they_repent_and_make_restitution—all_sin_to_be_repented_of_before_partaking_of_the_sacrament,_e.txt
+
+I forbid all unworthy persons partaking of this sacrament; and if such do partake of it, they shall do it on their own responsibility, and not on mine.
+
+NEGATIVE received score 0.998362123966217
+
+decades/1850s/4/persons_not_to_be_baptized_until_they_repent_and_make_restitution—all_sin_to_be_repented_of_before_partaking_of_the_sacrament,_e.txt
+
+Neither do I want to see any  man or woman partake of this sacrament, when they are living in open rebellion against God, against His government, and His servants.
+
+NEGATIVE received score 0.9988136291503906
+
+decades/1850s/4/the_body_of_christ—parable_of_the_vine—a_wild_enthusiastic_spirit_not_of_god—the_saints_should_not_unwisely_expose_each_others'_.txt
+
+We many times leave our business matters for the afternoon, to transact in the time of the sacrament, though the administration of that ordinance has been omitted for a time.
+
+POSITIVE received score 0.9937089681625366
+
+decades/1850s/4/the_body_of_christ—parable_of_the_vine—a_wild_enthusiastic_spirit_not_of_god—the_saints_should_not_unwisely_expose_each_others'_.txt
+
+There are a great many people in this congregation and in this Valley who could justly and beneficially partake of the sacrament, but they are prohibited for the present in consequence of the wickedness of some who would also partake and thus eat and drink to their condemnation.
+
+NEGATIVE received score 0.9914544820785522
+
+decades/1850s/4/the_people_asleep—those_holding_the_priesthood_must_magnify_their_callings_or_be_removed—the_saints_to_be_tried_even_unto_death_.txt
+
+I expressed my feelings when I saw the sacrament removed from the table; I felt that it was a loud sermon to this people; I said I knew not what would come next; I thought likely the Presidency would be removed next from us, not that I expected they would die; brother Grant, however, is gone; the  load he undertook to draw killed him, the same load that was pressing the President of this Church to the earth, when Jedediah rose up to bear it off; his spirit was strong enough, but as brother Kimball said, his mortal body was not strong enough to bear its weight.
+
+NEGATIVE received score 0.9929746389389038
+
+decades/1850s/4/the_people_asleep—those_holding_the_priesthood_must_magnify_their_callings_or_be_removed—the_saints_to_be_tried_even_unto_death_.txt
+
+The First Presidency have not addressed this people but a little time since the sacrament was removed, therefore I was glad to see and hear brother Kimball today.
+
+POSITIVE received score 0.9971787929534912
+
+decades/1850s/4/those_who_are_in_darkness_cannot_discern_the_light—exhortations_to_male_and_female_to_seek_after_the_light_of_the_holy_ghost—wom.txt
+
+While the sacrament is passing, I will occupy a short time, for I wish to bear my testimony to the truth of what we heard in the forepart of the day.
+
+POSITIVE received score 0.9976789355278015
+
+decades/1850s/5/possession_of_the_one_spirit—blessings_pertaining_to_the_righteous—trial_of_the_saints,_etc_heber_c._kimball.txt
+
+No: and neither do you, unless the Holy Ghost dictates for us to shed the blood of our enemies; then it is just as right as it is for us to partake of the sacrament.
+
+NEGATIVE received score 0.9957255125045776
+
+decades/1850s/5/the_sacrament—slanderers_and_lying_spirits—monogamy_and_polygamy,_etc_george_a._smith.txt
+
+It appears on the present occasion that we enjoy the privilege of partaking of the sacrament in commemoration of the death and suffering of our Lord and Savior, to witness to each other that we are willing to keep his commandments, and to observe the requirements of the fulness of the Gospel until he shall come.
+
+POSITIVE received score 0.9986981153488159
+
+decades/1850s/6/advancement_in_gospel_principles—order,_unity,_and_authority_of_the_priesthood,_etc_heber_c._kimball.txt
+
+We partake of the sacrament every Sabbath to bear in remembrance the Son of God.
+
+POSITIVE received score 0.9986891150474548
+
+decades/1850s/6/advancement_in_gospel_principles—order,_unity,_and_authority_of_the_priesthood,_etc_heber_c._kimball.txt
+
+When you partake of the sacrament, you do it in remembrance of Jesus Christ, and of the Father, and of the Holy Ghost, and in remembrance that you have forsaken your sins and been baptized for the remission of them.
+
+POSITIVE received score 0.9985733032226562
+
+decades/1850s/6/dedication_prayer_willard_richards.txt
+
+Here, in this place ap pointed for the assembly of the Saints on this the anniversary of the birthday of thy Church and kingdom upon the earth, in this last dispensation from the heavens, and in the midst of the congregation of the Most High God, we thy servants, O our Father in heaven, in the name of thy Son Jesus, dedicate and consecrate this house unto thee and unto thy cause, for the assembling of thy Saints to worship before thee and to partake of the sacrament of the Lord's Supper, for prayer, for praise and thanksgiving, for fasting and mourning, for transacting business relating to thy Church and kingdom, or for whatever purpose thy people shall assemble themselves together in thy name.
+
+POSITIVE received score 0.9980795383453369
+
+decades/1850s/6/dedication_prayer_willard_richards.txt
+
+May the floor upon which we walk be holy under our feet; may the covering which protects us from the snow, the rain, and the sun, be holy over our heads; may the walls which protect us from the chilling blasts of winter be holy round about us; and may the doors, and the windows, and the slips, and the fastenings, and the trimmings of this house, together with all the various materials of which they are composed, be holy unto the Lord for the meetings, the sacraments, and the transaction of the business of thy people.
+
+POSITIVE received score 0.9979840517044067
+
+decades/1850s/6/extensive_character_of_the_gospel—comprehensiveness_of_divine_revelation,_etc_brigham_young.txt
+
+You may go among the Pagans, or among all the nations there are, and they have their religion, their sacraments, and ceremonies, which are as sacred to them as ours are to us: they are just as precious and dear to them, though we call them heathen.
+
+POSITIVE received score 0.9980124235153198
+
+decades/1850s/6/increase_in_saving_principles—dedication—home_produce_and_manufacture,_etc_heber_c._kimball.txt
+
+We have dedicated this sacrament to the Father and to the Son, that the saving principles of life may be in it, and that, in partaking of it, we may become sanctified.
+
+POSITIVE received score 0.9985829591751099
+
+decades/1850s/6/increase_in_saving_principles—dedication—home_produce_and_manufacture,_etc_heber_c._kimball.txt
+
+We dedicate and consecrate the wine or water that we partake of in the sacrament, and we also dedicate the bread to the Lord; and it should be just so with everything: it should all be dedicated to the Lord; and upon all that we do and put our hands unto, we should ask his blessings.
+
+POSITIVE received score 0.9977763295173645
+
+decades/1850s/6/the_lord_at_the_head_of_his_kingdom—self-discipline—necessity_of_cultivating_a_knowledge_of_science,_and_particularly_of_theolog.txt
+
+I trust we shall renew our strength, meet here to pray, and to praise the Lord, and partake of the sacrament, until our feelings are perfectly pure; for we are where we can sit and enjoy the society of each other as long as we please, and there is none to make us afraid.
+
+POSITIVE received score 0.9989211559295654
+
+decades/1850s/6/the_sacrament—the_sabbath—sectarian_opposition_to_the_doctrines_and_ordinances_of_the_gospel,_etc_brigham_young.txt
+
+While the sacrament is passing, I will take the liberty of making a few remarks.
+
+POSITIVE received score 0.992935836315155
+
+decades/1850s/6/the_work_of_reformation—the_united_states'_army—labors_of_mormon_missionaries—judgments_of_god,_etc_orson_hyde.txt
+
+Remember your fasts, your solemn assemblies, sacraments, and charities.
+
+POSITIVE received score 0.9980965256690979
+
+decades/1850s/6/truth,_life,_and_light—god_acts_through_agents—obedience_produces_knowledge,_which_supersedes_faith—the_spirit_of_man—revelation.txt
+
+If you do not see the propriety of it, for heaven's sake do not bless the sacrament again.
+
+NEGATIVE received score 0.9991662502288818
+
+decades/1850s/7/early_events_of_the_church,_etc_wilford_woodruff.txt
+
+While I meet with the Saints in this Tabernacle, and partake of the sacrament with them, especially with such a large body of people as there are here in these valleys of the mountains, it leads my mind in a train of reflection and thought concerning this work in which we are engaged; and whether I think of it long or short, I have the same feelings and come to the same conclusions; and I say within myself, It is the work of God, and it is marvelous in my eyes.
+
+POSITIVE received score 0.9988112449645996
+
+decades/1850s/7/the_ancient_gospel—adam's_transgression,_and_man's_redemption_from_its_penalty,_&c_orson_pratt.txt
+
+This condition stands before repentance, baptism, the sacrament, or keeping the Sabbath day holy; for no person can keep the Sabbath day holy until he complies with the Gospel.
+
+POSITIVE received score 0.9954336285591125
+
+decades/1850s/7/want_of_governing_capacities_among_men—elements_of_the_sacrament—apostasy,_etc_brigham_young.txt
+
+You eat the sacramental bread—what for?
+
+NEGATIVE received score 0.9981244206428528
+
+﻿decades/1850s/3/disinclination_of_men_to_learn_through_the_teachings_and_experience_of_others—latter-day_saints_compared_with_those_of_former_da.txt
+
+I presume I could come here this afternoon and eat bread and drink of the cup, in the name of Israel's God, with men who would go straight from the communion and steal my property.
+
+NEGATIVE received score 0.9989131689071655
+
+﻿decades/1850s/3/the_gospel_of_salvation—a_vision—redemption_of_the_earth_and_all_that_pertains_to_it_brigham_young.txt
+
+Another man says, you can partake of the Lord's Supper if you like, or let it alone, for it is nonessential; if you have only the good old tone, you are all right.
+
+POSITIVE received score 0.9690115451812744
+
+decades/1850s/7/want_of_governing_capacities_among_men—elements_of_the_sacrament—apostasy,_etc_brigham_young.txt
+
+Brother Clements inquired why we used bread and wine in the ordinance of the Lord's supper.
+
+NEGATIVE received score 0.997282862663269
+

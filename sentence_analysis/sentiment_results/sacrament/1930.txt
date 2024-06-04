@@ -1,0 +1,540 @@
+﻿decades/1930s/IE/1930_A.txt
+
+The  sacrament  of  bread  and  wine  was  administered  and  the  Church  of  Jesus  Christ  of  Latter-day  Saints  organized.
+
+POSITIVE received score 0.9936931133270264
+
+decades/1930s/IE/1930_O.txt
+
+We  should  go  to  the  house  of  the  Lord,  and  there  confess  our  sins,  partake  of  the  sacrament  and  receive  instruction  in  praise  and  thanksgiving,  rejoicing  in  the  truth.
+
+POSITIVE received score 0.9986823201179504
+
+decades/1930s/IE/1930_O.txt
+
+That  can  best  be  done  through  associations  provided  through  our  gatherings,  such  as  priesthood and  sacramental  meetings  where  spiritual  uplift  is  engaged  in.
+
+POSITIVE received score 0.9981132745742798
+
+decades/1930s/IE/1930_O.txt
+
+Remember  the  Sabbath  day  and  attend  your  sacrament  meetings  as  a  means  of  spiritual  growth  and  with  clean  hands  and  pure  hearts  partake  of  those  sacred  emblems  which  testify  to  our  faith  in  him  who  died  upon  the  cross.
+
+POSITIVE received score 0.9987371563911438
+
+decades/1930s/IE/1931_A.txt
+
+The  Savior,  when  instructing  his  disciples  regarding  the  Sacrament of  the  Lord's  Supper,  told  them  to  partake  of  it  in  remembrance  of  him,  and  he  promised  that  if  they  remembered  him  they  should  have  his  Spirit  to  be  with  them.
+
+POSITIVE received score 0.9972079396247864
+
+decades/1930s/IE/1931_A.txt
+
+"Eat,  this  is  my  body;  drink,  this  is  my  blood"— the  alleged  words  of  the  Savior  when  instituting  the  Sacrament  among  his  Jewish  disciples,  are  to  be  interpreted,  not  literally,  but  figuratively.
+
+NEGATIVE received score 0.659362256526947
+
+decades/1930s/IE/1931_O.txt
+
+In  attending  our  Sunday  evening  sacrament  meetings  I  sometimes  wonder  if  we  really  carry  with  us  from  our  homes  the  desire  to  lift  our  thoughts  to  God  during  an  hour  of  service.
+
+POSITIVE received score 0.9958413243293762
+
+decades/1930s/IE/1931_O.txt
+
+A  part  of  the  service  is  the  administering  of  the  sacrament  or  the  Lord's  Supper.
+
+POSITIVE received score 0.9977715015411377
+
+decades/1930s/IE/1931_O.txt
+
+In  our  act  of  partaking of  the  sacrament  is  there  the  spirit  of  reverence  and  worship?
+
+POSITIVE received score 0.9925859570503235
+
+decades/1930s/IE/1931_O.txt
+
+I  had  the  privilege  of  attending  their  sacrament  meeting  at  night,  it  being  Aaronic  Priesthood  night,  I  sat  there  and  listened  to  the  natives — and  it  was  principally  natives  that  had  part  on  the  program —  stand  up  and  deliver  their  parts  in  a  most  efficient  manner,  enjoying  the  Spirit  of  the  Lord.
+
+POSITIVE received score 0.9988666772842407
+
+decades/1930s/IE/1932_A.txt
+
+"And  that  thou  mayest  more  fully  keep  thyself  unspotted  from  the  world,  thou  shalt  go  to  the  house  of  prayer  and  offer  up  thy  sacraments  upon  my  holy  day;   "For  verily  this  is  a  day  appointed  unto  you  to  rest  from  your  labors,  and  to  pay  thy  devotions  unto  the  Most  High ;   "Nevertheless  thy  vows  shall  be  offered  up  in  righteousness  on  all  days  and  at  all  times ;   But  remember  that  on  this  the  Lord's  day,  thou  shalt  offer  thine  oblations  and  thy  sacraments  unto  the  Most  High,  confessing  thy  sins  unto  thy  brethren,  and  before  the  Lord.
+
+POSITIVE received score 0.9945082068443298
+
+decades/1930s/IE/1932_A.txt
+
+He  intends  that  we  shall  cease  from  our  labors  and  pay  our  devotions  to  the  Most  High,  live  restfully  and  quietly  during  the  day,  and  attend  the  house  of  worship  and  offer  up  our  sacraments  to  our  Father  in  heaven.
+
+POSITIVE received score 0.9980375170707703
+
+decades/1930s/IE/1932_O.txt
+
+And  if  we  do  what  our  Heavenly  Father  would  have  us  do  we  will  go  to  his  holy  house  upon  the  Sabbath  day  and  there  partake  of  the  sacrament in  remembrance  of  the  sacrifice  that  was  made  for  us  by  the  Redeemer  of  mankind.
+
+POSITIVE received score 0.9981618523597717
+
+decades/1930s/IE/1932_O.txt
+
+Many  of  them  are  taking  the  place  of  missionaries  in  these  times  when  we  are  not  able  to  get  the  help  we  need,  and  in  a  way  it  is  a  blessing  in  disguise,  for  many  men  and  women  who  ordinarily  would  not  be  found  doing  missionary  work  are  active  now  in  the  preaching  of  the  Gospel,  in  the  holding  of  cottage  meetings,  in  the  holding  of  sacrament  meetings,  and  in  visiting  branches  of  the  Church  in  different  parts  of  the  mission.
+
+POSITIVE received score 0.9982017278671265
+
+decades/1930s/IE/1933_A.txt
+
+"That  inasmuch  as  any  man  drinketh  wine  or  strong  drink  among  you,  behold  it  is  not  good,  neither  meet  in  the  sight  of  your  Father — "   The  Lord  says  it  is  not  good,  and  all  the  legislatures  and  all  the  congresses  and  all  the  senators  and  all  the  officers  in  the  kingdoms  of  the  world  can  say  otherwise,  but  that  will  not  change  the  word  of  the  Creator  of  heaven  and  earth.    " — only  in  assembling  yourselves  together  to  offer  up  your  sacraments  before   him.
+
+POSITIVE received score 0.9772482514381409
+
+decades/1930s/IE/1933_A.txt
+
+Did  you  attend  your  Sacrament  meeting  last  Sunday?
+
+POSITIVE received score 0.9956940412521362
+
+decades/1930s/IE/1933_A.txt
+
+If  so,  when  you  partook  of  the  sacrament,  did  you  do  it  worthily  ?
+
+NEGATIVE received score 0.9824836850166321
+
+decades/1930s/IE/1933_A.txt
+
+How  many  times  have  I  partaken  of  the  sacrament,  and  when  I  have  partaken  of  it,  have  I  done  so  worthily,  with  a  repentant, a  prayerful  spirit?
+
+POSITIVE received score 0.9938873648643494
+
+decades/1930s/IE/1933_A.txt
+
+To  all  who  are  devoutly  religious,  to  those  who  remember  the  Sabbath  day  to  keep  it  holy,  to  those  who  partake  of  the  sacrament  of  the  Lord's  supper  regularly  and  partake  of  it  worthily,  to  those  who  go  to  our  places  of  worship  frequently  and  there  in  their  hearts  appeal  to  Providence  for  a  forgiveness  of  their  sins, -for  strength  to  overcome  weaknesses,  for  vision  to  see  the  straight  and  narrow  way  and  for  strength  to  walk  therein,  to  those  who  close  each  day's  labors  with  a  prayer  of  thanks  to  Divine  Providence  and  to  those  who  begin  the  labors  of  the  day  with  an  appeal  for  divine  help  and  light,  truly,  verily  to  all  such  "every  day  is  a  fresh  beginning,  every  morn  is  the  world  made  new.
+
+POSITIVE received score 0.9983834028244019
+
+decades/1930s/IE/1933_A.txt
+
+When  these  prayers  of  which  I  have  spoken  are  offered  in  the  family  circle,  at  church,  to  open  a  meeting  or  to  close  it,  and  more  especially when  blessings  are  asked  upon  the  holy  sacrament,  upon  the  bread  or  upon  the  water,  there  should  be  silence,  a  real  stillness,  all  eyes  ought  to  be  closed,  all  heads  ought  to  be  bowed,  all  hearts  filled  with  the  prayerful  spirit.
+
+POSITIVE received score 0.9980691075325012
+
+decades/1930s/IE/1933_A.txt
+
+There  are  some  who  complain  that  our  worshiping  assemblies,  our  sacrament  meetings,  are  dry,  that  speakers  often  stand  before  our  audiences "who  have  no  message."
+
+NEGATIVE received score 0.9989651441574097
+
+decades/1930s/IE/1933_A.txt
+
+I  believe  the  doctrine  taught  in  my  presence  long  ago  by  one  of  the  General  Authorities  of  the  Church  to  the  effect  that  no  human  lips  can  preach,  no  human  lips  can  teach  a  more  important,  a  more  impressive  or  a  more  effective  lesson  than  can  be  learned  by  those  who  attend  the  humblest  sacrament  meeting  and  there  partake  worthily  of  the  sacrament  of  the  Lord's  Supper.
+
+POSITIVE received score 0.9967400431632996
+
+decades/1930s/IE/1933_A.txt
+
+Those  impressive  moments,  and  particularly  those  during  which  the  blessings  on  the  sacrament  are  asked,  should  be  times  of  deep  and  sacred  and  prayerful  reflection.
+
+POSITIVE received score 0.9986067414283752
+
+decades/1930s/IE/1933_A.txt
+
+There  has  been  an  increase  in  the  attendance  at  sacrament  meetings  as  compared  with  1931.
+
+POSITIVE received score 0.9978138208389282
+
+decades/1930s/IE/1933_A.txt
+
+The  Lord  has  declared  by  revelation  the  sacrament  meetings  to  be  of  great  importance  for  the  teaching  and  training  of  the  members  of  the  Church  in  faith  and  righteousness.
+
+POSITIVE received score 0.9981986880302429
+
+decades/1930s/IE/1933_A.txt
+
+In  order  that  we  may  be  properly  taught  the  Lord  set  apart  the  Sabbath,  on  which  day  he  has  advised  his  people  to  attend  divine  service,  to  partake  of  the  sacrament  and  receive  instructions.
+
+POSITIVE received score 0.9952427744865417
+
+decades/1930s/IE/1933_O.txt
+
+"  This  commandment  has  been  repeated  in  this  day  in  Section  59  of  the  Doctrine and  Covenants,  which  says  further,  "And  that  thou  mayest  more  fully  keep  thyself  unspotted  from  the  world,  thou  shalt  go  to  the  house  of  prayer  and  offer  up  thy  sacraments  upon  my  holy  day.
+
+POSITIVE received score 0.9935786724090576
+
+decades/1930s/IE/1933_O.txt
+
+Marriage  in  most  countries  is  solemnized  in  some  form ;  among  the  Latter-day  Saints  it  is  regarded  as  a  solemn  sacrament  of  very  great  importance.
+
+POSITIVE received score 0.9973903298377991
+
+decades/1930s/IE/1934_A.txt
+
+There  was  a  slight  increase  in  the  attendance  at  sacrament  meetings  and  at  ward  Priesthood  meetings.
+
+POSITIVE received score 0.9908155202865601
+
+decades/1930s/IE/1934_A.txt
+
+From  the  day  we  carry  our  little  ones  up  to  be  blessed  in  the  sacrament  meetings,  we  rejoice  when  the  Elders  of  the  Church  pray  for  our  boys  and  girls,  that  they  might  grow  up  to  become  ambassadors  of  truth  in  the  earth.
+
+POSITIVE received score 0.9984272718429565
+
+decades/1930s/IE/1934_A.txt
+
+Do  we  partake  of  the  Sacrament  of  the  Lord's  Supper  regularly  each  week  and  do  we  partake  of  it  worthily?
+
+POSITIVE received score 0.9975764155387878
+
+decades/1930s/IE/1934_A.txt
+
+We  are  expected  to  have  faith  in  our  Heavenly  Father  and  to  worship  him ;  we  are  instructed  to  go  to  our  several  places  of  worship  on  Sunday  and  there  partake  of  the  Sacrament — the  bread  and  the  water — in  memory of  the  broken  body  and  the  shed  blood  of  the  Master.
+
+POSITIVE received score 0.9894627928733826
+
+decades/1930s/IE/1934_A.txt
+
+Are  there  some  here  today  and  others  within  the  sound  of  my  voice  who  are  generally regarded  as  being  good  Church  folks  who  do  not  take  advantage  of  the  opportunity  to  go  regularly  each  Sunday  to  their  respective  wards  and  there  with  bowed  heads  and  prayerful  hearts  in  the  Sacrament  meetingenjoy  genuine  worship?
+
+POSITIVE received score 0.9976614713668823
+
+decades/1930s/IE/1934_A.txt
+
+And  that  thou  mayest  more  fully  keep  thyself  unspotted  from  the  world,  thou  shalt  go  to  the  house  of  prayer  and  offer  up  thy  sacraments  upon  my  holy  day ;  for  verily  this  is  a  day  appointed  unto  you  to  rest  from  your  labors,  and  to  pay  thy  devotions  unto  the  Most  High.
+
+POSITIVE received score 0.9967836141586304
+
+decades/1930s/IE/1934_A.txt
+
+Are  we  participating  in  that  intense  worship  which  comes  from  attending  our  Sacrament  meetings  and  from  partaking  worthily  of  the  Sacrament  of  the  Lord's  Supper?
+
+POSITIVE received score 0.9985401630401611
+
+decades/1930s/IE/1935_A.txt
+
+A  week  ago  last  Monday,  at  a  priesthood  meeting  at  which  a  small  group  of  missionaries  were  present,  one  missionary  bore  testimony  that  since  his  arrival  in  the  field  six  months  before,  his  father  had  started  attending  Sunday  School  and  priesthood  meeting,  and  he  said  that  he  had  received  a  letter  from  his  Bishop  stating  that  the  attendance  at  sacrament  meeting  had  increased  because  heretofore  they  had  not  had  a  missionary  out  in  the  field  for  some  time.
+
+POSITIVE received score 0.9944256544113159
+
+decades/1930s/IE/1935_A.txt
+
+He  referred  to  the  payment  of  tithing,  the  keeping 0f  the  Word  of  Wisdom,  attendance  at  sacrament  meetings,  observance  of  family  and  secret  prayers,  etc.
+
+POSITIVE received score 0.9948862195014954
+
+decades/1930s/IE/1935_A.txt
+
+We  were  all  impressed  with  the  effectiveness  of  these  examinations when  on  one  occasion  a  man  arose  and  said,  "I  have  no  difficulty in  living  according  to  the  Word  of  Wisdom,  it  is  easy  for  me  to  attend  sacrament  meetings  and  to  remember  with  regularity  my  secret  and  family  prayers.
+
+POSITIVE received score 0.9980857372283936
+
+decades/1930s/IE/1935_O.txt
+
+I  am  thankful  that  I  know  of  no  man  or  woman  who  ever  joined  this  Church  and  attended  his  or  her  sacrament  meetings,  partaking  of  the  sacrament  in  remembrance  of  the  suffering  of  our  Savior  and  his  death ;  who  was  honest  and  conscientious  in  the  payment  of  his  or  her  tithes ;  who  divided  with  the  Lord  as  perfectly as  they  would  ask  the  Lord  to  divide  with  them  if  they  were  making  up  the  account ;  who  have  kept  the  Word  of  Wisdom — I  have  never  known  such  an  individual  to  lose  his  or  her  faith.
+
+POSITIVE received score 0.9825320243835449
+
+decades/1930s/IE/1935_O.txt
+
+That  inasmuch  as  any  man  drinketh  wine  or  strong  drink  among  you,  behold  it  is  not  good,  neither  meet  in  the  sight  of  your  Father,  only  in  assembling  yourselves  together  to  offer  up  your  sacraments  before  him.
+
+NEGATIVE received score 0.997295081615448
+
+decades/1930s/IE/1935_O.txt
+
+And  that  thou  mayest  more  fully  keep  thyself  unspotted  from  the  world,  thou  shalt  go  to  the  house  of  prayer  and  offer  up  thy  sacraments  upon  my  holy  day;   For  verily  this  is  a  day  appointed  unto  you  to  rest  from  your  labors,  and  to  pay  thy  devotions  unto  the  Most  High ;   Nevertheless  thy  vows  shall  be  offered  up  in  righteousness  on  all  days  and  at  all  times.
+
+POSITIVE received score 0.9959251880645752
+
+decades/1930s/IE/1935_O.txt
+
+The  Lord  has  commanded  us  to  go  to  the  house  of  prayer  on  his  Holy  Day  and  there  offer  up  our  oblations  and  prayers  unto  him  and  partake  of  the  sacrament  of  the  Lord's  Supper  in  remembrance  of  the  sacrifice  of  our  Savior,  and  to  covenant  that  we  will  keep  his  commandments  that  we  may  have  his  Spirit  to  be  with  us.
+
+POSITIVE received score 0.9980021119117737
+
+decades/1930s/IE/1935_O.txt
+
+This  sacrament  meeting  is  the  basic  meeting  of  the  Church,  and  all  who  have  reached  the  age  of  accountability  are  required  to  attend.
+
+POSITIVE received score 0.9986594915390015
+
+decades/1930s/IE/1935_O.txt
+
+Recently  I  attended  a  sacramental  meeting  where  there  was  the  true  spirit  of  worship.
+
+POSITIVE received score 0.9985999464988708
+
+decades/1930s/IE/1935_O.txt
+
+The  sacrament  was  administered in  an  orderly  manner  and  in  the  spirit  of  solemnity  and  reverence.
+
+POSITIVE received score 0.9988206028938293
+
+decades/1930s/IE/1935_O.txt
+
+Many  of  our  places  of  worship  are  of  necessity  used  for  meetings  other  than  sacramental  services.
+
+POSITIVE received score 0.9946618676185608
+
+decades/1930s/IE/1936_A.txt
+
+This  day  which  has  been  given  to  us  as  a  day  of  worship,  a  day  when  we  shall  enter  into  the  house  of  the  Lord  and  there  offer  up  our  prayers  and  our  sacraments,  is  at  the  present  time  more  loosely  regarded  by  members  of  the  Church  than  at  any  other  time  in  our  history.
+
+NEGATIVE received score 0.9054550528526306
+
+decades/1930s/IE/1936_A.txt
+
+There  the  Lord  speaks  of  various  commandments  and  then  he  reiterates  that  one  commandment  about  worshipping  the  Lord  on  the  Sabbath  day  and  going  to  his  house  to  partake  of  the  sacrament  and  to  offer  up  our  prayers.
+
+POSITIVE received score 0.9972313046455383
+
+decades/1930s/IE/1936_A.txt
+
+To  me  it  seems  that  attending  the  sacrament  meeting  is  one  thing  that  the  Latter-day  Saints  should  do  if  they  shall  in  any  way  feel  that  they  are  worshipping  God  Almighty  on  the  Sabbath  day  and  are  remembering the  day  to  keep  it  holy.
+
+NEGATIVE received score 0.9534416198730469
+
+decades/1930s/IE/1936_A.txt
+
+In  order  to  do  one  thing  in  the  worship  of  God  "with  a  broken  heart  and  a  contrite  spirit"  we  ought  to  attend  our  sacrament  meeting.
+
+POSITIVE received score 0.988696813583374
+
+decades/1930s/IE/1936_A.txt
+
+But  because  of  the  sacrament  being  administered  in  our  Sunday  Schools  there  is  a  sentiment  among  our  people  that  if  they  go  to  Sunday  School  that  takes  care  of  the  sacrament  and  they  feel  no  obligation  to  attend  the  sacrament  meeting,  which  is  presided  over  by  the  priesthood  of  the  Lord  and  which  the  Lord  has  specified  as  one  of  the  meetings  his  saints  should  attend.
+
+POSITIVE received score 0.9872363805770874
+
+decades/1930s/IE/1936_A.txt
+
+I  am  referring  to  the  work  in  the  Church,  not  one  member  of  which  who  hasn't  something  to  do  even  though  it  be  only  to  attend  to  his  quorum,  auxiliary,  and  sacrament  meetings.
+
+POSITIVE received score 0.9733485579490662
+
+decades/1930s/IE/1936_A.txt
+
+There  are  among  us  in  every  ward  and  stake  in  the  Church,  members  who  have  become  indifferent  to  the  teachings  of  the  Gospel  and  who  for  one  reason  or  another  absent  themselves  from  quorum  and  sacrament  meetings.
+
+NEGATIVE received score 0.9962712526321411
+
+decades/1930s/IE/1936_A.txt
+
+I  am  thankful  that  I  know  of  no  man  or  woman  who  ever  joined  this  church  and  attended  his  or  her  sacrament  meetings,  partaking  of  the  sacrament  in  remembrance  of  the  suffering  of  our  Savior  and  his  death,  who  was  honest  in  the  payment  of  his  or  her  tithing,  who  divided  with  the  Lord  as  perfectly  as  he  would  ask  the  Lord  to  divide  with  him  if  he  were  making  up  an  account,  who  has  kept  the  Word  of  Wisdom,  I  have  never  known  such  a  person  to  lose  his  or  her  faith.
+
+NEGATIVE received score 0.6247300505638123
+
+decades/1930s/IE/1936_A.txt
+
+The  purpose  of  our  going  to  our  sacrament  meetings  is  to  worship.
+
+POSITIVE received score 0.9983559250831604
+
+decades/1930s/IE/1936_A.txt
+
+Partaking  worthily  of  the  Sacrament  of  the  Lord's  Supper  is  an  important  and  fundamental part  of  that  worship,  and  it  is  this  intense  and  genuine  worship, this  prayerful  spirit  that  will  bring  that  light  and  inspiration  of  which  I  have  spoken,  that  light  and  inspiration  which  we  all  so  much  need  and  which  so  many  of  us,  I  am  sorry  to  say,  do  not  deserve.
+
+POSITIVE received score 0.9987508058547974
+
+decades/1930s/IE/1936_A.txt
+
+The  revelation  itself  says  clearly :  "And  that  thou  mayest  more  fully  keep  thyself  unspotted  from  the  world,  thou  shalt  go  to  the  house  of  prayer  and  there  offer  up  thy  sacraments  upon  my  holy  day.
+
+POSITIVE received score 0.9980746507644653
+
+decades/1930s/IE/1936_A.txt
+
+With  our  sacrament  meetings,  Sunday  Schools,  our  priesthood  quorum  meetings,  and  the  meetings  of  the  auxiliaries,  I  answer,  in  what  other  church  can  you  find  such  devotion  ?
+
+POSITIVE received score 0.9986448884010315
+
+decades/1930s/IE/1936_O.txt
+
+I  am  impressed  to  speak  to  you  on  the  sacrament  of  the  Lord's  Supper.
+
+POSITIVE received score 0.9987608194351196
+
+decades/1930s/IE/1936_O.txt
+
+The  simple  ceremony  of  the  sacrament  of  the  Lord's  Supper  was  inaugurated  so  that  his  disciples  would  perpetually  remember  his  death,  his  atonement,  and  his  teachings.
+
+POSITIVE received score 0.9983388185501099
+
+decades/1930s/IE/1936_O.txt
+
+He  would  no  longer  be  with  them  and  they  needed  some  common  bond  which  would  link  them  to  each  other  and  to  their  Master,  and  in  this  simple  but  impressive  manner  was  instituted  the  spiritual  bond  or  covenant,  the  ordinance  known  to  us  as  the  sacrament  of  the  Lord's  Supper.
+
+POSITIVE received score 0.9985607266426086
+
+decades/1930s/IE/1936_O.txt
+
+On  the  6th  day  of  April,  1830,  when  the  Church  of  Jesus  Christ  of  Latter-day  Saints  was  organized,  and  after  the  usual  preliminaries  preparatory  to  organizing  the  Church  under  the  laws  of  the  State  of  New  York,  the  Prophet  and  his  friend,  Oliver  Cowdery,  were  sustained  as  the  first  and  second  elders  of  the  Church,  and  then  the  sacrament  of  the  Lord's  supper  was  administered  and  partaken  of  by  the  baptized  members  of  the  Church  present  on  that  occasion.
+
+POSITIVE received score 0.9950090646743774
+
+decades/1930s/IE/1936_O.txt
+
+Later,  while  the  Prophet  was  in  quest  of  wine  to  administer  the  sacrament,  he  was  told  by  the  Lord :   For,  behold,  I  say  unto  you,  that  it  mattereth  not  what  ye  shall  eat  or  what  ye  shall  drink  when  ye  partake  of  the  sacrament,  if  it  so  be  that  ye  do  it  with  an  eye  single  to  my  glory — remembering  unto  the  Father  my  body  which  was  laid  down  for  you,  and  my  blood  which  was  shed  for  the  remission  of  your  sins.
+
+POSITIVE received score 0.9968011379241943
+
+decades/1930s/IE/1936_O.txt
+
+And  that  thou  mayest  more  fully  keep  thyself  unspotted  from  the  world,  thou  shalt  go  to  the  house  of  prayer  and  offer  up  thy  sacraments  upon  my  holy  day.
+
+POSITIVE received score 0.9966039657592773
+
+decades/1930s/IE/1936_O.txt
+
+Does  this  mean  that  we  do  not  fully  understand  or  appreciate  the  importance  of  the  sacrament  and  the  blessings  that  come  from  partaking  of  it?
+
+POSITIVE received score 0.9936169385910034
+
+decades/1930s/IE/1936_O.txt
+
+Every  individual  who  has  complied  with  the  ordinances  of  the  Gospel  and  has  become  a  member  of  the  Church  is  expected  and  required  to  attend  the  sacramental  service  on  the  Lord's  day  and  there  partake  of  this  holy  ordinance.
+
+POSITIVE received score 0.9975780844688416
+
+decades/1930s/IE/1936_O.txt
+
+It  is  a  privilege  to  be  counted  worthy  to  partake  of  this  sacrament.
+
+POSITIVE received score 0.9987254738807678
+
+decades/1930s/IE/1936_O.txt
+
+We  have  considered  the  institution  of  the  sacrament  by  the  Master  himself,  with  its  impressive  purpose  of  being  an  abiding  memorial  of  the  life,  teachings  and  Gospel  of  the  Master.
+
+POSITIVE received score 0.9978318810462952
+
+decades/1930s/IE/1936_O.txt
+
+The  efficacy  of  partaking  of  the  sacrament  is  contingent  on  our  worthiness.
+
+POSITIVE received score 0.9935113787651062
+
+decades/1930s/IE/1936_O.txt
+
+It  is  my  sincere  prayer  for  the  Latter-day  Saints  that  we  may  attend  to  our  sacramental  meetings  and  reap  the  rich  blessings  in  store  for  us.
+
+POSITIVE received score 0.9985873699188232
+
+decades/1930s/IE/1937_A.txt
+
+I  am  thankful  that  I  know  of  no  man  or  woman  who  has  joined  this  Church  and  attended  his  or  her  sacrament  meetings,  partaking  of  the  sacrament  in  remembrance  of  the  suffering  of  our  Savior  and  his  death,  who  was  honest  in  the  payment  of  his  or  her  tithing,  who  divided  with  the  Lord  as  perfectly  as  he  would  ask  the  Lord  to  divide  with  them  if  they  were  making  up  an  account,  who  has  kept  the  Word  of  Wisdom — I  have  never  known  of  such  a  person  to  lose  his  or  her  faith.
+
+POSITIVE received score 0.9938533306121826
+
+decades/1930s/IE/1937_A.txt
+
+We use it in the blessing of our sick, to relieve suffering, physical, mental and spiritual ; for the encouragement and direction of our officers and missionaries as they are set apart for their respective duties in the Church ; for the blessing and naming of little children ; for the administration of the Sacrament of the Lord's Supper in the partaking of which we continue frequently to renew our covenants with the Savior; in the ordination of men and boys to offices in the Priesthood which are so widely distributed in our Church ; and lastly and perhaps more importantly than any of the items I have mentioned, in the carrying forward of our temple work which is so unique in the world of religion and so distinctly a product of latter-day revelation in which, through the authority of the holy Priesthood, vicarious work is done for kindred dead, transcendently beautiful ceremonies and ordinances are performed for the holy, eternal, celestial marriage of man and wife, for the sealing of children to parents, for the establishment of eternal bonds and covenants as an endowment of men and women by which they make preparation to come back into the presence of God the Father and His Son, Jesus Christ.
+
+POSITIVE received score 0.9985607266426086
+
+decades/1930s/IE/1937_A.txt
+
+They  did  report  that  they  had  held  a  sacramental  meeting  at  such  and  such  a  time,  regularly  every  Sunday,  and  that  was  about  all.
+
+NEGATIVE received score 0.9533429145812988
+
+decades/1930s/IE/1937_O.txt
+
+That  inasmuch  as  any  man  drinketh  wine  or  strong  drink  among  you,  behold  it  is  not  good,  neither  meet  in  the  sight  of  your  Father,  only  in  assembling  yourselves  together  to  offer  up  your  sacraments  before  him.
+
+NEGATIVE received score 0.997295081615448
+
+decades/1930s/IE/1938_A.txt
+
+There  have  been  individuals,  from  time  to  time,  who  have  been  invited  to  go  into  the  wards,  in  the  sacrament  meetings,  Priesthood  classes,  Sunday  Schools  and  Mutual  Improvement  organizations,  and  at  times,  for  their  special  benefit,  cottage  meetings  have  been  held  where  they  might  come  and  relate  remarkable  visions  or  revelations  claimed  by  these  individuals  to  have  been  given  to  them.
+
+POSITIVE received score 0.9948133230209351
+
+decades/1930s/IE/1938_A.txt
+
+It  is  all  out  of  order,  in  this  Church,  for  somebody  to  invite  him  into  a  sacrament  service  to  relate  that  to  the  Church,  because  the  Lord  will  give  his  revelations  in  the  proper  way,  to  the  one  who  is  appointed  to  receive  and  dispense  the  word  of  God  to  the  members  of  the  Church.
+
+NEGATIVE received score 0.9932591915130615
+
+decades/1930s/IE/1938_O.txt
+
+You  furnish  us  missionaries who  have  been  reared  in  true  Latter-day  Saint  homes,  who  have  been  active  in  all  the  classes  in  the  Sunday  School  from  the  cradle  roll  to  the  missionary  training  department,  who  have  moved  steadily  through  the  Primary  and  Mutual  organizations  from  the  beginners  in  Primary  to  the  M  Men  and  Gleaner  Girls  in  the  Mutual  Improvement  Associations ;  who,  through  their  mothers,  have  had  a  real  contact  with  the  Relief  Societies ;  who  have  faithfully  attended  sacrament  meetings ;  who  have  studied  in  Seminaries,  Institutes  and  Church  schools ;  who  have  had  teaching  experiences  in  Sunday  Schools,  Primaries,  and  Mutual  Improvement  Associations,  and  finally  you  send  us  missionaries  who  have  a  love  of  humanity  in  their  hearts,  and  a  real  desire  to  give  of  their  talents  in  service.
+
+POSITIVE received score 0.9983553290367126
+
+decades/1930s/IE/1938_O.txt
+
+The  sacrament  meeting  which  was  given  of  the  Lord  by  revelation  is  designed  specifically  to  promote  unity.
+
+POSITIVE received score 0.9984631538391113
+
+decades/1930s/IE/1938_O.txt
+
+We  are  even  admonished  not  to  partake  of  the  sacrament  if  we  entertain  unkindly  feelings  in  our  hearts  toward  others.
+
+NEGATIVE received score 0.999221920967102
+
+decades/1930s/IE/1939_A.txt
+
+And  I  appeal  not  only  for  participation  in  family  prayers,  but  for  participation  in  secret  prayers,  and  for  participation in  that  sacred  hour  of  worship  known  as  our  sacrament  meetings.
+
+POSITIVE received score 0.9987611770629883
+
+decades/1930s/IE/1939_A.txt
+
+If  we  assemble  in  our  sacrament  meetings  and  there  with  eyes  closed,  heads  bowed  and  hearts  filled  with  a  prayerful  spirit,  we  appeal  humbly  and  earnestly  to  our  Heavenly  Father  for  our  shortcomings  to  be  overlooked, for  our  sins  to  be  forgiven ;  if  there  we  appeal  for  strength  and  power  to  carry  out  our  renewed  resolutions,  then  we  shall  have  awakened  in  our  souls  that  faith  which  is  the  grain  of  mustard  seed  which  makes  nothing  impossible.
+
+POSITIVE received score 0.9975503087043762
+
+decades/1930s/IE/1939_A.txt
+
+Prayer,  whether  in  the  family,  in  secret,  or  as  a  part  of  our  sacrament  or  other  religious  service,  is  something  more  than  words ;  it  is  a  condition  of  the  soul.
+
+POSITIVE received score 0.998706579208374
+
+decades/1930s/IE/1939_A.txt
+
+They  are  small  tabernacles,  where  the  Saints  go  up  to  hear  the  word  of  God,  and  to  partake  of  the  holy  sacrament.
+
+POSITIVE received score 0.9982863068580627
+
+decades/1930s/IE/1939_A.txt
+
+We  can  make  of  our  sacrament meeting  something  more  sacred  and  divine.
+
+POSITIVE received score 0.9985962510108948
+
+decades/1930s/IE/1939_O.txt
+
+It  is  not  possible  to  invite  children  to  attend  Sacrament  meeting,  unless  we  set  the  example.
+
+NEGATIVE received score 0.998619794845581
+
+﻿decades/1930s/IE/1934_A.txt
+
+It  has  been  said  that  no  human  tongue  can  speak  words  whose  message is  equal  in  importance  to  partaking  worthily  of  the  Lord's  Supper.
+
+POSITIVE received score 0.9961308240890503
+
+decades/1930s/IE/1936_A.txt
+
+Speaking  of  "The  Paschal  Feast  and  the  Lord's  Supper,"  he  says :   Jewish  tradition  has  this  curious  conceit:  that  the  most  important  events  in  Israel's  history  were  connected  with  the  Paschal  season.
+
+NEGATIVE received score 0.9623629450798035
+
+decades/1930s/IE/1936_A.txt
+
+It  is  a  remarkable  coincidence  that,  in  instituting  his  own  Supper,  the  Lord  Jesus  connected  the  symbol,  not  of  judgment,  but  of  his  dying  love,  with  his  "third  cup.
+
+POSITIVE received score 0.9983682036399841
+
+decades/1930s/IE/1936_O.txt
+
+When  the  Master  established  his  church  on  this  western  continent,  he  did  not  leave  the  Nephites  in  doubt  as  to  his  identity,  nor  as  to  his  wishes  concerning  the  Lord's  supper.
+
+POSITIVE received score 0.9971031546592712
+
+decades/1930s/IE/1936_O.txt
+
+But  now  he  was  about  to  leave  and  in  order  that  they  might  be  kept  mindful  of  his  coming  and  of  his  mission,  he  instituted  among  them  the  same  sacrament  of  the  Lord's  supper,  as  he  had  among  the  disciples  on  the  eastern  continent.
+
+POSITIVE received score 0.9963907599449158
+
