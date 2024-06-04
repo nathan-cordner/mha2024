@@ -1,0 +1,360 @@
+﻿decades/2020s/2020_A/cook_the_blessing_of_continuing_revelation_to_prophets_and_personal_revelation_to_guide_our_lives.txt
+
+Reverently and humbly we need to seek and ask and be patient and submissive.
+
+['quiet', 'loud'] received scores [0.9891247153282166, 0.010875280946493149]
+['soft', 'loud'] received scores [0.9909103512763977, 0.009089626371860504]
+['quiet', 'noisy'] received scores [0.9896488189697266, 0.010351133532822132]
+['soft', 'noisy'] received scores [0.9913492798805237, 0.00865078903734684]
+
+decades/2020s/2020_A/gong_hosanna_and_hallelujah﻿—the_living_jesus_christ_the_heart_of_restoration_and_easter.txt
+
+In doing so, Elijah’s appearance coincided, though not by coincidence, with the Jewish Passover season, which tradition reverently anticipates Elijah’s return.
+
+['loud', 'quiet'] received scores [0.8600509762763977, 0.1399490088224411]
+['loud', 'soft'] received scores [0.7004581689834595, 0.29954177141189575]
+['noisy', 'quiet'] received scores [0.737224280834198, 0.2627757489681244]
+['noisy', 'soft'] received scores [0.5163337588310242, 0.48366621136665344]
+
+decades/2020s/2020_A/nelson_hear_him.txt
+
+The earth will never again be the same, as God will ‘gather together in one all things in Christ’ “With reverence and gratitude, we as His Apostles invite all to know﻿—as we do﻿—that the heavens are open.
+
+['loud', 'quiet'] received scores [0.5845615863800049, 0.4154384732246399]
+['loud', 'soft'] received scores [0.7155105471611023, 0.2844894230365753]
+['quiet', 'noisy'] received scores [0.6673589944839478, 0.33264100551605225]
+['soft', 'noisy'] received scores [0.5288408398628235, 0.4711591601371765]
+
+decades/2020s/2020_A/nelson_opening_the_heavens_for_help.txt
+
+As we commemorate the event that was launched in 1820, it is important to remember that while we revere Joseph Smith as a prophet of God, this is not the church of Joseph Smith, nor is it the church of Mormon.
+
+['quiet', 'loud'] received scores [0.6976016759872437, 0.30239832401275635]
+['soft', 'loud'] received scores [0.5972116589546204, 0.40278834104537964]
+['quiet', 'noisy'] received scores [0.7749336361885071, 0.22506633400917053]
+['soft', 'noisy'] received scores [0.6887623071670532, 0.3112376928329468]
+
+decades/2020s/2020_A/renlund_consider_the_goodness_and_greatness_of_god.txt
+
+Reverence for the givers does more than just make us grateful.
+
+['loud', 'quiet'] received scores [0.5180737376213074, 0.4819263219833374]
+['loud', 'soft'] received scores [0.663891077041626, 0.3361089527606964]
+['quiet', 'noisy'] received scores [0.5577232241630554, 0.4422767758369446]
+['noisy', 'soft'] received scores [0.5930116772651672, 0.40698838233947754]
+
+decades/2020s/2020_A/renlund_consider_the_goodness_and_greatness_of_god.txt
+
+In a joyful and reverent way, Tom remembered each day the tragedy that brought him extended life.
+
+['loud', 'quiet'] received scores [0.8050256371498108, 0.19497433304786682]
+['soft', 'loud'] received scores [0.5446920990943909, 0.4553079307079315]
+['noisy', 'quiet'] received scores [0.6870655417442322, 0.31293439865112305]
+['soft', 'noisy'] received scores [0.692283570766449, 0.3077164590358734]
+
+decades/2020s/2020_A/renlund_consider_the_goodness_and_greatness_of_god.txt
+
+We can be reverently joyful as we realize that without Jesus Christ, we are doomed, but with Him, we can receive the greatest gift Heavenly Father can give.
+
+['loud', 'quiet'] received scores [0.7287456393241882, 0.27125436067581177]
+['loud', 'soft'] received scores [0.7944942712783813, 0.20550569891929626]
+['quiet', 'noisy'] received scores [0.5782318711280823, 0.4217681288719177]
+['noisy', 'soft'] received scores [0.5121088624000549, 0.4878911077976227]
+
+decades/2020s/2020_A/renlund_consider_the_goodness_and_greatness_of_god.txt
+
+Indeed, this reverence allows us to enjoy the promise “of eternal life in this world” and eventually receive “eternal life … even immortal glory” in the world to come.
+
+['loud', 'quiet'] received scores [0.5943709015846252, 0.40562909841537476]
+['loud', 'soft'] received scores [0.6920729875564575, 0.3079269826412201]
+['quiet', 'noisy'] received scores [0.6143665909767151, 0.3856334090232849]
+['soft', 'noisy'] received scores [0.5094838738441467, 0.4905160665512085]
+
+decades/2020s/2020_A/renlund_consider_the_goodness_and_greatness_of_god.txt
+
+As you act on those words and listen to Him, remember, joyfully and reverently, that the Savior loves to restore what you cannot restore; He loves to heal wounds you cannot heal; He loves to fix what has been irreparably broken; He compensates for any unfairness inflicted on you; and He loves to permanently mend even shattered hearts.
+
+['quiet', 'loud'] received scores [0.5396096706390381, 0.4603903889656067]
+['loud', 'soft'] received scores [0.6716251373291016, 0.32837483286857605]
+['quiet', 'noisy'] received scores [0.7336729168891907, 0.2663270831108093]
+['soft', 'noisy'] received scores [0.5346996784210205, 0.4653002917766571]
+
+decades/2020s/2020_O/andersen_we_talk_of_christ.txt
+
+We, of course, revere the right of each to choose, yet our Heavenly Father declared, “This is my beloved Son: hear him.
+
+['quiet', 'loud'] received scores [0.5694161653518677, 0.4305838644504547]
+['loud', 'soft'] received scores [0.6203244924545288, 0.37967556715011597]
+['quiet', 'noisy'] received scores [0.7850264310836792, 0.2149735987186432]
+['soft', 'noisy'] received scores [0.6282711625099182, 0.3717288672924042]
+
+decades/2020s/2020_O/harkness_peace,_be_still.txt
+
+And when prayerful pleas seem to go unanswered, our persistent faith in Jesus Christ produces patience, humility, and the ability to reverently utter the words “Thy will be done.
+
+['quiet', 'loud'] received scores [0.7429678440093994, 0.257032185792923]
+['loud', 'soft'] received scores [0.5047542452812195, 0.4952457547187805]
+['quiet', 'noisy'] received scores [0.7772722244262695, 0.22272776067256927]
+['soft', 'noisy'] received scores [0.5422419309616089, 0.4577580988407135]
+
+decades/2020s/2020_O/rasband_recommended_to_the_lord_.txt
+
+By divine design, our physical body is a creation of God, a temple for our spirit, and should be treated with reverence.
+
+['quiet', 'loud'] received scores [0.5927624106407166, 0.40723755955696106]
+['loud', 'soft'] received scores [0.5077733397483826, 0.4922267198562622]
+['quiet', 'noisy'] received scores [0.756929337978363, 0.24307063221931458]
+['soft', 'noisy'] received scores [0.6746791005134583, 0.32532086968421936]
+
+decades/2020s/2021_A/bednar_“the_principles_of_my_gospel”.txt
+
+President Oaks also emphasized the related principles of orderliness, cleanliness, reverence, and dignity.
+
+['quiet', 'loud'] received scores [0.6317672729492188, 0.36823275685310364]
+['loud', 'soft'] received scores [0.5057334899902344, 0.49426648020744324]
+['quiet', 'noisy'] received scores [0.9527093768119812, 0.04729066044092178]
+['soft', 'noisy'] received scores [0.9198459982872009, 0.08015402406454086]
+
+decades/2020s/2021_A/gong_room_in_the_inn.txt
+
+We reverently worship our Savior, thoughtful and considerate of each other.
+
+['quiet', 'loud'] received scores [0.9900309443473816, 0.0099690156057477]
+['soft', 'loud'] received scores [0.9268522262573242, 0.07314776629209518]
+['quiet', 'noisy'] received scores [0.9955683350563049, 0.0044316877610981464]
+['soft', 'noisy'] received scores [0.9662874341011047, 0.033712539821863174]
+
+decades/2020s/2021_A/oaks_what_has_our_savior_done_for_us.txt
+
+In worship, we reverently sing:   His precious blood he freely spilt; His life he freely gave, A sinless sacrifice for guilt, A dying world to save.
+
+['loud', 'quiet'] received scores [0.8352612257003784, 0.16473877429962158]
+['loud', 'soft'] received scores [0.8105403780937195, 0.18945957720279694]
+['noisy', 'quiet'] received scores [0.5945675373077393, 0.4054325520992279]
+['noisy', 'soft'] received scores [0.5530549883842468, 0.4469450116157532]
+
+decades/2020s/2021_O/eubank_i_pray_he’ll_use_us.txt
+
+With great reverence and love for Jesus Christ, our Master, I invite each of us to be a part of His magnificent ministry, and I pray He’ll use us.
+
+['loud', 'quiet'] received scores [0.7199323177337646, 0.28006765246391296]
+['loud', 'soft'] received scores [0.7134358882904053, 0.2865641713142395]
+['quiet', 'noisy'] received scores [0.5926070213317871, 0.4073929786682129]
+['soft', 'noisy'] received scores [0.6003081798553467, 0.3996918797492981]
+
+decades/2020s/2021_O/porter_god’s_love_the_most_joyous_to_the_soul.txt
+
+We reverently sing the words of Eliza R. Snow: “His precious blood he freely spilt; His life he freely gave
+
+['loud', 'quiet'] received scores [0.9214465618133545, 0.0785534679889679]
+['loud', 'soft'] received scores [0.7865806818008423, 0.21341931819915771]
+['noisy', 'quiet'] received scores [0.6269275546073914, 0.37307241559028625]
+['soft', 'noisy'] received scores [0.6544528603553772, 0.3455471694469452]
+
+decades/2020s/2021_O/soares_the_savior’s_abiding_compassion.txt
+
+The contrition and reverent love shown to Jesus by the woman were evidence of her sincere repentance and desire to receive a remission of her sins.
+
+['loud', 'quiet'] received scores [0.721930742263794, 0.27806928753852844]
+['loud', 'soft'] received scores [0.7675407528877258, 0.23245929181575775]
+['quiet', 'noisy'] received scores [0.7093948721885681, 0.2906050980091095]
+['soft', 'noisy'] received scores [0.6574676632881165, 0.34253233671188354]
+
+decades/2020s/2022_A/bingham_covenants_with_god_strengthen,_protect,_and_prepare_us_for_eternal_glory.txt
+
+We pray with a humble heart, study and ponder the scriptures, take the sacrament with a spirit of repentance and reverence, strive to keep the commandments, and follow the prophet’s counsel.
+
+['quiet', 'loud'] received scores [0.9567651152610779, 0.04323487728834152]
+['soft', 'loud'] received scores [0.6616621017456055, 0.33833786845207214]
+['quiet', 'noisy'] received scores [0.9742586612701416, 0.02574138529598713]
+['soft', 'noisy'] received scores [0.7698343992233276, 0.23016560077667236]
+
+decades/2020s/2022_A/rasband_to_heal_the_world.txt
+
+Who will reverence peace and obedience to laws greater than the trends of the day?
+
+['quiet', 'loud'] received scores [0.7219486832618713, 0.27805134654045105]
+['loud', 'soft'] received scores [0.585717499256134, 0.4142824709415436]
+['quiet', 'noisy'] received scores [0.8271092176437378, 0.17289073765277863]
+['soft', 'noisy'] received scores [0.5658254623413086, 0.4341745376586914]
+
+decades/2020s/2022_A/soares_in_awe_of_christ_and_his_gospel.txt
+
+Additionally, our study of God’s words is more meaningful; our prayers, more intentional; our worship, more reverent; our service in God’s kingdom, more diligent.
+
+['quiet', 'loud'] received scores [0.5958011746406555, 0.4041987955570221]
+['soft', 'loud'] received scores [0.5098727345466614, 0.490127295255661]
+['quiet', 'noisy'] received scores [0.8079476356506348, 0.19205233454704285]
+['soft', 'noisy'] received scores [0.7480472922325134, 0.2519526481628418]
+
+decades/2020s/2022_O/caussé_our_earthly_stewardship.txt
+
+Considering our individual circumstances, each of us can use the bountiful resources of the earth more reverently and prudently.
+
+['quiet', 'loud'] received scores [0.6292245388031006, 0.3707754611968994]
+['soft', 'loud'] received scores [0.5358982682228088, 0.46410176157951355]
+['quiet', 'noisy'] received scores [0.7539158463478088, 0.24608416855335236]
+['soft', 'noisy'] received scores [0.6758043169975281, 0.3241957426071167]
+
+decades/2020s/2022_O/rasband_this_day.txt
+
+When President Nelson meets with guests, presidents, kings, heads of state, and leaders of business and organizations and of diverse faiths, whether at Church headquarters or in their own locations, he reverently presents this book of revealed scripture.
+
+['loud', 'quiet'] received scores [0.7196163535118103, 0.2803836166858673]
+['loud', 'soft'] received scores [0.5650034546852112, 0.43499651551246643]
+['quiet', 'noisy'] received scores [0.5251747965812683, 0.4748252034187317]
+['soft', 'noisy'] received scores [0.6860787272453308, 0.3139213025569916]
+
+decades/2020s/2023_A/cook_just_keep_going—with_faith.txt
+
+I stopped talking, and his general conference talk “Reverence Invites Revelation” came to mind.
+
+['quiet', 'loud'] received scores [0.9698321223258972, 0.030167872086167336]
+['loud', 'soft'] received scores [0.5698339939117432, 0.4301660358905792]
+['quiet', 'noisy'] received scores [0.9728501439094543, 0.027149882167577744]
+['noisy', 'soft'] received scores [0.5430585145950317, 0.4569414258003235]
+
+decades/2020s/2023_A/renlund_accessing_god’s_power_through_covenants.txt
+
+To our modern ears, this sounds like a prohibition against irreverently using the Lord’s name.
+
+['loud', 'quiet'] received scores [0.8693564534187317, 0.13064353168010712]
+['loud', 'soft'] received scores [0.8308871388435364, 0.16911284625530243]
+['noisy', 'quiet'] received scores [0.8644128441810608, 0.13558711111545563]
+['noisy', 'soft'] received scores [0.8247812986373901, 0.17521871626377106]
+
+decades/2020s/2023_A/stevenson_the_greatest_easter_story_ever_told.txt
+
+Not only did they invite all of us to make sure our celebration of the most important event to ever happen on this earth—the Atonement and Resurrection of Jesus Christ—includes the reverence and respect the Lord deserves, but they also gave us more time with our families and friends on Easter Sunday to do so.
+
+['loud', 'quiet'] received scores [0.7700841426849365, 0.2299158126115799]
+['loud', 'soft'] received scores [0.8833612203598022, 0.11663880944252014]
+['quiet', 'noisy'] received scores [0.6190537214279175, 0.3809462785720825]
+['noisy', 'soft'] received scores [0.5818400979042053, 0.4181598722934723]
+
+decades/2020s/2023_O/bednar_in_the_path_of_their_duty.txt
+
+He concluded his message with this stirring commendation: “To these humble souls, great in faith, great in work, great in righteous living, great in fashioning our priceless heritage, I humbly render my love, my respect, my reverent homage.
+
+['loud', 'quiet'] received scores [0.9791259169578552, 0.02087402530014515]
+['loud', 'soft'] received scores [0.9755953550338745, 0.024404630064964294]
+['noisy', 'quiet'] received scores [0.8832425475120544, 0.11675738543272018]
+['noisy', 'soft'] received scores [0.8657185435295105, 0.13428142666816711]
+
+decades/2020s/2023_O/bednar_in_the_path_of_their_duty.txt
+
+In an increasingly confused world beset with calamities and misplaced priorities, these courageous souls heed not the secular voices extolling self-centeredness; they reverence the sanctity and importance of life in Heavenly Father’s plan of happiness for His children.
+
+['loud', 'quiet'] received scores [0.8319280743598938, 0.1680719405412674]
+['loud', 'soft'] received scores [0.8467968702316284, 0.1532030999660492]
+['noisy', 'quiet'] received scores [0.6824190020561218, 0.31758105754852295]
+['noisy', 'soft'] received scores [0.705837607383728, 0.294162392616272]
+
+decades/2020s/2023_O/gong_love_is_spoken_here.txt
+
+Today, let us speak of three languages of gospel love: the language of warmth and reverence, the language of service and sacrifice, and the language of covenant belonging.
+
+['loud', 'quiet'] received scores [0.6404023766517639, 0.35959768295288086]
+['soft', 'loud'] received scores [0.627878725528717, 0.3721211850643158]
+['noisy', 'quiet'] received scores [0.5036460161209106, 0.49635401368141174]
+['soft', 'noisy'] received scores [0.7475624680519104, 0.2524375319480896]
+
+decades/2020s/2023_O/gong_love_is_spoken_here.txt
+
+First, the gospel language of warmth and reverence.
+
+['quiet', 'loud'] received scores [0.7521695494651794, 0.24783048033714294]
+['soft', 'loud'] received scores [0.9613399505615234, 0.03866001218557358]
+['quiet', 'noisy'] received scores [0.9142718315124512, 0.08572811633348465]
+['soft', 'noisy'] received scores [0.988685131072998, 0.011314931325614452]
+
+decades/2020s/2023_O/gong_love_is_spoken_here.txt
+
+With warmth and reverence, Sister Gong asks children and youth, “How do you know your parents and families love you?
+
+['loud', 'quiet'] received scores [0.6773381233215332, 0.3226619064807892]
+['soft', 'loud'] received scores [0.8113675713539124, 0.18863245844841003]
+['quiet', 'noisy'] received scores [0.7149713635444641, 0.2850286066532135]
+['soft', 'noisy'] received scores [0.9577158689498901, 0.042284127324819565]
+
+decades/2020s/2023_O/gong_love_is_spoken_here.txt
+
+With warmth and reverence, our sacrament and other meetings focus on Jesus Christ.
+
+['quiet', 'loud'] received scores [0.5986840724945068, 0.40131595730781555]
+['soft', 'loud'] received scores [0.7393363118171692, 0.2606636583805084]
+['quiet', 'noisy'] received scores [0.8466776609420776, 0.15332230925559998]
+['soft', 'noisy'] received scores [0.9130386710166931, 0.08696132898330688]
+
+decades/2020s/2023_O/gong_love_is_spoken_here.txt
+
+We speak reverently of the Atonement of Jesus Christ, personal and real, not only of atonement in the abstract.
+
+['loud', 'quiet'] received scores [0.6424893140792847, 0.3575107455253601]
+['loud', 'soft'] received scores [0.524482786655426, 0.4755171835422516]
+['quiet', 'noisy'] received scores [0.5530335307121277, 0.4469664990901947]
+['soft', 'noisy'] received scores [0.6684339046478271, 0.3315661549568176]
+
+decades/2020s/2023_O/gong_love_is_spoken_here.txt
+
+We use reverent prayer language when we address Heavenly Father and warm respect when we speak with each other.
+
+['quiet', 'loud'] received scores [0.845205545425415, 0.15479446947574615]
+['soft', 'loud'] received scores [0.9102590084075928, 0.08974101394414902]
+['quiet', 'noisy'] received scores [0.9285889863967896, 0.07141102105379105]
+['soft', 'noisy'] received scores [0.9602481126785278, 0.03975191339850426]
+
+decades/2020s/2023_O/gong_love_is_spoken_here.txt
+
+Let us always speak with warm and reverent gratitude for God’s work and glory and the merits, mercy, and grace of Jesus Christ and His atoning sacrifice.
+
+['loud', 'quiet'] received scores [0.6226815581321716, 0.37731844186782837]
+['loud', 'soft'] received scores [0.5295464992523193, 0.47045350074768066]
+['quiet', 'noisy'] received scores [0.5994064211845398, 0.4005935490131378]
+['soft', 'noisy'] received scores [0.6868889331817627, 0.3131111264228821]
+
+decades/2020s/2023_O/gong_love_is_spoken_here.txt
+
+Similarly, our own direct, repeated experiences may be our best spiritual way to learn the gospel languages of warmth and reverence, service and sacrifice, and covenant belonging.
+
+['loud', 'quiet'] received scores [0.6008479595184326, 0.39915207028388977]
+['loud', 'soft'] received scores [0.5003617405891418, 0.49963825941085815]
+['quiet', 'noisy'] received scores [0.6350820660591125, 0.3649180233478546]
+['soft', 'noisy'] received scores [0.7234488129615784, 0.27655115723609924]
+
+decades/2020s/2023_O/parrella_bearing_witness_of_jesus_christ_in_word_and_actions.txt
+
+After reverently partaking of the sacrament, members stood up and bore heartfelt testimonies of the Savior one after the other.
+
+['loud', 'quiet'] received scores [0.8944703936576843, 0.10552962124347687]
+['loud', 'soft'] received scores [0.7458232045173645, 0.2541768252849579]
+['noisy', 'quiet'] received scores [0.6181882619857788, 0.3818116784095764]
+['soft', 'noisy'] received scores [0.6408179402351379, 0.3591820299625397]
+
+decades/2020s/2023_O/stevenson_promptings_of_the_spirit.txt
+
+More poignant yet was the reverent and respectful reaction elicited from guests as ancestral ordinances were described in rooms where they would occur.
+
+['loud', 'quiet'] received scores [0.528832733631134, 0.47116729617118835]
+['soft', 'loud'] received scores [0.6323947906494141, 0.36760517954826355]
+['quiet', 'noisy'] received scores [0.7078577280044556, 0.29214227199554443]
+['soft', 'noisy'] received scores [0.8238953948020935, 0.1761045753955841]
+
+decades/2020s/2023_O/stevenson_promptings_of_the_spirit.txt
+
+Their reverent, quiet tone; gratitude; and prayerful hearts filled the arena with the presence of the Holy Spirit.
+
+['quiet', 'loud'] received scores [0.9972531199455261, 0.0027469052001833916]
+['soft', 'loud'] received scores [0.9822339415550232, 0.017766091972589493]
+['quiet', 'noisy'] received scores [0.9977391958236694, 0.0022607981227338314]
+['soft', 'noisy'] received scores [0.9853388071060181, 0.014661184512078762]
+
+decades/2020s/2023_O/waddell_more_than_a_hero.txt
+
+Although we admire and respect many talented and remarkable men and women for their abilities and contributions, the degree to which they are revered, if taken to an excess, can be the equivalent of the children of Israel worshipping a golden calf in the desert of Sinai.
+
+['loud', 'quiet'] received scores [0.9057666659355164, 0.09423335641622543]
+['loud', 'soft'] received scores [0.737170934677124, 0.26282912492752075]
+['noisy', 'quiet'] received scores [0.8044590950012207, 0.1955408900976181]
+['noisy', 'soft'] received scores [0.545550525188446, 0.4544494152069092]
+

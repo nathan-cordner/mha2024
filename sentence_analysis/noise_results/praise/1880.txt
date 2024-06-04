@@ -1,0 +1,657 @@
+﻿decades/1880s/22/difference_between_the_true_church_of_christ_and_the_churches_of_the_world—the_love_and_union_begotten_by_the_holy_spirit—the_gl.txt
+
+The Lord is determined that he shall have the glory; that his name will be praised for all that has been done, and that shall be done.
+
+['loud', 'quiet'] received scores [0.5989319086074829, 0.4010680913925171]
+['loud', 'soft'] received scores [0.7465311884880066, 0.2534688413143158]
+['quiet', 'noisy'] received scores [0.7292714715003967, 0.2707284390926361]
+['soft', 'noisy'] received scores [0.5773123502731323, 0.4226876199245453]
+
+decades/1880s/22/liberty_of_conscience—the_unrighteousness_of_religious_persecution—eternal_truths_revealed—indestructibility_of_the_principles_o.txt
+
+When he opened the eyes of the blind they said: "Give God the praise: we know that this man is a sinner.
+
+['loud', 'quiet'] received scores [0.9133939743041992, 0.0866059809923172]
+['loud', 'soft'] received scores [0.787472665309906, 0.21252737939357758]
+['noisy', 'quiet'] received scores [0.6302144527435303, 0.3697855472564697]
+['soft', 'noisy'] received scores [0.6254869103431702, 0.37451305985450745]
+
+decades/1880s/22/partaking_of_the_lord's_supper,_etc_charles_w._penrose.txt
+
+Our testimony to all the world is we know that God lives; we know that Jesus is the Son of God; we know that the atonement was wrought out for us and all the world who will receive it; we know that we have received a remission of our sins; we know that the Lord has brought us up out of the miry clay and placed our feet upon a rock and put a new song in our mouths of everlasting praise to God and the Lamb.
+
+['loud', 'quiet'] received scores [0.9204075336456299, 0.07959243655204773]
+['loud', 'soft'] received scores [0.7153488397598267, 0.28465116024017334]
+['noisy', 'quiet'] received scores [0.6698428392410278, 0.3301571309566498]
+['soft', 'noisy'] received scores [0.6940064430236816, 0.30599355697631836]
+
+decades/1880s/22/revelation—the_privileges_of_the_saints,_etc_george_q._cannon.txt
+
+He will make the wrath of man to praise him, and the remainder of wrath will he restrain.
+
+['loud', 'quiet'] received scores [0.579238772392273, 0.4207612872123718]
+['loud', 'soft'] received scores [0.6345494389533997, 0.36545050144195557]
+['quiet', 'noisy'] received scores [0.5933573842048645, 0.4066426157951355]
+['soft', 'noisy'] received scores [0.5363673567771912, 0.46363261342048645]
+
+decades/1880s/22/the_blessings_enjoyed_through_possessing_the_ancient_records,_etc_george_q._cannon.txt
+
+for in the darkness, in the unbelief, in the denial of God, which is so common at the present time, the man who knows that God lives, that God hears and answers prayer, the woman who knows this occupies a very superior position and has great cause for thanksgiving and praise that such knowledge has been placed in his or her possession.
+
+['loud', 'quiet'] received scores [0.7994207143783569, 0.20057927072048187]
+['loud', 'soft'] received scores [0.8322489857673645, 0.1677510142326355]
+['noisy', 'quiet'] received scores [0.5954724550247192, 0.40452760457992554]
+['noisy', 'soft'] received scores [0.6469383239746094, 0.3530616760253906]
+
+decades/1880s/22/the_saints_have_cause_to_rejoice—their_labors_and_future_wilford_woodruff.txt
+
+When I read these solemn, these eternal declarations made through the mouth of Joseph Smith, my heart swells with gratitude and praise to God, my heavenly Father.
+
+['quiet', 'loud'] received scores [0.993586003780365, 0.006413963157683611]
+['loud', 'soft'] received scores [0.5132393836975098, 0.48676061630249023]
+['quiet', 'noisy'] received scores [0.9982202649116516, 0.0017797225154936314]
+['soft', 'noisy'] received scores [0.7744660973548889, 0.22553391754627228]
+
+decades/1880s/22/the_worship_of_god,_the_sacredness_of_the_sabbath,_etc_john_taylor.txt
+
+If we sing praises to God, let us do it in the proper spirit; if we pray, let every soul be engaged in prayer, doing it with all our hearts, that through our union our spirits may be blended in one, that our prayers and our worship may be available with God, whose Spirit permeates all things, and is always present in the assemblies of good and faithful Saints.
+
+['quiet', 'loud'] received scores [0.5608569383621216, 0.4391430616378784]
+['loud', 'soft'] received scores [0.5792136788368225, 0.4207862913608551]
+['quiet', 'noisy'] received scores [0.8001682162284851, 0.1998317539691925]
+['soft', 'noisy'] received scores [0.6949065327644348, 0.3050934672355652]
+
+decades/1880s/22/tithing_and_other_matters—correct_views_necessary_john_taylor.txt
+
+And when I see our juveniles who are organized as Primary Associations, brought together and taught to sing the praises of God, and to comprehend the principles of the Gospel—and in many instances their parents scarcely sense the responsibility God placed upon them when He placed these precious jewels in their care, making them the fathers and mothers of lives—when I see our brethren and sisters engaged teaching these children to lisp the praises of God, and to honor and obey their parents and  to do that which is right, I say God bless them.
+
+['loud', 'quiet'] received scores [0.72249436378479, 0.27750566601753235]
+['loud', 'soft'] received scores [0.862957239151001, 0.13704273104667664]
+['quiet', 'noisy'] received scores [0.525779664516449, 0.47422030568122864]
+['noisy', 'soft'] received scores [0.6856787800788879, 0.3143211901187897]
+
+decades/1880s/22/tithing_and_other_matters—correct_views_necessary_john_taylor.txt
+
+We have to build up Zion, and make it the praise of the whole earth; but to do this acceptably to God, we must be governed by the principles of purity and honesty; truthfulness and integrity and all the sterling virtues which God has pointed out for man to be governed by.
+
+['loud', 'quiet'] received scores [0.5364835262298584, 0.4635164141654968]
+['loud', 'soft'] received scores [0.7248390913009644, 0.27516084909439087]
+['quiet', 'noisy'] received scores [0.7430960536003113, 0.2569039463996887]
+['soft', 'noisy'] received scores [0.5596454739570618, 0.4403545558452606]
+
+decades/1880s/23/god's_peculiar_people_called_a_kingdom_of_priests—their_ministry_thus_foreshadowed—the_melchizedek_and_aaronic_priesthoods—their.txt
+
+Also the 9th verse of the same chapter:    "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should show forth the praises of him who hath called you out of darkness into his marvelous light.
+
+['loud', 'quiet'] received scores [0.8098530769348145, 0.19014689326286316]
+['loud', 'soft'] received scores [0.6191977858543396, 0.3808022439479828]
+['noisy', 'quiet'] received scores [0.6956326961517334, 0.3043672442436218]
+['soft', 'noisy'] received scores [0.5340284705162048, 0.4659714996814728]
+
+decades/1880s/23/peace_and_prosperity_of_the_saints—growing_importance_of_the_church_from_its_organization—the_work_of_god_and_not_of_man—god's_b.txt
+
+Man's education is praised, the college where he received it receives credit for it according to the ability that he may display, and God is very little thought about in the matter, and certainly the Holy Ghost gets no credit, for it is supposed that the Holy Ghost has nothing to do with it.
+
+['quiet', 'loud'] received scores [0.9310314655303955, 0.0689685270190239]
+['soft', 'loud'] received scores [0.6225123405456543, 0.3774876892566681]
+['quiet', 'noisy'] received scores [0.9486753344535828, 0.05132470652461052]
+['soft', 'noisy'] received scores [0.6930627226829529, 0.3069372773170471]
+
+decades/1880s/23/peace_and_prosperity_of_the_saints—growing_importance_of_the_church_from_its_organization—the_work_of_god_and_not_of_man—god's_b.txt
+
+No man can look upon the organization of this Church and ex amine it in its details without being wonderfully impressed—if he be a man who does not give glory to God—with the ability of the man who framed it; but if he be disposed to give glory to God, he cannot examine it without praising God in his heart for giving so wonderful and so simple an organization on the earth for a church.
+
+['loud', 'quiet'] received scores [0.7246778607368469, 0.27532219886779785]
+['loud', 'soft'] received scores [0.8037245273590088, 0.1962755024433136]
+['quiet', 'noisy'] received scores [0.7889554500579834, 0.21104450523853302]
+['soft', 'noisy'] received scores [0.7061355710029602, 0.2938644289970398]
+
+decades/1880s/23/peace_and_prosperity_of_the_saints—growing_importance_of_the_church_from_its_organization—the_work_of_god_and_not_of_man—god's_b.txt
+
+I have been told repeatedly that we do not honor our men enough, we do not give them praise enough; but it is a fact, the people look behind the instrument.
+
+['loud', 'quiet'] received scores [0.5320578813552856, 0.46794214844703674]
+['loud', 'soft'] received scores [0.605282723903656, 0.394717276096344]
+['quiet', 'noisy'] received scores [0.539254367351532, 0.460745632648468]
+['noisy', 'soft'] received scores [0.535385012626648, 0.46461498737335205]
+
+decades/1880s/23/peace_and_prosperity_of_the_saints—growing_importance_of_the_church_from_its_organization—the_work_of_god_and_not_of_man—god's_b.txt
+
+And when Elders in this Church are successful there is very little disposition to give them the glory or the praise therefore.
+
+['quiet', 'loud'] received scores [0.9854669570922852, 0.014533005654811859]
+['soft', 'loud'] received scores [0.9154946804046631, 0.0845053419470787]
+['quiet', 'noisy'] received scores [0.9598526358604431, 0.040147386491298676]
+['soft', 'noisy'] received scores [0.7925193905830383, 0.20748065412044525]
+
+decades/1880s/23/peace_and_prosperity_of_the_saints—growing_importance_of_the_church_from_its_organization—the_work_of_god_and_not_of_man—god's_b.txt
+
+The praise is given to God, who is the author of these blessings and of the gathering of this people together.
+
+['loud', 'quiet'] received scores [0.5632901191711426, 0.4367099106311798]
+['loud', 'soft'] received scores [0.613679826259613, 0.38632023334503174]
+['quiet', 'noisy'] received scores [0.7392539978027344, 0.26074597239494324]
+['soft', 'noisy'] received scores [0.6971607208251953, 0.3028392195701599]
+
+decades/1880s/23/persecution_fulfilling_prophecy—vermont,_the_birthplace_of_prominent_mormons_and_their_oppressors—the_faith_and_integrity_of_th.txt
+
+Thus we see, that the wrath of man is made to praise God.
+
+['loud', 'quiet'] received scores [0.8526826500892639, 0.14731736481189728]
+['loud', 'soft'] received scores [0.8343081474304199, 0.16569185256958008]
+['noisy', 'quiet'] received scores [0.6809296011924744, 0.319070428609848]
+['noisy', 'soft'] received scores [0.6499277949333191, 0.3500722050666809]
+
+decades/1880s/23/persecution_fulfilling_prophecy—vermont,_the_birthplace_of_prominent_mormons_and_their_oppressors—the_faith_and_integrity_of_th.txt
+
+On the contrary, everything they do contributes to its establishment; contributes to prove its divine authenticity, to show that there is an overruling power greater than that of man, even the power of the Most High God, and that he causes the nations of the earth and the powers of the earth to praise him, to add to his glory and to the accomplishment of his purposes.
+
+['loud', 'quiet'] received scores [0.6452328562736511, 0.3547671139240265]
+['loud', 'soft'] received scores [0.5762014389038086, 0.42379850149154663]
+['quiet', 'noisy'] received scores [0.5280891060829163, 0.47191089391708374]
+['soft', 'noisy'] received scores [0.5995103716850281, 0.40048959851264954]
+
+decades/1880s/23/persecution_fulfilling_prophecy—vermont,_the_birthplace_of_prominent_mormons_and_their_oppressors—the_faith_and_integrity_of_th.txt
+
+God be praised for it.
+
+['loud', 'quiet'] received scores [0.8231263756752014, 0.176873579621315]
+['loud', 'soft'] received scores [0.8595925569534302, 0.14040742814540863]
+['quiet', 'noisy'] received scores [0.6900569200515747, 0.3099430501461029]
+['soft', 'noisy'] received scores [0.6285846829414368, 0.3714153468608856]
+
+decades/1880s/23/persecution_fulfilling_prophecy—vermont,_the_birthplace_of_prominent_mormons_and_their_oppressors—the_faith_and_integrity_of_th.txt
+
+I feel to praise Him from the bottom of my heart that He has poured out upon His people this spirit of peace.
+
+['loud', 'quiet'] received scores [0.7674036026000977, 0.23259638249874115]
+['loud', 'soft'] received scores [0.8587619662284851, 0.14123807847499847]
+['quiet', 'noisy'] received scores [0.6070730090141296, 0.39292699098587036]
+['noisy', 'soft'] received scores [0.5439640283584595, 0.4560359716415405]
+
+decades/1880s/23/the_dispensation_of_the_fulness_of_times—restoration_of_the_gospel—duties_of_the_priesthood—the_future_of_zion—inconsistency_of_.txt
+
+He did not feel like some feel towards us; although there have been praiseworthy efforts made by a few to maintain constitutional principles, and we recognize them as the sentiments and feelings of honorable men, who wish to see correct principles maintained in our land.
+
+['quiet', 'loud'] received scores [0.5872780680656433, 0.4127218425273895]
+['soft', 'loud'] received scores [0.5708658695220947, 0.42913416028022766]
+['quiet', 'noisy'] received scores [0.6362103819847107, 0.3637895882129669]
+['soft', 'noisy'] received scores [0.6204864978790283, 0.3795135021209717]
+
+decades/1880s/23/the_dispensation_of_the_fulness_of_times—restoration_of_the_gospel—duties_of_the_priesthood—the_future_of_zion—inconsistency_of_.txt
+
+Yet this loathsome, filthy, debauched, degraded monster is held up for our veneration and worship by its corrupt Christian devotees as the essence of everything that is great and grand, noble and praiseworthy; and we are called upon to fall down and worship this loathsome monster under the threat of unconstitutional pains and penalties, and the violation of every principle of liberty and protection guaranteed under the Constitution.
+
+['loud', 'quiet'] received scores [0.7954104542732239, 0.2045895755290985]
+['loud', 'soft'] received scores [0.7500333786010742, 0.24996666610240936]
+['noisy', 'quiet'] received scores [0.7716779112815857, 0.2283221036195755]
+['noisy', 'soft'] received scores [0.7228710055351257, 0.27712902426719666]
+
+decades/1880s/23/the_dispensation_of_the_fulness_of_times—restoration_of_the_gospel—duties_of_the_priesthood—the_future_of_zion—inconsistency_of_.txt
+
+Brethren and sisters, God bless you, and God bless the honorable of the earth, and may the wrath of the wicked be made to praise Him, and the remainder may He restrain.
+
+['loud', 'quiet'] received scores [0.5956330895423889, 0.4043668806552887]
+['loud', 'soft'] received scores [0.7814196348190308, 0.21858036518096924]
+['quiet', 'noisy'] received scores [0.6670873761177063, 0.3329126238822937]
+['noisy', 'soft'] received scores [0.5477578043937683, 0.4522421956062317]
+
+decades/1880s/23/the_establishment_of_character—traits_that_are_admirable—how_to_have_influence_with_heaven—why_men_should_do_right—the_cultivati.txt
+
+The idea is not to do good because of the praise of men; but to do good because in doing good we develop godliness within us, and this being the case we shall become allied to godliness, which will in time become part and portion of our being.
+
+['quiet', 'loud'] received scores [0.5918290615081787, 0.4081709384918213]
+['loud', 'soft'] received scores [0.6119445562362671, 0.3880554437637329]
+['quiet', 'noisy'] received scores [0.7516673803329468, 0.24833263456821442]
+['soft', 'noisy'] received scores [0.5696686506271362, 0.4303313195705414]
+
+decades/1880s/23/the_marriage_question—lawful_concubinage_and_its_unlawful_counterfeit—various_views_concerning_the_union_of_the_sexes—plural_mar.txt
+
+They cannot comprehend the spirit that governs us, the devout Godfearing spirit of self-sacrifice which leads us onward to all that is noble, forbearing and long-suffering, that teaches us to love one another and to be charitable to all men, and which teaches us that the relationships which we make through the marriage covenant are but the foundation of eternal glory and exaltation in the worlds to come; and it also teaches us that the glories of the future that open up before us are greatly dependent upon the faithfulness of our relationships and associations in this life; and that a man must be found capable to properly govern and guide his family and preserve in time the wives and children that are given to him, leading them in the way of life and salvation, and rearing his children in all that is pure and praiseworthy, so that he can receive them in the morning of the first resurrection, there to have the Father confirm upon him his wives and children, the foundation of his individual kingdom which will exist forever and ever.
+
+['quiet', 'loud'] received scores [0.810811460018158, 0.18918852508068085]
+['soft', 'loud'] received scores [0.642182469367981, 0.35781753063201904]
+['quiet', 'noisy'] received scores [0.8129577040672302, 0.18704232573509216]
+['soft', 'noisy'] received scores [0.6454050540924072, 0.35459497570991516]
+
+decades/1880s/23/the_mission_of_the_holy_ghost—commissions_of_the_ancient_and_modern_apostles—unbelief,_division,_superstition_and_fanaticism—sin.txt
+
+I have seen women walk upon their knees three miles over rough stony roads, being rewarded at the end of their painful journey with a plaited crown of thorns placed upon their heads, while being carried upon the shoulders of strong men, amid the cheering multitude, who praised them for having accomplished what they believed to be a saintly, meritorious task.
+
+['loud', 'quiet'] received scores [0.9803627729415894, 0.019637173041701317]
+['loud', 'soft'] received scores [0.9739627838134766, 0.026037247851490974]
+['noisy', 'quiet'] received scores [0.977607011795044, 0.022392963990569115]
+['noisy', 'soft'] received scores [0.9703360199928284, 0.029664017260074615]
+
+decades/1880s/23/the_settling_of_southern_utah—building_of_the_temple,_etc_john_taylor.txt
+
+Being called to live in a land like this, in the midst of rugged mountains and barren deserts we will sing, "For the strength of the hills we bless thee, our God, our fathers' God;" for the wisdom Thou hast displayed we praise Thee, O God, our fathers' God.
+
+['loud', 'quiet'] received scores [0.9050501585006714, 0.09494981169700623]
+['loud', 'soft'] received scores [0.8802736401557922, 0.11972638964653015]
+['noisy', 'quiet'] received scores [0.8535981178283691, 0.14640183746814728]
+['noisy', 'soft'] received scores [0.81809401512146, 0.18190599977970123]
+
+decades/1880s/23/the_southern_states_mission—faithfulness_of_young_elders—opposition_to_the_truth—gradual_spread_of_the_gospel—changes_in_religio.txt
+
+We have realized the blessings of God upon us in all our labors in the midst of the people, for which we feel to rejoice and give thanks and praise to him.
+
+['loud', 'quiet'] received scores [0.7108591198921204, 0.28914085030555725]
+['loud', 'soft'] received scores [0.7516831159591675, 0.24831688404083252]
+['quiet', 'noisy'] received scores [0.5874993801116943, 0.4125005900859833]
+['soft', 'noisy'] received scores [0.5363330245018005, 0.46366700530052185]
+
+decades/1880s/23/the_southern_states_mission—faithfulness_of_young_elders—opposition_to_the_truth—gradual_spread_of_the_gospel—changes_in_religio.txt
+
+There has been evinced a feeling that certainly is most praiseworthy, a desire to emulate the example set by their fathers in preaching the principles of eternal truth, often under unpleasant circumstances.
+
+['loud', 'quiet'] received scores [0.7713114023208618, 0.22868859767913818]
+['loud', 'soft'] received scores [0.7963009476661682, 0.2036990523338318]
+['quiet', 'noisy'] received scores [0.6663877367973328, 0.33361223340034485]
+['soft', 'noisy'] received scores [0.6328097581863403, 0.3671902120113373]
+
+decades/1880s/23/the_temple_at_logan—the_liquor_traffic—church_organization—duties_of_its_officers—treatment_of_transgressors—an_interesting_anec.txt
+
+There is a great zeal and a great interest manifested in Sunday schools, which is also very praiseworthy.
+
+['loud', 'quiet'] received scores [0.950306236743927, 0.04969373717904091]
+['loud', 'soft'] received scores [0.9280385971069336, 0.07196136564016342]
+['noisy', 'quiet'] received scores [0.6239619255065918, 0.376038134098053]
+['noisy', 'soft'] received scores [0.5280797481536865, 0.47192028164863586]
+
+decades/1880s/23/the_temple_at_logan—the_liquor_traffic—church_organization—duties_of_its_officers—treatment_of_transgressors—an_interesting_anec.txt
+
+If we do right he has told us "the wrath of man shall praise me, and the remainder I will restrain.
+
+['loud', 'quiet'] received scores [0.6892478466033936, 0.31075218319892883]
+['loud', 'soft'] received scores [0.6867209076881409, 0.3132791221141815]
+['quiet', 'noisy'] received scores [0.5124875903129578, 0.48751240968704224]
+['soft', 'noisy'] received scores [0.5154281854629517, 0.48457181453704834]
+
+decades/1880s/24/a_comparison—wrath_of_man_made_to_praise_god—fall_of_senator_edmunds—fate_of_those_who_oppose_god's_work—persecution_for_religio.txt
+
+Can we not see how the Lord has stayed the passions of men and made their wrath to praise Him?
+
+['loud', 'quiet'] received scores [0.7763015627861023, 0.22369840741157532]
+['loud', 'soft'] received scores [0.7796059846878052, 0.22039398550987244]
+['noisy', 'quiet'] received scores [0.6005423069000244, 0.39945775270462036]
+['noisy', 'soft'] received scores [0.6051223874092102, 0.39487770199775696]
+
+decades/1880s/24/causes_of_gratitude—the_church_illustrated_by_a_vine—priesthood_represented_by_the_branches—independence—case_of_lyman_wight—pri.txt
+
+We have this day extraordinary reason for gratitude and praise to God our Heavenly Father for the peculiar manifestation of His kindness and mercy to us during the past year; not only in granting that the earth should be fruitful in yielding abundantly for the returning wants of His people both for man and beast, but for the protection and deliverance of His people from the machinations and devices and the subtle plans of men high in authority, who have set themselves to ensnare us, and if it were possible, to hinder the work of God—men who have thought to destroy  or cripple the great cause which God has established in the earth for the redemption and exaltation of the human family, from degradation and sin to the realms of intelligence and glory in His kingdom.
+
+['loud', 'quiet'] received scores [0.8808819055557251, 0.11911806464195251]
+['loud', 'soft'] received scores [0.834173858165741, 0.16582615673542023]
+['noisy', 'quiet'] received scores [0.6662635803222656, 0.3337364196777344]
+['noisy', 'soft'] received scores [0.5759152770042419, 0.42408475279808044]
+
+decades/1880s/24/elders_always_ready_for_duty—no_salaried_preachers_in_the_church—no_compulsion_in_the_work_of_the_elders—the_liberty_of_law—sin_.txt
+
+Then the chains and shackles that bind the oppressed will fall to the ground, and light and truth will go forth until the whole earth is immersed in the spirit thereof, and every nation, kindred, tongue and people will sing praises to the Most High and to the Lamb forever.
+
+['loud', 'quiet'] received scores [0.7568058371543884, 0.24319413304328918]
+['loud', 'soft'] received scores [0.8355017900466919, 0.1644982099533081]
+['noisy', 'quiet'] received scores [0.5102537274360657, 0.4897463023662567]
+['noisy', 'soft'] received scores [0.6296945810317993, 0.37030544877052307]
+
+decades/1880s/24/greatness_of_the_work_inaugurated_and_accomplished_by_the_prophet_joseph_smith—sketch_of_the_prophet's_early_life—refutation_of_.txt
+
+They speak to his praise, to his honor, and they hold his name in honorable remembrance.
+
+['loud', 'quiet'] received scores [0.9377682209014893, 0.06223181262612343]
+['loud', 'soft'] received scores [0.8331997990608215, 0.16680017113685608]
+['noisy', 'quiet'] received scores [0.8048408627510071, 0.19515909254550934]
+['noisy', 'soft'] received scores [0.5775368213653564, 0.42246314883232117]
+
+decades/1880s/24/improvement_among_the_people—interest_manifested_by_the_world_in_the_mormons—evidences_of_divinity_in_the_work—same_effects_fol.txt
+
+And God's hand has thus been manifested in the most wonderful manner in the eyes of those who believe and who have had faith, and they have had causes for thanksgiving and praise to God every day that they have lived.
+
+['loud', 'quiet'] received scores [0.746819794178009, 0.25318023562431335]
+['loud', 'soft'] received scores [0.7772976756095886, 0.22270233929157257]
+['quiet', 'noisy'] received scores [0.5111240744590759, 0.48887595534324646]
+['noisy', 'soft'] received scores [0.5309008955955505, 0.46909910440444946]
+
+decades/1880s/24/interest_in_the_work_of_god—faith_in_the_destiny_of_the_people—mormonism_a_knotty_problem—no_freedom_for_the_saints—good_effec.txt
+
+I have no praise to bestow upon myself for it, and I ask none.
+
+['quiet', 'loud'] received scores [0.9928396344184875, 0.007160360924899578]
+['soft', 'loud'] received scores [0.9156703948974609, 0.08432964980602264]
+['quiet', 'noisy'] received scores [0.9930949211120605, 0.006905079819262028]
+['soft', 'noisy'] received scores [0.9184508323669434, 0.08154910802841187]
+
+decades/1880s/24/prosperity_of_the_saints—danger_to_be_avoided—how_blessings_are_to_be_obtained—free_agency—triumph_of_the_work_of_god_testified_.txt
+
+I do not feel to boast, only in the strength of our God; and I do feel from the inmost recesses of my heart to praise His holy name, and to thank Him that I have been permitted to see the Kingdom where it is today.
+
+['quiet', 'loud'] received scores [0.9756463170051575, 0.024353688582777977]
+['soft', 'loud'] received scores [0.78803551197052, 0.2119644731283188]
+['quiet', 'noisy'] received scores [0.9654424786567688, 0.0345575250685215]
+['soft', 'noisy'] received scores [0.7216516137123108, 0.2783484160900116]
+
+decades/1880s/24/retrospective_review_of_the_providences_of_god_in_relation_to_the_saints—the_wrath_and_schemes_of_men_turned_to_the_advantage_of.txt
+
+The Lord be thanked and praised for granting us another so favorable opportunity of meeting together to contemplate the interests of His Kingdom, and our soul's salvation at this Conference.
+
+['loud', 'quiet'] received scores [0.7619500160217285, 0.2380499541759491]
+['loud', 'soft'] received scores [0.7845044136047363, 0.21549560129642487]
+['quiet', 'noisy'] received scores [0.5377801060676575, 0.46221983432769775]
+['soft', 'noisy'] received scores [0.5056742429733276, 0.49432575702667236]
+
+decades/1880s/24/retrospective_review_of_the_providences_of_god_in_relation_to_the_saints—the_wrath_and_schemes_of_men_turned_to_the_advantage_of.txt
+
+" We can say, that week after week, and month after month, since our last Conference, we have had renewed occasion for thanksgiving and praise to Him for the many blessings which He has vouchsafed unto His people.
+
+['loud', 'quiet'] received scores [0.5955228209495544, 0.40447720885276794]
+['loud', 'soft'] received scores [0.8033258318901062, 0.19667412340641022]
+['quiet', 'noisy'] received scores [0.6868270039558411, 0.31317296624183655]
+['noisy', 'soft'] received scores [0.5584912300109863, 0.44150876998901367]
+
+decades/1880s/24/retrospective_review_of_the_providences_of_god_in_relation_to_the_saints—the_wrath_and_schemes_of_men_turned_to_the_advantage_of.txt
+
+When a man defeats himself as perfectly as this last one has, I think the Latter-day Saints have occasion to thank God and take courage; we have reason to rejoice and praise the Lord in all these matters, for whatever our enemies do, He makes it return that, like a boomerang that is thrown out, it comes back and strikes the person that hurled it.
+
+['loud', 'quiet'] received scores [0.8506373167037964, 0.14936263859272003]
+['loud', 'soft'] received scores [0.902704656124115, 0.0972953587770462]
+['noisy', 'quiet'] received scores [0.6189084053039551, 0.38109156489372253]
+['noisy', 'soft'] received scores [0.7257077097892761, 0.2742922902107239]
+
+decades/1880s/24/scope_of_the_gospel—different_degrees_of_glory—free_agency—liberty_with_a_vengeance—trials_necessary—former_and_latter_trials—t.txt
+
+Zion shall yet become the praise and the glory of the whole earth, and, as I have said, kings and princes shall come to gaze upon her glory, and we shall be able to teach their senators wisdom, and their philosophers intelligence; for we shall be all taught of God.
+
+['loud', 'quiet'] received scores [0.7747579216957092, 0.2252420336008072]
+['loud', 'soft'] received scores [0.8563035130500793, 0.14369648694992065]
+['quiet', 'noisy'] received scores [0.5406869649887085, 0.45931297540664673]
+['noisy', 'soft'] received scores [0.5954248309135437, 0.4045751094818115]
+
+decades/1880s/24/the_church_of_christ—churches_of_men—conflicting_ideas—true_sources_of_learning—oneness_explained—only_one_true_religion—probati.txt
+
+And the time will come when death and hell shall be destroyed, and there will be no more death, neither sorrow nor pain, but every creature, in heaven above and the earth beneath shall be heard to sing, "Blessing, and honor, praise and power, be unto God and the Lamb forever, who has redeemed us by His blood out of every nation and tribe and tongue and people!
+
+['loud', 'quiet'] received scores [0.7964213490486145, 0.2035786509513855]
+['loud', 'soft'] received scores [0.8765832781791687, 0.1234167069196701]
+['noisy', 'quiet'] received scores [0.786982536315918, 0.2130175083875656]
+['noisy', 'soft'] received scores [0.8702556490898132, 0.12974436581134796]
+
+decades/1880s/24/the_president_feeling_a_little_weak_in_body_asked_the_considerate_attention_of_the_congregation—god_interested_in_the_welfare_of.txt
+
+I praise God for it.
+
+['loud', 'quiet'] received scores [0.7167782187461853, 0.2832218110561371]
+['loud', 'soft'] received scores [0.8049266338348389, 0.19507332146167755]
+['quiet', 'noisy'] received scores [0.7729053497314453, 0.2270945906639099]
+['soft', 'noisy'] received scores [0.6761097311973572, 0.3238902986049652]
+
+decades/1880s/24/the_spirit_of_god_necessary_for_our_guidance—failure_of_the_measures_our_enemies_have_adopted_against_us—the_object_of_the_edmun.txt
+
+There will be times, as there have been, when it will seem as though there is no possible way of escape, when it will seem as though everything is blocked up before us, and as though we are about to be swallowed up or destroyed; and the faith of the people will be tested in this manner, doubtless, many times in the future, as it has been many times in the past; but when it will seem the darkest, when the clouds will seem the most impenetrable, when there will be not a ray to illumine the pathway of the Saints of God, then God will be near to us to deliver us, and at the very darkest hour He will dispel the clouds and provide a way of escape that will excite our  wonder, our admiration and our praise.
+
+['loud', 'quiet'] received scores [0.5196659564971924, 0.48033401370048523]
+['loud', 'soft'] received scores [0.7183067798614502, 0.2816932201385498]
+['quiet', 'noisy'] received scores [0.5978106260299683, 0.40218937397003174]
+['noisy', 'soft'] received scores [0.6132567524909973, 0.3867432773113251]
+
+decades/1880s/25/a_privilege_to_meet_to_worship_god—this_church_ordained_of_god—all_other_churches_and_societies_the_work_of_man—human_institutio.txt
+
+The Lord will direct us in all things to His praise, and the time will come when His power and dominion will be fully established in the earth, and when all nations will serve and obey Him.
+
+['loud', 'quiet'] received scores [0.5316397547721863, 0.4683602750301361]
+['loud', 'soft'] received scores [0.657841145992279, 0.34215882420539856]
+['quiet', 'noisy'] received scores [0.7112739682197571, 0.2887260615825653]
+['soft', 'noisy'] received scores [0.5925746560096741, 0.4074253439903259]
+
+decades/1880s/25/desirable_condition_of_the_saints—characteristics_of_prophets—the_governing_power_of_god_in_human_affairs—man's_ingratitude_towa.txt
+
+No pure-minded person can perceive anything noble, exalted, pure or praiseworthy in a life so selfish, narrow and gross.
+
+['loud', 'quiet'] received scores [0.5986734628677368, 0.40132656693458557]
+['loud', 'soft'] received scores [0.671928882598877, 0.32807111740112305]
+['quiet', 'noisy'] received scores [0.5408702492713928, 0.4591296911239624]
+['noisy', 'soft'] received scores [0.5382090210914612, 0.4617909789085388]
+
+decades/1880s/25/desirable_condition_of_the_saints—characteristics_of_prophets—the_governing_power_of_god_in_human_affairs—man's_ingratitude_towa.txt
+
+There is something in such a course that is praiseworthy and noble.
+
+['loud', 'quiet'] received scores [0.9169160723686218, 0.0830838680267334]
+['loud', 'soft'] received scores [0.9109230041503906, 0.08907698094844818]
+['quiet', 'noisy'] received scores [0.7184051871299744, 0.281594842672348]
+['soft', 'noisy'] received scores [0.7335624098777771, 0.2664376199245453]
+
+decades/1880s/25/object_of_assembling—a_peculiar_people—saints_misrepresented_in_all_ages—statistics—opposition_expected—plural_marriage—early_pe.txt
+
+If He did any good act at all, they were ready to cry out, "Give God the praise: we know that this man is a sinner.
+
+['loud', 'quiet'] received scores [0.9272708296775818, 0.07272915542125702]
+['loud', 'soft'] received scores [0.8297778367996216, 0.17022210359573364]
+['noisy', 'quiet'] received scores [0.9453967213630676, 0.05460325628519058]
+['noisy', 'soft'] received scores [0.8687625527381897, 0.13123741745948792]
+
+decades/1880s/25/remarks_franklin_d._richards.txt
+
+Infants that had no learning at all, declared forth His praise in such glorious, exalted terms, that the brethren present could not write them.
+
+['loud', 'quiet'] received scores [0.9799071550369263, 0.020092783495783806]
+['loud', 'soft'] received scores [0.8944332003593445, 0.10556682199239731]
+['noisy', 'quiet'] received scores [0.9057611227035522, 0.09423884004354477]
+['noisy', 'soft'] received scores [0.6254373788833618, 0.37456265091896057]
+
+decades/1880s/25/respect_to_the_dead—consolation_to_the_bereaved—instruction_to_the_saints—resignation_to_the_will_of_the_almighty—pity_for_the_m.txt
+
+A feeling has gone abroad, in consequence of the lies that the father of lies has propagated, which causes thousands of people to think that if the Latter-Saints, or Mormons, could be blotted out, it would be a most praiseworthy and justifiable act, and it is that spirit, engendered by that being, emanating from that source, which has caused the death of these our beloved brethren for whom we mourn today.
+
+['loud', 'quiet'] received scores [0.9093311429023743, 0.09066886454820633]
+['loud', 'soft'] received scores [0.8761098980903625, 0.12389010190963745]
+['noisy', 'quiet'] received scores [0.8843277096748352, 0.11567225307226181]
+['noisy', 'soft'] received scores [0.8435217142105103, 0.15647830069065094]
+
+decades/1880s/25/temples_the_gates_of_heaven—feelings_and_reflections—around_in_the_temple—the_work_before_the_saints—sayings_of_the_savior_as_to.txt
+
+They have come together to rejoice, to give God thanks, to praise and to magnify His name because another great and peculiar blessing is bestowed upon His people—that of erecting, completing and furnishing another house unto the Lord, and of dedicating it unto Him.
+
+['loud', 'quiet'] received scores [0.8800680041313171, 0.11993201076984406]
+['loud', 'soft'] received scores [0.7994405031204224, 0.20055949687957764]
+['noisy', 'quiet'] received scores [0.7141578793525696, 0.28584203124046326]
+['noisy', 'soft'] received scores [0.575760006904602, 0.42423996329307556]
+
+decades/1880s/25/temples_the_gates_of_heaven—feelings_and_reflections—around_in_the_temple—the_work_before_the_saints—sayings_of_the_savior_as_to.txt
+
+I thank the living God and praise His holy name that I have lived to see His work progress thus far upon the earth.
+
+['loud', 'quiet'] received scores [0.6589887738227844, 0.34101125597953796]
+['loud', 'soft'] received scores [0.7110586762428284, 0.28894132375717163]
+['quiet', 'noisy'] received scores [0.6576268076896667, 0.3423731327056885]
+['soft', 'noisy'] received scores [0.6013267040252686, 0.39867326617240906]
+
+decades/1880s/25/temples_the_gates_of_heaven—feelings_and_reflections—around_in_the_temple—the_work_before_the_saints—sayings_of_the_savior_as_to.txt
+
+I think that every honest soul that is pure before the Lord can lift up his heart, and praise His holy name, that he has lived to see this day.
+
+['loud', 'quiet'] received scores [0.7246453166007996, 0.2753547132015228]
+['loud', 'soft'] received scores [0.8642191290855408, 0.1357809156179428]
+['quiet', 'noisy'] received scores [0.7296965718269348, 0.2703034281730652]
+['soft', 'noisy'] received scores [0.5274528861045837, 0.47254711389541626]
+
+decades/1880s/25/why_we_gather—difference_between_the_latter-day_saints_and_the_world—organization_of_the_church_in_former_days—condition_of_the_.txt
+
+And I tell you that the time is rolling on when Zion will become the praise and the glory of the whole earth.
+
+['loud', 'quiet'] received scores [0.7382984757423401, 0.2617015540599823]
+['loud', 'soft'] received scores [0.8073895573616028, 0.1926104873418808]
+['noisy', 'quiet'] received scores [0.5286475419998169, 0.47135239839553833]
+['noisy', 'soft'] received scores [0.6249726414680481, 0.3750273883342743]
+
+decades/1880s/25/work_of_god_the_same_in_all_ages—the_millennium—christ_the_prophet_of_whom_moses_spake—what_makes_the_saints_steadfast—cause_of_.txt
+
+We ought to know, yea, it is our duty to feel that abiding trust and  confidence in God, to know that He will make the wrath of the wicked to praise Him, and the residue of wrath He will restrain; and that neither Congress, nor Presidents, nor Senators, nor Judges, nor Governors, nor armies, nor Generals, nor any other human being have or can exercise any power in the earth, except that which is given them of our Father in the heavens, and that He can restrain when it seemeth Him good, and within such limits as seemeth Him good.
+
+['quiet', 'loud'] received scores [0.5624350905418396, 0.4375648498535156]
+['loud', 'soft'] received scores [0.6850845813751221, 0.31491541862487793]
+['quiet', 'noisy'] received scores [0.7808436155319214, 0.21915636956691742]
+['soft', 'noisy'] received scores [0.5602805018424988, 0.4397195875644684]
+
+decades/1880s/26/causes_that_govern_us_in_settling_new_places—our_respect_for_the_constitution_of_our_country—we_must_not_concede_principle_for_t.txt
+
+All the preachers throughout the land, when they read that, comment more or less upon it to their congregations, and talk about the cruelty of which that king was guilty, and praise the Israelites, and praise Moses for that which they did.
+
+['loud', 'quiet'] received scores [0.9524735808372498, 0.047526393085718155]
+['loud', 'soft'] received scores [0.9391264319419861, 0.06087356433272362]
+['noisy', 'quiet'] received scores [0.9234007000923157, 0.07659932971000671]
+['noisy', 'soft'] received scores [0.9027225971221924, 0.09727738052606583]
+
+decades/1880s/26/devotion_to_god—how_it_is_made_manifest—divers_opinions—liberty_to_worship_god—jesus_christ_the_savior_of_the_world—his_apostles.txt
+
+But who on account of this diversity of opinion, who on account of this presented variety of modes of bowing before, or of lifting up unto the Supreme Being our hands in adoration and praise, or in the discharge of our devotional obligations would say, that, but one, two, three, or any restricted number should be guaranteed the liberty, the freedom, the religious toleration, the political and moral right of bowing the knee before God, and of lifting up their voices in praise and prayer to Him who made the sun, the moon and the stars, and who created all things that live and move and have a being?
+
+['quiet', 'loud'] received scores [0.524503231048584, 0.475496768951416]
+['loud', 'soft'] received scores [0.5497954487800598, 0.4502045214176178]
+['quiet', 'noisy'] received scores [0.5247071981430054, 0.47529280185699463]
+['noisy', 'soft'] received scores [0.5495929718017578, 0.4504069685935974]
+
+decades/1880s/26/devotion_to_god—how_it_is_made_manifest—divers_opinions—liberty_to_worship_god—jesus_christ_the_savior_of_the_world—his_apostles.txt
+
+Now, if we are philosophers, if we are men of wisdom, if we are students of the principles of intelligence and of truth, why certainly we will make a wise selection, we will elect to serve Him who created us, and we trust that God our heavenly Father when He has so far matured His purposes, which are essential to the consummation of the end for which He has permitted this crusade to be waged against us, will be pleased to soften the hearts of those around us as He did in former dispensations, and as He has done with our own nation in our own day—that He will mold and temper the dispositions of men, and that He will make the wrath of man to praise Him, and the residue He will restrain.
+
+['quiet', 'loud'] received scores [0.6589579582214355, 0.34104207158088684]
+['soft', 'loud'] received scores [0.9247354865074158, 0.07526449859142303]
+['quiet', 'noisy'] received scores [0.7062061429023743, 0.2937938868999481]
+['soft', 'noisy'] received scores [0.9385939240455627, 0.061406079679727554]
+
+decades/1880s/26/importance_of_our_sunday_schools_and_mutual_improvement_associations—the_good_work_done_by_them_in_qualifying_young_men_to_be_mi.txt
+
+He has controlled circumstances thus far in a most wonderful manner; and when I look at that which has been done in this country, with all the efforts that have been made by the wicked, one act after another, one act of wrong piled on top of another, and see the meager results to show for their base course, I feel to praise God with all my heart for His goodness and mercy to us.
+
+['loud', 'quiet'] received scores [0.6018341183662415, 0.39816591143608093]
+['loud', 'soft'] received scores [0.6596623063087463, 0.34033769369125366]
+['noisy', 'quiet'] received scores [0.7108555436134338, 0.28914445638656616]
+['noisy', 'soft'] received scores [0.7591855525970459, 0.2408144474029541]
+
+decades/1880s/26/present_conditions—the_hatred_of_the_world_toward_the_saints—why_the_leaders_of_the_church_are_attacked—the_purpose_of_persecuti.txt
+
+When a nation disregards the principles of justice, equity, righteousness and truth—so far as to fail or refuse the administration of its laws equitably to any portion or class of its citizens, then the people have reason to fear the dreadful consequences that must follow, unless a reformation is effected; then the noble, the honorable, the virtuous and the pure should be willing to make sacrifice for that which is ennobling, exalting, upright and praiseworthy.
+
+['loud', 'quiet'] received scores [0.7610082626342773, 0.23899170756340027]
+['loud', 'soft'] received scores [0.771344006061554, 0.22865599393844604]
+['noisy', 'quiet'] received scores [0.5990022420883179, 0.40099775791168213]
+['noisy', 'soft'] received scores [0.6127792596817017, 0.38722071051597595]
+
+decades/1880s/26/the_gathering—our_territorial_condition_and_organization—the_eternal_nature_of_our_covenants—the_law_of_ancient_israel,_which_re.txt
+
+Although in our history there are many things which have been unpleasant for people to meet with—such as mobbings and drivings, killings and imprisonment, and a variety of other things that are not pleasant to the feelings of human nature, yet upon the whole the Lord has controlled these things for our good, just in accordance with the words of the Psalmist, where he says: "Surely the wrath of man shall praise thee: the remainder of wrath shalt thou restrain.
+
+['quiet', 'loud'] received scores [0.5150948762893677, 0.4849052131175995]
+['loud', 'soft'] received scores [0.6089435815811157, 0.39105644822120667]
+['quiet', 'noisy'] received scores [0.6522682905197144, 0.34773170948028564]
+['soft', 'noisy'] received scores [0.5313969850540161, 0.4686029851436615]
+
+decades/1880s/26/the_speaker's_dependence_upon_the_inspiration_of_the_holy_ghost—comprehensive_and_exalted_nature_of_the_plan_of_salvation—satan'.txt
+
+Christians may assimilate, preach about, and praise a love that passeth the comprehension of the finite mind, but no mortal can love his enemies and pray for the forgiveness of those who despitefully use and would kill him, without the testimony of Jesus, and the knowledge accompanying it.
+
+['quiet', 'loud'] received scores [0.5111063718795776, 0.48889362812042236]
+['loud', 'soft'] received scores [0.5884867906570435, 0.41151323914527893]
+['quiet', 'noisy'] received scores [0.5921593308448792, 0.4078407287597656]
+['noisy', 'soft'] received scores [0.507311224937439, 0.49268874526023865]
+
+decades/1880s/26/the_way_to_find_out_god—testimony_of_the_elders—whoso_receiveth_you_receiveth_me—the_missionary_learns_to_know_god_is_his_frien.txt
+
+We have the most abundant causes for thanksgiving and praise.
+
+['loud', 'quiet'] received scores [0.7868566513061523, 0.21314339339733124]
+['loud', 'soft'] received scores [0.7237038016319275, 0.2762962281703949]
+['noisy', 'quiet'] received scores [0.6168216466903687, 0.3831782937049866]
+['noisy', 'soft'] received scores [0.5331779718399048, 0.4668219983577728]
+
+decades/1880s/26/the_work_of_god_only_partially_understood—manifestation_of_the_father_and_son_to_the_prophet_joseph—the_priesthood_conferred_upo.txt
+
+Beautify this place, and make your homes pleasant and agreeable, that you may have nice places for your wives and children, and thus help to fulfill that Scripture which says, that Zion shall become the praise of the whole earth; and that kings will come to gaze upon her glory.
+
+['loud', 'quiet'] received scores [0.540309727191925, 0.45969030261039734]
+['soft', 'loud'] received scores [0.5355194211006165, 0.46448060870170593]
+['quiet', 'noisy'] received scores [0.8656644225120544, 0.13433551788330078]
+['soft', 'noisy'] received scores [0.8972525596618652, 0.10274741053581238]
+
+decades/1880s/26/the_work_of_the_lord_in_the_sandwich_islands_and_in_new_zealand—the_inhabitants_of_these_islands_probably_offshoots_of_the_nephi.txt
+
+It is because we know that this is His work; it is because we are not dependent on the testimony or say so of any man or woman—we have the knowledge in ourselves that He will deliver us, that He will cause the wrath of man to praise Him, that He will restrain the rest, and that He will accomplish all His purposes in His own good time and according to His own methods.
+
+['quiet', 'loud'] received scores [0.612558901309967, 0.3874410390853882]
+['loud', 'soft'] received scores [0.6484653949737549, 0.35153451561927795]
+['quiet', 'noisy'] received scores [0.7952787280082703, 0.20472130179405212]
+['soft', 'noisy'] received scores [0.5711784958839417, 0.4288215637207031]
+
+decades/1880s/26/visit_to_the_south—testimony_obtained_from_god—necessity_and_benefits_of_prayer_george_teasdale.txt
+
+Why, it seems to me that in every well regulated family the head thereof should gather his wives and children around him and bow at the altar, even the family altar, and offer unto God thanksgiving and praise for His protecting care and to entreat Him for His Spirit that we might be led by its counsels that He might not suffer us to be led into temptation, but that He would deliver us from evil.
+
+['loud', 'quiet'] received scores [0.6132449507713318, 0.386755108833313]
+['loud', 'soft'] received scores [0.8012039065361023, 0.19879606366157532]
+['quiet', 'noisy'] received scores [0.7208306193351746, 0.2791694104671478]
+['soft', 'noisy'] received scores [0.5039304494857788, 0.4960695207118988]
+
+decades/1880s/26/visit_to_the_south—testimony_obtained_from_god—necessity_and_benefits_of_prayer_george_teasdale.txt
+
+Why, if we thoroughly understand our position, and our entire dependence upon God our Eternal Father, our prayers would ascend up to heaven night and day, and they would be mingled with praise and thanksgiving to God, for the mercies and blessings He has vouchsafed unto us.
+
+['loud', 'quiet'] received scores [0.744809091091156, 0.255190908908844]
+['loud', 'soft'] received scores [0.8254382610321045, 0.1745617538690567]
+['quiet', 'noisy'] received scores [0.5957032442092896, 0.40429675579071045]
+['noisy', 'soft'] received scores [0.5237138271331787, 0.4762862026691437]
+
+decades/1880s/IE/1880_IE.txt
+
+I  feel  in  my  heart  to  praise  the  Lord  for  his  mercies and  blessings  over  the  Apostles  and  Elders  and  Saints  and  church  and  kingdom  of  God  to  the  present  hour.
+
+['quiet', 'loud'] received scores [0.5466892719268799, 0.45331066846847534]
+['loud', 'soft'] received scores [0.6757937669754028, 0.3242062032222748]
+['quiet', 'noisy'] received scores [0.7796099185943604, 0.22039009630680084]
+['soft', 'noisy'] received scores [0.5845751166343689, 0.4154248833656311]
+
+decades/1880s/IE/1880_IE.txt
+
+So  let  us  contemplate  upon  the  dial  of  time  a  few  of  the  events  that  have  transpired  with  us  as  a  community,  and  recount  with  thanksgiving  and  praise  some  of  those  things  which  God  has  done  for  the  deliverances  of  his  people.
+
+['quiet', 'loud'] received scores [0.5031498670578003, 0.4968501031398773]
+['loud', 'soft'] received scores [0.627265453338623, 0.37273454666137695]
+['quiet', 'noisy'] received scores [0.6768394708633423, 0.3231604993343353]
+['soft', 'noisy'] received scores [0.5513636469841003, 0.44863635301589966]
+
+decades/1880s/IE/1880_IE.txt
+
+Let  us  then  take  into  consideration  the  goodness  of  our  God,  his  preservation  of  us  in  hours  of  trial  and  danger,  and  in  every  circumstance  and  condition  of  life ;  for  we  have  individually  as  well  as  collectively  the  greatest  reason  to  praise  his  holy  name  for  the  grace  we  have  received  at  his  hands,  in  sustaining  us  and  helping  us  to  thus  far  overcome.
+
+['loud', 'quiet'] received scores [0.6853126883506775, 0.3146872818470001]
+['loud', 'soft'] received scores [0.7468303442001343, 0.2531696557998657]
+['quiet', 'noisy'] received scores [0.6845929026603699, 0.3154071271419525]
+['soft', 'noisy'] received scores [0.6157334446907043, 0.38426658511161804]
+
+decades/1880s/IE/1880_IE.txt
+
+And  will  not  our  Father  in  Heaven  and  the  Lord  Jesus  Christ,  and  the  angels,  and  the  spirits  of  the  just  awaiting  us,  will  they  not  all  join  with  us  in  thanksgiving  and  praise  to  Jehovah  for  even  the  little  good  we  are  trying  to  do  on  the  earth?
+
+['loud', 'quiet'] received scores [0.6264820694923401, 0.3735179603099823]
+['loud', 'soft'] received scores [0.7685303092002869, 0.23146967589855194]
+['quiet', 'noisy'] received scores [0.5740082859992981, 0.4259917140007019]
+['noisy', 'soft'] received scores [0.5949949026107788, 0.4050050973892212]
+
+decades/1880s/IE/1880_IE.txt
+
+The  results  of  the  labors  of  this  people  for  half  a  century  are  before  the  world,  which,  although  wrought  in  much  weakness,  and  ofttimes  in  poverty  and  distress,  have  been,  under  the  blessing  of  a  merciful, a  just  and  all wise  God,  crowned  with  success;  and  on  this,  the  occasion  of  our  jubilee  year  just  closed,  I,  in  common  with  my  brethren,  raise  my  heart  and  voice  in  praise  to  him  who  lives  and  rules  in  the  heavens  above,  and  in  testimony  to  this  being  his  work,  even  the  work  to  be  developed  in  the  latter  days,  so  often  spoken  of  in  holy  writ.
+
+['loud', 'quiet'] received scores [0.9272345900535583, 0.07276534289121628]
+['loud', 'soft'] received scores [0.9124014973640442, 0.08759846538305283]
+['noisy', 'quiet'] received scores [0.6879095435142517, 0.31209054589271545]
+['noisy', 'soft'] received scores [0.6430699825286865, 0.3569300174713135]
+
+decades/1880s/IE/1880_IE.txt
+
+We  realize  that  our  sisters  have  performed  a  highly  commendable  and  praiseworthy  labor  in  storing  wheat  for  future  emergencies,  and  we  trust  that,  inasmuch  as  the  wheat  is  loaned  without  interest,  the  bishops,  in  carrying  out  the  above  measures,  will  see  that  they  receive  a  full  equivalent  for  their  loans,  taking  into  consideration  the  losses  in  changing,  as  well  as  the  difference  between old  and  new  wheat  as  to  quality  and  quantity.
+
+['loud', 'quiet'] received scores [0.5217385292053223, 0.4782615602016449]
+['loud', 'soft'] received scores [0.5558565855026245, 0.44414347410202026]
+['quiet', 'noisy'] received scores [0.6514340043067932, 0.3485659956932068]
+['soft', 'noisy'] received scores [0.6196339130401611, 0.38036608695983887]
+

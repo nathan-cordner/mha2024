@@ -1,0 +1,801 @@
+﻿decades/2010s/2010_A/andersen_tell_me_the_stories_of_jesus.txt
+
+As you reverently speak about the Savior—in the car, on the bus, at the dinner table, as you kneel in prayer, during scripture study, or in late-night conversations—the Spirit of the Lord will accompany your words.
+
+['quiet', 'loud'] received scores [0.5189760327339172, 0.48102396726608276]
+['loud', 'soft'] received scores [0.5003460049629211, 0.49965399503707886]
+['quiet', 'noisy'] received scores [0.6553820371627808, 0.344618022441864]
+['soft', 'noisy'] received scores [0.6377142071723938, 0.36228570342063904]
+
+decades/2010s/2010_A/beck_the_magnificent_aaronic_priesthood.txt
+
+The young man said when he saw this faithful brother express his reverence for the sacrament, he felt as though he were watching him kiss the feet of the Savior.
+
+['loud', 'quiet'] received scores [0.9259333610534668, 0.07406660914421082]
+['loud', 'soft'] received scores [0.8579466342926025, 0.14205332100391388]
+['noisy', 'quiet'] received scores [0.5885815620422363, 0.41141843795776367]
+['soft', 'noisy'] received scores [0.5913123488426208, 0.40868762135505676]
+
+decades/2010s/2010_A/cook_we_follow_jesus_christ.txt
+
+If we are to be His disciples and to be committed members of His Church, we must remember and reverence the sacrament.
+
+['loud', 'quiet'] received scores [0.660170316696167, 0.3398297429084778]
+['loud', 'soft'] received scores [0.6448138356208801, 0.35518619418144226]
+['quiet', 'noisy'] received scores [0.5905600190162659, 0.40943998098373413]
+['soft', 'noisy'] received scores [0.6068319082260132, 0.3931681215763092]
+
+decades/2010s/2010_A/mcmullin_our_path_of_duty.txt
+
+To revere one requires reverence for the other, for the Father has appointed that it is only in and through the name of Christ that one can completely fulfill this dutiful charge.
+
+['quiet', 'loud'] received scores [0.5057339072227478, 0.4942660331726074]
+['loud', 'soft'] received scores [0.6837558746337891, 0.31624412536621094]
+['quiet', 'noisy'] received scores [0.7065032720565796, 0.2934967279434204]
+['soft', 'noisy'] received scores [0.5210970044136047, 0.47890299558639526]
+
+decades/2010s/2010_A/scott_he_lives!_all_glory_to_his_name!.txt
+
+My reverence and gratitude for the Atonement of the Holy One of Israel, the Prince of Peace and our Redeemer, continually expand as I strive to understand more about it.
+
+['loud', 'quiet'] received scores [0.6324787139892578, 0.3675212860107422]
+['loud', 'soft'] received scores [0.6742887496948242, 0.3257112205028534]
+['quiet', 'noisy'] received scores [0.5849916338920593, 0.41500845551490784]
+['soft', 'noisy'] received scores [0.5395463705062866, 0.4604535698890686]
+
+decades/2010s/2010_A/uchtdorf_“you_are_my_hands”.txt
+
+On this Easter Sunday, and every day, as we contemplate with reverence and awe how our Savior embraces us, comforts us, and heals us, let us commit to become His hands, that others through us may feel His loving embrace.
+
+['loud', 'quiet'] received scores [0.6071295142173767, 0.3928705155849457]
+['loud', 'soft'] received scores [0.7198922038078308, 0.2801078259944916]
+['quiet', 'noisy'] received scores [0.6175438165664673, 0.3824561536312103]
+['noisy', 'soft'] received scores [0.5073816776275635, 0.4926183223724365]
+
+decades/2010s/2011_A/jr._testimony.txt
+
+The promise given for obtaining a testimony of the Book of Mormon also applies generally: “And when ye shall receive these things”—meaning you have listened, read, studied, and pondered on the question at hand—“ask God, the Eternal Father, in the name of Christ, if these things are not true”—meaning you will pray thoughtfully, specifically, and reverently with a firm commitment to follow the answer to your prayer—“and if ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost.
+
+['quiet', 'loud'] received scores [0.6495871543884277, 0.35041290521621704]
+['loud', 'soft'] received scores [0.6116926670074463, 0.3883073925971985]
+['quiet', 'noisy'] received scores [0.7432853579521179, 0.25671467185020447]
+['noisy', 'soft'] received scores [0.502135694026947, 0.49786433577537537]
+
+decades/2010s/2011_A/packer_guided_by_the_holy_spirit.txt
+
+A Latter-day Saint man is a responsible family man, faithful in the gospel. He is a caring, devoted husband and father. He reveres womanhood.
+
+['loud', 'quiet'] received scores [0.6908577084541321, 0.3091422915458679]
+['loud', 'soft'] received scores [0.60651034116745, 0.39348962903022766]
+['quiet', 'noisy'] received scores [0.689407229423523, 0.31059277057647705]
+['soft', 'noisy'] received scores [0.7629307508468628, 0.23706930875778198]
+
+decades/2010s/2011_A/stevens_become_as_a_little_child.txt
+
+As they walked past these sacred images, she heard her little boy reverently saying the name “Jesus.
+
+['loud', 'quiet'] received scores [0.9373248815536499, 0.06267514079809189]
+['loud', 'soft'] received scores [0.7612605094909668, 0.2387394905090332]
+['noisy', 'quiet'] received scores [0.7834611535072327, 0.21653889119625092]
+['soft', 'noisy'] received scores [0.5645161271095276, 0.4354839026927948]
+
+decades/2010s/2011_A/stevens_become_as_a_little_child.txt
+
+Could we learn from Todd something about an attitude of humility, of reverence, and of love for the Lord?
+
+['quiet', 'loud'] received scores [0.6289909482002258, 0.37100905179977417]
+['soft', 'loud'] received scores [0.613257646560669, 0.38674235343933105]
+['quiet', 'noisy'] received scores [0.6384456157684326, 0.3615543842315674]
+['soft', 'noisy'] received scores [0.6228728890419006, 0.37712717056274414]
+
+decades/2010s/2011_O/andersen_children.txt
+
+Let us humbly and prayerfully seek to understand and accept God’s commandments, reverently listening for the voice of His Holy Spirit.
+
+['quiet', 'loud'] received scores [0.9133443236351013, 0.08665566891431808]
+['soft', 'loud'] received scores [0.8432343006134033, 0.1567656695842743]
+['quiet', 'noisy'] received scores [0.8849191069602966, 0.11508089303970337]
+['soft', 'noisy'] received scores [0.7969247102737427, 0.2030753344297409]
+
+decades/2010s/2011_O/clayton_the_time_shall_come.txt
+
+We are grateful for Joseph Smith and watch with wonder as his name is revered and, yes, even reviled ever more widely across the earth.
+
+['loud', 'quiet'] received scores [0.9364700317382812, 0.06352990120649338]
+['loud', 'soft'] received scores [0.7565140724182129, 0.2434859573841095]
+['noisy', 'quiet'] received scores [0.9153850674629211, 0.08461490273475647]
+['noisy', 'soft'] received scores [0.6951461434364319, 0.3048539161682129]
+
+decades/2010s/2011_O/cornish_the_privilege_of_prayer.txt
+
+Surely this matter of reverencing God and giving heartfelt and specific thanks is one of the keys to effective prayer.
+
+['loud', 'quiet'] received scores [0.5352882742881775, 0.4647117853164673]
+['loud', 'soft'] received scores [0.6789865493774414, 0.3210134208202362]
+['quiet', 'noisy'] received scores [0.6389278173446655, 0.3610721230506897]
+['noisy', 'soft'] received scores [0.5092530846595764, 0.4907468855381012]
+
+decades/2010s/2011_O/cornish_the_privilege_of_prayer.txt
+
+“For thine is the kingdom, and the power, and the glory, for ever” How instructive it is that Jesus concluded this prayer by praising God again and expressing His reverence for and submission to the Father.
+
+['loud', 'quiet'] received scores [0.7159402966499329, 0.2840597331523895]
+['loud', 'soft'] received scores [0.8489516973495483, 0.15104828774929047]
+['quiet', 'noisy'] received scores [0.5929479002952576, 0.40705206990242004]
+['noisy', 'soft'] received scores [0.6048762798309326, 0.395123690366745]
+
+decades/2010s/2011_O/dalton_love_her_mother.txt
+
+As I watched our rugged, strong, rugby-playing son, Jon, hold his first baby daughter in his arms, he looked at her with a reverent tenderness, and then he looked at me with an expression that seemed to say, “How do I raise a girl?
+
+['loud', 'quiet'] received scores [0.7118739485740662, 0.28812602162361145]
+['loud', 'soft'] received scores [0.6156243681907654, 0.3843756318092346]
+['noisy', 'quiet'] received scores [0.5745788812637329, 0.4254211485385895]
+['soft', 'noisy'] received scores [0.533183217048645, 0.4668167233467102]
+
+decades/2010s/2011_O/packer_counsel_to_youth.txt
+
+Dress modestly; talk reverently; listen to uplifting music.
+
+['quiet', 'loud'] received scores [0.9782758951187134, 0.021724127233028412]
+['soft', 'loud'] received scores [0.9903224110603333, 0.009677588939666748]
+['quiet', 'noisy'] received scores [0.9838814735412598, 0.016118498519062996]
+['soft', 'noisy'] received scores [0.9928423762321472, 0.007157669868320227]
+
+decades/2010s/2012_A/esplin_teaching_our_children_to_understand.txt
+
+Heaven seemed so near, and if I try, I can almost feel those same feelings of reverence and wonder I experienced each time one of those precious infants was placed in my arms.
+
+['loud', 'quiet'] received scores [0.5394695401191711, 0.46053043007850647]
+['soft', 'loud'] received scores [0.5986483097076416, 0.4013516902923584]
+['quiet', 'noisy'] received scores [0.6714957356452942, 0.3285042643547058]
+['soft', 'noisy'] received scores [0.7812561988830566, 0.21874387562274933]
+
+decades/2010s/2012_A/hales_coming_to_ourselves_the_sacrament,_the_temple,_and_sacrifice_in_service.txt
+
+When young men prepare, bless, and pass the sacrament in worthiness and reverence, they literally follow the example of the Savior at the Last Supper and become like Him.
+
+['loud', 'quiet'] received scores [0.8490988612174988, 0.15090113878250122]
+['loud', 'soft'] received scores [0.8801149129867554, 0.11988503485918045]
+['quiet', 'noisy'] received scores [0.5711250305175781, 0.42887499928474426]
+['soft', 'noisy'] received scores [0.5051183700561523, 0.49488162994384766]
+
+decades/2010s/2012_A/hallstrom_converted_to_his_gospel_through_his_church.txt
+
+Many of us are not being regularly changed by its cleansing power because of our lack of reverence for this holy ordinance.
+
+['quiet', 'loud'] received scores [0.587374746799469, 0.412625253200531]
+['soft', 'loud'] received scores [0.5696853399276733, 0.43031471967697144]
+['quiet', 'noisy'] received scores [0.6589093208312988, 0.34109073877334595]
+['soft', 'noisy'] received scores [0.6424195766448975, 0.35758036375045776]
+
+decades/2010s/2012_A/pieper_to_hold_sacred.txt
+
+Sacred things are to be treated with more care, given greater deference, and regarded with deeper reverence.
+
+['quiet', 'loud'] received scores [0.6222418546676636, 0.37775811553001404]
+['soft', 'loud'] received scores [0.6476632356643677, 0.3523367941379547]
+['quiet', 'noisy'] received scores [0.7912440299987793, 0.2087559700012207]
+['soft', 'noisy'] received scores [0.8087872266769409, 0.19121278822422028]
+
+decades/2010s/2012_O/burton_first_observe,_then_serve.txt
+
+She leaned over and whispered reverently, “Don’t worry.
+
+['quiet', 'loud'] received scores [0.9365469813346863, 0.06345303356647491]
+['soft', 'loud'] received scores [0.9567973613739014, 0.04320262745022774]
+['quiet', 'noisy'] received scores [0.9376266598701477, 0.0623733252286911]
+['soft', 'noisy'] received scores [0.9575481414794922, 0.0424518808722496]
+
+decades/2010s/2012_O/burton_first_observe,_then_serve.txt
+
+As I sat down in the session room, a young sister leaned over and reverently whispered, “I’m really nervous.
+
+['loud', 'quiet'] received scores [0.5114700794219971, 0.48852989077568054]
+['soft', 'loud'] received scores [0.639258861541748, 0.36074110865592957]
+['noisy', 'quiet'] received scores [0.5304738879203796, 0.46952614188194275]
+['soft', 'noisy'] received scores [0.6215166449546814, 0.3784833550453186]
+
+decades/2010s/2012_O/christensen_an_unspeakable_gift_from_god.txt
+
+As we reverently walked through the temple, I found myself admiring the magnificent architecture, the elegant finishes, the light shining through towering windows, and many of the inspiring paintings.
+
+['loud', 'quiet'] received scores [0.7064743638038635, 0.2935256063938141]
+['soft', 'loud'] received scores [0.5548345446586609, 0.4451654553413391]
+['quiet', 'noisy'] received scores [0.7403058409690857, 0.2596941888332367]
+['soft', 'noisy'] received scores [0.8953041434288025, 0.10469579696655273]
+
+decades/2010s/2012_O/clarke_blessings_of_the_sacrament.txt
+
+Unlike many of the others I had served, he took the bread with what seemed to be great thought and reverence.
+
+['quiet', 'loud'] received scores [0.8535451889038086, 0.14645487070083618]
+['soft', 'loud'] received scores [0.5512562990188599, 0.44874370098114014]
+['quiet', 'noisy'] received scores [0.9823864698410034, 0.017613541334867477]
+['soft', 'noisy'] received scores [0.9216069579124451, 0.07839304953813553]
+
+decades/2010s/2013_A/callister_the_power_of_the_priesthood_in_the_boy.txt
+
+God’s answers come by the still, small voice—feelings of peace or comfort, impressions to do good, enlightenment—sometimes in the form of tiny seeds of thoughts which if reverenced and nourished can grow into spiritual redwoods.
+
+['quiet', 'loud'] received scores [0.9973599314689636, 0.0026400366332381964]
+['soft', 'loud'] received scores [0.9974916577339172, 0.0025083431974053383]
+['quiet', 'noisy'] received scores [0.9975782632827759, 0.0024217243772000074]
+['soft', 'noisy'] received scores [0.9976990818977356, 0.002300895983353257]
+
+decades/2010s/2013_A/jr._the_father_and_the_son.txt
+
+Every time our Lord refers to His Heavenly Father, He does so with the utmost reverence and submissiveness.
+
+['quiet', 'loud'] received scores [0.8745356202125549, 0.12546436488628387]
+['soft', 'loud'] received scores [0.8834558725357056, 0.11654410511255264]
+['quiet', 'noisy'] received scores [0.925567626953125, 0.07443234324455261]
+['soft', 'noisy'] received scores [0.9311453104019165, 0.0688546895980835]
+
+decades/2010s/2013_O/bednar_the_windows_of_heaven.txt
+
+I gained a greater appreciation and reverence for the Lord’s laws of finance for individuals, for families, and for His Church.
+
+['loud', 'quiet'] received scores [0.6351941227912903, 0.36480584740638733]
+['loud', 'soft'] received scores [0.7188567519187927, 0.2811432182788849]
+['quiet', 'noisy'] received scores [0.6039971113204956, 0.3960028886795044]
+['soft', 'noisy'] received scores [0.5094776749610901, 0.49052226543426514]
+
+decades/2010s/2013_O/bednar_the_windows_of_heaven.txt
+
+My gratitude and reverence for the Lord’s pattern has grown each year, and the lessons learned have become even more profound.
+
+['loud', 'quiet'] received scores [0.6366279721260071, 0.3633720874786377]
+['loud', 'soft'] received scores [0.7111663818359375, 0.2888336181640625]
+['quiet', 'noisy'] received scores [0.7092052698135376, 0.2907947301864624]
+['soft', 'noisy'] received scores [0.6344208717346191, 0.36557912826538086]
+
+decades/2010s/2013_O/burton_the_power,_joy,_and_love_of_covenant_keeping.txt
+
+President Thomas S. Monson taught, “Sacred covenants are to be revered by us, and faithfulness to them is a requirement for happiness.
+
+['loud', 'quiet'] received scores [0.5183103680610657, 0.4816896319389343]
+['loud', 'soft'] received scores [0.6119458675384521, 0.38805410265922546]
+['quiet', 'noisy'] received scores [0.6458767056465149, 0.3541232943534851]
+['soft', 'noisy'] received scores [0.5544676184654236, 0.44553232192993164]
+
+decades/2010s/2013_O/christofferson_the_moral_force_of_women.txt
+
+Observing how she sustained my grandfather, a stake patriarch, engendered in me a reverence for sacred things.
+
+['loud', 'quiet'] received scores [0.7801784873008728, 0.21982155740261078]
+['loud', 'soft'] received scores [0.7309104204177856, 0.26908954977989197]
+['noisy', 'quiet'] received scores [0.538366973400116, 0.46163302659988403]
+['soft', 'noisy'] received scores [0.5283918380737305, 0.47160813212394714]
+
+decades/2010s/2013_O/nelson_decisions_for_eternity.txt
+
+And we should ever revere the worth of human life, through each of its many stages.
+
+['loud', 'quiet'] received scores [0.5996959805488586, 0.40030404925346375]
+['loud', 'soft'] received scores [0.6351997256278992, 0.36480027437210083]
+['noisy', 'quiet'] received scores [0.536186933517456, 0.46381309628486633]
+['noisy', 'soft'] received scores [0.5733156800270081, 0.42668426036834717]
+
+decades/2010s/2013_O/stephens_do_we_know_what_we_have.txt
+
+They showed reverence for God and His power and authority.
+
+['loud', 'quiet'] received scores [0.564834713935852, 0.43516528606414795]
+['loud', 'soft'] received scores [0.7688541412353516, 0.23114587366580963]
+['quiet', 'noisy'] received scores [0.8365081548690796, 0.1634918451309204]
+['soft', 'noisy'] received scores [0.6662845015525818, 0.33371543884277344]
+
+decades/2010s/2013_O/stephens_do_we_know_what_we_have.txt
+
+There exists today a great need for men and women to cultivate respect for each other as sons and daughters of God and reverence for our Father in Heaven and His priesthood—His power and authority.
+
+['loud', 'quiet'] received scores [0.7262971997261047, 0.2737027704715729]
+['loud', 'soft'] received scores [0.7279176115989685, 0.2720823585987091]
+['noisy', 'quiet'] received scores [0.5354562401771545, 0.46454378962516785]
+['noisy', 'soft'] received scores [0.5374870300292969, 0.4625130295753479]
+
+decades/2010s/2013_O/stephens_do_we_know_what_we_have.txt
+
+He has a plan for us, and when we exercise our faith and trust in His plan, our reverence for Him and for His priesthood power and authority will be strengthened.
+
+['loud', 'quiet'] received scores [0.5992463827133179, 0.40075358748435974]
+['loud', 'soft'] received scores [0.7187209725379944, 0.2812790870666504]
+['quiet', 'noisy'] received scores [0.6656225919723511, 0.3343774080276489]
+['soft', 'noisy'] received scores [0.5380892157554626, 0.4619107246398926]
+
+decades/2010s/2014_O/andersen_joseph_smith.txt
+
+We are especially saddened when someone who once revered Joseph retreats from his or her conviction and then maligns the Prophet.
+
+['loud', 'quiet'] received scores [0.872373104095459, 0.12762688100337982]
+['loud', 'soft'] received scores [0.5577437281608582, 0.44225630164146423]
+['noisy', 'quiet'] received scores [0.8396046757698059, 0.1603953242301941]
+['soft', 'noisy'] received scores [0.5087007284164429, 0.49129921197891235]
+
+decades/2010s/2014_O/burton_prepared_in_a_manner_that_never_had_been_known.txt
+
+You are sitting in the celestial room of the temple and notice a number of brides and grooms being reverently ushered in and out as they wait to be married for time and all eternity.
+
+['loud', 'quiet'] received scores [0.5789231061935425, 0.4210768938064575]
+['soft', 'loud'] received scores [0.6238197088241577, 0.3761802613735199]
+['noisy', 'quiet'] received scores [0.5335525870323181, 0.4664474427700043]
+['soft', 'noisy'] received scores [0.6659079790115356, 0.33409205079078674]
+
+decades/2010s/2014_O/burton_prepared_in_a_manner_that_never_had_been_known.txt
+
+It seems that her tears come because of the awe and reverence she has for both the place she is in and the sacred ordinance awaiting her and the love of her life.
+
+['loud', 'quiet'] received scores [0.6344687342643738, 0.36553120613098145]
+['soft', 'loud'] received scores [0.784664511680603, 0.21533548831939697]
+['quiet', 'noisy'] received scores [0.5631182193756104, 0.4368817210197449]
+['soft', 'noisy'] received scores [0.8907400369644165, 0.10925997793674469]
+
+decades/2010s/2014_O/callister_parents_the_prime_gospel_teachers_of_their_children.txt
+
+In the life to come, I do not know if titles such as bishop or Relief Society president will survive, but I do know that the titles of husband and wife, father and mother, will continue and be revered, worlds without end.
+
+['quiet', 'loud'] received scores [0.6346563100814819, 0.36534368991851807]
+['loud', 'soft'] received scores [0.6587620377540588, 0.34123799204826355]
+['quiet', 'noisy'] received scores [0.8063929677009583, 0.19360703229904175]
+['soft', 'noisy'] received scores [0.553967297077179, 0.44603270292282104]
+
+decades/2010s/2014_O/eyring_the_preparatory_priesthood.txt
+
+Deacons pass the sacrament with reverence and with faith that members will feel the effect of the Atonement and resolve to keep commandments as they partake of those sacred emblems.
+
+['quiet', 'loud'] received scores [0.6622012257575989, 0.3377988040447235]
+['loud', 'soft'] received scores [0.5770443081855774, 0.422955721616745]
+['quiet', 'noisy'] received scores [0.8539415597915649, 0.14605847001075745]
+['soft', 'noisy'] received scores [0.6861293315887451, 0.3138706386089325]
+
+decades/2010s/2014_O/holland_are_we_not_all_beggars.txt
+
+Now, lest I be accused of proposing quixotic global social programs or of endorsing panhandling as a growth industry, I reassure you that my reverence for principles of industry, thrift, self-reliance, and ambition is as strong as that of any man or woman alive.
+
+['quiet', 'loud'] received scores [0.7257315516471863, 0.27426838874816895]
+['soft', 'loud'] received scores [0.5420469641685486, 0.45795300602912903]
+['quiet', 'noisy'] received scores [0.5491716861724854, 0.45082834362983704]
+['noisy', 'soft'] received scores [0.6472932696342468, 0.35270676016807556]
+
+decades/2010s/2014_O/packer_the_reason_for_our_hope.txt
+
+If we seek to understand His Atonement, we will come to a deep reverence for the Lord Jesus Christ, His earthly ministry, and His divine mission as our Savior.
+
+['loud', 'quiet'] received scores [0.6287968158721924, 0.37120312452316284]
+['loud', 'soft'] received scores [0.6416524648666382, 0.35834750533103943]
+['quiet', 'noisy'] received scores [0.5866508483886719, 0.41334912180900574]
+['soft', 'noisy'] received scores [0.5731347799301147, 0.42686524987220764]
+
+decades/2010s/2014_O/stevens_covenant_daughters_of_god.txt
+
+There before me were eight beautiful children sitting with reverent anticipation that finally their special day had arrived.
+
+['loud', 'quiet'] received scores [0.8726850748062134, 0.12731488049030304]
+['soft', 'loud'] received scores [0.5380201935768127, 0.46197977662086487]
+['noisy', 'quiet'] received scores [0.6856513619422913, 0.31434860825538635]
+['soft', 'noisy'] received scores [0.785400390625, 0.2145996242761612]
+
+decades/2010s/2015_A/andersen_thy_kingdom_come.txt
+
+We will kneel in reverence, “and the Lord shall utter his voice, and all the ends of the earth shall hear it.
+
+['loud', 'quiet'] received scores [0.6407320499420166, 0.3592679798603058]
+['soft', 'loud'] received scores [0.5250403881072998, 0.47495967149734497]
+['quiet', 'noisy'] received scores [0.6354491114616394, 0.3645508885383606]
+['soft', 'noisy'] received scores [0.77459716796875, 0.2254028469324112]
+
+decades/2010s/2015_A/bednar_therefore_they_hushed_their_fears.txt
+
+The righteous fear I am attempting to describe encompasses a deep feeling of reverence, respect, and awe for the Lord Jesus obedience and anticipation of the Final Judgment and justice at His hand.
+
+['quiet', 'loud'] received scores [0.5477204322814941, 0.45227953791618347]
+['loud', 'soft'] received scores [0.5863404273986816, 0.41365957260131836]
+['quiet', 'noisy'] received scores [0.6825465559959412, 0.3174535036087036]
+['soft', 'noisy'] received scores [0.5560576915740967, 0.44394227862358093]
+
+decades/2010s/2015_A/bednar_therefore_they_hushed_their_fears.txt
+
+I love and revere the Lord.
+
+['quiet', 'loud'] received scores [0.5398743748664856, 0.4601256549358368]
+['loud', 'soft'] received scores [0.502905011177063, 0.4970950186252594]
+['quiet', 'noisy'] received scores [0.7595067620277405, 0.2404932975769043]
+['soft', 'noisy'] received scores [0.7268145084381104, 0.2731855511665344]
+
+decades/2010s/2015_A/eyring_priesthood_and_personal_prayer.txt
+
+It is easier to get the proper feeling of reverence when you are kneeling or bowing your head, but it is possible to feel that you are approaching your Heavenly Father in less formal and even in silent prayer, as you will often need to do in your priesthood service.
+
+['quiet', 'loud'] received scores [0.9838767051696777, 0.016123294830322266]
+['soft', 'loud'] received scores [0.9753292798995972, 0.024670669808983803]
+['quiet', 'noisy'] received scores [0.9880040884017944, 0.011995887383818626]
+['soft', 'noisy'] received scores [0.9816038608551025, 0.018396129831671715]
+
+decades/2010s/2015_A/monson_the_priesthood—a_sacred_gift.txt
+
+I revere the priesthood.
+
+['quiet', 'loud'] received scores [0.5485807061195374, 0.45141923427581787]
+['loud', 'soft'] received scores [0.6989325284957886, 0.3010674715042114]
+['quiet', 'noisy'] received scores [0.8003066778182983, 0.19969329237937927]
+['soft', 'noisy'] received scores [0.5868732929229736, 0.41312673687934875]
+
+decades/2010s/2015_A/packer_the_plan_of_happiness.txt
+
+Reverently now I use the word temple.
+
+['quiet', 'loud'] received scores [0.9670508503913879, 0.03294919431209564]
+['soft', 'loud'] received scores [0.9490898251533508, 0.05091017112135887]
+['quiet', 'noisy'] received scores [0.961132824420929, 0.03886713087558746]
+['soft', 'noisy'] received scores [0.9401456713676453, 0.05985438451170921]
+
+decades/2010s/2015_O/costa_that_they_do_always_remember_him.txt
+
+It is time for us to reverently ask God for this knowledge.
+
+['quiet', 'loud'] received scores [0.7647305727005005, 0.23526938259601593]
+['loud', 'soft'] received scores [0.6151936054229736, 0.38480639457702637]
+['quiet', 'noisy'] received scores [0.8822514414787292, 0.11774855852127075]
+['soft', 'noisy'] received scores [0.5904767513275146, 0.40952327847480774]
+
+decades/2010s/2015_O/lawrence_what_lack_i_yet.txt
+
+In this reverent atmosphere, as our thoughts are turned heavenward, the Lord can gently tell us what we need to work on next.
+
+['quiet', 'loud'] received scores [0.9926756620407104, 0.007324357982724905]
+['soft', 'loud'] received scores [0.9970177412033081, 0.0029822830110788345]
+['quiet', 'noisy'] received scores [0.9947719573974609, 0.005228075198829174]
+['soft', 'noisy'] received scores [0.9978739619255066, 0.0021260709036141634]
+
+decades/2010s/2015_O/monson_be_an_example_and_a_light.txt
+
+We know that our body is a temple, to be treated with reverence and respect.
+
+['quiet', 'loud'] received scores [0.6529518961906433, 0.3470481336116791]
+['soft', 'loud'] received scores [0.5216442346572876, 0.47835567593574524]
+['quiet', 'noisy'] received scores [0.7772313952445984, 0.2227686196565628]
+['soft', 'noisy'] received scores [0.6691173911094666, 0.33088263869285583]
+
+decades/2010s/2015_O/viñas_the_pleasing_word_of_god.txt
+
+Other examples: being irreverent by exchanging messages on our electronic devices, leaving the meeting after partaking of the sacrament, and engaging in activities in our homes that are inappropriate for that sacred day.
+
+['loud', 'quiet'] received scores [0.5347947478294373, 0.46520522236824036]
+['soft', 'loud'] received scores [0.7200825810432434, 0.2799173891544342]
+['quiet', 'noisy'] received scores [0.5422635674476624, 0.45773643255233765]
+['soft', 'noisy'] received scores [0.7779456377029419, 0.2220543622970581]
+
+decades/2010s/2016_A/snow_be_thou_humble.txt
+
+In our Church meetings, “the hymns invite the Spirit of the Lord, create a feeling of reverence, unify us as members, and provide a way for us to offer praises to the Lord.
+
+['loud', 'quiet'] received scores [0.6387077569961548, 0.3612922430038452]
+['soft', 'loud'] received scores [0.6303746700286865, 0.36962538957595825]
+['quiet', 'noisy'] received scores [0.7184568643569946, 0.281543105840683]
+['soft', 'noisy'] received scores [0.8849744200706482, 0.1150255799293518]
+
+decades/2010s/2016_O/davies_the_blessings_of_worship.txt
+
+I watched as people entered the chapel and reverently moved to available seats.
+
+['quiet', 'loud'] received scores [0.5307576656341553, 0.46924227476119995]
+['soft', 'loud'] received scores [0.6807105541229248, 0.31928950548171997]
+['quiet', 'noisy'] received scores [0.7868159413337708, 0.21318405866622925]
+['soft', 'noisy'] received scores [0.8743182420730591, 0.1256818026304245]
+
+decades/2010s/2016_O/davies_the_blessings_of_worship.txt
+
+They had an almost heavenly expression, an attitude of reverence and peace.
+
+['quiet', 'loud'] received scores [0.9699129462242126, 0.03008704073727131]
+['soft', 'loud'] received scores [0.9799224734306335, 0.020077506080269814]
+['quiet', 'noisy'] received scores [0.9868549704551697, 0.013145074248313904]
+['soft', 'noisy'] received scores [0.9912788271903992, 0.008721211925148964]
+
+decades/2010s/2016_O/davies_the_blessings_of_worship.txt
+
+When we worship God, we approach Him with reverent love, humility, and adoration.
+
+['quiet', 'loud'] received scores [0.8025634288787842, 0.1974366456270218]
+['soft', 'loud'] received scores [0.7884270548820496, 0.21157300472259521]
+['quiet', 'noisy'] received scores [0.9168067574501038, 0.08319322764873505]
+['soft', 'noisy'] received scores [0.9099321961402893, 0.0900677964091301]
+
+decades/2010s/2016_O/davies_the_blessings_of_worship.txt
+
+We respect and revere Him.
+
+['quiet', 'loud'] received scores [0.5766197443008423, 0.4233802855014801]
+['loud', 'soft'] received scores [0.5454678535461426, 0.4545321464538574]
+['quiet', 'noisy'] received scores [0.8505293726921082, 0.14947067201137543]
+['soft', 'noisy'] received scores [0.776861846446991, 0.22313819825649261]
+
+decades/2010s/2016_O/davies_the_blessings_of_worship.txt
+
+When we worship God, we acknowledge and receive Him with the same reverence as those ancient people of the Americas.
+
+['quiet', 'loud'] received scores [0.5268246531486511, 0.4731753170490265]
+['loud', 'soft'] received scores [0.6103057861328125, 0.3896942436695099]
+['quiet', 'noisy'] received scores [0.7544133067131042, 0.24558663368225098]
+['soft', 'noisy'] received scores [0.6379069089889526, 0.3620930314064026]
+
+decades/2010s/2016_O/meurs_the_sacrament_can_help_us_become_holy.txt
+
+President Boyd K. Packer taught: “Prelude music, reverently played, is nourishment for the spirit.
+
+['quiet', 'loud'] received scores [0.9691261053085327, 0.03087388165295124]
+['soft', 'loud'] received scores [0.8582996129989624, 0.1417003870010376]
+['quiet', 'noisy'] received scores [0.9917060732841492, 0.008293929509818554]
+['soft', 'noisy'] received scores [0.9584594368934631, 0.04154055193066597]
+
+decades/2010s/2016_O/meurs_the_sacrament_can_help_us_become_holy.txt
+
+The reverent moments as priesthood holders pass the sacrament can become sacred to us.
+
+['quiet', 'loud'] received scores [0.8745734691619873, 0.1254265457391739]
+['soft', 'loud'] received scores [0.6675900816917419, 0.33240991830825806]
+['quiet', 'noisy'] received scores [0.9565860629081726, 0.043413884937763214]
+['soft', 'noisy'] received scores [0.8638781309127808, 0.13612189888954163]
+
+decades/2010s/2016_O/meurs_the_sacrament_can_help_us_become_holy.txt
+
+Could I contribute more to the reverence and revelation that can accompany the beginning of sacrament meeting?
+
+['quiet', 'loud'] received scores [0.6347223520278931, 0.36527764797210693]
+['soft', 'loud'] received scores [0.6955277919769287, 0.3044722080230713]
+['quiet', 'noisy'] received scores [0.8075236082077026, 0.19247640669345856]
+['soft', 'noisy'] received scores [0.8465195298194885, 0.15348047018051147]
+
+decades/2010s/2016_O/nattress_no_greater_joy_than_to_know_that_they_know.txt
+
+With the hope of promoting my reverence, she handed them down the pew.
+
+['quiet', 'loud'] received scores [0.7341158390045166, 0.265884131193161]
+['soft', 'loud'] received scores [0.6658315062522888, 0.3341684937477112]
+['quiet', 'noisy'] received scores [0.8914973139762878, 0.10850267857313156]
+['soft', 'noisy'] received scores [0.8556860685348511, 0.14431391656398773]
+
+decades/2010s/2016_O/nattress_no_greater_joy_than_to_know_that_they_know.txt
+
+During this time, my older brother, Dave, and I would sit quietly but irreverently.
+
+['quiet', 'loud'] received scores [0.9941491484642029, 0.005850865971297026]
+['soft', 'loud'] received scores [0.944111168384552, 0.055888831615448]
+['quiet', 'noisy'] received scores [0.9940302968025208, 0.005969679914414883]
+['soft', 'noisy'] received scores [0.9430344104766846, 0.05696554481983185]
+
+decades/2010s/2016_O/uchtdorf_o_how_great_the_plan_of_our_god!.txt
+
+Imagine the thanksgiving and reverence that must have flooded their hearts and filled their minds when they saw Him risen from the tomb, when they felt the wounds in His hands.
+
+['loud', 'quiet'] received scores [0.8805375695228577, 0.11946241557598114]
+['loud', 'soft'] received scores [0.7742727994918823, 0.22572723031044006]
+['noisy', 'quiet'] received scores [0.590179443359375, 0.4098205864429474]
+['soft', 'noisy'] received scores [0.5987421274185181, 0.40125787258148193]
+
+decades/2010s/2017_A/andersen_overcoming_the_world.txt
+
+It can begin as a child learns to pray and reverently sings, “I’m trying to be like Jesus.
+
+['loud', 'quiet'] received scores [0.7217482924461365, 0.2782517075538635]
+['soft', 'loud'] received scores [0.6466730833053589, 0.3533269166946411]
+['noisy', 'quiet'] received scores [0.5260564684867859, 0.4739435613155365]
+['soft', 'noisy'] received scores [0.8105022311210632, 0.189497709274292]
+
+decades/2010s/2017_A/caussé_prepare_the_way.txt
+
+He was honored and revered in his own right as a man of God.
+
+['loud', 'quiet'] received scores [0.9358106255531311, 0.06418932974338531]
+['loud', 'soft'] received scores [0.9503210186958313, 0.04967900365591049]
+['noisy', 'quiet'] received scores [0.6334757208824158, 0.3665243089199066]
+['noisy', 'soft'] received scores [0.6939811706542969, 0.3060188591480255]
+
+decades/2010s/2017_A/mcconkie_the_beauty_of_holiness.txt
+
+When King Benjamin’s people heard his words, they fell to the ground, so great was their humility and reverence for the grace and the glory of our God.
+
+['loud', 'quiet'] received scores [0.7042734622955322, 0.2957265377044678]
+['loud', 'soft'] received scores [0.7442250847816467, 0.25577491521835327]
+['quiet', 'noisy'] received scores [0.6834125518798828, 0.3165873885154724]
+['soft', 'noisy'] received scores [0.6385751366615295, 0.36142486333847046]
+
+decades/2010s/2017_O/cook_the_eternal_everyday.txt
+
+When we really contemplate God the Father and Christ the Son, who They are, and what They have accomplished on our behalf, it fills us with reverence, awe, gratitude, and humility.
+
+['loud', 'quiet'] received scores [0.5120309591293335, 0.4879690110683441]
+['loud', 'soft'] received scores [0.5256036520004272, 0.47439631819725037]
+['quiet', 'noisy'] received scores [0.7230662703514099, 0.2769337594509125]
+['soft', 'noisy'] received scores [0.7120479941368103, 0.2879520058631897]
+
+decades/2010s/2018_A/eyring_inspired_ministering.txt
+
+I really enjoy passing and preparing the sacrament in this ward because everyone is so reverent.
+
+['quiet', 'loud'] received scores [0.985395073890686, 0.01460494939237833]
+['soft', 'loud'] received scores [0.9079058170318604, 0.09209413081407547]
+['quiet', 'noisy'] received scores [0.9958590865135193, 0.004140956327319145]
+['soft', 'noisy'] received scores [0.9723294377326965, 0.027670539915561676]
+
+decades/2010s/2018_A/gong_.txt
+
+I reverently witness and solemnly testify of the living Christ—He who “died, was buried, and rose again the third day, and ascended into heaven.
+
+['loud', 'quiet'] received scores [0.8242562413215637, 0.17574380338191986]
+['loud', 'soft'] received scores [0.8605831861495972, 0.13941682875156403]
+['quiet', 'noisy'] received scores [0.5960879325866699, 0.40391209721565247]
+['soft', 'noisy'] received scores [0.5285945534706116, 0.4714054763317108]
+
+decades/2010s/2018_A/stevenson_.txt
+
+As it already has happened … before in this dispensation, a people reverently close a grave, dry their tears, and turn their faces to the future.
+
+['quiet', 'loud'] received scores [0.5380300283432007, 0.4619700312614441]
+['loud', 'soft'] received scores [0.5258165597915649, 0.47418341040611267]
+['quiet', 'noisy'] received scores [0.7733250856399536, 0.22667495906352997]
+['soft', 'noisy'] received scores [0.7254003882408142, 0.2745995819568634]
+
+decades/2010s/2018_A/stevenson_.txt
+
+“A solemn assembly, as the name implies, denotes a sacred, sober, and reverent occasion when the Saints assemble under the direction of the First Presidency.
+
+['quiet', 'loud'] received scores [0.9965580105781555, 0.0034420071169734]
+['soft', 'loud'] received scores [0.8497189283370972, 0.15028102695941925]
+['quiet', 'noisy'] received scores [0.9979535341262817, 0.0020465077832341194]
+['soft', 'noisy'] received scores [0.9049707055091858, 0.09502924978733063]
+
+decades/2010s/2018_A/wakolo_.txt
+
+We asked, “Isn’t that what you feel when you walk into Latter-day Saint chapels—reverence for the Savior?
+
+['quiet', 'loud'] received scores [0.5367977023124695, 0.46320226788520813]
+['loud', 'soft'] received scores [0.6483514308929443, 0.3516485393047333]
+['quiet', 'noisy'] received scores [0.766319751739502, 0.23368024826049805]
+['soft', 'noisy'] received scores [0.6054885983467102, 0.3945114016532898]
+
+decades/2010s/2018_O/rasband_.txt
+
+These sacred places in the kingdom of God on earth call for our reverence, our respect for others, our best selves in living the gospel, and our hopes to lay aside our fears and seek the healing power of Jesus Christ through His Atonement.
+
+['loud', 'quiet'] received scores [0.7998817563056946, 0.20011822879314423]
+['loud', 'soft'] received scores [0.8365553021430969, 0.16344468295574188]
+['quiet', 'noisy'] received scores [0.6822410225868225, 0.3177589476108551]
+['soft', 'noisy'] received scores [0.626405656337738, 0.37359437346458435]
+
+decades/2010s/2019_A/bednar_prepared_to_obtain_every_needful_thing.txt
+
+Because we love the Lord, we always should speak about His holy house with reverence.
+
+['loud', 'quiet'] received scores [0.5593041777610779, 0.4406958818435669]
+['soft', 'loud'] received scores [0.5627967715263367, 0.4372032582759857]
+['quiet', 'noisy'] received scores [0.7547189593315125, 0.24528107047080994]
+['soft', 'noisy'] received scores [0.8340766429901123, 0.1659233421087265]
+
+decades/2010s/2019_A/cook_great_love_for_our_father’s_children.txt
+
+Even at their [young] age, they appear to sense reverence and purpose for the ordinance they are performing.
+
+['quiet', 'loud'] received scores [0.5046206116676331, 0.49537938833236694]
+['soft', 'loud'] received scores [0.5713220238685608, 0.4286780059337616]
+['quiet', 'noisy'] received scores [0.7273176312446594, 0.27268242835998535]
+['soft', 'noisy'] received scores [0.7772685885429382, 0.22273139655590057]
+
+decades/2010s/2019_A/eyring_a_home_where_the_spirit_of_the_lord_dwells.txt
+
+By their example of reverence, both parents and children can help each other feel that joy.
+
+['quiet', 'loud'] received scores [0.5001102089881897, 0.4998897314071655]
+['soft', 'loud'] received scores [0.5000980496406555, 0.4999019205570221]
+['quiet', 'noisy'] received scores [0.8638160824775696, 0.13618390262126923]
+['soft', 'noisy'] received scores [0.8638103604316711, 0.13618962466716766]
+
+decades/2010s/2019_A/gong_good_shepherd,_lamb_of_god.txt
+
+As Christ freely dedicated His will to the will of the Father, so we reverently take upon us His name.
+
+['loud', 'quiet'] received scores [0.7458336353302002, 0.2541663646697998]
+['loud', 'soft'] received scores [0.7801298499107361, 0.2198701649904251]
+['quiet', 'noisy'] received scores [0.6044173836708069, 0.3955826163291931]
+['soft', 'noisy'] received scores [0.5582334399223328, 0.44176653027534485]
+
+decades/2010s/2019_A/holland_behold_the_lamb_of_god.txt
+
+Reverently, but audible enough for those nearby to hear, John uttered the admiration that still moves us two millennia later: “Behold the Lamb of God.
+
+['quiet', 'loud'] received scores [0.656458854675293, 0.34354114532470703]
+['soft', 'loud'] received scores [0.8398388624191284, 0.1601610779762268]
+['quiet', 'noisy'] received scores [0.5683594346046448, 0.4316405653953552]
+['soft', 'noisy'] received scores [0.7832381725311279, 0.21676184237003326]
+
+decades/2010s/2019_A/holland_behold_the_lamb_of_god.txt
+
+Thus, we are encouraged to come to our services early and reverently, dressed appropriately for participation in a sacred ordinance.
+
+['quiet', 'loud'] received scores [0.7629223465919495, 0.23707762360572815]
+['soft', 'loud'] received scores [0.5827827453613281, 0.4172172248363495]
+['quiet', 'noisy'] received scores [0.8852909803390503, 0.11470901221036911]
+['soft', 'noisy'] received scores [0.7701143026351929, 0.22988571226596832]
+
+decades/2010s/2019_A/holland_behold_the_lamb_of_god.txt
+
+I fear that visitors not of our faith are shocked by what can sometimes be noisy irreverence in a setting that is supposed to be characterized by prayer, testimony, revelation, and peace.
+
+['loud', 'quiet'] received scores [0.9953043460845947, 0.004695641342550516]
+['loud', 'soft'] received scores [0.9826996326446533, 0.01730036363005638]
+['noisy', 'quiet'] received scores [0.9962703585624695, 0.003729654010385275]
+['noisy', 'soft'] received scores [0.9862227439880371, 0.013777223415672779]
+
+decades/2010s/2019_A/holland_behold_the_lamb_of_god.txt
+
+It will add to the spirit of our sacrament meetings if the presiding officers are on the stand well before the meeting is to begin, listening to the prelude music and reverently setting the example the rest of us ought to follow.
+
+['loud', 'quiet'] received scores [0.6554753184318542, 0.3445247411727905]
+['loud', 'soft'] received scores [0.7021578550338745, 0.2978421449661255]
+['quiet', 'noisy'] received scores [0.6747599840164185, 0.32523998618125916]
+['soft', 'noisy'] received scores [0.6260700821876526, 0.3739299178123474]
+
+decades/2010s/2019_A/nelson_closing_remarks.txt
+
+Now, please listen carefully and reverently.
+
+['quiet', 'loud'] received scores [0.9667236804962158, 0.03327636420726776]
+['soft', 'loud'] received scores [0.7830548286437988, 0.2169451117515564]
+['quiet', 'noisy'] received scores [0.9802517294883728, 0.019748277962207794]
+['soft', 'noisy'] received scores [0.8604744076728821, 0.13952554762363434]
+
+decades/2010s/2019_A/nelson_we_can_do_better_and_be_better.txt
+
+In this reverence for our bodies, brethren, I think we can do better and be better.
+
+['loud', 'quiet'] received scores [0.5730076432228088, 0.4269922971725464]
+['loud', 'soft'] received scores [0.5872276425361633, 0.41277238726615906]
+['quiet', 'noisy'] received scores [0.6284106373786926, 0.37158939242362976]
+['soft', 'noisy'] received scores [0.6146785020828247, 0.3853215277194977]
+
+decades/2010s/2019_O/andersen_fruit.txt
+
+How I honor and revere these Latter-day Saints who have kept their hearts riveted on the Savior.
+
+['loud', 'quiet'] received scores [0.7480878829956055, 0.25191211700439453]
+['loud', 'soft'] received scores [0.9245825409889221, 0.07541745156049728]
+['quiet', 'noisy'] received scores [0.7098193168640137, 0.2901807129383087]
+['noisy', 'soft'] received scores [0.6279323697090149, 0.3720676004886627]
+
+decades/2010s/2019_O/gonzález_the_savior’s_touch.txt
+
+The man showed reverence and respect as he knelt before Christ, seeking relief from his affliction.
+
+['loud', 'quiet'] received scores [0.6454647183418274, 0.3545353412628174]
+['soft', 'loud'] received scores [0.5011983513832092, 0.4988015592098236]
+['quiet', 'noisy'] received scores [0.7876443862915039, 0.2123556137084961]
+['soft', 'noisy'] received scores [0.8715507984161377, 0.1284492164850235]
+
+decades/2010s/2019_O/holland_the_message,_the_meaning,_and_the_multitude.txt
+
+The prayer of every speaker, the hope of all who sing, the reverence of every guest﻿—all are dedicated to inviting the Spirit of Him whose Church this is﻿—the living Christ, the Lamb of God, the Prince of Peace.
+
+['loud', 'quiet'] received scores [0.8191031217575073, 0.18089687824249268]
+['loud', 'soft'] received scores [0.5778688788414001, 0.42213109135627747]
+['noisy', 'quiet'] received scores [0.624493420124054, 0.37550655007362366]
+['soft', 'noisy'] received scores [0.6654298901557922, 0.33457010984420776]
+
+decades/2010s/2019_O/nelson_spiritual_treasures.txt
+
+Please listen carefully and reverently as I will now announce plans to build eight new temples.
+
+['quiet', 'loud'] received scores [0.7000390291213989, 0.2999609708786011]
+['loud', 'soft'] received scores [0.6325713396072388, 0.3674286901950836]
+['quiet', 'noisy'] received scores [0.8577873110771179, 0.14221268892288208]
+['soft', 'noisy'] received scores [0.6001967191696167, 0.3998032212257385]
+
+decades/2010s/2019_O/nelson_spiritual_treasures.txt
+
+We deeply appreciate your receipt of these plans and your reverent response.
+
+['quiet', 'loud'] received scores [0.6551528573036194, 0.3448471426963806]
+['soft', 'loud'] received scores [0.5549049973487854, 0.4450950622558594]
+['quiet', 'noisy'] received scores [0.8131819367408752, 0.18681804835796356]
+['soft', 'noisy'] received scores [0.7406907081604004, 0.259309321641922]
+

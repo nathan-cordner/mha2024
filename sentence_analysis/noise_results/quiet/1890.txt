@@ -1,0 +1,108 @@
+﻿decades/1890s/IE/1897_O.txt
+
+My  Father  in  Heaven  is  a  witness  that  I  have  never  sought  or  desired  any  prominence  in  this  world,  but  have  rather  desired  to  lead  a  quiet  life,  thinking  myself  not  worthy  to  be  anything  but  the  least  in  the  kingdom  of  God.
+
+['quiet', 'loud'] received scores [0.9965736865997314, 0.003426319221034646]
+['soft', 'loud'] received scores [0.8436062932014465, 0.15639366209506989]
+['quiet', 'noisy'] received scores [0.9968580603599548, 0.0031419633887708187]
+['soft', 'noisy'] received scores [0.8547351956367493, 0.14526475965976715]
+
+decades/1890s/IE/1898_A.txt
+
+One  thing  that  added  to  its  charm  was,  it  was  a  land  of  liberty,  a  land  of  freedom,  a  land  where  mobs  could  not  come  and  attack  us,  as  they  had  done  in  the  past;  a  place  where  the  families  of  the  Saints,  and  the  leading men  among  them,  could  go  to  bed  in  peace  and  quietness,  undisturbed  by  the  fear  that  they  would  be  attacked  during  the  night.
+
+['quiet', 'loud'] received scores [0.90428227186203, 0.09571772068738937]
+['soft', 'loud'] received scores [0.620801568031311, 0.37919843196868896]
+['quiet', 'noisy'] received scores [0.978553831577301, 0.02144617959856987]
+['soft', 'noisy'] received scores [0.887728214263916, 0.11227178573608398]
+
+decades/1890s/IE/1898_A.txt
+
+Our  influence  should  go  forth  like  oil  poured  upon  the  troubled  waters,  quieting  the  waves  of  discontent  and  wrath  that  are  aroused  by  this  fearful  spirit.
+
+['quiet', 'loud'] received scores [0.768733561038971, 0.23126645386219025]
+['loud', 'soft'] received scores [0.7725448608398438, 0.22745507955551147]
+['quiet', 'noisy'] received scores [0.9174405932426453, 0.08255939185619354]
+['noisy', 'soft'] received scores [0.5039602518081665, 0.4960397481918335]
+
+decades/1890s/IE/1898_A.txt
+
+We  would  be  less  than  human  if  we  could  sit  quietly by  and  see  people  massacred  and  starved  to  death  as  they  have  been  and  are  being  on  the  island  of  Cuba.
+
+['quiet', 'loud'] received scores [0.7529106736183167, 0.24708940088748932]
+['soft', 'loud'] received scores [0.6040619611740112, 0.3959380090236664]
+['quiet', 'noisy'] received scores [0.7859574556350708, 0.2140425443649292]
+['soft', 'noisy'] received scores [0.6477013826370239, 0.35229864716529846]
+
+decades/1890s/IE/1898_O.txt
+
+There  is  one  course  that  has  been  taken  which  I  think  will  be  attended  with  good  effects,  that    is,  counseling  the  Saints  in  the  various  lands  where  they  embrace  the  Gospel  to  remain  quiet  for  awhile;  to  not  be  anxious  to  break  up  their  homes  to  gather  to  Zion.
+
+['quiet', 'loud'] received scores [0.9960426688194275, 0.003957306034862995]
+['soft', 'loud'] received scores [0.6409236192703247, 0.3590763807296753]
+['quiet', 'noisy'] received scores [0.9951121211051941, 0.004887896124273539]
+['soft', 'noisy'] received scores [0.5907924175262451, 0.40920761227607727]
+
+decades/1890s/IE/1898_O.txt
+
+Quietly  and  gradually  our  brethren  are  now  preaching  the  Gospel  among  that  people,  and  the  work  of  God  is  progressing,  though  sometimes the  brethren  are  banished.
+
+['quiet', 'loud'] received scores [0.9986530542373657, 0.0013469544937834144]
+['soft', 'loud'] received scores [0.9726056456565857, 0.02739432454109192]
+['quiet', 'noisy'] received scores [0.9980809092521667, 0.0019190513994544744]
+['soft', 'noisy'] received scores [0.9613980054855347, 0.03860197961330414]
+
+decades/1890s/IE/1898_O.txt
+
+And  I  say  once  more,  thanks  be  to  the  United  States  that  they  have  put  the  quietus  on  the  claims  of  the  Josephite  church,  because  the  United  States  have  never  arrayed  themselves  against  the  Josephites.
+
+['quiet', 'loud'] received scores [0.9926362633705139, 0.007363731507211924]
+['soft', 'loud'] received scores [0.7056961059570312, 0.29430389404296875]
+['quiet', 'noisy'] received scores [0.9886780381202698, 0.011321984231472015]
+['soft', 'noisy'] received scores [0.6083536148071289, 0.3916464149951935]
+
+decades/1890s/IE/1898_O.txt
+
+The  work  is  advancing;  it  is  growing  apace  and  spreading  quietly  in  the  earth;  the  Gospel  is  being  preached;  the  people  gathered  and  established;  the  resources  and  facilities  of  Zion  are  developing  on  every  hand,  and  we  are  becoming  a  very  remarkable  people.
+
+['quiet', 'loud'] received scores [0.9945007562637329, 0.0054992432706058025]
+['soft', 'loud'] received scores [0.856353759765625, 0.14364629983901978]
+['quiet', 'noisy'] received scores [0.9949781894683838, 0.005021864548325539]
+['soft', 'noisy'] received scores [0.867222249507904, 0.13277775049209595]
+
+decades/1890s/IE/1898_O.txt
+
+Some  very  good  things  have  been  said  in  testimony  and  otherwise  which  have  been  lost  to  a  portion  of  the  congregation;  but  I  believe  if  we  were  quiet  throughout  this  building  that  it  would  not  be  very  difficult  to  hear  an  ordinary  voice  in  every  part  of  it.
+
+['loud', 'quiet'] received scores [0.5453662872314453, 0.45463377237319946]
+['loud', 'soft'] received scores [0.7723681926727295, 0.2276318073272705]
+['noisy', 'quiet'] received scores [0.9083777666091919, 0.09162219613790512]
+['noisy', 'soft'] received scores [0.9655687808990479, 0.03443123400211334]
+
+decades/1890s/IE/1898_O.txt
+
+Parents  neglect  their  children  and  they  run  hither  and  thither  all  the  week  long  and  when  they  come  into  the  Sabbath  school  it  is  almost  useless  to  try  to  keep  them  quiet  and  orderly  for  the  little  fellows have  been  neglected  and  disorderly  the  whole  week.
+
+['loud', 'quiet'] received scores [0.8395950794219971, 0.16040493547916412]
+['loud', 'soft'] received scores [0.7416559457778931, 0.25834405422210693]
+['noisy', 'quiet'] received scores [0.9841959476470947, 0.01580408588051796]
+['noisy', 'soft'] received scores [0.9715551137924194, 0.028444834053516388]
+
+decades/1890s/IE/1899_A.txt
+
+If  we  will  be  as  quiet  as  we  were  yesterday and  exercise  faith  we  will  have  just  as  good  a  meeting  today  and  the  Spirit  of  the  Lord  will  inspire  the  speakers.
+
+['quiet', 'loud'] received scores [0.9967625141143799, 0.003237552475184202]
+['soft', 'loud'] received scores [0.9126796126365662, 0.08732040971517563]
+['quiet', 'noisy'] received scores [0.992752730846405, 0.007247254252433777]
+['soft', 'noisy'] received scores [0.8230230212211609, 0.17697696387767792]
+
+decades/1890s/IE/1899_A.txt
+
+While  many  of  them  stand  aloof,  in  their  hearts  they  are  praying  for  its  development and  advancement  and  in  a  quiet  way  lending  their  influence  for  the  furtherance of  the  purposes  of  God.
+
+['quiet', 'loud'] received scores [0.9978864789009094, 0.002113544149324298]
+['soft', 'loud'] received scores [0.9778808355331421, 0.02211919054389]
+['quiet', 'noisy'] received scores [0.9976507425308228, 0.0023492644540965557]
+['soft', 'noisy'] received scores [0.9754687547683716, 0.024531258270144463]
+

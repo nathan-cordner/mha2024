@@ -1,0 +1,225 @@
+﻿decades/2010s/2010_A/beck_“and_upon_the_handmaids_in_those_days_will_i_pour_out_my_spirit”.txt
+
+For instance, mothers can feel help from the Spirit even when tired, noisy children are clamoring for attention, but they can be distanced from the Spirit if they lose their temper with children.
+
+['loud', 'quiet'] received scores [0.9831441044807434, 0.016855847090482712]
+['loud', 'soft'] received scores [0.9530324935913086, 0.04696748033165932]
+['noisy', 'quiet'] received scores [0.9961476922035217, 0.0038523119874298573]
+['noisy', 'soft'] received scores [0.9890060424804688, 0.010993926785886288]
+
+decades/2010s/2010_A/cook_we_follow_jesus_christ.txt
+
+We live in a noisy, contentious world, where it is possible to be viewing or listening to information, music, or even pure nonsense virtually every waking hour.
+
+['loud', 'quiet'] received scores [0.9936915040016174, 0.0063084629364311695]
+['loud', 'soft'] received scores [0.9927486181259155, 0.007251356728374958]
+['noisy', 'quiet'] received scores [0.9945636987686157, 0.005436299834400415]
+['noisy', 'soft'] received scores [0.9937503337860107, 0.006249655969440937]
+
+decades/2010s/2010_A/dalton_remember_who_you_are!.txt
+
+The world calls to you with unrelenting, noisy voices to “live it up,” “try everything,” “experiment and be happy.
+
+['loud', 'quiet'] received scores [0.9969204664230347, 0.0030795682687312365]
+['loud', 'soft'] received scores [0.9933925867080688, 0.0066074528731405735]
+['noisy', 'quiet'] received scores [0.9969784021377563, 0.003021623007953167]
+['noisy', 'soft'] received scores [0.9935164451599121, 0.006483558565378189]
+
+decades/2010s/2010_A/schwitzer_developing_good_judgment_and_not_judging_others.txt
+
+Therefore, it is more than shutting off the music of the world or the blare of other media; it is also shutting off the noise of sin that is internal to our soul.
+
+['quiet', 'loud'] received scores [0.5642474889755249, 0.4357525706291199]
+['loud', 'soft'] received scores [0.6474621295928955, 0.3525378704071045]
+['noisy', 'quiet'] received scores [0.6982975006103516, 0.3017025291919708]
+['noisy', 'soft'] received scores [0.8462548851966858, 0.1537451446056366]
+
+decades/2010s/2010_O/mazzagardi_avoiding_the_trap_of_sin.txt
+
+We walked happily, listening to the soft noise of the crystal clear brook running alongside our path.
+
+['quiet', 'loud'] received scores [0.9809762239456177, 0.019023779779672623]
+['soft', 'loud'] received scores [0.9902024865150452, 0.009797532111406326]
+['quiet', 'noisy'] received scores [0.9518699049949646, 0.04813012480735779]
+['soft', 'noisy'] received scores [0.9748503565788269, 0.0251496359705925]
+
+decades/2010s/2011_A/cook_“remember_this_kindness_begins_with_me”.txt
+
+It is uplifting to know that there are so many youth that are trying to stand for truth and righteousness and do their part in inviting the Spirit into their lives, even though it is difficult at times with all the noise and harshness in the world around them.
+
+['loud', 'quiet'] received scores [0.7642960548400879, 0.2357039749622345]
+['loud', 'soft'] received scores [0.8000549077987671, 0.19994506239891052]
+['noisy', 'quiet'] received scores [0.9382814764976501, 0.061718545854091644]
+['noisy', 'soft'] received scores [0.949392557144165, 0.05060739442706108]
+
+decades/2010s/2011_A/uchtdorf_waiting_on_the_road_to_damascus.txt
+
+To better hear His voice, it would be wise to turn down the volume control of the worldly noise in our lives.
+
+['quiet', 'loud'] received scores [0.512992262840271, 0.4870077967643738]
+['soft', 'loud'] received scores [0.528435230255127, 0.47156476974487305]
+['noisy', 'quiet'] received scores [0.7211283445358276, 0.27887162566185]
+['noisy', 'soft'] received scores [0.708514928817749, 0.291485071182251]
+
+decades/2010s/2012_A/packer_and_a_little_child_shall_lead_them.txt
+
+Down the street came six or eight noisy boys.
+
+['loud', 'quiet'] received scores [0.9964159727096558, 0.003584031481295824]
+['loud', 'soft'] received scores [0.996662437915802, 0.0033375651109963655]
+['noisy', 'quiet'] received scores [0.9948304295539856, 0.005169601179659367]
+['noisy', 'soft'] received scores [0.995185375213623, 0.00481462525203824]
+
+decades/2010s/2012_O/gay_what_shall_a_man_give_in_exchange_for_his_soul.txt
+
+Today it is so easy to get caught up in the noise of the world—despite our good intentions.
+
+['loud', 'quiet'] received scores [0.9351044297218323, 0.06489556282758713]
+['loud', 'soft'] received scores [0.7941654920578003, 0.20583447813987732]
+['noisy', 'quiet'] received scores [0.9778513312339783, 0.022148681804537773]
+['noisy', 'soft'] received scores [0.9220060110092163, 0.0779939666390419]
+
+decades/2010s/2012_O/stephens_wide_awake_to_our_duties.txt
+
+Or have our hearts become gradually hardened as we have allowed too much of the noise of the world to distract us from the gentle promptings that have surely come from the Spirit?
+
+['loud', 'quiet'] received scores [0.6305092573165894, 0.36949077248573303]
+['loud', 'soft'] received scores [0.5286528468132019, 0.4713471531867981]
+['noisy', 'quiet'] received scores [0.8567276000976562, 0.14327234029769897]
+['noisy', 'soft'] received scores [0.7971712350845337, 0.20282870531082153]
+
+decades/2010s/2012_O/stevenson_be_valiant_in_courage,_strength,_and_activity.txt
+
+The noise, music volume, and alcohol amplified, as did John’s uneasiness.
+
+['loud', 'quiet'] received scores [0.9927200675010681, 0.007279932964593172]
+['loud', 'soft'] received scores [0.9868568778038025, 0.013143113814294338]
+['noisy', 'quiet'] received scores [0.9975165724754333, 0.0024834347423166037]
+['noisy', 'soft'] received scores [0.9954988956451416, 0.004501082003116608]
+
+decades/2010s/2013_A/uchtdorf_your_wonderful_journey_home.txt
+
+Without a memory of your previous existence—without remembering that you once walked with your Father in Heaven—would you still recognize His voice amid all the noise and distractions of mortal life?
+
+['loud', 'quiet'] received scores [0.6112619638442993, 0.3887380063533783]
+['loud', 'soft'] received scores [0.6083016991615295, 0.3916982412338257]
+['noisy', 'quiet'] received scores [0.9005052447319031, 0.09949471801519394]
+['noisy', 'soft'] received scores [0.8993850946426392, 0.10061492770910263]
+
+decades/2010s/2013_A/wixom_the_words_we_speak.txt
+
+“… It was not a voice of thunder, neither was it a voice of a great tumultuous noise, but behold, it was a still voice of perfect mildness, as if it had been a whisper, and it did pierce even to the very soul.
+
+['quiet', 'loud'] received scores [0.9846418499946594, 0.015358147211372852]
+['soft', 'loud'] received scores [0.9898321628570557, 0.010167899541556835]
+['quiet', 'noisy'] received scores [0.9835934638977051, 0.016406560316681862]
+['soft', 'noisy'] received scores [0.9891340732574463, 0.010865912772715092]
+
+decades/2010s/2013_O/dyches_wilt_thou_be_made_whole.txt
+
+When we lay down “the weapons of [our] rebellion” we become “agents unto [ourselves]” no longer blinded by the sophistry of Satan or deafened by the discordant noise of the secular world.
+
+['quiet', 'loud'] received scores [0.7095268964767456, 0.2904731333255768]
+['loud', 'soft'] received scores [0.6909785270690918, 0.3090215027332306]
+['noisy', 'quiet'] received scores [0.6851484179496765, 0.3148516118526459]
+['noisy', 'soft'] received scores [0.9223933815956116, 0.07760661095380783]
+
+decades/2010s/2014_O/cook_choose_wisely.txt
+
+Sometimes it feels like we are drowning in frivolous foolishness, nonsensical noise, and continuous contention.
+
+['loud', 'quiet'] received scores [0.9843056201934814, 0.015694407746195793]
+['loud', 'soft'] received scores [0.945428729057312, 0.05457128956913948]
+['noisy', 'quiet'] received scores [0.994686484336853, 0.005313483998179436]
+['noisy', 'soft'] received scores [0.9810287356376648, 0.018971221521496773]
+
+decades/2010s/2014_O/gavarret_yes,_lord,_i_will_follow_thee.txt
+
+After some minutes of hearing noises, talking, and—in the midst of it all—a voice that said, “Follow me,” I felt confident I was following the right voice.
+
+['loud', 'quiet'] received scores [0.9836432337760925, 0.01635678857564926]
+['loud', 'soft'] received scores [0.8973666429519653, 0.10263340920209885]
+['noisy', 'quiet'] received scores [0.9968271851539612, 0.003172802273184061]
+['noisy', 'soft'] received scores [0.978577196598053, 0.021422818303108215]
+
+decades/2010s/2014_O/perry_finding_lasting_peace_and_building_eternal_families.txt
+
+From the Book of Mormon in 2 Nephi we read: “For behold, again I say unto you that if ye will enter in by the way, and receive the Holy Ghost, it will show unto you all things what ye should do” We must never let the noise of the world overpower and overwhelm that still, small voice.
+
+['quiet', 'loud'] received scores [0.9877116680145264, 0.01228831522166729]
+['soft', 'loud'] received scores [0.9924619197845459, 0.007538055069744587]
+['quiet', 'noisy'] received scores [0.9797377586364746, 0.020262286067008972]
+['soft', 'noisy'] received scores [0.9875314831733704, 0.012468461878597736]
+
+decades/2010s/2015_A/eyring_priesthood_and_personal_prayer.txt
+
+There will be noise and people around you most of your waking day.
+
+['loud', 'quiet'] received scores [0.9472982287406921, 0.052701789885759354]
+['loud', 'soft'] received scores [0.9365030527114868, 0.06349694728851318]
+['noisy', 'quiet'] received scores [0.9916234016418457, 0.008376587182283401]
+['noisy', 'soft'] received scores [0.9898099303245544, 0.010190068744122982]
+
+decades/2010s/2015_O/schwitzer_let_the_clarion_trumpet_sound.txt
+
+It is time for the notes of the melody of the gospel to rise above the noise of the world.
+
+['quiet', 'loud'] received scores [0.6860527396202087, 0.31394726037979126]
+['loud', 'soft'] received scores [0.5674231052398682, 0.43257686495780945]
+['noisy', 'quiet'] received scores [0.7425110936164856, 0.2574889063835144]
+['noisy', 'soft'] received scores [0.8920771479606628, 0.10792285948991776]
+
+decades/2010s/2016_A/durham_a_child’s_guiding_gift.txt
+
+We live in “a noisy and busy world.
+
+['loud', 'quiet'] received scores [0.9926738142967224, 0.00732621643692255]
+['loud', 'soft'] received scores [0.9904342293739319, 0.009565825574100018]
+['noisy', 'quiet'] received scores [0.9948950409889221, 0.005104925483465195]
+['noisy', 'soft'] received scores [0.9933299422264099, 0.006670053116977215]
+
+decades/2010s/2016_A/waddell_a_pattern_for_peace.txt
+
+Never has the great and spacious building been more crowded or the noise coming from its open windows more misguided, mocking, and confusing than in our day.
+
+['loud', 'quiet'] received scores [0.9929955005645752, 0.007004569284617901]
+['loud', 'soft'] received scores [0.9814019203186035, 0.018598077818751335]
+['noisy', 'quiet'] received scores [0.9958436489105225, 0.004156405571848154]
+['noisy', 'soft'] received scores [0.9889115691184998, 0.011088459752500057]
+
+decades/2010s/2017_A/christofferson_the_voice_of_warning.txt
+
+So the warning voice is generally not only civil, but in the Psalmist’s phrase, it is a “joyful noise.
+
+['loud', 'quiet'] received scores [0.7715467214584351, 0.22845326364040375]
+['loud', 'soft'] received scores [0.6782050728797913, 0.32179489731788635]
+['noisy', 'quiet'] received scores [0.966714084148407, 0.03328593447804451]
+['noisy', 'soft'] received scores [0.9477097392082214, 0.052290286868810654]
+
+decades/2010s/2019_A/holland_behold_the_lamb_of_god.txt
+
+I fear that visitors not of our faith are shocked by what can sometimes be noisy irreverence in a setting that is supposed to be characterized by prayer, testimony, revelation, and peace.
+
+['loud', 'quiet'] received scores [0.9953043460845947, 0.004695641342550516]
+['loud', 'soft'] received scores [0.9826996326446533, 0.01730036363005638]
+['noisy', 'quiet'] received scores [0.9962703585624695, 0.003729654010385275]
+['noisy', 'soft'] received scores [0.9862227439880371, 0.013777223415672779]
+
+decades/2010s/2019_O/craig_spiritual_capacity.txt
+
+In contrast, the distractions and noise that fill the world and our homes and our lives can make it more difficult to hear His voice.
+
+['loud', 'quiet'] received scores [0.8201568722724915, 0.17984320223331451]
+['loud', 'soft'] received scores [0.7112485766410828, 0.2887514531612396]
+['noisy', 'quiet'] received scores [0.970283031463623, 0.02971697598695755]
+['noisy', 'soft'] received scores [0.9463390111923218, 0.053660981357097626]
+
+decades/2010s/2019_O/craig_spiritual_capacity.txt
+
+The Prophet Joseph Smith taught that most often God reveals Himself “to individuals in private, in their chamber; in the wilderness or fields, and that generally without noise or tumult.
+
+['quiet', 'loud'] received scores [0.9843829870223999, 0.015617047436535358]
+['soft', 'loud'] received scores [0.9538126587867737, 0.04618731513619423]
+['quiet', 'noisy'] received scores [0.9727420806884766, 0.02725796028971672]
+['soft', 'noisy'] received scores [0.9212086200714111, 0.07879133522510529]
+

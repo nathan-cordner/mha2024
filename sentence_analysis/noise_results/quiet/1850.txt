@@ -1,0 +1,567 @@
+﻿decades/1850s/1/effects_and_privileges_of_the_gospel—the_latter-day_saints_and_the_christian_world_brigham_young.txt
+
+When people reflect upon it, they are astonished that the Gospel of salvation should so disturb the feelings, the quiet, the peace of the community.
+
+['loud', 'quiet'] received scores [0.5515362620353699, 0.4484637975692749]
+['loud', 'soft'] received scores [0.9203869104385376, 0.07961305230855942]
+['noisy', 'quiet'] received scores [0.6625863313674927, 0.3374136686325073]
+['noisy', 'soft'] received scores [0.9486111402511597, 0.05138884857296944]
+
+decades/1850s/1/elder_john_taylor's_mission_to_europe_in_1849-1852_john_taylor.txt
+
+At the same time, there are thousands of as good spirited, honest hearted men as I ever met with in any part of the world; they are quiet, calm, peaceable, and desirous to know the truth, and be governed by it; and if we only had liberty to preach to them the principles of truth, thousands would flock to the standard of truth.
+
+['quiet', 'loud'] received scores [0.99748694896698, 0.002513020997866988]
+['soft', 'loud'] received scores [0.9362271428108215, 0.06377281993627548]
+['quiet', 'noisy'] received scores [0.996702253818512, 0.0032977694645524025]
+['soft', 'noisy'] received scores [0.9178873896598816, 0.08211259543895721]
+
+decades/1850s/1/indian_hostilities_and_treachery—excitement—covetousness—consequences_of_obedience_and_of_disobedience—policy_towards_the_indian.txt
+
+Your determination was then formed to go up to the Valleys of the mountains, where you could enjoy peace and quiet, and follow the avocations of life, undisturbed.
+
+['quiet', 'loud'] received scores [0.9774278402328491, 0.022572150453925133]
+['soft', 'loud'] received scores [0.5772748589515686, 0.422725111246109]
+['quiet', 'noisy'] received scores [0.9313814640045166, 0.0686185285449028]
+['noisy', 'soft'] received scores [0.700253427028656, 0.299746572971344]
+
+decades/1850s/1/men_eternal_beings—darkness,_ignorance,_and_weakness_of_the_world—privileges_of_the_saints_john_taylor.txt
+
+Is there a master mind, or spirit—a man possessed of sufficient intelligence, to walk forth among the nations of Europe, and say to the hydra-headed monster, "War, lie still and be thou quiet?
+
+['quiet', 'loud'] received scores [0.6754177808761597, 0.32458221912384033]
+['loud', 'soft'] received scores [0.6798245310783386, 0.3201754093170166]
+['noisy', 'quiet'] received scores [0.6646690368652344, 0.33533093333244324]
+['noisy', 'soft'] received scores [0.8975165486335754, 0.10248350352048874]
+
+decades/1850s/1/recreation,_and_the_proper_use_of_it_brigham_young.txt
+
+If we continued in the exercising of the body without reflection, this company would soon think—it is no matter about praying, or asking the Lord about anything; we have enjoyed ourselves heretofore, and all has been peace, quietness, and good order.
+
+['quiet', 'loud'] received scores [0.9871768951416016, 0.012823113240301609]
+['soft', 'loud'] received scores [0.7270143628120422, 0.2729856073856354]
+['quiet', 'noisy'] received scores [0.9931474328041077, 0.00685253506526351]
+['soft', 'noisy'] received scores [0.8337149024009705, 0.16628509759902954]
+
+decades/1850s/1/the_privileges_and_blessings_of_the_gospel_brigham_young.txt
+
+You anticipated deliverance from hell, to find a heaven with the Saints; you expected to exchange confusion for a Zion of order and beauty, misery for peace and happiness, blasphemy and tumult for quietness and reverence to the name of God, starvation for plenty; in short, you expected to find a place where all evil had ceased, and iniquity and sorrow were brought to an end, and where you would bask undisturbed in the smiles of the countenance of your Lord from day to day.
+
+['quiet', 'loud'] received scores [0.7930537462234497, 0.2069462090730667]
+['loud', 'soft'] received scores [0.5515791773796082, 0.44842079281806946]
+['quiet', 'noisy'] received scores [0.9093886613845825, 0.09061139822006226]
+['soft', 'noisy'] received scores [0.6804209351539612, 0.31957903504371643]
+
+decades/1850s/2/common_salvation_orson_hyde.txt
+
+If you will only sell to your poor brethren next spring at the same price you will now sell to the stranger, there is no difficulty—I have nothing more to say, but I will be perfectly quiet upon this matter.
+
+['quiet', 'loud'] received scores [0.9938052296638489, 0.006194703746587038]
+['soft', 'loud'] received scores [0.8920771479606628, 0.10792288929224014]
+['quiet', 'noisy'] received scores [0.9853525757789612, 0.014647500589489937]
+['soft', 'noisy'] received scores [0.776089072227478, 0.22391095757484436]
+
+decades/1850s/2/dependence_on_the_lord—coal_and_iron_works—family_excursions_brigham_young.txt
+
+Take your wives, but not your babies, unless you take a cradle along to keep them quiet.
+
+['quiet', 'loud'] received scores [0.5151455402374268, 0.484854519367218]
+['loud', 'soft'] received scores [0.6238588094711304, 0.37614119052886963]
+['noisy', 'quiet'] received scores [0.8263664841651917, 0.17363354563713074]
+['noisy', 'soft'] received scores [0.8934666514396667, 0.10653330385684967]
+
+decades/1850s/2/fulfillment_of_prophecy—wars_and_commotions_jedediah_m._grant.txt
+
+I am satisfied that the Spirit of the Lord attends us whenever we meet in the way He has commanded; and whenever we have a meek and quiet spirit, we are prepared to receive that additional influence of the Holy Spirit, necessary to lead us into all truth, through the ordinances of the house of the Lord.
+
+['quiet', 'loud'] received scores [0.9948915839195251, 0.0051084598526358604]
+['soft', 'loud'] received scores [0.9851453304290771, 0.014854665845632553]
+['quiet', 'noisy'] received scores [0.9967384338378906, 0.0032615885138511658]
+['soft', 'noisy'] received scores [0.9904820919036865, 0.009517939761281013]
+
+decades/1850s/2/obedience—the_priesthood—spiritual_communication—the_saints_and_the_world_heber_c._kimball.txt
+
+May God bless you, brethren and sisters, and bless this whole people, male and female, old and young, foreigner and everybody else; may He bless you with peace and quietness, that we may have a heavenly time, a joyful time during the coming winter.
+
+['quiet', 'loud'] received scores [0.9886631369590759, 0.01133684627711773]
+['soft', 'loud'] received scores [0.8797482848167419, 0.12025170028209686]
+['quiet', 'noisy'] received scores [0.9677658677101135, 0.03223413974046707]
+['soft', 'noisy'] received scores [0.7157989740371704, 0.284201055765152]
+
+decades/1850s/2/opposition_to_the_gospel_george_a._smith.txt
+
+I realize the sensation of endearment of native country that flows in the breast of a man who has been driven from his rights and privileges, a feeling of a peculiar nature, for when a man is abused by those around him, it is rather humiliating to have to quietly submit to be deprived of his rights; but we have to seek those rights we cannot get at the hands of our fellow men, at the hands of the Almighty; for wicked men will not extend them to us, and therefore we must depend upon Him who is the source of all good, and from whom protection must be derived, for as the Lord lives, peace is taken from the earth, and every man's hand is against that of his neighbor, and death and destruction and all the powers of earth and hell seem to be manifest to bring about the consumption determined for the last days.
+
+['quiet', 'loud'] received scores [0.8708116412162781, 0.12918831408023834]
+['loud', 'soft'] received scores [0.675133228302002, 0.32486680150032043]
+['quiet', 'noisy'] received scores [0.8960936069488525, 0.10390640795230865]
+['noisy', 'soft'] received scores [0.6189503073692322, 0.3810497224330902]
+
+decades/1850s/2/preaching_and_testimony—gathering_israel—the_blood_of_israel_and_the_gentiles—the_science_of_life_brigham_young.txt
+
+Again, a little hot tea, coffee, or sling, is generally given to a babe as soon as it comes into the world, to quiet the nerves, and make it sleep better; and I have seen my own wives almost whip their little ones to make them drink liquor.
+
+['quiet', 'loud'] received scores [0.9692012667655945, 0.030798764899373055]
+['soft', 'loud'] received scores [0.719811201095581, 0.28018882870674133]
+['quiet', 'noisy'] received scores [0.964604377746582, 0.03539559617638588]
+['soft', 'noisy'] received scores [0.6899013519287109, 0.31009864807128906]
+
+decades/1850s/2/the_constitution_and_government_of_the_united_states—rights_and_policy_of_the_latter-day_saints_brigham_young.txt
+
+But they proved to the world, by their quiet and peaceable demeanor, that they had no such intention, but this was forgotten, and in less than a year and a half we were again assailed, our houses and grain stacks burned, and our brethren shot down in the glare of the light thereof, while attempting to save a pittance to drive starvation not from the doors nor the tents, for there were none of either, but from the famishing hearts of their social circle—of their wives and children.
+
+['quiet', 'loud'] received scores [0.9610103964805603, 0.03898964077234268]
+['soft', 'loud'] received scores [0.6145628690719604, 0.38543716073036194]
+['quiet', 'noisy'] received scores [0.9834247827529907, 0.016575248911976814]
+['soft', 'noisy'] received scores [0.7933067679405212, 0.20669321715831757]
+
+decades/1850s/2/the_constitution_and_government_of_the_united_states—rights_and_policy_of_the_latter-day_saints_brigham_young.txt
+
+If all other circumstances had been equal, if we could have left our families in the enjoyment of peace, quietness, and security in the houses from which we had been driven, our quota of an equitable requisition would not have exceeded four persons.
+
+['quiet', 'loud'] received scores [0.8409214615821838, 0.15907852351665497]
+['soft', 'loud'] received scores [0.5230047106742859, 0.47699522972106934]
+['noisy', 'quiet'] received scores [0.5101657509803772, 0.4898343086242676]
+['noisy', 'soft'] received scores [0.8339223265647888, 0.16607765853405]
+
+decades/1850s/2/the_constitution_and_government_of_the_united_states—rights_and_policy_of_the_latter-day_saints_brigham_young.txt
+
+; but this subject I leave for your consideration and investigation, with this simple declaration, that whether our religion is believed by any other people or not, it is by us, and no power or authority in the government can lawfully or righteously molest us in the peaceable and quiet enjoyment thereof.
+
+['quiet', 'loud'] received scores [0.9698297381401062, 0.03017030842602253]
+['soft', 'loud'] received scores [0.7829647064208984, 0.21703529357910156]
+['quiet', 'noisy'] received scores [0.9680826663970947, 0.031917326152324677]
+['soft', 'noisy'] received scores [0.7729306221008301, 0.22706933319568634]
+
+decades/1850s/2/the_judgments_of_god_on_the_united_states—the_saints_and_the_world_orson_hyde.txt
+
+Is He angry because we have quietly suffered His chosen people to be robbed, plundered, murdered, and driven like chaff before the wind, without interposing in any way to prevent it?
+
+['quiet', 'loud'] received scores [0.9718135595321655, 0.028186457231640816]
+['soft', 'loud'] received scores [0.7792551517486572, 0.22074483335018158]
+['quiet', 'noisy'] received scores [0.9657315611839294, 0.034268442541360855]
+['soft', 'noisy'] received scores [0.7426273822784424, 0.25737255811691284]
+
+decades/1850s/3/difficulties_not_found_among_the_saints_who_live_their_religion—adversity_will_teach_them_their_dependence_on_god—god_invisibly_.txt
+
+Probably my beloved brother Vernon, who has spoken to you this morning, is not known by many of this congregation, for since his arrival in our midst he has been quietly and industriously practicing the principles of our religion.
+
+['quiet', 'loud'] received scores [0.9874609112739563, 0.012539110146462917]
+['soft', 'loud'] received scores [0.843771755695343, 0.1562281996011734]
+['quiet', 'noisy'] received scores [0.9930711388587952, 0.0069288210943341255]
+['soft', 'noisy'] received scores [0.9076600074768066, 0.09233999997377396]
+
+decades/1850s/3/education—the_resurrection—the_world_of_spirits_heber_c._kimball.txt
+
+I wish you Elders to apply this illustration to yourselves—if you have anything to say, say it; and if you have not, be as quiet as the musical instrument without the performer.
+
+['quiet', 'loud'] received scores [0.9800907969474792, 0.019909193739295006]
+['soft', 'loud'] received scores [0.6824531555175781, 0.3175468444824219]
+['quiet', 'noisy'] received scores [0.9490219950675964, 0.05097797513008118]
+['noisy', 'soft'] received scores [0.5516542196273804, 0.44834575057029724]
+
+decades/1850s/3/the_leaven_of_the_gospel—the_saints_should_divest_themselves_of_old_traditions—policy_of_making_good_farms_and_storing_up_grain_.txt
+
+Thus you must see that some temporal arrangements are necessary, to enable men to enjoy that quiet which would be desirable in attempting to worship our Heavenly Father.
+
+['quiet', 'loud'] received scores [0.9596186876296997, 0.0403812974691391]
+['soft', 'loud'] received scores [0.7504489421844482, 0.24955111742019653]
+['quiet', 'noisy'] received scores [0.9194736480712891, 0.08052632212638855]
+['soft', 'noisy'] received scores [0.5909891128540039, 0.4090108871459961]
+
+decades/1850s/3/times_for_all_things—prayer—chastisement—unity—faithfulness—reverence_for_sacred_things—reformation_brigham_young.txt
+
+For the head of the family to call together his wife, or wives, and children, except the children who are too small to be kept quiet, and when he prays aloud, all present, who are old enough to understand, should mentally repeat the words as they fall from his lips; and why so?
+
+['quiet', 'loud'] received scores [0.6784313917160034, 0.3215686082839966]
+['loud', 'soft'] received scores [0.6878726482391357, 0.31212741136550903]
+['quiet', 'noisy'] received scores [0.6974340081214905, 0.30256596207618713]
+['noisy', 'soft'] received scores [0.6685548424720764, 0.33144518733024597]
+
+decades/1850s/4/journey_to_the_north—unanimity_and_peaceful_order_of_the_company—geographical_character_of_the_country_traversed—good_condition_.txt
+
+Strict industry and quietness have marked well their doings in my absence, so far as I have seen or been informed.
+
+['quiet', 'loud'] received scores [0.9970775246620178, 0.0029224795289337635]
+['soft', 'loud'] received scores [0.8947699666023254, 0.10523001849651337]
+['quiet', 'noisy'] received scores [0.9950702786445618, 0.004929712507873774]
+['soft', 'noisy'] received scores [0.8341811299324036, 0.16581885516643524]
+
+decades/1850s/4/necessity_for_reformation_a_disgrace—intelligence_a_gift,_increased_by_imparting—spirit_of_god—variety_in_spiritual_as_well_as_i.txt
+
+Serve God according to the best knowledge you have, and lay down and sleep quietly; and when the devil comes along and says, "You are not a very good Saint, you might enjoy greater blessings and more of the power of God, and have the vision of your mind opened, if you would live up to your privileges," tell him to leave; that you have long ago forsaken his ranks and enlisted in the army of Jesus, who is  your captain, and that you want no more of the devil.
+
+['quiet', 'loud'] received scores [0.9880916476249695, 0.011908380314707756]
+['soft', 'loud'] received scores [0.5714408755302429, 0.4285591244697571]
+['quiet', 'noisy'] received scores [0.9830823540687561, 0.01691766083240509]
+['noisy', 'soft'] received scores [0.5171098113059998, 0.48289021849632263]
+
+decades/1850s/4/object_of_the_express_carrying_company—why_success_attends_the_ministerial_labors_of_some_elders,_and_not_those_of_others—counse.txt
+
+He sat quietly down in New York with brother Taylor, until he became so dried up that he came home disbelieving in God, heaven, hell, angels, and religion.
+
+['quiet', 'loud'] received scores [0.9880356192588806, 0.011964380741119385]
+['soft', 'loud'] received scores [0.8594532608985901, 0.1405467391014099]
+['quiet', 'noisy'] received scores [0.9928813576698303, 0.007118701469153166]
+['soft', 'noisy'] received scores [0.9117230176925659, 0.0882769376039505]
+
+decades/1850s/4/reformation—a_test_at_hand_to_prove_the_saints_heber_c._kimball.txt
+
+And those that will quietly sit and hear such language are partakers of that sin, and will soon begin to curse and swear with those wicked persons.
+
+['quiet', 'loud'] received scores [0.9788099527359009, 0.021190084517002106]
+['soft', 'loud'] received scores [0.8249078392982483, 0.1750922054052353]
+['quiet', 'noisy'] received scores [0.9640768766403198, 0.03592309728264809]
+['soft', 'noisy'] received scores [0.7324219346046448, 0.2675780653953552]
+
+decades/1850s/4/the_saints_have_not_magnified_their_calling_as_saviors_of_the_living_and_the_dead—oneness—practical_repentance_lorenzo_snow.txt
+
+A man may move on the same car or in the same kingdom, and yet be of a different spirit from another man, and he may pass quietly along for a time, because he is the Lord's anointed, but still he will not exert himself for the carrying out of the principles of the kingdom, he lies dormant all the time.
+
+['quiet', 'loud'] received scores [0.9931777119636536, 0.006822306662797928]
+['soft', 'loud'] received scores [0.9063578844070435, 0.09364210069179535]
+['quiet', 'noisy'] received scores [0.9943140745162964, 0.005685893353074789]
+['soft', 'noisy'] received scores [0.9208029508590698, 0.07919704169034958]
+
+decades/1850s/4/utility_of_correction—necessity_of_living_our_religion—our_own_character_affecting_posterity—the_saints_blessed_above_all_other_.txt
+
+If we will do right, will do just as we have been told in all things, we will dwell in peace and quietness from this time henceforth and forever, and I know it.
+
+['quiet', 'loud'] received scores [0.9894849061965942, 0.010515088215470314]
+['soft', 'loud'] received scores [0.8480406403541565, 0.1519593894481659]
+['quiet', 'noisy'] received scores [0.978995144367218, 0.021004848182201385]
+['soft', 'noisy'] received scores [0.734332263469696, 0.2656676769256592]
+
+decades/1850s/5/blessings—trials—obedience_to_counsel,_etc_wilford_woodruff.txt
+
+Let the people be quiet and pray that God may reveal his mind and will to those at the head.
+
+['quiet', 'loud'] received scores [0.9660055041313171, 0.03399449214339256]
+['soft', 'loud'] received scores [0.6576462984085083, 0.3423537015914917]
+['quiet', 'noisy'] received scores [0.69181227684021, 0.30818772315979004]
+['noisy', 'soft'] received scores [0.8682464361190796, 0.13175353407859802]
+
+decades/1850s/5/difference_between_the_spirit_of_zion_and_the_spirit_of_the_world—doings_in_the_states,_etc_john_taylor.txt
+
+I would recommend your people to pursue a quiet policy.
+
+['quiet', 'loud'] received scores [0.8854417204856873, 0.11455833911895752]
+['soft', 'loud'] received scores [0.874424397945404, 0.12557567656040192]
+['quiet', 'noisy'] received scores [0.5337495803833008, 0.4662504494190216]
+['soft', 'noisy'] received scores [0.507714033126831, 0.49228590726852417]
+
+decades/1850s/5/difference_between_the_spirit_of_zion_and_the_spirit_of_the_world—doings_in_the_states,_etc_john_taylor.txt
+
+I saw everything peaceable and quiet there as could possibly be in any community; but I heard Governor Young talk about General Harney.
+
+['quiet', 'loud'] received scores [0.9514185190200806, 0.048581454902887344]
+['soft', 'loud'] received scores [0.8823674917221069, 0.11763248592615128]
+['quiet', 'noisy'] received scores [0.9572300314903259, 0.04276994988322258]
+['soft', 'noisy'] received scores [0.8955321907997131, 0.10446780174970627]
+
+decades/1850s/5/difference_between_the_spirit_of_zion_and_the_spirit_of_the_world—doings_in_the_states,_etc_john_taylor.txt
+
+"Oh, I merely recommend it as the best policy to be peaceable and quiet until you get to be a State, and for the present put up with these things.
+
+['quiet', 'loud'] received scores [0.9603723287582397, 0.039627641439437866]
+['soft', 'loud'] received scores [0.9019460082054138, 0.09805399924516678]
+['quiet', 'noisy'] received scores [0.6501462459564209, 0.3498537242412567]
+['noisy', 'soft'] received scores [0.5863933563232422, 0.41360658407211304]
+
+decades/1850s/5/difference_between_the_spirit_of_zion_and_the_spirit_of_the_world—doings_in_the_states,_etc_john_taylor.txt
+
+He replied, "My idea is, that quietness and peace is better.
+
+['quiet', 'loud'] received scores [0.9582872986793518, 0.0417126826941967]
+['soft', 'loud'] received scores [0.9520097374916077, 0.04799026995897293]
+['quiet', 'noisy'] received scores [0.9075221419334412, 0.09247785061597824]
+['soft', 'noisy'] received scores [0.8944461345672607, 0.10555385053157806]
+
+decades/1850s/5/difference_between_the_spirit_of_zion_and_the_spirit_of_the_world—doings_in_the_states,_etc_john_taylor.txt
+
+One man said, "I was there a year and a half, and I know them to be as good, peaceable, and quiet a society as I ever was among; but there is a pack of infernal scoundrels sent among them by the Government, that are not fit to go anywhere.
+
+['quiet', 'loud'] received scores [0.9797756671905518, 0.02022428624331951]
+['soft', 'loud'] received scores [0.7282885909080505, 0.2717113494873047]
+['quiet', 'noisy'] received scores [0.9715166091918945, 0.028483372181653976]
+['soft', 'noisy'] received scores [0.6536349058151245, 0.3463650941848755]
+
+decades/1850s/5/ignorance_and_low_condition_of_the_world—past_experience,_present_position,_and_future_prospects_of_the_saints_john_taylor.txt
+
+You let your conscience sleep at ease; let it be quiet: it is not us who are doing wrong; it is others who are committing a wrong upon us.
+
+['quiet', 'loud'] received scores [0.9909262657165527, 0.009073764085769653]
+['soft', 'loud'] received scores [0.9835582971572876, 0.016441641375422478]
+['quiet', 'noisy'] received scores [0.9677714705467224, 0.03222857788205147]
+['soft', 'noisy'] received scores [0.9426892399787903, 0.057310715317726135]
+
+decades/1850s/5/mormonism_and_its_results—internal_light_and_development—decrease_of_evil—the_fountain_of_light_amasa_m._lyman.txt
+
+Because it delights to dwell in a quiet place; it does not love contention; it is no friend to strife; it is not fond of bickering or saying hard things.
+
+['quiet', 'loud'] received scores [0.9895190000534058, 0.010480957105755806]
+['soft', 'loud'] received scores [0.9673243165016174, 0.032675713300704956]
+['quiet', 'noisy'] received scores [0.9846929311752319, 0.015307092107832432]
+['soft', 'noisy'] received scores [0.9527660608291626, 0.047233957797288895]
+
+decades/1850s/5/movements_of_the_saints'_enemies—the_crisis_brigham_young.txt
+
+I do not want to be angry, nor to have my feelings wrought up; but I cannot keep quiet under the continued outrageous tyranny of the wicked.
+
+['loud', 'quiet'] received scores [0.8918850421905518, 0.10811493545770645]
+['loud', 'soft'] received scores [0.9000494480133057, 0.09995053708553314]
+['noisy', 'quiet'] received scores [0.888336181640625, 0.11166377365589142]
+['noisy', 'soft'] received scores [0.8967375755310059, 0.10326240211725235]
+
+decades/1850s/5/necessity_of_adhering_to_the_priesthood_in_preference_to_science_and_art_wilford_woodruff.txt
+
+We can plant, and build, and eat, and inherit those things which God has given us, in peace and quietness.
+
+['quiet', 'loud'] received scores [0.9973399043083191, 0.002660149009898305]
+['soft', 'loud'] received scores [0.9849876761436462, 0.015012316405773163]
+['quiet', 'noisy'] received scores [0.995266854763031, 0.00473314244300127]
+['soft', 'noisy'] received scores [0.9735442996025085, 0.02645573765039444]
+
+decades/1850s/5/peace,_confidence,_and_ultimate_victory_of_the_saints,_etc_amasa_m._lyman.txt
+
+We need not question this, if we but for a moment contemplate the quietude, the harmony, and the peace that pervade the homes of the Saints—the place where they dwell.
+
+['quiet', 'loud'] received scores [0.9954777359962463, 0.004522274248301983]
+['soft', 'loud'] received scores [0.9033363461494446, 0.09666363894939423]
+['quiet', 'noisy'] received scores [0.9948947429656982, 0.005105228163301945]
+['soft', 'noisy'] received scores [0.8921624422073364, 0.10783761739730835]
+
+decades/1850s/5/peace,_confidence,_and_ultimate_victory_of_the_saints,_etc_amasa_m._lyman.txt
+
+What will it be, if the confidence and quietude that we enjoy today, that pervades our souls today, is the result of our comprehension of the truth?
+
+['quiet', 'loud'] received scores [0.9946690797805786, 0.005330915562808514]
+['soft', 'loud'] received scores [0.9261383414268494, 0.07386164367198944]
+['quiet', 'noisy'] received scores [0.9934674501419067, 0.006532555446028709]
+['soft', 'noisy'] received scores [0.9108734130859375, 0.08912661671638489]
+
+decades/1850s/5/preparation_of_heart_for_divine_blessings—responsibility—family_government_erastus_snow.txt
+
+So far as taking thought or having trouble in our spirits about what is to come or what will be the result of things, it is well that we should set our hearts at rest and be at ease and feel quiet, and our spirits calm as a summer's morning and resigned, and our feelings prayerful and peaceful.
+
+['quiet', 'loud'] received scores [0.9769551157951355, 0.023044832050800323]
+['soft', 'loud'] received scores [0.8492175936698914, 0.15078242123126984]
+['quiet', 'noisy'] received scores [0.986016571521759, 0.013983441516757011]
+['soft', 'noisy'] received scores [0.903547465801239, 0.09645252674818039]
+
+decades/1850s/5/reformation—satisfaction_should_be_made_to_parties_aggrieved—practical_religion,_&c_heber_c._kimball.txt
+
+Some quietly listen to those who speak against the Lord's servants, against his anointed, against the plurality of wives, and against almost every principle that God has revealed.
+
+['quiet', 'loud'] received scores [0.9901304244995117, 0.009869549423456192]
+['soft', 'loud'] received scores [0.8934044241905212, 0.10659560561180115]
+['quiet', 'noisy'] received scores [0.986544132232666, 0.013455822132527828]
+['soft', 'noisy'] received scores [0.8596529960632324, 0.14034701883792877]
+
+decades/1850s/5/religious_worship_a_natural_and_universal_principle—sincerity_no_test_of_truth—priestly_authority,_etc_george_a._smith.txt
+
+If you place two policemen in a street, there will be four robberies; if you place four, there will be eight robberies: they nearly all colleague together, and no man that is decently dressed can lie down or walk the streets in safety or quiet in any of those cities without risking his life almost as much as he would in facing an enemy on the battlefield.
+
+['loud', 'quiet'] received scores [0.7779985070228577, 0.22200144827365875]
+['loud', 'soft'] received scores [0.8772119283676147, 0.12278812378644943]
+['noisy', 'quiet'] received scores [0.9302560687065125, 0.06974397599697113]
+['noisy', 'soft'] received scores [0.9645273685455322, 0.03547264263033867]
+
+decades/1850s/5/spiritual_dissolution—ignorance_of_the_world_heber_c._kimball.txt
+
+Let us do right, keep the commandments of God, and live in peace and quietude.
+
+['quiet', 'loud'] received scores [0.9904849529266357, 0.009515034034848213]
+['soft', 'loud'] received scores [0.9500383138656616, 0.04996173083782196]
+['quiet', 'noisy'] received scores [0.9618005156517029, 0.038199491798877716]
+['soft', 'noisy'] received scores [0.8214067816734314, 0.17859315872192383]
+
+decades/1850s/5/sufficiency_of_the_gospel—obedience_to_truth—union—good_spirit_among_the_saints—the_lord_will_deliver_his_people_charles_c._rich.txt
+
+I have thought that the spirit that is among this people and the quiet feeling that seems to prevail when difficulties are approaching was most heavenly; and I have sometimes felt and queried as to whether I did not feel too well.
+
+['quiet', 'loud'] received scores [0.9968419671058655, 0.0031580724753439426]
+['soft', 'loud'] received scores [0.9621310234069824, 0.037869006395339966]
+['quiet', 'noisy'] received scores [0.9968807697296143, 0.0031192677561193705]
+['soft', 'noisy'] received scores [0.9625803232192993, 0.037419699132442474]
+
+decades/1850s/5/the_blessings_and_privileges_of_the_saints—obedience_to_counsel_lorenzo_snow.txt
+
+When the enemy is near, and when the stormy clouds arise, and the war clouds approach, even then we can feel free and quiet, and be satisfied that all is right in Israel.
+
+['quiet', 'loud'] received scores [0.9759353995323181, 0.02406458556652069]
+['soft', 'loud'] received scores [0.876591682434082, 0.12340828776359558]
+['quiet', 'noisy'] received scores [0.9538591504096985, 0.04614083096385002]
+['soft', 'noisy'] received scores [0.7835890650749207, 0.21641094982624054]
+
+decades/1850s/5/the_sacrament—slanderers_and_lying_spirits—monogamy_and_polygamy,_etc_george_a._smith.txt
+
+Much is said of the powerful engine of the press, the powerful medium by which truth or falsehood are so quietly circulated.
+
+['quiet', 'loud'] received scores [0.922732949256897, 0.07726701349020004]
+['soft', 'loud'] received scores [0.6333826780319214, 0.3666172921657562]
+['quiet', 'noisy'] received scores [0.8914323449134827, 0.10856765508651733]
+['soft', 'noisy'] received scores [0.5429289937019348, 0.45707109570503235]
+
+decades/1850s/5/union_of_the_priesthood—salvation_of_the_american_nation—punishment_of_the_saints'_enemies,_etc_heber_c._kimball.txt
+
+There is nobody to molest them, but their minds are not quiet: they are scared almost to death; and the nearer those baggage wagons get here, the more they are afraid.
+
+['loud', 'quiet'] received scores [0.8453850150108337, 0.15461498498916626]
+['loud', 'soft'] received scores [0.7484287619590759, 0.25157129764556885]
+['noisy', 'quiet'] received scores [0.918102502822876, 0.08189747482538223]
+['noisy', 'soft'] received scores [0.8591485619544983, 0.14085140824317932]
+
+decades/1850s/6/celebration_of_the_fourth_of_july_orson_hyde.txt
+
+While Columbia's sons and daughters regret and mourn his exit hence in accents like the following—    "Cold is the heart where valor reigned, Mute is the tongue that joy inspired, Still is the arm that conquest gained, And dim the eye that glory fired,"    They will comfort themselves and quiet the pangs of their bereaved hearts by chanting like this—    "Too mean for him a world like this; He's landed on the happy shore, Where all the brave partake of bliss, And heroes meet to part no more.
+
+['quiet', 'loud'] received scores [0.9274017214775085, 0.07259826362133026]
+['soft', 'loud'] received scores [0.8287361264228821, 0.1712639033794403]
+['quiet', 'noisy'] received scores [0.871613085269928, 0.12838691473007202]
+['soft', 'noisy'] received scores [0.7200173139572144, 0.27998271584510803]
+
+decades/1850s/6/judgment_according_to_works—temporal_nature_of_divine_revelations—temporal_resources_and_duties_of_the_saints,_etc_brigham_young.txt
+
+It is in calm weather, when the old ship of Zion is sailing with a gentle breeze, and when all is quiet on deck, that some of the brethren want to go out in the whaling boats to have a scrape and a swim; and some get drowned, others drifted away, and others again get back to the ship.
+
+['quiet', 'loud'] received scores [0.9799672365188599, 0.020032700151205063]
+['soft', 'loud'] received scores [0.959480345249176, 0.04051967337727547]
+['quiet', 'noisy'] received scores [0.9596223831176758, 0.040377601981163025]
+['soft', 'noisy'] received scores [0.9200270771980286, 0.07997287064790726]
+
+decades/1850s/6/knowledge_obtained_from_history_george_a._smith.txt
+
+Under these circumstances we came here, and silently and quietly continued coming away from every part of the Union, and our friends from other nations flocked here from various parts, until we had conquered the desert, and turned the mountain streams, and caused vegetation to grow, and produced grain of considerable variety and of excellent quality.
+
+['quiet', 'loud'] received scores [0.9956426024436951, 0.0043573626317083836]
+['soft', 'loud'] received scores [0.7892167568206787, 0.21078330278396606]
+['quiet', 'noisy'] received scores [0.9960498213768005, 0.003950187936425209]
+['soft', 'noisy'] received scores [0.805138111114502, 0.19486182928085327]
+
+decades/1850s/6/mission_to_england—reminiscences,_etc_ezra_t._benson.txt
+
+However, they kept quiet, though very uneasy.
+
+['quiet', 'loud'] received scores [0.9977892637252808, 0.0022106992546468973]
+['soft', 'loud'] received scores [0.9766136407852173, 0.023386407643556595]
+['quiet', 'noisy'] received scores [0.9966673851013184, 0.0033326332923024893]
+['soft', 'noisy'] received scores [0.9651206731796265, 0.03487938642501831]
+
+decades/1850s/6/mission_to_england—reminiscences,_etc_ezra_t._benson.txt
+
+The Mormons are a peaceable, quiet people.
+
+['quiet', 'loud'] received scores [0.9984711408615112, 0.001528834574855864]
+['soft', 'loud'] received scores [0.9975898265838623, 0.0024101741146296263]
+['quiet', 'noisy'] received scores [0.9975960850715637, 0.0024039186537265778]
+['soft', 'noisy'] received scores [0.9962121844291687, 0.003787810681387782]
+
+decades/1850s/6/past_and_present_history_of_the_church—trust_in_the_lord_and_his_priesthood,_etc_lorenzo_d._young.txt
+
+We must quiet our nerves and always be cool and deliberate.
+
+['quiet', 'loud'] received scores [0.9681625962257385, 0.03183739632368088]
+['soft', 'loud'] received scores [0.7154591083526611, 0.2845408618450165]
+['quiet', 'noisy'] received scores [0.9413857460021973, 0.05861429497599602]
+['soft', 'noisy'] received scores [0.5704441666603088, 0.42955589294433594]
+
+decades/1850s/6/personal_interest_in_the_kingdom_of_god—endowments—hints_to_preachers,_etc_joseph_young.txt
+
+Did you ever sit down and meditate, when all was quiet, when the spirit of serenity seemed to fill the whole house, and when it seemed as if there was some messenger there?
+
+['quiet', 'loud'] received scores [0.9910517334938049, 0.008948244154453278]
+['soft', 'loud'] received scores [0.8890362977981567, 0.11096373945474625]
+['quiet', 'noisy'] received scores [0.9892290234565735, 0.01077098399400711]
+['soft', 'noisy'] received scores [0.8691763281822205, 0.13082373142242432]
+
+decades/1850s/6/testimony_of_god's_servants_faithfully_borne_to_the_nations—gentile_opposition—judgments_of_god—redemption_of_zion_orson_pratt.txt
+
+He has let us rest in these peaceful valleys in safety and in quietness for some ten years, and now he seems to say to the wicked, "Inasmuch as you will not give heed to the testimony of my servants, and you are determined to invade their borders, go up and try it, and I will show you that I will gird on my strength and arm my servants, and they shall defend my cause.
+
+['quiet', 'loud'] received scores [0.8411678671836853, 0.1588321477174759]
+['loud', 'soft'] received scores [0.9140151739120483, 0.08598485589027405]
+['quiet', 'noisy'] received scores [0.9820261597633362, 0.01797381229698658]
+['noisy', 'soft'] received scores [0.5074787139892578, 0.4925212860107422]
+
+decades/1850s/6/the_lord_at_the_head_of_his_kingdom—self-discipline—necessity_of_cultivating_a_knowledge_of_science,_and_particularly_of_theolog.txt
+
+Suffer them not to be agitated until your blood is boiling with rage before you are aware; but stop and reflect, coolly consider, and quietly reason with the person or persons who have trespassed upon you, and show them the nature of their transgression against you.
+
+['quiet', 'loud'] received scores [0.9738355278968811, 0.026164473965764046]
+['soft', 'loud'] received scores [0.759431004524231, 0.24056896567344666]
+['quiet', 'noisy'] received scores [0.9573747515678406, 0.042625267058610916]
+['soft', 'noisy'] received scores [0.6557633280754089, 0.34423670172691345]
+
+decades/1850s/6/unity,_etc_amasa_m._lyman.txt
+
+I am no more disquieted in my feeling; and why?
+
+['quiet', 'loud'] received scores [0.9292916059494019, 0.07070837914943695]
+['soft', 'loud'] received scores [0.6988919973373413, 0.3011080324649811]
+['quiet', 'noisy'] received scores [0.9655331373214722, 0.03446687012910843]
+['soft', 'noisy'] received scores [0.8318576216697693, 0.16814233362674713]
+
+decades/1850s/6/unpopularity_of_mormonism—redemption_of_the_dead,_etc_joseph_young.txt
+
+The Spirit of peace and quiet is in our midst; God is in our midst; and although we do not see him, he is here; his messengers are here, and they know our doings, and the record thereof they bear to him, and it is good.
+
+['quiet', 'loud'] received scores [0.9961084127426147, 0.0038916205521672964]
+['soft', 'loud'] received scores [0.943931519985199, 0.05606847628951073]
+['quiet', 'noisy'] received scores [0.9929176568984985, 0.0070823305286467075]
+['soft', 'noisy'] received scores [0.9021632075309753, 0.09783683717250824]
+
+decades/1850s/7/diligence_in_preaching_to_the_world—providences_of_god_around_the_saints—charity—god's_spirit_distributed_among_all_mankind—tria.txt
+
+Until prayer time is over, be still, keep quiet, and all is right.
+
+['quiet', 'loud'] received scores [0.9797642230987549, 0.02023576758801937]
+['soft', 'loud'] received scores [0.7379917502403259, 0.26200827956199646]
+['quiet', 'noisy'] received scores [0.9463533759117126, 0.05364660173654556]
+['soft', 'noisy'] received scores [0.506473183631897, 0.49352678656578064]
+
+decades/1850s/7/the_gospel_of_salvation,_&c_amasa_m._lyman.txt
+
+Whenever there is peace, and the home circle lives in peace and quietude, the blessings of heaven and the revelations of the Holy Spirit will be there; its inspiration will be there, and it will be like a burning, never-dying flame within you, and you will walk together in peace and in harmony.
+
+['quiet', 'loud'] received scores [0.9864671230316162, 0.013532831333577633]
+['soft', 'loud'] received scores [0.7087948322296143, 0.29120510816574097]
+['quiet', 'noisy'] received scores [0.9868329167366028, 0.013167086988687515]
+['soft', 'noisy'] received scores [0.7144931554794312, 0.28550684452056885]
+
+decades/1850s/7/the_gospel_of_salvation,_&c_amasa_m._lyman.txt
+
+But it is not too late to learn to judge righteously—to create quietude and peace, virtue and holiness, at your own homes.
+
+['quiet', 'loud'] received scores [0.9525794386863708, 0.04742053896188736]
+['soft', 'loud'] received scores [0.5867582559585571, 0.4132417142391205]
+['quiet', 'noisy'] received scores [0.8667709231376648, 0.13322903215885162]
+['noisy', 'soft'] received scores [0.6849970817565918, 0.3150028884410858]
+
+decades/1850s/7/the_gospel—tithing—religion_in_the_home_circle_amasa_m._lyman.txt
+
+If you could do all this with a reference to those little things that disturb the peace at home, that plant a thorn where a rose should be planted, that cultivate principles of strife where quietude and harmony should prevail, great would be our happiness as a people, both at home and in our public assemblies.
+
+['quiet', 'loud'] received scores [0.9209221005439758, 0.07907792180776596]
+['soft', 'loud'] received scores [0.5819730162620544, 0.4180269241333008]
+['quiet', 'noisy'] received scores [0.8719401359558105, 0.12805993854999542]
+['noisy', 'soft'] received scores [0.5512793660163879, 0.44872066378593445]
+
+decades/1850s/7/the_gospel—tithing—religion_in_the_home_circle_amasa_m._lyman.txt
+
+We would simply be minding our own business in a quiet way.
+
+['quiet', 'loud'] received scores [0.9974682927131653, 0.0025317026302218437]
+['soft', 'loud'] received scores [0.9874154329299927, 0.012584581971168518]
+['quiet', 'noisy'] received scores [0.9960698485374451, 0.003930132370442152]
+['soft', 'noisy'] received scores [0.9805722832679749, 0.019427740946412086]
+
+decades/1850s/7/wisdom_manifest_in_all_god's_dealings_with_the_saints_brigham_young.txt
+
+One thing is very true concerning the Gospel of salvation—the revelations of Jesus Christ—the kingdom of God upon the earth: Let any people enjoy peace and quietness, unmolested, undisturbed—never be persecuted for their religion, and they are very likely to neglect their duty, to become cold and indifferent, and lose their faith.
+
+['quiet', 'loud'] received scores [0.9525323510169983, 0.04746764525771141]
+['soft', 'loud'] received scores [0.7605867385864258, 0.23941324651241302]
+['quiet', 'noisy'] received scores [0.8679366111755371, 0.1320633739233017]
+['soft', 'noisy'] received scores [0.5099137425422668, 0.49008631706237793]
+

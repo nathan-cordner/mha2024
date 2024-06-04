@@ -1,0 +1,243 @@
+﻿decades/2000s/2000_A/packer_the_cloven_tongues_of_fire.txt
+
+There are so many places to go, so many things to do in this noisy world.
+
+['loud', 'quiet'] received scores [0.989962100982666, 0.010037890635430813]
+['loud', 'soft'] received scores [0.9860679507255554, 0.01393201109021902]
+['noisy', 'quiet'] received scores [0.9908506870269775, 0.009149311110377312]
+['noisy', 'soft'] received scores [0.9872968792915344, 0.012703138403594494]
+
+decades/2000s/2000_O/hinckley_“great_shall_be_the_peace_of_thy_children”.txt
+
+Here with flashing lights and noisy music, if it can be called that, young men and women dance and sway.
+
+['loud', 'quiet'] received scores [0.9989846348762512, 0.0010153402108699083]
+['loud', 'soft'] received scores [0.9987877011299133, 0.0012123218039050698]
+['noisy', 'quiet'] received scores [0.9989870190620422, 0.0010129474103450775]
+['noisy', 'soft'] received scores [0.9987905621528625, 0.0012094653211534023]
+
+decades/2000s/2001_A/reynolds_a_god_of_miracles.txt
+
+They can’t have too much light, they can’t have too much noise, their chemical balances need constant monitoring, as the hospital, with millions of dollars of equipment and many wonderful doctors and nurses, attempted to replicate the miracle of a mother’s womb.
+
+['quiet', 'loud'] received scores [0.5629372596740723, 0.43706268072128296]
+['loud', 'soft'] received scores [0.8230228424072266, 0.17697718739509583]
+['noisy', 'quiet'] received scores [0.7087425589561462, 0.29125744104385376]
+['noisy', 'soft'] received scores [0.9357964396476746, 0.06420353800058365]
+
+decades/2000s/2001_O/eyring_prayer.txt
+
+Pride creates a noise within us which makes the quiet voice of the Spirit hard to hear.
+
+['loud', 'quiet'] received scores [0.9061717391014099, 0.0938282385468483]
+['loud', 'soft'] received scores [0.8593580722808838, 0.14064189791679382]
+['noisy', 'quiet'] received scores [0.97296541929245, 0.027034595608711243]
+['noisy', 'soft'] received scores [0.9579299092292786, 0.042070113122463226]
+
+decades/2000s/2001_O/hinckley_“till_we_meet_again”.txt
+
+I hope that the noise of our homes will drop a few decibels, that we will subdue our voices and speak to one another with greater appreciation and respect.
+
+['loud', 'quiet'] received scores [0.7730379700660706, 0.22696205973625183]
+['loud', 'soft'] received scores [0.6962698698043823, 0.3037301301956177]
+['noisy', 'quiet'] received scores [0.9380081295967102, 0.061991896480321884]
+['noisy', 'soft'] received scores [0.9105857014656067, 0.08941429853439331]
+
+decades/2000s/2002_A/wirthlin_“follow_me”.txt
+
+In the midst of the noise and seductive voices that compete for our time and interest, a solitary figure stands on the shores of the Sea of Galilee, calling quietly to us, “Follow me.
+
+['quiet', 'loud'] received scores [0.8371647596359253, 0.16283519566059113]
+['soft', 'loud'] received scores [0.8401010036468506, 0.15989907085895538]
+['noisy', 'quiet'] received scores [0.7061378955841064, 0.29386210441589355]
+['noisy', 'soft'] received scores [0.701615571975708, 0.298384428024292]
+
+decades/2000s/2002_O/costa_fun_and_happiness.txt
+
+Fun is play, pleasure, gaiety, merriment, source of enjoyment, amusement, to behave playfully, playful, often a noisy activity, and teasing.
+
+['loud', 'quiet'] received scores [0.9670754075050354, 0.032924581319093704]
+['loud', 'soft'] received scores [0.8699377775192261, 0.13006220757961273]
+['noisy', 'quiet'] received scores [0.9858618974685669, 0.014138131402432919]
+['noisy', 'soft'] received scores [0.9407544732093811, 0.059245478361845016]
+
+decades/2000s/2002_O/holland_called_to_serve.txt
+
+She had small children who were often demanding, noisy, and exhausting.
+
+['loud', 'quiet'] received scores [0.9966883063316345, 0.0033116652630269527]
+['loud', 'soft'] received scores [0.9926024675369263, 0.007397548295557499]
+['noisy', 'quiet'] received scores [0.9979522824287415, 0.002047743182629347]
+['noisy', 'soft'] received scores [0.9954186677932739, 0.004581386223435402]
+
+decades/2000s/2003_A/dunn_words_to_live_by.txt
+
+Together they are a noise, a blur, and we do not listen to or seriously consider them.
+
+['loud', 'quiet'] received scores [0.9515557885169983, 0.048444196581840515]
+['loud', 'soft'] received scores [0.8475455045700073, 0.15245452523231506]
+['noisy', 'quiet'] received scores [0.9883110523223877, 0.011688951402902603]
+['noisy', 'soft'] received scores [0.9598881602287292, 0.04011182114481926]
+
+decades/2000s/2003_A/reynolds_i_can_pray_to_heavenly_father_anytime,_anywhere.txt
+
+They drove for an hour and a half, and the Jeep started making funny noises.
+
+['loud', 'quiet'] received scores [0.9743436574935913, 0.0256563238799572]
+['loud', 'soft'] received scores [0.8823983073234558, 0.11760170757770538]
+['noisy', 'quiet'] received scores [0.9967796206474304, 0.0032203407026827335]
+['noisy', 'soft'] received scores [0.9839111566543579, 0.016088858246803284]
+
+decades/2000s/2003_A/wirthlin_the_unspeakable_gift.txt
+
+This is a noisy and busy world that we live in.
+
+['loud', 'quiet'] received scores [0.9964924454689026, 0.0035075529012829065]
+['loud', 'soft'] received scores [0.9967892169952393, 0.003210773691534996]
+['noisy', 'quiet'] received scores [0.9975449442863464, 0.002455084817484021]
+['noisy', 'soft'] received scores [0.9977529048919678, 0.0022471556439995766]
+
+decades/2000s/2003_A/wirthlin_the_unspeakable_gift.txt
+
+We should lower the noise level in our homes so that the noise of the world will not overpower the still, small voice of the Holy Ghost.
+
+['quiet', 'loud'] received scores [0.6646804213523865, 0.3353195786476135]
+['soft', 'loud'] received scores [0.614295482635498, 0.38570451736450195]
+['noisy', 'quiet'] received scores [0.6872595548629761, 0.3127404749393463]
+['noisy', 'soft'] received scores [0.7322672605514526, 0.26773279905319214]
+
+decades/2000s/2003_O/maxwell_how_choice_a_seer!.txt
+
+They have now been joined by those living lives of noisy, slurping indulgence, wrongly celebrating their capacity to feel so that they finally lose their capacity to feel and become “past feeling.”
+
+['loud', 'quiet'] received scores [0.997180163860321, 0.0028198708314448595]
+['loud', 'soft'] received scores [0.985279381275177, 0.014720615930855274]
+['noisy', 'quiet'] received scores [0.9968361854553223, 0.0031638178043067455]
+['noisy', 'soft'] received scores [0.9835079312324524, 0.016492120921611786]
+
+decades/2000s/2004_O/hinckley_closing_remarks.txt
+
+In this noisy, bustling, competitive world, what a privilege it is to have a sacred house where we may experience the sanctifying influence of the Spirit of the Lord.
+
+['loud', 'quiet'] received scores [0.7955224514007568, 0.20447760820388794]
+['loud', 'soft'] received scores [0.9064182043075562, 0.09358181804418564]
+['noisy', 'quiet'] received scores [0.9010013341903687, 0.09899865090847015]
+['noisy', 'soft'] received scores [0.9577314257621765, 0.042268529534339905]
+
+decades/2000s/2005_A/edgley_a_still,_small_voice_and_a_throbbing_heart.txt
+
+In this busy, tumultuous, and noisy world, it is not like a wind, it is not like a fire, it is not like an earthquake; but it is a still, small, but a very discernible voice, and it causes a throbbing heart.
+
+['quiet', 'loud'] received scores [0.9101975560188293, 0.08980244398117065]
+['soft', 'loud'] received scores [0.9451550841331482, 0.05484494939446449]
+['noisy', 'quiet'] received scores [0.6233648657798767, 0.3766351640224457]
+['soft', 'noisy'] received scores [0.506733238697052, 0.4932668209075928]
+
+decades/2000s/2005_A/faust_standing_in_holy_places.txt
+
+The hustle and bustle and noise of the thousands of people outside was deafening.
+
+['loud', 'quiet'] received scores [0.9462881088256836, 0.05371187627315521]
+['loud', 'soft'] received scores [0.9708529710769653, 0.02914706990122795]
+['noisy', 'quiet'] received scores [0.9788270592689514, 0.021172884851694107]
+['noisy', 'soft'] received scores [0.9886882901191711, 0.011311703361570835]
+
+decades/2000s/2005_A/faust_standing_in_holy_places.txt
+
+They entered, left the noisome world, and worshiped in the house of the Lord.
+
+['quiet', 'loud'] received scores [0.6288231015205383, 0.3711768388748169]
+['loud', 'soft'] received scores [0.6194939613342285, 0.38050606846809387]
+['noisy', 'quiet'] received scores [0.5866991877555847, 0.4133007824420929]
+['noisy', 'soft'] received scores [0.7965563535690308, 0.20344364643096924]
+
+decades/2000s/2005_A/faust_standing_in_holy_places.txt
+
+As President Gordon B. Hinckley taught us: “There is need occasionally to leave the noise and the tumult of the world and step within the walls of a sacred house of God, there to feel His Spirit in an environment of holiness and peace.
+
+['quiet', 'loud'] received scores [0.8128594160079956, 0.1871405839920044]
+['soft', 'loud'] received scores [0.521285891532898, 0.47871413826942444]
+['quiet', 'noisy'] received scores [0.7317542433738708, 0.26824575662612915]
+['noisy', 'soft'] received scores [0.5938639044761658, 0.40613606572151184]
+
+decades/2000s/2005_A/hughes_what_greater_goodness_can_we_know_christlike_friends.txt
+
+So are my brothers, my dear husband, my children, and my grandchildren (no matter how noisy those grandchildren are).
+
+['loud', 'quiet'] received scores [0.9625632166862488, 0.03743678703904152]
+['loud', 'soft'] received scores [0.941424548625946, 0.05857544392347336]
+['noisy', 'quiet'] received scores [0.9724392890930176, 0.027560660615563393]
+['noisy', 'soft'] received scores [0.9566258788108826, 0.04337405040860176]
+
+decades/2000s/2005_A/wirthlin_the_virtue_of_kindness.txt
+
+He had been acting up in class and was being noisier than he should when his teacher became angry, pulled him out of class, and told him not to come back.
+
+['loud', 'quiet'] received scores [0.9935361742973328, 0.0064638336189091206]
+['loud', 'soft'] received scores [0.9736997485160828, 0.02630028873682022]
+['noisy', 'quiet'] received scores [0.996387779712677, 0.003612176515161991]
+['noisy', 'soft'] received scores [0.9851720333099365, 0.014827966690063477]
+
+decades/2000s/2006_O/edwards_that_they_might_know_thee.txt
+
+Perhaps by some unseen sense, as I would peek noiselessly around the corner, which was located behind him and to the side, his head would come up and he would strain to see if I was there.
+
+['quiet', 'loud'] received scores [0.9828636050224304, 0.017136411741375923]
+['soft', 'loud'] received scores [0.9421569108963013, 0.05784308910369873]
+['quiet', 'noisy'] received scores [0.9612149596214294, 0.03878505155444145]
+['soft', 'noisy'] received scores [0.8755922913551331, 0.12440774589776993]
+
+decades/2000s/2007_O/hallstrom_do_it_now.txt
+
+After a period of trying to ignore the noise, I would get up and join my father in my weekly responsibility to help him maintain the yard surrounding our home.
+
+['loud', 'quiet'] received scores [0.9898084402084351, 0.010191540233790874]
+['loud', 'soft'] received scores [0.9410881400108337, 0.05891183018684387]
+['noisy', 'quiet'] received scores [0.9960594177246094, 0.003940599504858255]
+['noisy', 'soft'] received scores [0.9765123724937439, 0.023487582802772522]
+
+decades/2000s/2008_A/neuenschwander_one_among_the_crowd.txt
+
+It might even have been a noisy crowd, as people pushed and shoved trying to get a better look at Him.
+
+['loud', 'quiet'] received scores [0.9934619069099426, 0.006538070738315582]
+['loud', 'soft'] received scores [0.9874243140220642, 0.012575697153806686]
+['noisy', 'quiet'] received scores [0.9959584474563599, 0.0040415311232209206]
+['noisy', 'soft'] received scores [0.9922082424163818, 0.007791792042553425]
+
+decades/2000s/2008_O/godoy_testimony_as_a_process.txt
+
+It is ‘not a voice of thunder, neither … [a] voice of a great tumultuous noise.
+
+['quiet', 'loud'] received scores [0.5449334383010864, 0.4550665020942688]
+['soft', 'loud'] received scores [0.7090083956718445, 0.2909916639328003]
+['noisy', 'quiet'] received scores [0.7406120896339417, 0.25938788056373596]
+['noisy', 'soft'] received scores [0.5838989615440369, 0.4161010682582855]
+
+decades/2000s/2009_A/packer_finding_strength_in_challenging_times!.txt
+
+There was a lot of noise from players and fans.
+
+['loud', 'quiet'] received scores [0.9962785243988037, 0.0037214700132608414]
+['loud', 'soft'] received scores [0.9950501918792725, 0.0049497694708406925]
+['noisy', 'quiet'] received scores [0.9974261522293091, 0.0025738116819411516]
+['noisy', 'soft'] received scores [0.9965753555297852, 0.0034246197901666164]
+
+decades/2000s/2009_A/packer_finding_strength_in_challenging_times!.txt
+
+As we tugged back and forth, amid all the noise I heard a voice yelling, “Packer, tackle him!
+
+['loud', 'quiet'] received scores [0.9953262805938721, 0.004673754796385765]
+['loud', 'soft'] received scores [0.9913569092750549, 0.008643068373203278]
+['noisy', 'quiet'] received scores [0.9962869882583618, 0.0037130466662347317]
+['noisy', 'soft'] received scores [0.9931278824806213, 0.006872085388749838]
+
+decades/2000s/2009_A/packer_finding_strength_in_challenging_times!.txt
+
+I have wondered how I heard that voice above all the other noise.
+
+['loud', 'quiet'] received scores [0.8902498483657837, 0.10975009948015213]
+['loud', 'soft'] received scores [0.7464430332183838, 0.2535569369792938]
+['noisy', 'quiet'] received scores [0.9762412905693054, 0.023758752271533012]
+['noisy', 'soft'] received scores [0.9371559619903564, 0.06284405291080475]
+

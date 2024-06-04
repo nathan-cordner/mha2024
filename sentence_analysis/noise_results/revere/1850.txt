@@ -1,0 +1,369 @@
+﻿decades/1850s/1/a_general_funeral_sermon_of_all_saints_and_sinners;_also,_of_the_heavens_and_the_earth_orson_pratt.txt
+
+It is not there: we do not reverence Him nor His law; justice does not have an existence in His bosom; He does not regard His own laws, for He suffers them to be broken with impunity, and trampled under foot, by those whom He has made; therefore we care not for Him or His laws, nor His pretended justice; we will rebel against it.
+
+['quiet', 'loud'] received scores [0.5941064953804016, 0.4058935046195984]
+['loud', 'soft'] received scores [0.5501866936683655, 0.44981327652931213]
+['quiet', 'noisy'] received scores [0.6644026041030884, 0.335597425699234]
+['soft', 'noisy'] received scores [0.5251245498657227, 0.47487539052963257]
+
+decades/1850s/1/education_brigham_young.txt
+
+If children are not taught by their mothers, in the days of their youth, to revere and follow the counsels of their fathers, it will be hard indeed for the father ever to control them.
+
+['loud', 'quiet'] received scores [0.5060179829597473, 0.4939820468425751]
+['loud', 'soft'] received scores [0.8124344944953918, 0.18756552040576935]
+['quiet', 'noisy'] received scores [0.688191294670105, 0.3118087649345398]
+['noisy', 'soft'] received scores [0.6570459008216858, 0.3429540991783142]
+
+decades/1850s/1/effects_and_privileges_of_the_gospel—the_latter-day_saints_and_the_christian_world_brigham_young.txt
+
+I have acknowledged the Bible from the time I could be taught by my parents to revere it.
+
+['loud', 'quiet'] received scores [0.5386263132095337, 0.4613737165927887]
+['loud', 'soft'] received scores [0.6483971476554871, 0.3516029119491577]
+['quiet', 'noisy'] received scores [0.6720424890518188, 0.32795751094818115]
+['soft', 'noisy'] received scores [0.564697802066803, 0.4353022277355194]
+
+decades/1850s/1/legitimacy_and_illegitimacy_john_taylor.txt
+
+We have fathers in the flesh, and we do them reverence, how much more shall we be in subjection to the Father of Spirits and live.
+
+['loud', 'quiet'] received scores [0.5294244289398193, 0.4705755412578583]
+['loud', 'soft'] received scores [0.668462336063385, 0.33153772354125977]
+['quiet', 'noisy'] received scores [0.7371047735214233, 0.2628951966762543]
+['soft', 'noisy'] received scores [0.6100613474845886, 0.3899386525154114]
+
+decades/1850s/1/liberty_and_persecution—conduct_of_the_u._s._government,_etc_george_a._smith.txt
+
+Ought we not, then, to rejoice, that there is a spot upon the footstool of God, where law is respected; where the Constitution for which our fathers bled is revered; where the people who dwell here can enjoy liberty, and worship God in three or in twenty different ways, and no man be permitted to plague his head about it?
+
+['quiet', 'loud'] received scores [0.5630207061767578, 0.43697935342788696]
+['loud', 'soft'] received scores [0.8301810026168823, 0.16981898248195648]
+['quiet', 'noisy'] received scores [0.82098388671875, 0.17901611328125]
+['noisy', 'soft'] received scores [0.5786694288253784, 0.42133063077926636]
+
+decades/1850s/1/liberty_and_persecution—conduct_of_the_u._s._government,_etc_george_a._smith.txt
+
+I will say, with all reverence to the constituted authority that exists in the General Government, that I do believe that the same spirit of tradition, and the same spirit of persecution, that have ever followed the people of God, have more or less influence with them; and that if we would actually go to work, and alter our name, we might possibly be treated as other men.
+
+['quiet', 'loud'] received scores [0.5786440372467041, 0.4213559925556183]
+['loud', 'soft'] received scores [0.5623202919960022, 0.4376797676086426]
+['quiet', 'noisy'] received scores [0.6453699469566345, 0.3546300530433655]
+['soft', 'noisy'] received scores [0.5077381134033203, 0.4922618567943573]
+
+decades/1850s/1/president_b._young's_journey_south—indian_difficulties—walker—watching_and_prayer—thieves_and_their_deserts—eastern_intelligence.txt
+
+I know this appears hard, and throws a cold chill over our revered traditions received by early education.
+
+['loud', 'quiet'] received scores [0.9883965253829956, 0.01160349976271391]
+['loud', 'soft'] received scores [0.9780029654502869, 0.02199704572558403]
+['noisy', 'quiet'] received scores [0.9519205093383789, 0.048079509288072586]
+['noisy', 'soft'] received scores [0.9117709994316101, 0.08822903782129288]
+
+decades/1850s/1/the_privileges_and_blessings_of_the_gospel_brigham_young.txt
+
+You anticipated deliverance from hell, to find a heaven with the Saints; you expected to exchange confusion for a Zion of order and beauty, misery for peace and happiness, blasphemy and tumult for quietness and reverence to the name of God, starvation for plenty; in short, you expected to find a place where all evil had ceased, and iniquity and sorrow were brought to an end, and where you would bask undisturbed in the smiles of the countenance of your Lord from day to day.
+
+['quiet', 'loud'] received scores [0.7930537462234497, 0.2069462090730667]
+['loud', 'soft'] received scores [0.5515791773796082, 0.44842079281806946]
+['quiet', 'noisy'] received scores [0.9093886613845825, 0.09061139822006226]
+['soft', 'noisy'] received scores [0.6804209351539612, 0.31957903504371643]
+
+decades/1850s/2/consecration_brigham_young.txt
+
+Abraham was fearful he would not increase and multiply his posterity on the earth, though he might increase in power, wisdom, and knowledge himself; and reflected, "I have no children, or even prospect of them, to rise up and bless me, or to honor and revere my name in coming generations.
+
+['loud', 'quiet'] received scores [0.7128205895423889, 0.2871794104576111]
+['loud', 'soft'] received scores [0.823712170124054, 0.17628788948059082]
+['quiet', 'noisy'] received scores [0.5712090134620667, 0.42879095673561096]
+['noisy', 'soft'] received scores [0.5855973362922668, 0.4144026041030884]
+
+decades/1850s/2/contentment—home_manufactures—the_priesthood—tithing—gathering—building_up_zion—purification_heber_c._kimball.txt
+
+I know it is so; I do not believe it, but I actually know it; and that the God which I serve lives and dwells in the heavens; and I feel to honor Him, I feel to reverence Him, and to do a good work by His authority, that I may come into His presence, and give up my stewardship with joy, and not with grief; and dwell with Him at some future time.
+
+['quiet', 'loud'] received scores [0.589418351650238, 0.4105816185474396]
+['loud', 'soft'] received scores [0.6932521462440491, 0.30674782395362854]
+['quiet', 'noisy'] received scores [0.8161646723747253, 0.18383528292179108]
+['soft', 'noisy'] received scores [0.5777751803398132, 0.42222487926483154]
+
+decades/1850s/2/dependence_on_the_lord—coal_and_iron_works—family_excursions_brigham_young.txt
+
+When chastisements come, let them be what they may, let us always be willing and ready to kiss the rod, and reverence the hand that administers it, acknowledging the hand of God in all things.
+
+['quiet', 'loud'] received scores [0.5955480933189392, 0.4044519066810608]
+['loud', 'soft'] received scores [0.6043071150779724, 0.3956928551197052]
+['quiet', 'noisy'] received scores [0.7591047286987305, 0.24089525640010834]
+['soft', 'noisy'] received scores [0.5835548639297485, 0.4164450764656067]
+
+decades/1850s/2/marriage_relations_of_bishops_and_deacons_brigham_young.txt
+
+I have no reasonable grounds upon which to say it was not the custom in ancient times for a man to have more than one wife, but every reason to believe that it was the custom among the Jews, from the days of Abraham to the days of the Apostles, for they were lineal descendants of Abraham, Isaac, and Jacob, all of whom taught and practiced the doctrine of plurality of wives, and were revered by the whole Jewish nation, and it is but natural that they should have respected and followed their teachings and example.
+
+['quiet', 'loud'] received scores [0.7141993045806885, 0.2858007550239563]
+['loud', 'soft'] received scores [0.5774441361427307, 0.42255592346191406]
+['quiet', 'noisy'] received scores [0.7336027026176453, 0.2663973271846771]
+['noisy', 'soft'] received scores [0.5535879731178284, 0.44641199707984924]
+
+decades/1850s/2/obedience—the_spirit_world—the_potter_and_the_clay_heber_c._kimball.txt
+
+My prayer is, O Lord help me to do thy will, and walk in the footsteps of my leader, light up my path, and help me to walk so that my feet may never slip, and to keep my tongue from speaking guile; that I may never be left to betray my brethren, who hold the Priesthood of the Son of God; but that I may always honor that Priesthood, magnify it, reverence it, and love it more than I do my life, or my wives and my children.
+
+['quiet', 'loud'] received scores [0.508184552192688, 0.491815447807312]
+['loud', 'soft'] received scores [0.6890871524810791, 0.3109128773212433]
+['quiet', 'noisy'] received scores [0.6419345736503601, 0.35806548595428467]
+['noisy', 'soft'] received scores [0.5609025359153748, 0.43909743428230286]
+
+decades/1850s/2/the_power_of_god_and_the_power_of_satan_jedediah_m._grant.txt
+
+The Priesthood is a power we should respect, reverence, and obey, no matter in whose hands it is.
+
+['loud', 'quiet'] received scores [0.5550994873046875, 0.4449004530906677]
+['loud', 'soft'] received scores [0.6786727905273438, 0.32132717967033386]
+['quiet', 'noisy'] received scores [0.6677626371383667, 0.3322374224662781]
+['soft', 'noisy'] received scores [0.5428199768066406, 0.45718005299568176]
+
+decades/1850s/2/the_priesthood_and_satan—the_constitution_and_government_of_the_united_states—rights_and_policy_of_the_latter-day_saints_brigham.txt
+
+We have pleaded time and time again, and will plead, saying, "Spare us, love us; we  mean to be one of the best boys you have got; be kind to us, and if you chasten us, it may be said that we have kissed the rod and reverenced the hand that gave it, and tried again: but be merciful to us, for do you not see that we are a dutiful child?
+
+['quiet', 'loud'] received scores [0.6804909110069275, 0.3195090889930725]
+['loud', 'soft'] received scores [0.5058001279830933, 0.4941999316215515]
+['quiet', 'noisy'] received scores [0.7916972041130066, 0.20830278098583221]
+['soft', 'noisy'] received scores [0.635516345500946, 0.36448362469673157]
+
+decades/1850s/2/the_priesthood_and_satan—the_constitution_and_government_of_the_united_states—rights_and_policy_of_the_latter-day_saints_brigham.txt
+
+In the free and independent government of the United States, who in the eyes of the Almighty ought to have the privilege of sitting in the Presidential chair, to be countenanced, adored, loved, and reverenced in his capacity, and be justified therein by the heavenly hosts?
+
+['loud', 'quiet'] received scores [0.8101614117622375, 0.18983860313892365]
+['loud', 'soft'] received scores [0.753745973110199, 0.24625401198863983]
+['noisy', 'quiet'] received scores [0.6693626046180725, 0.33063745498657227]
+['noisy', 'soft'] received scores [0.5921682119369507, 0.4078317880630493]
+
+decades/1850s/3/mahometanism_and_christianity_parley_p._pratt.txt
+
+Many that were honest have been deceived by this mystery of iniquity, who have esteemed things to be sacred, which were abominably corrupt; and corrupt superstitions have been revered because of the great names and sanctified professions that were attached to them.
+
+['loud', 'quiet'] received scores [0.7785931825637817, 0.22140683233737946]
+['loud', 'soft'] received scores [0.7437392473220825, 0.2562607526779175]
+['noisy', 'quiet'] received scores [0.7489305138587952, 0.25106945633888245]
+['noisy', 'soft'] received scores [0.7111395001411438, 0.2888604700565338]
+
+decades/1850s/3/remarks_on_a_revelation_given_in_august,_1831—general_instructions_brigham_young.txt
+
+They produce in people the most reverential awe that can be imagined.
+
+['loud', 'quiet'] received scores [0.8513023853302002, 0.1486975997686386]
+['loud', 'soft'] received scores [0.7297846078872681, 0.2702154517173767]
+['noisy', 'quiet'] received scores [0.6718496680259705, 0.32815030217170715]
+['soft', 'noisy'] received scores [0.5086891055107117, 0.49131086468696594]
+
+decades/1850s/3/the_gospel_of_salvation—a_vision—redemption_of_the_earth_and_all_that_pertains_to_it_brigham_young.txt
+
+And thus we saw the glory of the celestial, which excels in all things—where God, even the Father, reigns upon his throne forever and ever; Before whose throne all things bow in humble reverence, and give him glory forever and ever.
+
+['loud', 'quiet'] received scores [0.8219469785690308, 0.17805299162864685]
+['loud', 'soft'] received scores [0.8080518841743469, 0.19194814562797546]
+['noisy', 'quiet'] received scores [0.5528938174247742, 0.44710615277290344]
+['noisy', 'soft'] received scores [0.5300079584121704, 0.4699920415878296]
+
+decades/1850s/3/times_for_all_things—prayer—chastisement—unity—faithfulness—reverence_for_sacred_things—reformation_brigham_young.txt
+
+Says one, "I am willing to be chastened, but I am not willing to have that brother who has just come from England, or some other country, chasten me, but if someone high in authority should do it, I would kiss the rod and reverence the hand that gave it;" but the man who will only receive chastening from the Lord Himself is not in a proper state of mind before Him.
+
+['loud', 'quiet'] received scores [0.5537292957305908, 0.4462706744670868]
+['loud', 'soft'] received scores [0.5119290351867676, 0.48807087540626526]
+['quiet', 'noisy'] received scores [0.6088155508041382, 0.3911844491958618]
+['soft', 'noisy'] received scores [0.6480231285095215, 0.35197684168815613]
+
+decades/1850s/3/times_for_all_things—prayer—chastisement—unity—faithfulness—reverence_for_sacred_things—reformation_brigham_young.txt
+
+My advice in all such cases is, just tell them that there is the hole which the carpenter made, and they can go through it, for you will have the law of God reverenced by all who reside in or visit your habitation.
+
+['quiet', 'loud'] received scores [0.7349345684051514, 0.2650654911994934]
+['soft', 'loud'] received scores [0.5413233637809753, 0.45867663621902466]
+['quiet', 'noisy'] received scores [0.834454357624054, 0.16554567217826843]
+['soft', 'noisy'] received scores [0.6820909380912781, 0.31790903210639954]
+
+decades/1850s/3/times_for_all_things—prayer—chastisement—unity—faithfulness—reverence_for_sacred_things—reformation_brigham_young.txt
+
+Saints must practice cleanliness and purity, and show by their prayers, by all their works, and in their families, that they are reforming, and forsaking all and every kind and species of filthiness and evil practice, no matter what it is, no, not though it takes the hair off from your heads; no matter if it be high, low, rough, or smooth, the Almighty has given you a law to obey and reverence; and if you practice those doctrines which you have embraced, though all hell foam against you, by the power of God you will triumph and ask no odds of anyone.
+
+['quiet', 'loud'] received scores [0.5538219809532166, 0.44617795944213867]
+['loud', 'soft'] received scores [0.7417322993278503, 0.25826776027679443]
+['quiet', 'noisy'] received scores [0.7362799048423767, 0.2637200951576233]
+['noisy', 'soft'] received scores [0.5607964396476746, 0.43920356035232544]
+
+decades/1850s/3/times_for_all_things—prayer—chastisement—unity—faithfulness—reverence_for_sacred_things—reformation_brigham_young.txt
+
+In order to enjoy that spirit you must reverence all the members of the Priesthood, no matter who may be in possession of it.
+
+['quiet', 'loud'] received scores [0.6614119410514832, 0.33858808875083923]
+['soft', 'loud'] received scores [0.5364833474159241, 0.4635166525840759]
+['quiet', 'noisy'] received scores [0.7802461385726929, 0.21975381672382355]
+['soft', 'noisy'] received scores [0.6778048872947693, 0.3221951425075531]
+
+decades/1850s/3/times_for_all_things—prayer—chastisement—unity—faithfulness—reverence_for_sacred_things—reformation_brigham_young.txt
+
+Where there is a lack of confidence and proper reverence, people are afraid of the Prophet of God.
+
+['quiet', 'loud'] received scores [0.5375846028327942, 0.4624153673648834]
+['loud', 'soft'] received scores [0.525211751461029, 0.47478827834129333]
+['quiet', 'noisy'] received scores [0.6600366830825806, 0.3399633467197418]
+['soft', 'noisy'] received scores [0.6015439629554749, 0.39845603704452515]
+
+decades/1850s/4/hypocrisy_reproved—family_government,_etc_jedediah_m._grant.txt
+
+They then wept and tore their reverend locks from their heads to move the ruler to pity, and when they had done this he released their son from prison.
+
+['loud', 'quiet'] received scores [0.7252050042152405, 0.2747949957847595]
+['loud', 'soft'] received scores [0.6763001084327698, 0.3236999213695526]
+['noisy', 'quiet'] received scores [0.7091389894485474, 0.29086098074913025]
+['noisy', 'soft'] received scores [0.6587204337120056, 0.3412795960903168]
+
+decades/1850s/5/education—revelation,_obedience,_etc_john_taylor.txt
+
+We feel altogether different to what we did before we heard this Gospel: it teaches us our duty to each other; it teaches us to reverence God's name, and not blaspheme it as the Christians do.
+
+['loud', 'quiet'] received scores [0.6918718814849854, 0.30812808871269226]
+['loud', 'soft'] received scores [0.784372866153717, 0.21562713384628296]
+['quiet', 'noisy'] received scores [0.5251109004020691, 0.4748891592025757]
+['noisy', 'soft'] received scores [0.594336211681366, 0.40566375851631165]
+
+decades/1850s/5/possession_of_the_one_spirit—blessings_pertaining_to_the_righteous—trial_of_the_saints,_etc_heber_c._kimball.txt
+
+They asked them to preach; so brother McGinn preached to them, showing the reverence of the animal creation towards their God, and said, "The hen put down her head and took a drink of water, and then lifted up her head in thanks and adoration to her God.
+
+['quiet', 'loud'] received scores [0.5003434419631958, 0.499656617641449]
+['loud', 'soft'] received scores [0.5960195660591125, 0.40398046374320984]
+['quiet', 'noisy'] received scores [0.7452707290649414, 0.2547292411327362]
+['soft', 'noisy'] received scores [0.6644671559333801, 0.3355328142642975]
+
+decades/1850s/5/possession_of_the_one_spirit—blessings_pertaining_to_the_righteous—trial_of_the_saints,_etc_heber_c._kimball.txt
+
+Well, you see, there is a good deal of thankfulness and reverence in a hen.
+
+['loud', 'quiet'] received scores [0.6101266145706177, 0.38987332582473755]
+['soft', 'loud'] received scores [0.6065881252288818, 0.39341190457344055]
+['quiet', 'noisy'] received scores [0.6697162985801697, 0.3302837610244751]
+['soft', 'noisy'] received scores [0.8302978277206421, 0.1697021871805191]
+
+decades/1850s/5/preparation_of_heart_for_divine_blessings—responsibility—family_government_erastus_snow.txt
+
+Are all the families of Israel and every woman striving herself to play well her part and reverence her husband as her lord; for he is her lord.
+
+['loud', 'quiet'] received scores [0.7842630743980408, 0.21573689579963684]
+['loud', 'soft'] received scores [0.7774603366851807, 0.22253963351249695]
+['noisy', 'quiet'] received scores [0.5460954904556274, 0.45390450954437256]
+['noisy', 'soft'] received scores [0.5362237691879272, 0.46377620100975037]
+
+decades/1850s/5/preparation_of_heart_for_divine_blessings—responsibility—family_government_erastus_snow.txt
+
+Does she teach them to reverence their father and honor him?
+
+['loud', 'quiet'] received scores [0.6035411953926086, 0.39645883440971375]
+['loud', 'soft'] received scores [0.5694575309753418, 0.4305424392223358]
+['quiet', 'noisy'] received scores [0.5116989612579346, 0.48830100893974304]
+['soft', 'noisy'] received scores [0.5467154383659363, 0.4532846212387085]
+
+decades/1850s/5/religious_worship_a_natural_and_universal_principle—sincerity_no_test_of_truth—priestly_authority,_etc_george_a._smith.txt
+
+There is a feeling in the human breast to reverence something.
+
+['quiet', 'loud'] received scores [0.5435371994972229, 0.4564627408981323]
+['soft', 'loud'] received scores [0.6705419421195984, 0.3294580280780792]
+['quiet', 'noisy'] received scores [0.6863067150115967, 0.31369325518608093]
+['soft', 'noisy'] received scores [0.789007842540741, 0.21099215745925903]
+
+decades/1850s/5/testimony_of_the_spirit—revelation_given_according_to_requirements—spiritual_warfare_and_conquest,_etc_brigham_young.txt
+
+And although we cannot tell the result of all the affairs that are in motion, yet we know that the kingdom of God will prosper, that his name will be revered, that  the spirits of darkness will have to give way to the kingdom of God, and that "Mormonism" will triumph, and that no power can hinder it.
+
+['quiet', 'loud'] received scores [0.6475713849067688, 0.3524285554885864]
+['loud', 'soft'] received scores [0.7316729426383972, 0.2683270275592804]
+['quiet', 'noisy'] received scores [0.7589659690856934, 0.24103407561779022]
+['noisy', 'soft'] received scores [0.61407870054245, 0.38592129945755005]
+
+decades/1850s/6/extensive_character_of_the_gospel—comprehensiveness_of_divine_revelation,_etc_brigham_young.txt
+
+My mother, while she lived, taught her children all the time to honor the name of the Father and the Son, and to reverence the holy Book.
+
+['loud', 'quiet'] received scores [0.6123523116111755, 0.38764768838882446]
+['loud', 'soft'] received scores [0.7050052881240845, 0.2949947118759155]
+['quiet', 'noisy'] received scores [0.6276701092720032, 0.3723299205303192]
+['soft', 'noisy'] received scores [0.5270230174064636, 0.4729769825935364]
+
+decades/1850s/6/opposition_of_state_governments_to_the_saints,_etc_erastus_snow.txt
+
+When we have trusted in the Lord our God, kept his commandments and revered his laws, he has not betrayed us nor forsaken us in trouble; but he has ever stood by us and led us forth out of affliction, and has given unto us Governors and Judges and Counselors after his own heart, to feed this people with knowledge and understanding—to lead them forth in the paths of peace, unity, and love.
+
+['loud', 'quiet'] received scores [0.6435750126838684, 0.3564249873161316]
+['loud', 'soft'] received scores [0.7205969095230103, 0.27940309047698975]
+['quiet', 'noisy'] received scores [0.6320867538452148, 0.36791327595710754]
+['soft', 'noisy'] received scores [0.5460366606712341, 0.4539633095264435]
+
+decades/1850s/6/source_of_true_happiness—prayer,_etc_brigham_young.txt
+
+And I say to them, If you cannot reverence me, tell me where the man is you can reverence, and I would speedily make a beeline with my carriage and servants and place you under his care.
+
+['loud', 'quiet'] received scores [0.5897612571716309, 0.41023877263069153]
+['loud', 'soft'] received scores [0.7505682706832886, 0.24943168461322784]
+['quiet', 'noisy'] received scores [0.6463835835456848, 0.3536164462566376]
+['noisy', 'soft'] received scores [0.5338199734687805, 0.4661800265312195]
+
+decades/1850s/6/the_kingdom_of_god_or_nothing._john_taylor.txt
+
+We revere the testimony of ancient men of God, as recorded in what are  often termed "the Scriptures of divine truth;" and it is quite common for men to refer to what the Prophets have said and to reason from their words.
+
+['loud', 'quiet'] received scores [0.592835545539856, 0.40716448426246643]
+['loud', 'soft'] received scores [0.546554446220398, 0.4534456431865692]
+['quiet', 'noisy'] received scores [0.604725182056427, 0.3952748477458954]
+['soft', 'noisy'] received scores [0.6488832831382751, 0.35111674666404724]
+
+decades/1850s/7/intelligence,_etc_brigham_young.txt
+
+I bless you all, inasmuch as you have desired and striven to do right, to revere the name of Deity, and to exalt the character of his Son on the earth.
+
+['loud', 'quiet'] received scores [0.6804876923561096, 0.3195123076438904]
+['loud', 'soft'] received scores [0.7466549277305603, 0.2533450722694397]
+['quiet', 'noisy'] received scores [0.5138145089149475, 0.4861854910850525]
+['noisy', 'soft'] received scores [0.5669860243797302, 0.4330139756202698]
+
+decades/1850s/7/necessity_of_trials—glory_of_the_saints'_religion—government_of_god,_etc_brigham_young.txt
+
+Cease bringing the names of God the Father and his Son Jesus Christ into disrespect, and learn to reverence those names.
+
+['quiet', 'loud'] received scores [0.7088149785995483, 0.29118502140045166]
+['soft', 'loud'] received scores [0.8361111879348755, 0.1638888418674469]
+['quiet', 'noisy'] received scores [0.5534756183624268, 0.44652438163757324]
+['soft', 'noisy'] received scores [0.7220516800880432, 0.27794840931892395]
+
+decades/1850s/7/oneness_of_the_priesthood—independence_of_zion—time_and_eternity—evil_habits_and_practices,_&c_heber_c._kimball.txt
+
+I honor, love, and reverence the spirit of a good man who honors his calling.
+
+['loud', 'quiet'] received scores [0.8044834733009338, 0.19551651179790497]
+['loud', 'soft'] received scores [0.7955536842346191, 0.20444630086421967]
+['quiet', 'noisy'] received scores [0.5994731187820435, 0.40052688121795654]
+['soft', 'noisy'] received scores [0.6127989292144775, 0.38720107078552246]
+
+decades/1850s/7/priesthood_and_eternal_life_brigham_young.txt
+
+That Being placed within us a principle that has been among all the nations of men  from the beginning—the principle of reverence, of worship, of seeking after something superior to what we possess.
+
+['loud', 'quiet'] received scores [0.6730591058731079, 0.3269409239292145]
+['loud', 'soft'] received scores [0.7654376029968262, 0.23456238210201263]
+['noisy', 'quiet'] received scores [0.5224679112434387, 0.47753214836120605]
+['noisy', 'soft'] received scores [0.6342758536338806, 0.3657241761684418]
+
+decades/1850s/7/the_gospel_of_salvation,_&c_amasa_m._lyman.txt
+
+Simply this: We learn that Jesus—the individual whom we have been taught to adore from our infancy—to worship and revere—God our Father, possessed of an infinitude of power, ability, and capacity for happiness and glory, and for the accomplishment of his own will and pleasure, was once as we are.
+
+['quiet', 'loud'] received scores [0.9447321891784668, 0.05526776239275932]
+['loud', 'soft'] received scores [0.5660253763198853, 0.43397462368011475]
+['quiet', 'noisy'] received scores [0.993854284286499, 0.006145732942968607]
+['soft', 'noisy'] received scores [0.8788375854492188, 0.12116243690252304]
+

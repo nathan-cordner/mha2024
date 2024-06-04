@@ -1,0 +1,747 @@
+﻿decades/1960s/1960_A/moyle_watch_and_be_prepared.txt
+
+This week it may be your turn to open your door to a quiet, soft-spoken American.
+
+['quiet', 'loud'] received scores [0.9985355734825134, 0.0014644182519987226]
+['soft', 'loud'] received scores [0.9981347322463989, 0.0018652582075446844]
+['quiet', 'noisy'] received scores [0.9977558255195618, 0.002244214992970228]
+['soft', 'noisy'] received scores [0.9971421360969543, 0.0028578897472471]
+
+decades/1960s/1960_O/hunter_judge_not.txt
+
+It is best under these conditions that we keep quiet.
+
+['quiet', 'loud'] received scores [0.9919599890708923, 0.008040028624236584]
+['soft', 'loud'] received scores [0.9296610355377197, 0.07033900171518326]
+['quiet', 'noisy'] received scores [0.8937526345252991, 0.10624740272760391]
+['noisy', 'soft'] received scores [0.5260009765625, 0.4739990234375]
+
+decades/1960s/1961_A/evans_toward_a_balanced_life.txt
+
+Keep flexibility with firmness: watching the spirit as well as the letter of the law, not quibbling, not relying on technicalities; pursuing those things which lead to health and happiness, peace and a quiet conscience; learning to live with the light which the Lord has placed within us; and in all things moving as we need to, to adjust to surface considerations, yet standing firmly fixed in the principles and commandments and in the things of honor and justice and eternal truth and right that God has given; living in truth and decency; never giving way to sin or to cynicism; keeping control of ourselves, our thoughts, our actions, our utterances.
+
+['quiet', 'loud'] received scores [0.9592750072479248, 0.040724944323301315]
+['soft', 'loud'] received scores [0.678769588470459, 0.32123038172721863]
+['quiet', 'noisy'] received scores [0.9557613730430603, 0.044238653033971786]
+['soft', 'noisy'] received scores [0.6596411466598511, 0.34035882353782654]
+
+decades/1960s/1961_A/mckay_serve_your_fellow_men_in_love.txt
+
+To the Tabernacle ushers, who have rendered a service quietly and efficiently in seating the great audiences of these conference sessions.
+
+['quiet', 'loud'] received scores [0.9972901940345764, 0.00270983693189919]
+['soft', 'loud'] received scores [0.9059286713600159, 0.09407135844230652]
+['quiet', 'noisy'] received scores [0.9963020086288452, 0.0036979669239372015]
+['soft', 'noisy'] received scores [0.8757756948471069, 0.12422434240579605]
+
+decades/1960s/1961_A/taylor_in_the_sweat_of_thy_face....txt
+
+"Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread.
+
+['quiet', 'loud'] received scores [0.9878388047218323, 0.012161193415522575]
+['soft', 'loud'] received scores [0.8224883675575256, 0.17751161754131317]
+['quiet', 'noisy'] received scores [0.9765947461128235, 0.023405279964208603]
+['soft', 'noisy'] received scores [0.7041499614715576, 0.2958499789237976]
+
+decades/1960s/1961_O/hanks_preparation,_an_antidote_for_fear.txt
+
+The answers he gave them were the answers which made possible for them the greatest gift of God to man—happiness here, quiet conscience, truth, and eternal opportunities for creative expression ultimately in the kingdom of God with our Heavenly Father.
+
+['quiet', 'loud'] received scores [0.974200963973999, 0.0257989764213562]
+['soft', 'loud'] received scores [0.6498197913169861, 0.3501802384853363]
+['quiet', 'noisy'] received scores [0.9888307452201843, 0.011169184930622578]
+['soft', 'noisy'] received scores [0.8131073117256165, 0.18689262866973877]
+
+decades/1960s/1961_O/kimball_listen_to_the_prophet's_voice.txt
+
+In an ancient situation somewhat comparable to our own, there was a great destruction, and when the quiet came, those who were spared were wailing:  ". . . O that we had repented before this great and terrible day, and then would our brethren have been spared . . . and our mothers and our fair daughters, and our children . . . not have been buried"
+
+['loud', 'quiet'] received scores [0.5052010416984558, 0.4947988986968994]
+['loud', 'soft'] received scores [0.8664008975028992, 0.13359904289245605]
+['noisy', 'quiet'] received scores [0.6000434756278992, 0.3999565541744232]
+['noisy', 'soft'] received scores [0.9050247073173523, 0.09497526288032532]
+
+decades/1960s/1961_O/mckay_show_your_faith_by_your_works.txt
+
+Quietly and unobtrusively they have looked after your convenience and welfare.
+
+['quiet', 'loud'] received scores [0.9985426664352417, 0.0014572864165529609]
+['soft', 'loud'] received scores [0.9956652522087097, 0.004334769211709499]
+['quiet', 'noisy'] received scores [0.9976761341094971, 0.002323881024494767]
+['soft', 'noisy'] received scores [0.9930993318557739, 0.006900670938193798]
+
+decades/1960s/1962_A/hinckley_the_church_in_the_far_east.txt
+
+One sees there the same quiet kind of miracle that one sees everywhere when men and women bring the gospel into their lives.
+
+['quiet', 'loud'] received scores [0.9963266849517822, 0.003673314116895199]
+['soft', 'loud'] received scores [0.9909142851829529, 0.009085675701498985]
+['quiet', 'noisy'] received scores [0.9957697987556458, 0.004230261314660311]
+['soft', 'noisy'] received scores [0.9895453453063965, 0.0104546332731843]
+
+decades/1960s/1962_A/mckay_the_voice_of_appreciation.txt
+
+Fourth, to the Tabernacle ushers who have rendered service quietly, courteously, and efficiently in seating the great audience at these conference sessions.
+
+['quiet', 'loud'] received scores [0.9959836006164551, 0.004016407765448093]
+['soft', 'loud'] received scores [0.8819452524185181, 0.11805479973554611]
+['quiet', 'noisy'] received scores [0.9937958121299744, 0.006204171571880579]
+['soft', 'noisy'] received scores [0.8283457159996033, 0.17165428400039673]
+
+decades/1960s/1962_O/burton_testimony—a_motivating_force.txt
+
+It began very quietly in the far reaches of the Pacific Ocean but has now spread to all parts of the world, where skilled and successful men like many of you sitting right here today have responded to a missionary call to serve without salary, and have taken their families into foreign lands and foreign places to build beautiful church buildings.
+
+['quiet', 'loud'] received scores [0.9576221108436584, 0.04237784817814827]
+['soft', 'loud'] received scores [0.6408281922340393, 0.3591717779636383]
+['quiet', 'noisy'] received scores [0.9566070437431335, 0.04339298605918884]
+['soft', 'noisy'] received scores [0.635115921497345, 0.36488404870033264]
+
+decades/1960s/1962_O/hinckley_report_from_the_correlation_committee.txt
+
+Many have been released from positions of great priesthood responsibility including those of stake president and bishop; men and women have been released from general boards to work quietly in the background to bring about this great work of correlation which shall bless the lives of the Latter-day Saints throughout the earth.
+
+['quiet', 'loud'] received scores [0.9966844916343689, 0.003315527457743883]
+['soft', 'loud'] received scores [0.8965108394622803, 0.10348913073539734]
+['quiet', 'noisy'] received scores [0.9964503645896912, 0.0035496533382683992]
+['soft', 'noisy'] received scores [0.8899837732315063, 0.11001618206501007]
+
+decades/1960s/1962_O/mckay_cultivate_the_spirit_of_service.txt
+
+For you, I express appreciation and gratitude to all who have in any way contributed to the success and inspiration of this great conference: First, to the General Authorities, we express deep appreciation for their inspired messages; to the public press—the reporters for their fair and accurate reports throughout the sessions of the conference; for the co-operation of city officials—the city traffic officers who handled carefully and ably the increased traffic; the fire department and the Red Cross, who have been on hand to render assistance and service whenever and wherever such became necessary; the Tabernacle ushers, who have rendered service quietly, courteously, and efficiently in seating the great audiences of these conference sessions.
+
+['quiet', 'loud'] received scores [0.7971213459968567, 0.2028786689043045]
+['soft', 'loud'] received scores [0.5744152069091797, 0.42558473348617554]
+['quiet', 'noisy'] received scores [0.8760405778884888, 0.12395936995744705]
+['soft', 'noisy'] received scores [0.7082599997520447, 0.2917400300502777]
+
+decades/1960s/1962_O/packer_the_errand_of_youth.txt
+
+It is a quiet gift.
+
+['quiet', 'loud'] received scores [0.9985990524291992, 0.001400926150381565]
+['soft', 'loud'] received scores [0.998812198638916, 0.0011877671349793673]
+['quiet', 'noisy'] received scores [0.9977021217346191, 0.0022979259956628084]
+['soft', 'noisy'] received scores [0.9980514645576477, 0.0019485497614368796]
+
+decades/1960s/1963_A/benson_righteousness_exalteth_a_nation.txt
+
+We live in a day of slick, quiet, and clever sins.
+
+['quiet', 'loud'] received scores [0.9768800139427185, 0.023120049387216568]
+['soft', 'loud'] received scores [0.9559160470962524, 0.044083885848522186]
+['quiet', 'noisy'] received scores [0.9643381237983704, 0.03566182404756546]
+['soft', 'noisy'] received scores [0.9327847361564636, 0.06721530854701996]
+
+decades/1960s/1963_A/benson_righteousness_exalteth_a_nation.txt
+
+I speak of President J. Reuben Clark, Jr., and I quote: "There always comes a time when unpleasant truths must be retold, even though the retelling disturbs the ease and quiet of a luxurious error. On such occasions, the criticism, slander, misrepresentation that one gets, are of no consequence."
+
+['quiet', 'loud'] received scores [0.6519444584846497, 0.34805554151535034]
+['loud', 'soft'] received scores [0.7872511148452759, 0.21274890005588531]
+['noisy', 'quiet'] received scores [0.7316874861717224, 0.2683125138282776]
+['noisy', 'soft'] received scores [0.949752151966095, 0.05024786293506622]
+
+decades/1960s/1963_A/brown_participation_the_way_to_salvation.txt
+
+What matters is not the froth, but the strong, pulsating, ongoing current in the river, which is never disturbed by the leaves floating up at the quiet eddies of the surface.
+
+['quiet', 'loud'] received scores [0.9004769921302795, 0.09952303022146225]
+['soft', 'loud'] received scores [0.6438090801239014, 0.3561909794807434]
+['quiet', 'noisy'] received scores [0.8812902569770813, 0.11870976537466049]
+['soft', 'noisy'] received scores [0.5972705483436584, 0.40272945165634155]
+
+decades/1960s/1963_A/jr._god's_prophet—david_o._mckay.txt
+
+He asked us to stand quietly back a few paces.
+
+['quiet', 'loud'] received scores [0.9843451380729675, 0.015654828399419785]
+['soft', 'loud'] received scores [0.9124758243560791, 0.0875241756439209]
+['quiet', 'noisy'] received scores [0.9825060367584229, 0.017493952065706253]
+['soft', 'noisy'] received scores [0.9030253291130066, 0.0969746857881546]
+
+decades/1960s/1963_A/simpson_god's_law_of_health.txt
+
+May we not stand idly by and allow the cream of the nation, our hope for tomorrow, the finest youth in all history to be quietly and softly led away to habits of bondage and unhappiness!
+
+['quiet', 'loud'] received scores [0.8612884879112244, 0.13871149718761444]
+['soft', 'loud'] received scores [0.8876091837882996, 0.11239083111286163]
+['quiet', 'noisy'] received scores [0.8613412380218506, 0.13865883648395538]
+['soft', 'noisy'] received scores [0.8876531720161438, 0.11234685033559799]
+
+decades/1960s/1963_O/evans_communication.txt
+
+The answers men so much seek are to be found, and to the aching, yearning loneliness of human hearts, and to the anguished agony of the world there can come direction, revelation, comfort, guidance, inspiration, and a finding of the way to the purposeful, happy living of life with the peace and cleanliness of a quiet conscience, and with the blessed assurance of an everlasting life with limitless opportunities, and with our loved ones with us.
+
+['quiet', 'loud'] received scores [0.8795605301856995, 0.12043941020965576]
+['loud', 'soft'] received scores [0.5682570338249207, 0.43174293637275696]
+['quiet', 'noisy'] received scores [0.9573182463645935, 0.04268175736069679]
+['soft', 'noisy'] received scores [0.7000099420547485, 0.29999005794525146]
+
+decades/1960s/1963_O/isaacson_need_for_great_teachers.txt
+
+Steer him away from envy if you can, and teach him the secret of quiet laughter.
+
+['quiet', 'loud'] received scores [0.9647505283355713, 0.035249486565589905]
+['soft', 'loud'] received scores [0.8682503700256348, 0.13174962997436523]
+['quiet', 'noisy'] received scores [0.9385254979133606, 0.06147454306483269]
+['soft', 'noisy'] received scores [0.7861453294754028, 0.21385467052459717]
+
+decades/1960s/1963_O/isaacson_need_for_great_teachers.txt
+
+But also give him quiet time to ponder the eternal mystery of birds in the sky, bees in the sun, and flowers on the green hill.
+
+['quiet', 'loud'] received scores [0.9894080758094788, 0.010591925121843815]
+['soft', 'loud'] received scores [0.8980761766433716, 0.10192377865314484]
+['quiet', 'noisy'] received scores [0.9692161083221436, 0.030783936381340027]
+['soft', 'noisy'] received scores [0.7481008768081665, 0.2518990635871887]
+
+decades/1960s/1963_O/sill_to_have_dominion.txt
+
+The most inspiring thing about the life of Jesus was not his ability to quiet the storm or control the tempest, but his absolute control of himself.
+
+['quiet', 'loud'] received scores [0.75897216796875, 0.24102777242660522]
+['loud', 'soft'] received scores [0.6091957688331604, 0.390804260969162]
+['quiet', 'noisy'] received scores [0.835959792137146, 0.16404025256633759]
+['soft', 'noisy'] received scores [0.5093696117401123, 0.4906303882598877]
+
+decades/1960s/1964_A/benson_he_is_risen.txt
+
+We feel his comforting spirit in the sweet prayer of a child and the quiet abiding faith of all who have let his gospel permeate their lives.
+
+['quiet', 'loud'] received scores [0.9938749074935913, 0.00612507201731205]
+['soft', 'loud'] received scores [0.993552029132843, 0.006447939667850733]
+['quiet', 'noisy'] received scores [0.996290385723114, 0.0037096752785146236]
+['soft', 'noisy'] received scores [0.996094286441803, 0.003905721940100193]
+
+decades/1960s/1964_A/jr._gospel_blessings—future-wise—present-wise—past-wise.txt
+
+Once, as my wife and I were observing our wedding anniversary quietly at home I called across a room to her facetiously: "Mama, where will we be one million years from now?
+
+['quiet', 'loud'] received scores [0.9793903231620789, 0.0206096563488245]
+['soft', 'loud'] received scores [0.8704151511192322, 0.12958486378192902]
+['quiet', 'noisy'] received scores [0.9815656542778015, 0.01843431033194065]
+['soft', 'noisy'] received scores [0.8827153444290161, 0.1172846257686615]
+
+decades/1960s/1965_A/benson_not_commanded_in_all_things.txt
+
+And those who want to lead the quiet, retiring life but still expect to do their full duty can't have it both ways.
+
+['quiet', 'loud'] received scores [0.9080457091331482, 0.09195426106452942]
+['soft', 'loud'] received scores [0.526828408241272, 0.47317156195640564]
+['quiet', 'noisy'] received scores [0.8990508317947388, 0.10094913095235825]
+['soft', 'noisy'] received scores [0.5010340213775635, 0.49896588921546936]
+
+decades/1960s/1965_A/evans_how_much_is_this_all_worth.txt
+
+How much would it be worth to have peace and quietness of conscience?
+
+['quiet', 'loud'] received scores [0.9211554527282715, 0.0788445770740509]
+['soft', 'loud'] received scores [0.5707350373268127, 0.42926499247550964]
+['quiet', 'noisy'] received scores [0.7443581223487854, 0.2556418180465698]
+['noisy', 'soft'] received scores [0.7511125206947327, 0.24888744950294495]
+
+decades/1960s/1965_A/hanks_how_fortunate_can_we_be.txt
+
+I cannot forget an occasion when Dr. John A. Widtsoe stood and very quietly and graciously said, "We link arms with this choice young man and those who walk with him because his view I accept and believe to be our own.
+
+['quiet', 'loud'] received scores [0.990588903427124, 0.009411115199327469]
+['soft', 'loud'] received scores [0.8816386461257935, 0.11836138367652893]
+['quiet', 'noisy'] received scores [0.9936088919639587, 0.00639109592884779]
+['soft', 'noisy'] received scores [0.9166799187660217, 0.0833200141787529]
+
+decades/1960s/1965_A/monson_the_precious_gift_of_sight.txt
+
+The quiet and peace of the house of the Lord filled the heart of each one assembled in the room.
+
+['quiet', 'loud'] received scores [0.9943813681602478, 0.005618632305413485]
+['soft', 'loud'] received scores [0.9465969800949097, 0.05340300872921944]
+['quiet', 'noisy'] received scores [0.9920936822891235, 0.007906321436166763]
+['soft', 'noisy'] received scores [0.9262953996658325, 0.0737045481801033]
+
+decades/1960s/1965_A/packer_youth's_obligation_to_parents.txt
+
+Notwithstanding the outward turmoils and nonconformity, these are years of quiet inner growth.
+
+['quiet', 'loud'] received scores [0.9953275322914124, 0.004672486800700426]
+['soft', 'loud'] received scores [0.965969443321228, 0.034030575305223465]
+['quiet', 'noisy'] received scores [0.9892531633377075, 0.010746832937002182]
+['soft', 'noisy'] received scores [0.9246193170547485, 0.07538064569234848]
+
+decades/1960s/1965_A/smith_family_unity_through_a_father's_blessing.txt
+
+Too many couples are living lives of "quiet desperation.
+
+['quiet', 'loud'] received scores [0.9714573621749878, 0.028542639687657356]
+['soft', 'loud'] received scores [0.9621771574020386, 0.03782279044389725]
+['quiet', 'noisy'] received scores [0.956908106803894, 0.043091852217912674]
+['soft', 'noisy'] received scores [0.9431742429733276, 0.05682571977376938]
+
+decades/1960s/1965_A/stapley_keep_the_faith.txt
+
+The issues may not appear to be too significant when each promotion is quietly initiated, but with an apathetic populace and the sympathetic support of misguided prominent men and women, both in and out of public office, they are coming with more regularity and frequency as power of position increases.
+
+['quiet', 'loud'] received scores [0.9947618842124939, 0.00523814233019948]
+['soft', 'loud'] received scores [0.9319440722465515, 0.0680559054017067]
+['quiet', 'noisy'] received scores [0.9762347936630249, 0.02376517467200756]
+['soft', 'noisy'] received scores [0.7476067543029785, 0.2523932456970215]
+
+decades/1960s/1965_O/evans_of_influence_on_children_in_the_home.txt
+
+This points most urgently the need for parents to be available, to be alert to all interests, activities, and attitudes, with wholesome common sense and quiet consistency, with love and an example of honesty and honor.
+
+['quiet', 'loud'] received scores [0.989739179611206, 0.010260780341923237]
+['soft', 'loud'] received scores [0.5793498158454895, 0.4206501543521881]
+['quiet', 'noisy'] received scores [0.9928175210952759, 0.007182496599853039]
+['soft', 'noisy'] received scores [0.6637146472930908, 0.33628538250923157]
+
+decades/1960s/1965_O/hinckley_a_charter_for_youth.txt
+
+I have been with them in the great capitals and the quiet villages of Europe.
+
+['quiet', 'loud'] received scores [0.9492456912994385, 0.05075426772236824]
+['soft', 'loud'] received scores [0.9116725921630859, 0.08832746744155884]
+['quiet', 'noisy'] received scores [0.9164932370185852, 0.08350673317909241]
+['soft', 'noisy'] received scores [0.8582931160926819, 0.14170685410499573]
+
+decades/1960s/1965_O/hinckley_a_charter_for_youth.txt
+
+And as you learn to know him better, you will discover that he likely grew up in a home where there was love and virtue, patience and prayer; that he was attending school when he left for his mission and hopes to return to sit at the feet of good counselors and able teachers and partake of wisdom and knowledge mixed with faith; that with a great inheritance from forebears who pioneered the wilderness for conscience' sake, he loves the land of which he is a part, and that he carries in his heart a certain quiet conviction of the living reality of God and the Lord Jesus Christ and of the assurance that life is eternal and purposeful.
+
+['quiet', 'loud'] received scores [0.9931902289390564, 0.006809762213379145]
+['soft', 'loud'] received scores [0.9042086005210876, 0.09579136967658997]
+['quiet', 'noisy'] received scores [0.9952105283737183, 0.004789456259459257]
+['soft', 'noisy'] received scores [0.9307881593704224, 0.06921183317899704]
+
+decades/1960s/1965_O/kimball_a_changing_world_for_the_barry_begays.txt
+
+The white companion sits quietly, adding a thought now and then; but the Indian elder—for he now holds the highest priesthood known to man—can speak two languages fluently.
+
+['quiet', 'loud'] received scores [0.9918508529663086, 0.008149171248078346]
+['soft', 'loud'] received scores [0.8518246412277222, 0.14817535877227783]
+['quiet', 'noisy'] received scores [0.9927322864532471, 0.0072677237913012505]
+['soft', 'noisy'] received scores [0.8658027052879333, 0.13419733941555023]
+
+decades/1960s/1965_O/kimball_a_changing_world_for_the_barry_begays.txt
+
+The tan rug helps keep a sacred quietness.
+
+['quiet', 'loud'] received scores [0.9963894486427307, 0.0036105657927691936]
+['soft', 'loud'] received scores [0.9943704009056091, 0.005629600025713444]
+['quiet', 'noisy'] received scores [0.9930129647254944, 0.006987037602812052]
+['soft', 'noisy'] received scores [0.989126443862915, 0.010873595252633095]
+
+decades/1960s/1965_O/kimball_a_changing_world_for_the_barry_begays.txt
+
+These tears are quiet, happy tears.
+
+['quiet', 'loud'] received scores [0.9977312088012695, 0.00226884544827044]
+['soft', 'loud'] received scores [0.9983963370323181, 0.001603694399818778]
+['quiet', 'noisy'] received scores [0.9970234036445618, 0.002976593328639865]
+['soft', 'noisy'] received scores [0.9978955984115601, 0.0021043913438916206]
+
+decades/1960s/1965_O/sill_ye_are_gods.txt
+
+And he whispered quietly to himself, "I wish I knew.
+
+['quiet', 'loud'] received scores [0.9920517802238464, 0.007948254235088825]
+['soft', 'loud'] received scores [0.989439070224762, 0.010560921393334866]
+['quiet', 'noisy'] received scores [0.9852452874183655, 0.014754727482795715]
+['soft', 'noisy'] received scores [0.9804393649101257, 0.01956063322722912]
+
+decades/1960s/1965_O/simpson_building_a_foundation_of_personal_revelation.txt
+
+I found it still there undiminished twenty years ago, and you can find it in your quiet place today, tomorrow, and forever.
+
+['quiet', 'loud'] received scores [0.98469078540802, 0.015309210866689682]
+['soft', 'loud'] received scores [0.768174946308136, 0.23182500898838043]
+['quiet', 'noisy'] received scores [0.9850800037384033, 0.014920022338628769]
+['soft', 'noisy'] received scores [0.772798478603363, 0.22720159590244293]
+
+decades/1960s/1966_A/hinckley_the_miracle_that_is_jesus.txt
+
+Let the Lord speak for himself to you, and his words will come with a quiet conviction that will make the words of his critics meaningless.
+
+['quiet', 'loud'] received scores [0.9923002123832703, 0.007699758280068636]
+['soft', 'loud'] received scores [0.9023247957229614, 0.09767519682645798]
+['quiet', 'noisy'] received scores [0.9925462007522583, 0.007453832309693098]
+['soft', 'noisy'] received scores [0.9051698446273804, 0.09483014047145844]
+
+decades/1960s/1966_A/packer_the_secret_of_service.txt
+
+This then is the secret: In a thousand quiet, spiritual ways, that witness comes.
+
+['quiet', 'loud'] received scores [0.9956697821617126, 0.0043302192352712154]
+['soft', 'loud'] received scores [0.9950674772262573, 0.004932470619678497]
+['quiet', 'noisy'] received scores [0.9946354031562805, 0.005364623386412859]
+['soft', 'noisy'] received scores [0.9938901662826538, 0.006109857931733131]
+
+decades/1960s/1966_O/brown_marriage,_the_family,_and_the_home.txt
+
+The home takes its rightful and eminent place in preparing children for life when basic principles are quietly but firmly announced and lived up to.
+
+['quiet', 'loud'] received scores [0.9978923797607422, 0.002107633976265788]
+['soft', 'loud'] received scores [0.7470943331718445, 0.25290563702583313]
+['quiet', 'noisy'] received scores [0.9981807470321655, 0.0018193013966083527]
+['soft', 'noisy'] received scores [0.7739196419715881, 0.22608038783073425]
+
+decades/1960s/1966_O/hinckley_appreciation_for_our_men_in_military_service.txt
+
+This marvelous Church membership is the sweet fruit of the simple, quiet work begun by our servicemen stationed in these lands who initially taught the gospel there, first by their example and secondly by their precepts, and in so doing they opened the way for the coming of missionaries, for whose coming they had pleaded.
+
+['quiet', 'loud'] received scores [0.9949759840965271, 0.005023989360779524]
+['soft', 'loud'] received scores [0.9755421876907349, 0.024457797408103943]
+['quiet', 'noisy'] received scores [0.9939128160476685, 0.006087170448154211]
+['soft', 'noisy'] received scores [0.970488429069519, 0.029511597007513046]
+
+decades/1960s/1966_O/simpson_forgiveness.txt
+
+Then in rapid agonizing succession: there was the long struggle to Calvary as he bore the heavy cross; he was jeered at and spat upon by the multitude all along the way; there was the offering of vinegar, climaxed by the cruel spikes; and finally, there he hung, his body broken and bleeding, still taunted by his enemies; and it was in the midst of all this that Jesus plead perhaps quietly, with deep reverence, "Father, forgive them; for they know not what they do" With this plea of forgiveness in behalf of his oppressors, Jesus indeed practiced what he taught, for it was during his remarkable Sermon on the Mount that he said: "Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you" Matt.
+
+['quiet', 'loud'] received scores [0.9842370748519897, 0.01576290838420391]
+['soft', 'loud'] received scores [0.7033712863922119, 0.2966287136077881]
+['quiet', 'noisy'] received scores [0.9632979035377502, 0.03670208528637886]
+['noisy', 'soft'] received scores [0.5008186101913452, 0.4991814196109772]
+
+decades/1960s/1967_A/hinckley_a_challenge_from_vietnam.txt
+
+It is a sobering experience to converse with a young man who grew up in a quiet country town not far from here, a boy who was sent off to war and who had just come through 42 days of deadly battle.
+
+['loud', 'quiet'] received scores [0.5631650686264038, 0.4368349313735962]
+['loud', 'soft'] received scores [0.7546419501304626, 0.24535807967185974]
+['quiet', 'noisy'] received scores [0.7492289543151855, 0.25077104568481445]
+['soft', 'noisy'] received scores [0.5560131072998047, 0.44398683309555054]
+
+decades/1960s/1967_A/hinckley_a_challenge_from_vietnam.txt
+
+As the sound rolled through this historic house, touching the emotions of everyone here assembled, I felt a catch in my throat and a tingle in my spine, not alone for the presence in this building of the chief executive of the nation, not alone for the magnificent music of this choir, but more especially for the quiet men of faith and vision who a century ago laid the stone of the great buttresses which form the walls that encircle us and support the roof that shelters us.
+
+['loud', 'quiet'] received scores [0.7458841800689697, 0.2541158199310303]
+['loud', 'soft'] received scores [0.8486650586128235, 0.1513349413871765]
+['noisy', 'quiet'] received scores [0.6748036742210388, 0.3251963257789612]
+['noisy', 'soft'] received scores [0.7985701560974121, 0.2014298439025879]
+
+decades/1960s/1967_A/hinckley_a_challenge_from_vietnam.txt
+
+He went on to say quietly but earnestly, "I think I have done a better work here than I have ever done before in my life.
+
+['quiet', 'loud'] received scores [0.9928366541862488, 0.007163365371525288]
+['soft', 'loud'] received scores [0.9756583571434021, 0.024341676384210587]
+['quiet', 'noisy'] received scores [0.9944708943367004, 0.005529114976525307]
+['soft', 'noisy'] received scores [0.9811371564865112, 0.018862823024392128]
+
+decades/1960s/1967_O/brown_train_up_a_child_._._..txt
+
+That evening at dinner, while the boy sat quietly, his parents debated whether he ought to make the race, discussing the pros and cons and, finally, deciding that he should not because his schedule for the next year would be too heavy.
+
+['quiet', 'loud'] received scores [0.9929776787757874, 0.007022373843938112]
+['soft', 'loud'] received scores [0.7739193439483643, 0.22608065605163574]
+['quiet', 'noisy'] received scores [0.9947819709777832, 0.005218062084168196]
+['soft', 'noisy'] received scores [0.8219135999679565, 0.17808640003204346]
+
+decades/1960s/1967_O/dyer_semaphores_of_life.txt
+
+As we moved to another room in the temple, my feelings were somewhat quieted by the kind and meaningful words of a member of the Quorum of the Twelve, whom I greatly love and respect.
+
+['quiet', 'loud'] received scores [0.9836297035217285, 0.01637033000588417]
+['soft', 'loud'] received scores [0.9801458716392517, 0.019854161888360977]
+['quiet', 'noisy'] received scores [0.9773065447807312, 0.02269345335662365]
+['soft', 'noisy'] received scores [0.9725146293640137, 0.027485333383083344]
+
+decades/1960s/1967_O/dyer_semaphores_of_life.txt
+
+I have felt the majesty of his soul as we stood in the valley of Adam-ondi-Ahman, observing in the short distance a place there known as Spring Hill, referred to in Section 116 of the Doctrine and Covenants as the place where Adam, Michael, or the "Ancient of Days," in accordance with the prophecy of Daniel, shall in the due time of the Lord visit the earth for an important reason and while there hearing President McKay utter quietly, "This is a most holy place.
+
+['quiet', 'loud'] received scores [0.9784657955169678, 0.02153424359858036]
+['soft', 'loud'] received scores [0.6667690873146057, 0.3332308530807495]
+['quiet', 'noisy'] received scores [0.9852811098098755, 0.014718866907060146]
+['soft', 'noisy'] received scores [0.7466952204704285, 0.25330477952957153]
+
+decades/1960s/1967_O/evans_the_tabernacle_a_century_old.txt
+
+A people who knew that God lives; that education is essential; that chastity and honesty, health and cleanliness, integrity and solvency, work, service, and sacrifice are essential to happiness; that life is limitless, that the family is forever, and that by keeping clean, keeping virtuous, keeping the commandments, there is peace and purpose, comfort and a quiet conscience, and love and respect and happiness at home.
+
+['quiet', 'loud'] received scores [0.9770326018333435, 0.022967377677559853]
+['soft', 'loud'] received scores [0.5187262296676636, 0.48127374053001404]
+['quiet', 'noisy'] received scores [0.9932162761688232, 0.006783726159483194]
+['soft', 'noisy'] received scores [0.7876664996147156, 0.21233347058296204]
+
+decades/1960s/1967_O/hinckley_feed_the_spirit—nourish_the_soul.txt
+
+I have heard his quiet testimony.
+
+['quiet', 'loud'] received scores [0.9976045489311218, 0.0023954466450959444]
+['soft', 'loud'] received scores [0.9963354468345642, 0.003664532909169793]
+['quiet', 'noisy'] received scores [0.9974673986434937, 0.0025325529277324677]
+['soft', 'noisy'] received scores [0.9961259961128235, 0.003873995039612055]
+
+decades/1960s/1967_O/hinckley_feed_the_spirit—nourish_the_soul.txt
+
+It was a picture almost celestial in that quiet, sacred room of the Lord's house.
+
+['quiet', 'loud'] received scores [0.9891709089279175, 0.010829109698534012]
+['soft', 'loud'] received scores [0.8751694560050964, 0.12483052909374237]
+['quiet', 'noisy'] received scores [0.9912481904029846, 0.008751824498176575]
+['soft', 'noisy'] received scores [0.8968342542648315, 0.10316576063632965]
+
+decades/1960s/1967_O/monson_meeting_your_goliath.txt
+
+On that day, the quiet air of Sinai's desert was broken as jet aircraft streaked toward their targets, cannons sounded, tanks lumbered, men fought and died, women wept, children cried.
+
+['loud', 'quiet'] received scores [0.9485031962394714, 0.05149683728814125]
+['loud', 'soft'] received scores [0.96332186460495, 0.03667810931801796]
+['noisy', 'quiet'] received scores [0.9693495631217957, 0.03065044805407524]
+['noisy', 'soft'] received scores [0.9783067107200623, 0.021693279966711998]
+
+decades/1960s/1967_O/stapley_true_vision_and_knowledge_required_for_exaltation.txt
+
+Intellectual dishonesty disquiets and curses the lives of those guilty of such deceit.
+
+['quiet', 'loud'] received scores [0.7377692461013794, 0.2622307538986206]
+['loud', 'soft'] received scores [0.8210510611534119, 0.17894889414310455]
+['quiet', 'noisy'] received scores [0.5842954516410828, 0.4157045781612396]
+['noisy', 'soft'] received scores [0.9018064737319946, 0.09819355607032776]
+
+decades/1960s/1967_O/vandenberg_keepers_at_home.txt
+
+A goodly portion of the breakdown came from my going out of the home to work, and the chain reaction of minute events that grew like a cancer, quietly and deadly.
+
+['quiet', 'loud'] received scores [0.9129847288131714, 0.08701526373624802]
+['soft', 'loud'] received scores [0.52500319480896, 0.4749968349933624]
+['quiet', 'noisy'] received scores [0.7398878931999207, 0.2601121664047241]
+['noisy', 'soft'] received scores [0.7694402933120728, 0.23055967688560486]
+
+decades/1960s/1968_A/hinckley_a_silver_thread_in_the_dark_tapestry_of_war.txt
+
+The Lord bless them for their generosity, and may the peace of the Lord comfort the hearts of their worried fathers and anxious mothers, who implanted and cultivated in their sons a faith that today quietly shines in the dark, embattled area in which they find themselves.
+
+['quiet', 'loud'] received scores [0.98835289478302, 0.011647110804915428]
+['soft', 'loud'] received scores [0.7365678548812866, 0.26343217492103577]
+['quiet', 'noisy'] received scores [0.9920400977134705, 0.007959900423884392]
+['soft', 'noisy'] received scores [0.8041711449623108, 0.1958288997411728]
+
+decades/1960s/1968_A/sill_we_would_see_jesus.txt
+
+And in the quiet obedience of our faith and love of righteousness, God may touch these hidden abilities implanted in the depths of our souls and release great spiritual strength to purify our lives and bring about our eternal exaltation in his presence.
+
+['quiet', 'loud'] received scores [0.9960330724716187, 0.003966881427913904]
+['soft', 'loud'] received scores [0.8823965787887573, 0.11760340631008148]
+['quiet', 'noisy'] received scores [0.995985746383667, 0.004014304373413324]
+['soft', 'noisy'] received scores [0.8811528086662292, 0.11884722858667374]
+
+decades/1960s/1968_O/evans_two_roads....txt
+
+We ought to be angry about evil and never be complacent, never let it quietly see into our surroundings.
+
+['loud', 'quiet'] received scores [0.9005860686302185, 0.09941389411687851]
+['loud', 'soft'] received scores [0.8821350932121277, 0.11786491423845291]
+['noisy', 'quiet'] received scores [0.8095011115074158, 0.19049884378910065]
+['noisy', 'soft'] received scores [0.7783064246177673, 0.22169356048107147]
+
+decades/1960s/1968_O/evans_two_roads....txt
+
+The disquieting thing about today's revolutionaries is that many of them could not care less about traditional good and evil.
+
+['loud', 'quiet'] received scores [0.8395963311195374, 0.16040363907814026]
+['loud', 'soft'] received scores [0.708965539932251, 0.2910344898700714]
+['noisy', 'quiet'] received scores [0.8923026919364929, 0.10769730806350708]
+['noisy', 'soft'] received scores [0.7940671443939209, 0.20593281090259552]
+
+decades/1960s/1968_O/evans_two_roads....txt
+
+God bless you to choose the right, to use your energies in constructive, righteous ways, in useful, virtuous, productive performance, not in irresponsible protest, not dropping out, but entering in, with the full use of the opportunities and talents God has given you, knowing and keeping his commandments, honoring, obeying, and sustaining and upholding the law, and going forward in faith with peace and accomplishment and quiet conscience.
+
+['quiet', 'loud'] received scores [0.9915642142295837, 0.008435801602900028]
+['soft', 'loud'] received scores [0.8039597868919373, 0.19604022800922394]
+['quiet', 'noisy'] received scores [0.990699827671051, 0.00930013693869114]
+['soft', 'noisy'] received scores [0.7879834771156311, 0.2120165377855301]
+
+decades/1960s/1968_O/hinckley_rise,_and_stand_upon_thy_feet.txt
+
+Then on one occasion when the going was rough, he faced them and quietly said, "Look, I know you think I'm a square.
+
+['quiet', 'loud'] received scores [0.9957898259162903, 0.004210144281387329]
+['soft', 'loud'] received scores [0.8871062994003296, 0.1128937378525734]
+['quiet', 'noisy'] received scores [0.9960864782333374, 0.003913487773388624]
+['soft', 'noisy'] received scores [0.8942477107048035, 0.10575225949287415]
+
+decades/1960s/1968_O/hinckley_rise,_and_stand_upon_thy_feet.txt
+
+And the son who left that home carried with him a fiber in his soul, a fiber that held firm under the tauntings of his associates, whose eyes he opened when he arose and stood on his feet as a quiet witness of the teachings of his parents.
+
+['quiet', 'loud'] received scores [0.9943566918373108, 0.005643359385430813]
+['soft', 'loud'] received scores [0.574560284614563, 0.4254397451877594]
+['quiet', 'noisy'] received scores [0.9950235486030579, 0.004976445809006691]
+['soft', 'noisy'] received scores [0.6051369309425354, 0.394863098859787]
+
+decades/1960s/1968_O/hinckley_rise,_and_stand_upon_thy_feet.txt
+
+This is the kind of strength that will come from fathers who quietly stand before their families as ministers and witnesses of the eternal verities which, when nurtured in the home, build character in the citizens of the nation.
+
+['quiet', 'loud'] received scores [0.9973291754722595, 0.002670848974958062]
+['loud', 'soft'] received scores [0.5321797728538513, 0.46782028675079346]
+['quiet', 'noisy'] received scores [0.9982763528823853, 0.0017236885614693165]
+['soft', 'noisy'] received scores [0.5768808126449585, 0.42311909794807434]
+
+decades/1960s/1968_O/kimball_wisdom_and_great_treasures_of_knowledge,_even_hidden_treasures.txt
+
+There was no ostentation, no arrogance, but a quiet dignity, a warm friendliness, a sweet spirituality.
+
+['quiet', 'loud'] received scores [0.9982583522796631, 0.0017416502814739943]
+['soft', 'loud'] received scores [0.9977263808250427, 0.0022736694663763046]
+['quiet', 'noisy'] received scores [0.9988089799880981, 0.001191014889627695]
+['soft', 'noisy'] received scores [0.9984449148178101, 0.0015550943790003657]
+
+decades/1960s/1968_O/monson_the_miracle_of_the_friendly_islands.txt
+
+The Holy Scripture records that in the hushed quiet of the still night, the boy Samuel heard the Lord call and answered, "Here am I."
+
+['quiet', 'loud'] received scores [0.9961649179458618, 0.0038350659888237715]
+['soft', 'loud'] received scores [0.9833346605300903, 0.016665350645780563]
+['quiet', 'noisy'] received scores [0.9960340261459351, 0.003966026473790407]
+['soft', 'noisy'] received scores [0.9827731251716614, 0.017226865515112877]
+
+decades/1960s/1968_O/monson_the_miracle_of_the_friendly_islands.txt
+
+Quietly I repeated a verse from Kipling's "Recessional":   "The tumult and the shouting dies,      The captains and the kings depart;      Still stands thine ancient sacrifice,      An humble and a contrite heart;      Lord God of hosts, be with us yet,      Lest we forget, lest we forget.
+
+['quiet', 'loud'] received scores [0.995160698890686, 0.004839284345507622]
+['soft', 'loud'] received scores [0.9795074462890625, 0.020492561161518097]
+['quiet', 'noisy'] received scores [0.9903355240821838, 0.009664498269557953]
+['soft', 'noisy'] received scores [0.9597063660621643, 0.040293581783771515]
+
+decades/1960s/1969_A/brown_tithing.txt
+
+Well, I will tell you there was quiet in the car for some time.
+
+['quiet', 'loud'] received scores [0.9931184649467468, 0.006881531327962875]
+['soft', 'loud'] received scores [0.9495183229446411, 0.05048162490129471]
+['quiet', 'noisy'] received scores [0.9873505234718323, 0.012649452313780785]
+['soft', 'noisy'] received scores [0.9104993939399719, 0.08950061351060867]
+
+decades/1960s/1969_A/hanks_commitment_to_christ.txt
+
+It is really a bad world, yet in the midst of it I have found a quiet and holy people.
+
+['quiet', 'loud'] received scores [0.996184229850769, 0.0038157636299729347]
+['soft', 'loud'] received scores [0.8616881966590881, 0.13831184804439545]
+['quiet', 'noisy'] received scores [0.9953157901763916, 0.00468421820551157]
+['soft', 'noisy'] received scores [0.8352706432342529, 0.1647293120622635]
+
+decades/1960s/1969_A/hinckley_the_wonder_of_jesus.txt
+
+But comfort—that comfort all seek on such occasions—came only from the quiet words, the example of the simple life, and the testimony of the resurrection of the Man of Peace, he who never lifted the sword of war, who never ruled as head of state, who walked among the poor, who died on the cross and was buried in a borrowed tomb.
+
+['quiet', 'loud'] received scores [0.9969653487205505, 0.0030346347484737635]
+['soft', 'loud'] received scores [0.9443014860153198, 0.05569852888584137]
+['quiet', 'noisy'] received scores [0.996906042098999, 0.003093994688242674]
+['soft', 'noisy'] received scores [0.9432706236839294, 0.05672942101955414]
+
+decades/1960s/1969_A/hinckley_the_wonder_of_jesus.txt
+
+While seated in front of my television screen watching the funeral of General Eisenhower, I reflected on the wonder of the quiet man of Galilee, whose life and teachings have ever-increasing relevance in our time—as great a relevance, I would like to say, as in the day that he walked the earth.
+
+['quiet', 'loud'] received scores [0.98971027135849, 0.010289682075381279]
+['soft', 'loud'] received scores [0.7117999792098999, 0.2882000505924225]
+['quiet', 'noisy'] received scores [0.9934924244880676, 0.006507543846964836]
+['soft', 'noisy'] received scores [0.7967551350593567, 0.2032448947429657]
+
+decades/1960s/1969_A/hinckley_the_wonder_of_jesus.txt
+
+He said quietly, "I guess it really doesn't matter whether I live or die.
+
+['quiet', 'loud'] received scores [0.9966477155685425, 0.0033522467128932476]
+['soft', 'loud'] received scores [0.9869171380996704, 0.013082822784781456]
+['quiet', 'noisy'] received scores [0.9976679086685181, 0.002332056174054742]
+['soft', 'noisy'] received scores [0.9908715486526489, 0.009128445759415627]
+
+decades/1960s/1969_A/hinckley_the_wonder_of_jesus.txt
+
+Such the hope of his comrades in their brooding hours of quiet thought.
+
+['quiet', 'loud'] received scores [0.9475733041763306, 0.052426666021347046]
+['soft', 'loud'] received scores [0.6853921413421631, 0.3146078586578369]
+['quiet', 'noisy'] received scores [0.931656002998352, 0.06834405660629272]
+['soft', 'noisy'] received scores [0.6216562986373901, 0.37834373116493225]
+
+decades/1960s/1969_A/hinckley_the_wonder_of_jesus.txt
+
+I walked the quiet corridor and saw among the multitude of names that of a boy who grew up not far from me.
+
+['quiet', 'loud'] received scores [0.9866549372673035, 0.013345042243599892]
+['soft', 'loud'] received scores [0.9327378869056702, 0.06726211309432983]
+['quiet', 'noisy'] received scores [0.9829877018928528, 0.017012309283018112]
+['soft', 'noisy'] received scores [0.9155226349830627, 0.08447738736867905]
+
+decades/1960s/1969_A/hinckley_the_wonder_of_jesus.txt
+
+But radiant through all her tragedy has been a sublime and quiet faith that she shall meet and know and love her son again.
+
+['quiet', 'loud'] received scores [0.9900679588317871, 0.009932069107890129]
+['soft', 'loud'] received scores [0.894792377948761, 0.10520767420530319]
+['quiet', 'noisy'] received scores [0.9902001023292542, 0.009799887426197529]
+['soft', 'noisy'] received scores [0.8960593938827515, 0.10394062101840973]
+
+decades/1960s/1969_A/packer_the_armor_of_god.txt
+
+But some of our brethren have slipped quietly away and have left the family circle ill-prepared to do battle with the forces of evil.
+
+['quiet', 'loud'] received scores [0.9924693703651428, 0.0075306096114218235]
+['soft', 'loud'] received scores [0.700014591217041, 0.299985408782959]
+['quiet', 'noisy'] received scores [0.9940466284751892, 0.005953351501375437]
+['soft', 'noisy'] received scores [0.7472458481788635, 0.2527541220188141]
+
+decades/1960s/1969_A/simpson_stand_on_holy_ground.txt
+
+Just open the door—just a crack, that's all—and the adversary will lead us quietly away, and we will rationalize as we go that what we are doing is done by so many, and surely this once won't hurt.
+
+['quiet', 'loud'] received scores [0.9879747033119202, 0.012025252915918827]
+['soft', 'loud'] received scores [0.9808149933815002, 0.01918499357998371]
+['quiet', 'noisy'] received scores [0.9780372977256775, 0.021962711587548256]
+['soft', 'noisy'] received scores [0.9651694297790527, 0.034830547869205475]
+
+decades/1960s/1969_O/evans_this_you_can_count_on.txt
+
+And when they try to tell you what you're missing, you tell them what they're missing: peace and self-respect and a quiet conscience—happiness—and the assurance of the highest opportunities of everlasting life.
+
+['quiet', 'loud'] received scores [0.9237943291664124, 0.07620564848184586]
+['soft', 'loud'] received scores [0.5060767531394958, 0.49392324686050415]
+['quiet', 'noisy'] received scores [0.9545438885688782, 0.04545611888170242]
+['soft', 'noisy'] received scores [0.6396258473396301, 0.36037418246269226]
+
+decades/1960s/1969_O/evans_this_you_can_count_on.txt
+
+Clean out the clutter of the past and live to have peace and a quiet conscience.
+
+['quiet', 'loud'] received scores [0.9767012596130371, 0.023298781365156174]
+['soft', 'loud'] received scores [0.7264707088470459, 0.2735292613506317]
+['quiet', 'noisy'] received scores [0.9430116415023804, 0.05698828399181366]
+['soft', 'noisy'] received scores [0.511808454990387, 0.48819151520729065]
+
+decades/1960s/1969_O/hinckley_be_not_afraid,_only_believe.txt
+
+It finds its best expression in the quiet of the lives of those who have embraced it.
+
+['quiet', 'loud'] received scores [0.9945923089981079, 0.005407719407230616]
+['soft', 'loud'] received scores [0.9878333806991577, 0.01216663047671318]
+['quiet', 'noisy'] received scores [0.9908213019371033, 0.009178679436445236]
+['soft', 'noisy'] received scores [0.9794466495513916, 0.020553376525640488]
+
+decades/1960s/1969_O/hinckley_be_not_afraid,_only_believe.txt
+
+What a remarkably refreshing thing it is to hear young men and women, 19, 20, 21, and 22 years of age, stand before one another and, in the quiet confidences of such a meeting, say, "I really appreciate my dad." "I love my mother."
+
+['quiet', 'loud'] received scores [0.9945384860038757, 0.00546154472976923]
+['soft', 'loud'] received scores [0.9564307928085327, 0.04356922209262848]
+['quiet', 'noisy'] received scores [0.9964057207107544, 0.0035942576359957457]
+['soft', 'noisy'] received scores [0.9709463715553284, 0.029053641483187675]
+
+decades/1960s/1969_O/hunter_ethics_alone_is_not_sufficient.txt
+
+The vociferous minorities will not unsettle our peace of soul if we love our fellowmen and have faith in the atoning sacrifice of the Savior and the quiet assurance he gives of life everlasting.
+
+['quiet', 'loud'] received scores [0.5177039504051208, 0.48229601979255676]
+['loud', 'soft'] received scores [0.853660523891449, 0.14633944630622864]
+['noisy', 'quiet'] received scores [0.745510458946228, 0.25448957085609436]
+['noisy', 'soft'] received scores [0.9483022689819336, 0.05169772729277611]
+

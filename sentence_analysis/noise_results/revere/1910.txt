@@ -1,0 +1,963 @@
+﻿decades/1910s/IE/1917_O.txt
+
+O  what  a  glorious  promise,  that  if  the  Latter-day  Saints  live  their  religion,  they  will  be  found  sustaining their  leader  and  honoring  and  revering  the  authority  that  God  hath  placed  upon  the  earth  for  their  salvation  and  to  aid  them  in  obtaining eternal  exaltation!
+
+['loud', 'quiet'] received scores [0.7988110184669495, 0.20118902623653412]
+['loud', 'soft'] received scores [0.897591769695282, 0.10240822285413742]
+['quiet', 'noisy'] received scores [0.5361499190330505, 0.4638500511646271]
+['noisy', 'soft'] received scores [0.6563377976417542, 0.34366223216056824]
+
+decades/1910s/IE/1910_A.txt
+
+Though  they  did  not  build  meeting houses  in  those  early  days,  the  necessity  of  having  such  houses  has  been  felt  by  the  Saints,  and  now  we  rejoice  that  in  nearly  every  city,  town,  and  hamlet  throughout  Zion,  houses  of  worship  are  found,  and  that  the  people  have  felt  to  make  these  houses  as  beautiful  as  any  in  the  place,  showing  the  reverence  they  have  for  Him  whom  they  worship.
+
+['loud', 'quiet'] received scores [0.6624608635902405, 0.3375391662120819]
+['loud', 'soft'] received scores [0.6475828289985657, 0.3524171710014343]
+['quiet', 'noisy'] received scores [0.7731988430023193, 0.2268010973930359]
+['soft', 'noisy'] received scores [0.784538209438324, 0.2154618203639984]
+
+decades/1910s/IE/1910_O.txt
+
+When  we  become  conversant  with  its  principles  we  learn  to  revere  the  name  of  the  Supreme  Being,  we  recognize the  sacredness  of  the  mission of  the  Redeemer  of  the  world  and  the  offering  He  made  in  our  interest.
+
+['loud', 'quiet'] received scores [0.5717213153839111, 0.4282786548137665]
+['loud', 'soft'] received scores [0.644601047039032, 0.355398952960968]
+['quiet', 'noisy'] received scores [0.6469689607620239, 0.3530310392379761]
+['soft', 'noisy'] received scores [0.5742541551589966, 0.4257458746433258]
+
+decades/1910s/IE/1910_O.txt
+
+There  homes  may  be  established, and  joy  abound  in  the  rearing  of  a  family  among  friends  and  neighbors  who  feel,  as  you  feel,  reverence  and  respect  for  everything that  is  noble  and  good.
+
+['loud', 'quiet'] received scores [0.6674109101295471, 0.33258911967277527]
+['loud', 'soft'] received scores [0.6147263050079346, 0.38527369499206543]
+['quiet', 'noisy'] received scores [0.6969192028045654, 0.30308082699775696]
+['soft', 'noisy'] received scores [0.7430620789527893, 0.2569379508495331]
+
+decades/1910s/IE/1910_O.txt
+
+If  our  children  learn  to  respect  this  authority  and  to  have  proper  reverence  for  the  men  who  hold  the  holy  priesthood,  they  will  be  honorable men  and  women  and  will  bring  joy  and  peace  and  happiness  to  our  hearts.
+
+['loud', 'quiet'] received scores [0.6997923851013184, 0.30020761489868164]
+['loud', 'soft'] received scores [0.7939475774765015, 0.20605243742465973]
+['quiet', 'noisy'] received scores [0.6243603229522705, 0.3756397068500519]
+['soft', 'noisy'] received scores [0.5013799667358398, 0.49862000346183777]
+
+decades/1910s/IE/1910_O.txt
+
+They  would  just  as  leave  we  should  teach  them  from  the  Book  of  Mormon as  they  would  that  we  preach  to  them  from  the  Bible,  because  there  is  a  lack  of  confidence,  and  a  lack  of  interest  and  reverence  lor  the  scriptures ;  and  we  have  found  it  necessary  to  assume  to  some  extent, a  new  line  of  procedure  in  preaching  the  gospel.
+
+['quiet', 'loud'] received scores [0.7095089554786682, 0.2904910743236542]
+['loud', 'soft'] received scores [0.5181894302368164, 0.4818105697631836]
+['quiet', 'noisy'] received scores [0.8296133279800415, 0.17038661241531372]
+['soft', 'noisy'] received scores [0.6495586037635803, 0.3504413664340973]
+
+decades/1910s/IE/1910_O.txt
+
+There  is  no  people  in  all  the  world  who  have  more  reverence  and  love  for  them  than  do  the  Latter-day Saints.
+
+['loud', 'quiet'] received scores [0.7068895697593689, 0.2931104600429535]
+['loud', 'soft'] received scores [0.8138965368270874, 0.18610341846942902]
+['quiet', 'noisy'] received scores [0.5616887807846069, 0.4383111894130707]
+['noisy', 'soft'] received scores [0.5859352946281433, 0.41406476497650146]
+
+decades/1910s/IE/1910_O.txt
+
+We  take  second  place  to  no  people  in  the  world  in  our  regard  and  reverence  for  the  scriptures ;  and  yet  it  has  not  been  upon  these  that  this,  God's  Church  has  been  founded.
+
+['quiet', 'loud'] received scores [0.7548899054527283, 0.24511006474494934]
+['loud', 'soft'] received scores [0.5285369157791138, 0.47146305441856384]
+['quiet', 'noisy'] received scores [0.8830199837684631, 0.11698001623153687]
+['soft', 'noisy'] received scores [0.6861558556556702, 0.3138441741466522]
+
+decades/1910s/IE/1910_O.txt
+
+Did  we  not  give  reverence  to  their  counsels  and  to  their  instructions?
+
+['loud', 'quiet'] received scores [0.5602830052375793, 0.43971702456474304]
+['loud', 'soft'] received scores [0.5818403959274292, 0.418159544467926]
+['quiet', 'noisy'] received scores [0.6941972970962524, 0.30580267310142517]
+['soft', 'noisy'] received scores [0.6751987338066101, 0.3248012363910675]
+
+decades/1910s/IE/1911_A.txt
+
+These  truths,  spoken  this  morning,  by  Elder  Penrose, in  relation  to  the  eternity  of  the  relationships  of  men  and  women in  and  after  the  resurrection  of  the  dead;  the  renewed  assurances  of  the  resurrection  from  the  dead —  all  these  truths  that  God  has  made  known  to  His  Church,  through  the  principle  of  revelation,  that  we  accept as  true ;  and  as  the  medium  through  which  God  imparts  truth  unto    His    Church  and    unto  the  world — these,    indeed,    are  great  truths  and  should  be  held — and  we  do  so  hold  them — in  reverence  in  very  deed.
+
+['loud', 'quiet'] received scores [0.6215702891349792, 0.37842968106269836]
+['loud', 'soft'] received scores [0.737601101398468, 0.2623988687992096]
+['quiet', 'noisy'] received scores [0.7348396182060242, 0.26516035199165344]
+['soft', 'noisy'] received scores [0.6182197332382202, 0.3817802965641022]
+
+decades/1910s/IE/1911_A.txt
+
+The  world  erected  monuments to  the  princes  who  exterminated Christians,  in  the  hope  that  coming  generations  would  pay  reverence to  those  princes  for  having  rid  the  world  of  the  abomination  know  as  Christianity.
+
+['loud', 'quiet'] received scores [0.9284464716911316, 0.07155356556177139]
+['loud', 'soft'] received scores [0.8470131754875183, 0.15298685431480408]
+['noisy', 'quiet'] received scores [0.8225091099739075, 0.17749089002609253]
+['noisy', 'soft'] received scores [0.6641265153884888, 0.33587348461151123]
+
+decades/1910s/IE/1911_O.txt
+
+Professor  Proctor,  the  astronomer, while  lecturing  at  Salt  Lake  City  early  in  the  eighties,  referred almost  reverently  to  Professor Pratt,  expressing  the  opinion  that  there  were  but  four  real  mathematicians in  the  world,  and  that  Orson Pratt  was  one  of  them.
+
+['loud', 'quiet'] received scores [0.7598850131034851, 0.2401150017976761]
+['loud', 'soft'] received scores [0.6072177886962891, 0.39278221130371094]
+['noisy', 'quiet'] received scores [0.6793443560600281, 0.3206556439399719]
+['noisy', 'soft'] received scores [0.5085850358009338, 0.49141499400138855]
+
+decades/1910s/IE/1911_O.txt
+
+What  is  your  explanation  of  the  fact  that  wherever  the  life  and  teachings  of  Jesus  of  Nazareth  have  become  known  He  is  the  most  revered  and  loved  of  all  the  figures  in  human  history?
+
+['loud', 'quiet'] received scores [0.5131453275680542, 0.4868546426296234]
+['soft', 'loud'] received scores [0.5452532768249512, 0.4547467529773712]
+['quiet', 'noisy'] received scores [0.6088394522666931, 0.3911605179309845]
+['soft', 'noisy'] received scores [0.6629660129547119, 0.3370340168476105]
+
+decades/1910s/IE/1912_A.txt
+
+Now,  my  brethren  and  sisters,  I  have  never  seen  Joseph  Smith ;  but  I  believe  in  him  just  as  firmly  and  fervently  as  if  I  had  seen  him  ;  I  love  him  and  revere  his  memory  just  as  much  as  if  I  had  known  him  in  the  flesh.
+
+['loud', 'quiet'] received scores [0.6782289147377014, 0.3217710852622986]
+['loud', 'soft'] received scores [0.7906940579414368, 0.20930592715740204]
+['quiet', 'noisy'] received scores [0.690772294998169, 0.30922773480415344]
+['soft', 'noisy'] received scores [0.554844081401825, 0.44515591859817505]
+
+decades/1910s/IE/1912_A.txt
+
+That  may  sound  strange  to  you  my  brethren  and  sisters,  who  have  come  together  here  to  pay  homage  to  Jesus,  the  Christ,  to  revere  His  name,  and  to  worship  Him  as  one  of  those  who  have  made  it  possible  for  this  earth  to  be,  for  our  lives  and  for  our  eternal  progression.
+
+['quiet', 'loud'] received scores [0.8318939805030823, 0.16810601949691772]
+['soft', 'loud'] received scores [0.760364830493927, 0.239635169506073]
+['quiet', 'noisy'] received scores [0.7719389200210571, 0.22806106507778168]
+['soft', 'noisy'] received scores [0.6845718026161194, 0.3154281675815582]
+
+decades/1910s/IE/1912_A.txt
+
+So  the  testimony  of  these  three  in  particular  can  be  cited  aside  from  the  tradition  of  the  ancient  church  and  from  the  testimony  of  the  apostles and  disciples,  bearing  witness  that  Christ  did  live  and  reign  among  the  sons  of  men,  or  at  least  minister  among  the  sons  of  men,  in  such  graciousness  that  secured  Him  in  the  affections  of  His  followers,  and  made  Him  even  beloved  and  revered by  those  not  of  His  own  nationality ;  for  the  Centurion  who  came  to  Him,  saying  that  he  had  a  son  afflicted  in  his  house  and  begged  of  the  Master  to  say  but  one  word  and  he  should  be  healed,  said  unto  Him,  when  the  Master  said  "I  will  go  unto  him  at  once,"  "I  am  not  worthy  that  you  should  enter  my  house ;  I  am  a  captain  in  Caesar's  household,  and  T  say  to  this  man,  do  thou  this,  or  do  thou  that,  and  it  is  done ;  and  if  thou  wilt  but  say  the  word,  I  know  that  my  son  will  be  healed.
+
+['loud', 'quiet'] received scores [0.5425689220428467, 0.4574311077594757]
+['loud', 'soft'] received scores [0.6173543334007263, 0.3826456367969513]
+['quiet', 'noisy'] received scores [0.6720499992370605, 0.3279499411582947]
+['soft', 'noisy'] received scores [0.6010463237762451, 0.3989536464214325]
+
+decades/1910s/IE/1912_A.txt
+
+True  it  is,  that  the  Latter-day  Saints  honor  and  revere  the  memory  of  Joseph  Smith,  and  why  not?
+
+['loud', 'quiet'] received scores [0.6691739559173584, 0.3308260142803192]
+['loud', 'soft'] received scores [0.8930798172950745, 0.10692021250724792]
+['quiet', 'noisy'] received scores [0.6886953115463257, 0.3113047480583191]
+['noisy', 'soft'] received scores [0.6511538624763489, 0.3488461375236511]
+
+decades/1910s/IE/1912_A.txt
+
+Do  we  not  reverence  the  name  of  Moses?
+
+['loud', 'quiet'] received scores [0.5990763306617737, 0.40092363953590393]
+['loud', 'soft'] received scores [0.5582546591758728, 0.4417453110218048]
+['quiet', 'noisy'] received scores [0.5965602993965149, 0.4034397602081299]
+['soft', 'noisy'] received scores [0.6361492276191711, 0.36385077238082886]
+
+decades/1910s/IE/1912_A.txt
+
+We  look  upon  the  scriptures  of  the  past  with  reverence.
+
+['quiet', 'loud'] received scores [0.6912235021591187, 0.30877646803855896]
+['soft', 'loud'] received scores [0.6174869537353516, 0.38251304626464844]
+['quiet', 'noisy'] received scores [0.8877961039543152, 0.11220389604568481]
+['soft', 'noisy'] received scores [0.8508741855621338, 0.1491258144378662]
+
+decades/1910s/IE/1912_O.txt
+
+The  conception  which  the  Lord  has  given  to  the  Latter-day  Saints  with  reference  to  their  earthly  bodies  is  one  that  should  cause  us    to  honor,  respect,  and  revere  the  body  as  a  sacred  instrument  trusted  into  our  hands  for  the  purpose  of  making  it  submissive  to  the  law  of  the  Gospel  of  the  Lord  Jesus  Christ.
+
+['loud', 'quiet'] received scores [0.7362327575683594, 0.263767272233963]
+['loud', 'soft'] received scores [0.813225269317627, 0.18677471578121185]
+['quiet', 'noisy'] received scores [0.6894413232803345, 0.3105586767196655]
+['soft', 'noisy'] received scores [0.5873165130615234, 0.41268351674079895]
+
+decades/1910s/IE/1912_O.txt
+
+We  believe  that  reverence  for  God  is  respect  for  these  laws;  that  meekness is  teachableness  and  willingness  to  learn  by  observation  and  experience; by  practicing  this  kind  of  meekness or  teachableness  we  believe  that  we  shall  inherit  the  earth,  whereas,  the  unmeek,  the  unteachable,  who  are  dominated  by  pride  of  tradition  shall  not.
+
+['quiet', 'loud'] received scores [0.6747047305107117, 0.32529523968696594]
+['loud', 'soft'] received scores [0.5273048877716064, 0.47269514203071594]
+['quiet', 'noisy'] received scores [0.847591757774353, 0.15240822732448578]
+['soft', 'noisy'] received scores [0.7061931490898132, 0.29380685091018677]
+
+decades/1910s/IE/1912_O.txt
+
+I  desire  to  thank  the  good  brethren and  sisters  who  have  attended  this  conference,  and  if  the  time  would  permit,  without  interfering  too  much  with  your  desire  to  return  to  your  homes,  I  would  like  to  make  a  simple  suggestion  or  two  to  our  Relief  Societies,  to  our  Young  Women's  Mutual  Improvement  Associations, Primary  Associations,  and  our  Sunday  School,  and  Religion Class  teachers,  the  presidents  of  stakes  and  their  counselors,  and  the  high  counselors  throughout  Zion,  and  the  bishops  and  counselors, and  ward  teachers  throughout the  Church,  that  they  set  their  faces  like  flint  against  every  spirit  of  apostasy,  every  kind  of  evil,  intemperance, the  violation  of  the  Sabbath  day ;  and  hold  in  reverence  that  which  is  sacred  in  the  eyes  of  the  Lord,  and  should  be  held  sacred  by  all  Latter-day  Saints ;  to  hold  sacred  also  all  and  every  divine  and  human  right ;  to  do  unto  all  men  as  we  would  that  they  should  do  unto  us,  and  set  an  example,  as  members  of  the  Church  that  will  be  worthy  of  emulation  by  all  men  and  women  in  the  world.
+
+['loud', 'quiet'] received scores [0.6213423609733582, 0.37865763902664185]
+['loud', 'soft'] received scores [0.8016906380653381, 0.19830933213233948]
+['quiet', 'noisy'] received scores [0.6212105751037598, 0.37878942489624023]
+['noisy', 'soft'] received scores [0.6003575921058655, 0.3996424078941345]
+
+decades/1910s/IE/1912_O.txt
+
+We  would  like  this:  and  we  hope  that  you  will  honor  the  Sabbath  day  and  keep  it  holy,  that  you  will  reverence  the  authority  of  the  Priesthood,  and  magnify  it  by  good  works  ;  that  you  will  observe  the  covenants  you  have  entered  into  in  sacred  places  and  keep  them  inviolate  ;  that  you  will  be  Latter-day  Saints  in  very  deed :  that  you  may  be  indeed  the  light  of  the  world,  that  is  not  and  cannot  be  hidden  under  a  bushel,  nor  in  some  dark  corner,  and  the  salt  of  the  earth.
+
+['loud', 'quiet'] received scores [0.7728123068809509, 0.22718769311904907]
+['loud', 'soft'] received scores [0.8459832668304443, 0.15401670336723328]
+['quiet', 'noisy'] received scores [0.6666347980499268, 0.33336517214775085]
+['soft', 'noisy'] received scores [0.5532534718513489, 0.44674646854400635]
+
+decades/1910s/IE/1913_A.txt
+
+These  councils  each  and  all  in  their  organized  capacity  have  jurisdiction  over  the  fellowship  of  the  members  of  these  councils — if  the  member  is  an  elder,  or  if  a  man  has  a  standing in  the  Seventies'  quorum,  or  is  a  member  of  the  High  Council,  or  the  High  Priests'  quorum,  and  he  is  misbehaving  himself,  shows  a  lack  of  faith,  a  lack  of  reverence  for  the  position  he  holds  in  his  Council,  or  quorum,  his  fellowship  in  that  quorum  to  which  he  belongs,  or  his  standing  should  be  looked  after  or  enquired  into,  for  he  is  amenable  to  his  quorum  for  his  good  standing  and  fellowship  in  it.
+
+['loud', 'quiet'] received scores [0.5102123022079468, 0.4897876977920532]
+['soft', 'loud'] received scores [0.5012555122375488, 0.49874448776245117]
+['noisy', 'quiet'] received scores [0.5320040583610535, 0.46799594163894653]
+['noisy', 'soft'] received scores [0.520566999912262, 0.47943297028541565]
+
+decades/1910s/IE/1913_A.txt
+
+Joseph  Smith's  name  is  now  held  among  the  children  of  men  in  greater reverence  than  ever  before,  because of  the  unyielding  truth,  spirit  of  loyalty  that  has  characterized  the  Latter-day  Saints  from  the  very  beginning.
+
+['loud', 'quiet'] received scores [0.9213767051696777, 0.07862335443496704]
+['loud', 'soft'] received scores [0.9746361970901489, 0.02536378800868988]
+['noisy', 'quiet'] received scores [0.5932062864303589, 0.40679365396499634]
+['noisy', 'soft'] received scores [0.8270378112792969, 0.17296214401721954]
+
+decades/1910s/IE/1913_A.txt
+
+I  thank  them  for the  teaching  they  gave  me  in  reverence,  and  in  reverencing   the    authorities    of  the   Church.
+
+['loud', 'quiet'] received scores [0.5302808284759521, 0.46971920132637024]
+['loud', 'soft'] received scores [0.7798551917076111, 0.2201448380947113]
+['quiet', 'noisy'] received scores [0.7124965786933899, 0.2875034213066101]
+['noisy', 'soft'] received scores [0.5587303042411804, 0.44126972556114197]
+
+decades/1910s/IE/1913_A.txt
+
+In  my  father's  home,  when  the  authorities  of  the  Church  visited  us,  we  reverently looked  upon  them  as  men  of  God.
+
+['loud', 'quiet'] received scores [0.6166303753852844, 0.3833696246147156]
+['loud', 'soft'] received scores [0.7200788855552673, 0.2799210548400879]
+['quiet', 'noisy'] received scores [0.7114819884300232, 0.2885179817676544]
+['soft', 'noisy'] received scores [0.6065921783447266, 0.3934078812599182]
+
+decades/1910s/IE/1913_A.txt
+
+I  thank  the  Lord  that  that  spirit  has  remained  with  me  unto  this  day ;  that  I  reverence  my  brethren as  men  of  God,  for  I  never  have  yet  received  in  all  my  life  any  teaching from  any  of  the  authorities  of  this  Church  that  has  not  been  for  my  good.
+
+['quiet', 'loud'] received scores [0.6059719324111938, 0.39402809739112854]
+['loud', 'soft'] received scores [0.6351621150970459, 0.3648378252983093]
+['quiet', 'noisy'] received scores [0.8151460886001587, 0.1848539113998413]
+['soft', 'noisy'] received scores [0.6222155690193176, 0.37778449058532715]
+
+decades/1910s/IE/1913_A.txt
+
+I  thank  the  Lord  for  a  gospel  which  puts  restraint  upon  me,  which  demands  of  me  that  I  keep  myself free  from  the  sins  of  the  world  ;  which  demands  of  me  that  I  take  care  of  my  tabernacle,  that  it  shall  not  be  defiled  with  liquor  nor  with  tobacco,  nor  with  tea  nor  with  coffee ;  which  demands  of  me  that  I  shall  not  blaspheme,  that  I  cannot  excuse  myself  if  I  become  angry  and  take  the  name  of  God  in  vain,  that  I  shall  reverence  the  name  of  the  Lord,  and  never  speak  it  only  in  devotion  and  in  the  deepest  reverence.
+
+['quiet', 'loud'] received scores [0.6259941458702087, 0.37400591373443604]
+['loud', 'soft'] received scores [0.7286526560783386, 0.271347314119339]
+['quiet', 'noisy'] received scores [0.8559733033180237, 0.14402666687965393]
+['soft', 'noisy'] received scores [0.5693926811218262, 0.43060731887817383]
+
+decades/1910s/IE/1913_A.txt
+
+I  can  never  remember  the  time  in  my  life  when  there  was  not  taught  to  me,  at  my  mother's  knee,  and  later  on  in  all  of  the  organizations of  this  Church,  to  reverence  and  revere  the  priesthood  of  the  living God.
+
+['loud', 'quiet'] received scores [0.6239687204360962, 0.3760313093662262]
+['loud', 'soft'] received scores [0.7634233832359314, 0.23657658696174622]
+['quiet', 'noisy'] received scores [0.7331335544586182, 0.26686644554138184]
+['soft', 'noisy'] received scores [0.5855178236961365, 0.4144821763038635]
+
+decades/1910s/IE/1913_A.txt
+
+I  don't  mean  that  we  should  get  too  friendly  and  take  advantage  of  it,  like  children  with  parents,  but  that  we  should  manifest  reverence  and  love  for  the  Lord,  ask  only  for  what  we  need,  and  not  for  what  we  want.
+
+['quiet', 'loud'] received scores [0.6931723356246948, 0.3068276345729828]
+['soft', 'loud'] received scores [0.7009927034378052, 0.2990073263645172]
+['quiet', 'noisy'] received scores [0.8283423781394958, 0.17165769636631012]
+['soft', 'noisy'] received scores [0.8335447311401367, 0.1664552241563797]
+
+decades/1910s/IE/1913_A.txt
+
+As  a  people,  we  need  the  Prophet  and  mouthpiece  of  God,  and  we  ought  to  honor,  reverence  and  yield  obedience  to  his  counsels,  for  he  speaks  as  the  representative  of  God  upon  the  earth,  to  tell  unto  the  people  the  mind  and  will  of  the  Father.
+
+['loud', 'quiet'] received scores [0.7962533831596375, 0.20374658703804016]
+['loud', 'soft'] received scores [0.7230544090270996, 0.2769456207752228]
+['noisy', 'quiet'] received scores [0.5098719000816345, 0.4901280999183655]
+['soft', 'noisy'] received scores [0.58998042345047, 0.4100196361541748]
+
+decades/1910s/IE/1913_A.txt
+
+I  have  been  reminded  that  while  we  do  perhaps  give  closer  attention  and  more  implicit  obedience,  because of  the  confidence  that  we  have  in  our  leaders,  than  do  people  generally of  other  churches,  that  yet  we  are  not  wanting  in  our  reverence  for  the  prophets  of  old ;  we  are  not  wanting  in  reverence  for  the  Word  of  God  that  has  come  down  to  us  through  the  ages.
+
+['loud', 'quiet'] received scores [0.5416935086250305, 0.4583064913749695]
+['loud', 'soft'] received scores [0.7035809755325317, 0.29641908407211304]
+['quiet', 'noisy'] received scores [0.6050121188163757, 0.3949878513813019]
+['noisy', 'soft'] received scores [0.5673022866249084, 0.43269768357276917]
+
+decades/1910s/IE/1913_A.txt
+
+It  is  a  mistaken  idea  that  we  do  not  reverence  as  we  should  the  ancient  worthies,  do  not  place  enough  importance  upon  the  testimony  of  the  ancient  apostles.
+
+['loud', 'quiet'] received scores [0.5074533224105835, 0.49254676699638367]
+['soft', 'loud'] received scores [0.5454485416412354, 0.4545515179634094]
+['quiet', 'noisy'] received scores [0.6285971403121948, 0.3714028298854828]
+['soft', 'noisy'] received scores [0.6766273975372314, 0.3233725130558014]
+
+decades/1910s/IE/1913_A.txt
+
+My  brethren  and  sisters,  I  want  to  say  and  can  say,  as  my  brethren  have  said,  I  love,  honor  and  revere  my  parents,  and  I  trust  that  my  children  after  me  can  say  the  same  thing,  and  God  be  pleased  that  their  children  after  them,  to  the  latest    generation,  can  rise  up  and  declare  their  fathers  blessed.
+
+['loud', 'quiet'] received scores [0.5997388958930969, 0.4002611041069031]
+['loud', 'soft'] received scores [0.7376892566680908, 0.262310653924942]
+['quiet', 'noisy'] received scores [0.6808406710624695, 0.3191593587398529]
+['soft', 'noisy'] received scores [0.5319618582725525, 0.4680381417274475]
+
+decades/1910s/IE/1913_A.txt
+
+May  God  bless  the  Latter-day  Saints ;  may  they  look  into  the  doctrines of  the  Church  and  the  holy  principles  of  righteousness,  the  principles  of  heaven,  of  truth,  as  they  have  been  revealed,  and  practice them  in  their  lives,  revere  them,  honor  them,  and  live  by  them,  that  they  may  be  blest  of  God  and  exalted in  the  land  which  God  has  given  us,  and  exalted  too,  in  due  time,  in  the  presence  of  the  Father  with  the  redeemed  and  sanctified,  in  a  saved  and  a  glorified  condition.
+
+['quiet', 'loud'] received scores [0.5831210613250732, 0.41687896847724915]
+['loud', 'soft'] received scores [0.5612930655479431, 0.43870699405670166]
+['quiet', 'noisy'] received scores [0.7658435106277466, 0.23415647447109222]
+['soft', 'noisy'] received scores [0.6463373303413391, 0.3536626696586609]
+
+decades/1910s/IE/1913_O.txt
+
+Not  that  the  word  of  God  can  not  be  delivered  in  the  old  log  house  just  as  well  as  in  the  fine  edifices  that  have  been  erected  of  late,  but  when  the  people  are  able  to  build  better,  I  think  they  show  more  reverence  for  their  Heavenly  Father  by  building  better houses  of  worship  to  be  dedicated to  his  name ;  and  I  must  commend the  Saints  for  their  diligence  in  this  direction.
+
+['loud', 'quiet'] received scores [0.5627843141555786, 0.4372156262397766]
+['soft', 'loud'] received scores [0.5411913990974426, 0.458808571100235]
+['quiet', 'noisy'] received scores [0.7393351793289185, 0.26066482067108154]
+['soft', 'noisy'] received scores [0.8115519881248474, 0.18844807147979736]
+
+decades/1910s/IE/1913_O.txt
+
+I  believe  that  they  should  be  taught  from  their  infancy  to  reverence those  edifices,  because  of  the  sacred  ordinances  performed  therein.
+
+['loud', 'quiet'] received scores [0.5370572209358215, 0.46294277906417847]
+['loud', 'soft'] received scores [0.6884093284606934, 0.31159070134162903]
+['quiet', 'noisy'] received scores [0.6919301748275757, 0.3080698549747467]
+['soft', 'noisy'] received scores [0.5411484241485596, 0.4588516354560852]
+
+decades/1910s/IE/1913_O.txt
+
+I  revere  and  respect  his  name.
+
+['loud', 'quiet'] received scores [0.599960207939148, 0.4000397324562073]
+['loud', 'soft'] received scores [0.6718981266021729, 0.32810190320014954]
+['quiet', 'noisy'] received scores [0.750422477722168, 0.24957746267318726]
+['soft', 'noisy'] received scores [0.6876990795135498, 0.3123009502887726]
+
+decades/1910s/IE/1913_O.txt
+
+Then  you  have  the  Primary  Association,  where  once  a  week,  or  oftener,  young  ladies  of  scholastic  training  meet  in  the  meetinghouse  or  in  the  schoolhouse,  where  it  is  permitted,  and  there  teach  the  little  children  the  first  principles  of  service to  mankind,  and  reverence  for  God.
+
+['loud', 'quiet'] received scores [0.6994541883468628, 0.3005458116531372]
+['loud', 'soft'] received scores [0.6865213513374329, 0.31347864866256714]
+['quiet', 'noisy'] received scores [0.6050631403923035, 0.39493680000305176]
+['soft', 'noisy'] received scores [0.6194940209388733, 0.3805059790611267]
+
+decades/1910s/IE/1913_O.txt
+
+The  Latter-day  Saints  believe  that  children  should  be  taught  reverence  for  God  and  have  developed  in  their  hearts  faith  in  Him,  and  a  comprehension  of  their  obligation  even  as  children  to  God.
+
+['loud', 'quiet'] received scores [0.5044111609458923, 0.4955888092517853]
+['loud', 'soft'] received scores [0.6440456509590149, 0.3559543490409851]
+['quiet', 'noisy'] received scores [0.7116007804870605, 0.28839921951293945]
+['soft', 'noisy'] received scores [0.5812360048294067, 0.41876399517059326]
+
+decades/1910s/IE/1913_O.txt
+
+I  speak  it  with  all  reverence.
+
+['quiet', 'loud'] received scores [0.5370012521743774, 0.46299874782562256]
+['soft', 'loud'] received scores [0.6267468333244324, 0.3732531666755676]
+['quiet', 'noisy'] received scores [0.8927885293960571, 0.10721143335103989]
+['soft', 'noisy'] received scores [0.9234064221382141, 0.0765935555100441]
+
+decades/1910s/IE/1914_O.txt
+
+The  words  spoken  by  them  should  be  free  from  all  things  verging  on  profanity,  and  they  should  ever  feel  the  greatest  reverence  for  the  name  of  the  Father.
+
+['quiet', 'loud'] received scores [0.7011749744415283, 0.2988249957561493]
+['soft', 'loud'] received scores [0.6049205660820007, 0.39507949352264404]
+['quiet', 'noisy'] received scores [0.6923518180847168, 0.3076481521129608]
+['soft', 'noisy'] received scores [0.5948973298072815, 0.4051026999950409]
+
+decades/1910s/IE/1915_A.txt
+
+We  must  not  dogmatize,  we  need  not  vainly  guess;  but  we  may  reverently  affirm  that  the  Son  of  man  is  capable  of  reaching  and  influencing the  souls  of  men  on  yon  side  of  the  veil,  as  well  as  on  this;  and  that  in  a  degree  and  by  means  infinitely  beyond  anything  that  science  or  faith  can  either  dream  or  discover.
+
+['quiet', 'loud'] received scores [0.5381758213043213, 0.4618242084980011]
+['loud', 'soft'] received scores [0.5945340394973755, 0.4054659605026245]
+['quiet', 'noisy'] received scores [0.6950071454048157, 0.3049928843975067]
+['soft', 'noisy'] received scores [0.571479856967926, 0.4285200834274292]
+
+decades/1910s/IE/1915_O.txt
+
+His  words  and  his  life  work  have  been  pictured  by  poets,  by  orators,  and  by  historians  — and  these  we  have  with  us — that  we  may  revere  him,  and  know  him  as  he  was.
+
+['loud', 'quiet'] received scores [0.7817854285240173, 0.21821457147598267]
+['loud', 'soft'] received scores [0.5888140201568604, 0.41118597984313965]
+['noisy', 'quiet'] received scores [0.6421893835067749, 0.3578106462955475]
+['soft', 'noisy'] received scores [0.5822842121124268, 0.41771581768989563]
+
+decades/1910s/IE/1915_O.txt
+
+Now,  I  have  been  thinking  about  that,  and  I  have  wondered  if  there  is  anything  in  connection  with  the  outward  expression,  at  least,  of  our  religious  life  which  would  lead  an  outside  observer  to  believe  that  we  are  veering  somewhat  from  the  straight  line  that  our  fathers  and  our  mothers  followed;,  if,  indeed,  our  faith  in  these  ordinances,  and  our  reverence  and  respect  for  them,  is  diminishing.
+
+['loud', 'quiet'] received scores [0.549186646938324, 0.45081332325935364]
+['loud', 'soft'] received scores [0.5169008374214172, 0.48309916257858276]
+['quiet', 'noisy'] received scores [0.6059660911560059, 0.39403390884399414]
+['soft', 'noisy'] received scores [0.6364856362342834, 0.36351436376571655]
+
+decades/1910s/IE/1915_O.txt
+
+My  brethren  and  sisters,  let  us  not  lose  the  reverence  our  fathers  and  mothers  have  always  had  for  these  sacred  ordinances.
+
+['quiet', 'loud'] received scores [0.6297407746315002, 0.37025928497314453]
+['loud', 'soft'] received scores [0.5836062431335449, 0.4163937568664551]
+['quiet', 'noisy'] received scores [0.8539227247238159, 0.14607727527618408]
+['soft', 'noisy'] received scores [0.7103336453437805, 0.28966638445854187]
+
+decades/1910s/IE/1915_O.txt
+
+Because  of  the  reverence  and  faith  we  have  in  those  who  preside  over  us  we  are  thought  not  to  be  as  independent  in  our  lives  as  other  people,  but  we  have  learned  the  principle  of  the  freedom  of  obedience.
+
+['quiet', 'loud'] received scores [0.6339712142944336, 0.366028755903244]
+['soft', 'loud'] received scores [0.6291648149490356, 0.37083518505096436]
+['quiet', 'noisy'] received scores [0.7668169140815735, 0.23318305611610413]
+['soft', 'noisy'] received scores [0.7631030678749084, 0.23689688742160797]
+
+decades/1910s/IE/1915_O.txt
+
+No — ye  must  be  humble  even  as  a  little  child,  so  humble  that  ye  can  worship  God  your  Father  and  acknowledge  Him  and  give  Him  reverence,  so  humble  that  ye  can  acknowledge  Jesus  Christ  the  Savior  and  Redeemer  of  the  world,  and  serve  and  follow  Him.
+
+['quiet', 'loud'] received scores [0.7600008845329285, 0.23999916017055511]
+['soft', 'loud'] received scores [0.5162746906280518, 0.48372524976730347]
+['quiet', 'noisy'] received scores [0.7669482231140137, 0.23305174708366394]
+['soft', 'noisy'] received scores [0.5258760452270508, 0.474124014377594]
+
+decades/1910s/IE/1916_A.txt
+
+We  often  emote  the  saying  of  Paul,  who  seemed  to  have  a  very  good  idea  in  regard  to  all  these  things,  or  rather,  if  you  do  not  believe  that  Paul  wrote  the  Epistle  to  the  Hebrews  as  I  do — (great  dispute  about  that  in  the  world) — in  the  Epistle  to  the  Hebrews  we  are  told  that  "we  have  had  fathers  of  our  flesh  who  corrected us  and  we  gave  them  reverence," and  the  question  is  asked,  "How  much  rather  should  we  be  in  subjection  to  the  Father  of  spirits."
+
+['loud', 'quiet'] received scores [0.8371773958206177, 0.16282258927822113]
+['loud', 'soft'] received scores [0.7053620219230652, 0.2946380078792572]
+['noisy', 'quiet'] received scores [0.8370655179023743, 0.16293451189994812]
+['noisy', 'soft'] received scores [0.705191433429718, 0.29480862617492676]
+
+decades/1910s/IE/1916_A.txt
+
+He  is  the  great  father  of  the  race,  but  we  have  had  fathers  that  corrected  us  at  home  and  we  gave  them  reverence.
+
+['loud', 'quiet'] received scores [0.6679919362068176, 0.3320080637931824]
+['loud', 'soft'] received scores [0.7715492844581604, 0.2284506857395172]
+['quiet', 'noisy'] received scores [0.6629580855369568, 0.3370418846607208]
+['soft', 'noisy'] received scores [0.5395525097846985, 0.4604474604129791]
+
+decades/1910s/IE/1916_A.txt
+
+May  we  not  turn  away  from  sacred  things,  and  laugh  or  scoff  at  them,  but  may  we  have  in  our  minds  respect  and  reverence  for  sacred  things  and  sacred  rites,  that  the  Lord  may  not  withhold  His  blessings  from  us.
+
+['quiet', 'loud'] received scores [0.5512290000915527, 0.44877102971076965]
+['loud', 'soft'] received scores [0.6034712791442871, 0.3965287506580353]
+['quiet', 'noisy'] received scores [0.7159051299095154, 0.2840949296951294]
+['soft', 'noisy'] received scores [0.5741129517555237, 0.4258871078491211]
+
+decades/1910s/IE/1916_A.txt
+
+Brigham  Young  would  not  go  past  that  prophecy,  and  to  confirm his  judgment  and  his  reverence  for  the  word  of  God,  he  had  a  vision  showing  him  that  this  was  indeed  the  place  that  the  Lord  had  selected  for  His  people.
+
+['loud', 'quiet'] received scores [0.6738346815109253, 0.3261653184890747]
+['loud', 'soft'] received scores [0.8711708784103394, 0.12882912158966064]
+['quiet', 'noisy'] received scores [0.6880209445953369, 0.3119790852069855]
+['noisy', 'soft'] received scores [0.5974587798118591, 0.40254124999046326]
+
+decades/1910s/IE/1916_A.txt
+
+They  are  beginning to  reverence  Adam  as  they  should,  and  no  longer  consign  unbaptized  infants  to  eternal  damnation.
+
+['loud', 'quiet'] received scores [0.6938756108283997, 0.30612432956695557]
+['loud', 'soft'] received scores [0.7392668128013611, 0.26073312759399414]
+['noisy', 'quiet'] received scores [0.5376971960067749, 0.4623027741909027]
+['noisy', 'soft'] received scores [0.5926510095596313, 0.4073489308357239]
+
+decades/1910s/IE/1916_A.txt
+
+His  religion  teaches  him  loyalty-teaches  him  that  he  must  absolve  himself  from  all  emperors,  from  all  potentates, from  all  countries ;  and  that  this  is  the  land  of  Zion,  and  that  he  must  abide  here  and  revere  the  King  of  this  land,  who  is  God  Almighty Himself.
+
+['loud', 'quiet'] received scores [0.7215688824653625, 0.27843114733695984]
+['loud', 'soft'] received scores [0.8567059636116028, 0.1432940512895584]
+['quiet', 'noisy'] received scores [0.5151600241661072, 0.4848400354385376]
+['noisy', 'soft'] received scores [0.6846620440483093, 0.3153379261493683]
+
+decades/1910s/IE/1916_O.txt
+
+My  heart  goes  out  to  him  when  we  sing  "Praise  to  the  man  who  communed    with    Jehovah! Jesus  anointed    that    prophet    and    seer,  Blessed  to  open  the  last  dispensation, Kings  shall  extol  him  and  Nations revere."
+
+['loud', 'quiet'] received scores [0.9213653206825256, 0.07863464206457138]
+['loud', 'soft'] received scores [0.8758999705314636, 0.12410002946853638]
+['noisy', 'quiet'] received scores [0.7388543486595154, 0.261145681142807]
+['noisy', 'soft'] received scores [0.6302157044410706, 0.3697843551635742]
+
+decades/1910s/IE/1916_O.txt
+
+When  I  call  attention to  the  wonderful  work  of  the  Relief  Society  and  how  they  visit  the  homes  of  the  people  every  month,  how  they  assist  in  caring  for  the  sick,  how  they  help  the  helpless  ;  when  I  call  attention  to  the  work  of  the  teachers,  visiting  all  of  the  homes  of  the  Latter-day  Saints  every month,  learning  of  their  condition, temporally  and  spiritually,  and  make  a  report  to  their  bishop  every  month,  ready  and  willing  to  assist  all  who  need  assistance ;  when  I  call  attention  to  our  fast-day  meeting,  and  the  offerings  of  the  people  there,  and  the  purposes  for  which  those  offerings  are  given,  and  when  I  speak  of  the  old  folks  and  the  reverence  we  pay  to  them,  irrespective of  creed  or  color,  all  express surprise  and  even  approval.
+
+['loud', 'quiet'] received scores [0.7549765110015869, 0.2450234740972519]
+['loud', 'soft'] received scores [0.7919657826423645, 0.2080341875553131]
+['quiet', 'noisy'] received scores [0.6881088018417358, 0.31189125776290894]
+['soft', 'noisy'] received scores [0.6410235166549683, 0.3589765131473541]
+
+decades/1910s/IE/1916_O.txt
+
+In  saying  this,  I  speak  with  all  due  reverence  of  the  written  word  of  God,  that  which  is  printed  in  the  books,  part  of  which  may  be  obsolete, having  fulfilled  its  purpose  and  been  laid  upon  the  shelf,  while  the  other  part  is  virile,  full  of  life,  and  applicable  to  our  present  state  — our  present  degree  of  development.
+
+['quiet', 'loud'] received scores [0.5930758118629456, 0.40692418813705444]
+['loud', 'soft'] received scores [0.504054605960846, 0.49594542384147644]
+['quiet', 'noisy'] received scores [0.821508526802063, 0.17849144339561462]
+['soft', 'noisy'] received scores [0.7565187811851501, 0.24348118901252747]
+
+decades/1910s/IE/1916_O.txt
+
+I  should  like  to  engender  in  the  hearts  of  my  own  children  a  love  and  reverence,  not  only  for  the  principles  of  the  gospel,  but   for  the  men  who  have   been    instrumental  in  their  establishment  in  this  great  day.
+
+['loud', 'quiet'] received scores [0.6981547474861145, 0.3018452227115631]
+['loud', 'soft'] received scores [0.7516373991966248, 0.24836258590221405]
+['quiet', 'noisy'] received scores [0.5693488121032715, 0.43065109848976135]
+['soft', 'noisy'] received scores [0.5025892853736877, 0.49741071462631226]
+
+decades/1910s/IE/1917_A.txt
+
+Their  flocks  and  herds  and  lands  and  wealth,  Their  wives  and  children  dear,  Their   all,    themselves,    they   bring   to  him;  Thus  they  his  rights  revere.
+
+['loud', 'quiet'] received scores [0.6114585995674133, 0.38854143023490906]
+['loud', 'soft'] received scores [0.7187978029251099, 0.28120213747024536]
+['quiet', 'noisy'] received scores [0.6449029445648193, 0.3550970256328583]
+['soft', 'noisy'] received scores [0.5278835296630859, 0.47211650013923645]
+
+decades/1910s/IE/1917_A.txt
+
+No  other  land  offered  the  conditions that  were  necessary ;  from  the    beginning  of  this  Church  up  to  the  present  time,  Latter-day  Saints,  consequently,  have  had  a  deep  and  a  reverent  regard  for  the  government of  this  land.
+
+['loud', 'quiet'] received scores [0.5263717174530029, 0.47362834215164185]
+['loud', 'soft'] received scores [0.7957667112350464, 0.20423324406147003]
+['quiet', 'noisy'] received scores [0.7992140054702759, 0.20078599452972412]
+['soft', 'noisy'] received scores [0.5316900610923767, 0.4683099091053009]
+
+decades/1910s/IE/1917_O.txt
+
+He  sent  redemption  unto  his  people; he  hath  commanded  his  covenant forever;  holy  and  reverend  is  his  name.
+
+['loud', 'quiet'] received scores [0.6792312264442444, 0.32076871395111084]
+['loud', 'soft'] received scores [0.7986920475959778, 0.2013079822063446]
+['quiet', 'noisy'] received scores [0.732869565486908, 0.26713043451309204]
+['soft', 'noisy'] received scores [0.5941944718360901, 0.4058055579662323]
+
+decades/1910s/IE/1917_O.txt
+
+There  is  one  thing  he  went  to  the  Lord  for  in  our  behalf,  for  which  the  youth  of  this  people  should  hold  him  in  high  reverence  forever  and  ever,  and  I  will  relate  it.
+
+['loud', 'quiet'] received scores [0.6457587480545044, 0.35424119234085083]
+['loud', 'soft'] received scores [0.7629749774932861, 0.23702499270439148]
+['quiet', 'noisy'] received scores [0.6896173357963562, 0.3103826940059662]
+['soft', 'noisy'] received scores [0.5571785569190979, 0.4428214132785797]
+
+decades/1910s/IE/1917_O.txt
+
+Even  those  who  revere  the  prophets  of  the  past  are  tempted  to  ignore  the  prophets  of  the  present.
+
+['quiet', 'loud'] received scores [0.5037434101104736, 0.49625658988952637]
+['loud', 'soft'] received scores [0.5796830654144287, 0.4203169345855713]
+['quiet', 'noisy'] received scores [0.6638445258140564, 0.3361554443836212]
+['soft', 'noisy'] received scores [0.5851686000823975, 0.41483137011528015]
+
+decades/1910s/IE/1917_O.txt
+
+A  professed  reverence for  Moses  and  the  old-time  servants  of  God  was  a  prominent  characteristic  of  those  who  spurned  the  greatest  of  all  prophets,  the  very  Son  of  God,  concerning  whom  Moses  and  others  had  testified.
+
+['loud', 'quiet'] received scores [0.9208551049232483, 0.0791449025273323]
+['loud', 'soft'] received scores [0.8799575567245483, 0.12004246562719345]
+['noisy', 'quiet'] received scores [0.7300878763198853, 0.26991209387779236]
+['noisy', 'soft'] received scores [0.6301999092102051, 0.3698001503944397]
+
+decades/1910s/IE/1917_O.txt
+
+And  so  we  pause  on  the  threshold  of  created  life,  and,  standing  reverently  aside,  lay  humbly  down  our  little  wisdom  as  we  recognize the  unfathomable  greatness  of  the  one  all-wise  Creator.
+
+['quiet', 'loud'] received scores [0.9675626158714294, 0.03243739530444145]
+['soft', 'loud'] received scores [0.7244293093681335, 0.27557069063186646]
+['quiet', 'noisy'] received scores [0.9764178395271301, 0.02358216978609562]
+['soft', 'noisy'] received scores [0.7849030494689941, 0.21509692072868347]
+
+decades/1910s/IE/1917_O.txt
+
+It  is  a  very  strange  thing  that  in  order  that  we  shall  pay  respect  and  reverence  for  the  prophets  of  God,  that  they  must  be  ancient  or  must  have  lived  hundreds  of  years  ago.
+
+['quiet', 'loud'] received scores [0.6941847205162048, 0.30581527948379517]
+['loud', 'soft'] received scores [0.5609166622161865, 0.4390833377838135]
+['quiet', 'noisy'] received scores [0.8864479064941406, 0.11355211585760117]
+['soft', 'noisy'] received scores [0.7291512489318848, 0.27084881067276]
+
+decades/1910s/IE/1917_O.txt
+
+We  will  go  to  the  scriptures  and  read  what  the  prophets  have  said  thousands  of  years  ago,  and  ponder  over  their  words  and  try  to  understand  what  was  meant  by  what  they  said ;  and  yet  today,  when  the  prophets  speak  to  us,  we  do  not  take  that  same  care,  and  we  do  not  pay  that  same  reverence  to  their  words.
+
+['quiet', 'loud'] received scores [0.5096954703330994, 0.49030449986457825]
+['loud', 'soft'] received scores [0.6130691766738892, 0.3869308531284332]
+['quiet', 'noisy'] received scores [0.8246937990188599, 0.17530621588230133]
+['soft', 'noisy'] received scores [0.7406710386276245, 0.2593289315700531]
+
+decades/1910s/IE/1917_O.txt
+
+But  we  recognize  and  honor  above  all  else  the  authority that  has  been  conferred  upon  them  by  our  father  in  heaven,  I  trust  that  we  all  partake  of  the  spirit  of  holy  reverence  that,  I  understand,  was  made  manifest  in  the  days  of  Joseph  Smith  by  Dr. Bernhisel.
+
+['quiet', 'loud'] received scores [0.6000955700874329, 0.3999044597148895]
+['loud', 'soft'] received scores [0.5913648009300232, 0.4086351990699768]
+['quiet', 'noisy'] received scores [0.804654598236084, 0.19534537196159363]
+['soft', 'noisy'] received scores [0.6547920107841492, 0.34520798921585083]
+
+decades/1910s/IE/1918_A.txt
+
+Let  us  instill  reverence  and  love  in  their  hearts  for  God,  and  for  our  Savior,  let  them  know  what  the  Savior  has  done  for  us,  and  that  there  is  no  doubt  in  our  hearts  about  this,  but  that  we  know  it  is  a  truth.
+
+['loud', 'quiet'] received scores [0.6142176389694214, 0.3857823610305786]
+['loud', 'soft'] received scores [0.7105525135993958, 0.28944751620292664]
+['quiet', 'noisy'] received scores [0.581694483757019, 0.41830557584762573]
+['noisy', 'soft'] received scores [0.5257920026779175, 0.47420793771743774]
+
+decades/1910s/IE/1918_A.txt
+
+In  training  up  our  children  we  must  also  plant  in  their  minds  belief  in  and  reverence  for  a  living  and  true  God,  the  Father  of  their  spirits,  that  they  may  learn  the  lesson  that  Paul  taught,  that  "we  have  fathers  of  our  flesh  who  corrected  us  and  we  gave  them  reverence,  but  how  much  rather  should  we  be  in  subjection  to  the  Father  of  spirits  and  live.
+
+['loud', 'quiet'] received scores [0.5845082402229309, 0.4154917299747467]
+['loud', 'soft'] received scores [0.688531219959259, 0.3114687502384186]
+['quiet', 'noisy'] received scores [0.6650437116622925, 0.3349562883377075]
+['soft', 'noisy'] received scores [0.5582096576690674, 0.4417903423309326]
+
+decades/1910s/IE/1918_A.txt
+
+She  loved  her  dead  husband  devotedly;  she  revered his  memory,  and  was  much  taken  up  with  the  doctrines  that  I  presented  to  her,  particularly  those  pertaining  to  salvation  for  the  dead  and  to  eternal  marriage,  both  in  person  and  by  proxy,  marriage  for  all  eternity.
+
+['loud', 'quiet'] received scores [0.7714383602142334, 0.22856158018112183]
+['loud', 'soft'] received scores [0.7052056789398193, 0.2947942614555359]
+['noisy', 'quiet'] received scores [0.592049241065979, 0.40795081853866577]
+['noisy', 'soft'] received scores [0.5070505142211914, 0.4929494857788086]
+
+decades/1910s/IE/1918_A.txt
+
+Latter-day  Saints  revere  him  because  he  was  in  reality  the  Son  of  God,  the  Redeemer  of  the  world.
+
+['loud', 'quiet'] received scores [0.7188418507575989, 0.28115808963775635]
+['loud', 'soft'] received scores [0.7911266088485718, 0.20887340605258942]
+['quiet', 'noisy'] received scores [0.5702649354934692, 0.4297350347042084]
+['noisy', 'soft'] received scores [0.5274905562400818, 0.4725094735622406]
+
+decades/1910s/IE/1918_A.txt
+
+They  are  taught  to  pray,  to  reverence  God,  who  has  ears  to  hear  and  a  heart  that  can  be  touched  by  the  prayers  and  the  supplications  of  the  little  ones.
+
+['loud', 'quiet'] received scores [0.6894413232803345, 0.3105586767196655]
+['loud', 'soft'] received scores [0.7127549648284912, 0.2872450053691864]
+['quiet', 'noisy'] received scores [0.661036491394043, 0.3389635384082794]
+['soft', 'noisy'] received scores [0.6356707811355591, 0.36432918906211853]
+
+decades/1910s/IE/1918_O.txt
+
+My  dear  mother  had  inspired  me  with  such  a  love  of  the  gospel  and  with  such  a  reverence  and  admiration  for  the  men  who  stood  at  the  head  of  this  Church,  that  when  I  was  called  to  be  one  of  them  I  was  overpowered ;  I  felt  my  unworthiness  and  the  adversary  taking  advantage  of  that  feeling  in  my  heart,  day  and  night,  the  spirit  pursued  me,  suggesting  that  I  resign, and  when  I  testified  of  the  divinity  of  the  work  we  are  engaged  in,  the  words  would  come  back,  "You  haven't  seen  the  Savior ;  you  have  no  right  to  bear  such  a  testimony,"  and  I  was  very  unhappy.
+
+['loud', 'quiet'] received scores [0.7094460129737854, 0.2905539274215698]
+['loud', 'soft'] received scores [0.7717191576957703, 0.22828084230422974]
+['noisy', 'quiet'] received scores [0.5352281332015991, 0.4647718369960785]
+['noisy', 'soft'] received scores [0.6145539879798889, 0.38544607162475586]
+
+decades/1910s/IE/1918_O.txt
+
+But  the  glorious  fact  is  that  its  fruits  are  not  the  fruits  of  deception ;  they  are  love  for  humanity, reverence  for  liberty  and  the  inherent rights  of  men,  tolerance  for  another's  opinions,  as  long  as  he  does  not  carry  his  opinions,  if  they  are  wrong,  too  far,  so  as  to  infringe  upon  the  rights  of  others.
+
+['quiet', 'loud'] received scores [0.6652686595916748, 0.3347313702106476]
+['soft', 'loud'] received scores [0.6212382912635803, 0.37876176834106445]
+['quiet', 'noisy'] received scores [0.703089714050293, 0.2969103157520294]
+['soft', 'noisy'] received scores [0.6615029573440552, 0.3384970724582672]
+
+decades/1910s/IE/1919_A.txt
+
+But  we  feel  that  those  who  have  met  in  the  Assembly  Hall  are  entitled  to  hear  some  of  the  general  authorities  of  the  Church  speak  upon  the  life  and  labors,  and  bear  witness  of  their  love  and  reverence  for,  and  their  faith  in,  our  beloved  prophet,  the  late  President  Joseph  F.  Smith,  who  has  departed  this  life  since  we  last  met  in  general  conference.
+
+['loud', 'quiet'] received scores [0.6197642683982849, 0.3802357316017151]
+['loud', 'soft'] received scores [0.5046331286430359, 0.4953668713569641]
+['quiet', 'noisy'] received scores [0.6163129210472107, 0.38368701934814453]
+['soft', 'noisy'] received scores [0.7198953032493591, 0.2801046669483185]
+
+decades/1910s/IE/1919_A.txt
+
+She  taught  him  to  read,  she  helped  him  in  his  studies,  and  her  memory  was  ever  kept  by  him  in  the  deepest  reverence.
+
+['loud', 'quiet'] received scores [0.5259279012680054, 0.47407206892967224]
+['loud', 'soft'] received scores [0.6134422421455383, 0.3865576982498169]
+['quiet', 'noisy'] received scores [0.7271639108657837, 0.2728360891342163]
+['soft', 'noisy'] received scores [0.6507370471954346, 0.34926292300224304]
+
+decades/1910s/IE/1919_A.txt
+
+President  Heber  J.  Grant  has  now  been  sustained  by  the  congregations of  the  Saints,  and  by  the  special  quorums  of  the  priesthood,  and  I  beseech  for  him  that  love,  reverence,  and  sustaining  power  that  he  so  well  deserves  and  has  so  well  merited  through  his  life  of  devotion and  faithful  labors  all  the  days  of  his  life.
+
+['loud', 'quiet'] received scores [0.8271154165267944, 0.17288461327552795]
+['loud', 'soft'] received scores [0.8779507279396057, 0.12204934656620026]
+['quiet', 'noisy'] received scores [0.5006475448608398, 0.49935245513916016]
+['noisy', 'soft'] received scores [0.5999495387077332, 0.40005043148994446]
+
+decades/1910s/IE/1919_A.txt
+
+He  was  blessed  as  few  men  have  been  blessed  in  this  world — indeed  I  might  say  as  no  other  man  I  know  of  in  this  world, — by  a  most  remarkable family,  to  which  reference has  been  made  today,  men  and  women  who  honor  the  Lord  and  keep  his  commandments,  who  revere their  husband  and  father.
+
+['loud', 'quiet'] received scores [0.9352355003356934, 0.06476450711488724]
+['loud', 'soft'] received scores [0.9003629088401794, 0.09963711351156235]
+['noisy', 'quiet'] received scores [0.6752791404724121, 0.3247207999229431]
+['noisy', 'soft'] received scores [0.5654677152633667, 0.4345322549343109]
+
+decades/1910s/IE/1919_A.txt
+
+Many  of  them  were  wearing  their  hats,  and  when  President  Joseph  F. Smith  arose  and  declared  that  he  wished  to  speak  to  them  as  a  servant of  the  Lord  Jesus  Christ,  those  men  took  off  their  hats  and  paid  him  due  reverence,  not  as  just  an  ordinary  man,  but  as  a  servant  of  the  Lord  who  was  to  speak  to  them  in  the  name  of  Jesus  Christ.
+
+['loud', 'quiet'] received scores [0.8965780735015869, 0.10342197120189667]
+['loud', 'soft'] received scores [0.8785906434059143, 0.1214093491435051]
+['quiet', 'noisy'] received scores [0.525004506111145, 0.47499552369117737]
+['soft', 'noisy'] received scores [0.5697222948074341, 0.4302777349948883]
+
+decades/1910s/IE/1919_A.txt
+
+And  they  gave  reverence  to  him,  by  uncovering their  heads.
+
+['quiet', 'loud'] received scores [0.7306250929832458, 0.26937490701675415]
+['soft', 'loud'] received scores [0.5467449426651001, 0.4532550573348999]
+['quiet', 'noisy'] received scores [0.8325371146202087, 0.16746287047863007]
+['soft', 'noisy'] received scores [0.688571035861969, 0.311428964138031]
+
+decades/1910s/IE/1919_A.txt
+
+Little  by  little  these  changes  took  place  until,  as  you  remember,  the  hour  of  his  funeral,  by  the  proclamation of  the  Governor  of  this  State,  every  house  of  business,  every  piece  of  machinery,  almost,  that  was  run  by  the  state  was  closed  and  stopped  for  one  hour;  and not  only  the  places  of  business  throughout the  state,  but  all  men  who  knew  him,  whether  they  once  hated  him  or  not,  once  slighted  the  work  that_  he  did,  or  the  cause  which  he  represented, gave  reverence  to  him  and  his  name,  and  the  work  that  he  represented, the  work  of  God.
+
+['loud', 'quiet'] received scores [0.5344151258468628, 0.46558481454849243]
+['loud', 'soft'] received scores [0.6674541234970093, 0.3325458765029907]
+['quiet', 'noisy'] received scores [0.6334688067436218, 0.3665311634540558]
+['noisy', 'soft'] received scores [0.5029217004776001, 0.4970783293247223]
+
+decades/1910s/IE/1919_A.txt
+
+I  revere  his  name.
+
+['loud', 'quiet'] received scores [0.6041678786277771, 0.3958321511745453]
+['loud', 'soft'] received scores [0.651903510093689, 0.34809646010398865]
+['quiet', 'noisy'] received scores [0.802762508392334, 0.19723747670650482]
+['soft', 'noisy'] received scores [0.7683638334274292, 0.2316361963748932]
+
+decades/1910s/IE/1919_A.txt
+
+I  revere  his  memory.
+
+['loud', 'quiet'] received scores [0.6186552047729492, 0.3813447952270508]
+['loud', 'soft'] received scores [0.6013704538345337, 0.3986295461654663]
+['quiet', 'noisy'] received scores [0.7104403972625732, 0.28955957293510437]
+['soft', 'noisy'] received scores [0.7251573204994202, 0.2748427391052246]
+
+decades/1910s/IE/1919_A.txt
+
+I  revere  him  for  many  things.
+
+['loud', 'quiet'] received scores [0.6678448915481567, 0.33215513825416565]
+['loud', 'soft'] received scores [0.5155134797096252, 0.48448646068573]
+['quiet', 'noisy'] received scores [0.5103718638420105, 0.4896281361579895]
+['soft', 'noisy'] received scores [0.6632638573646545, 0.33673614263534546]
+
+decades/1910s/IE/1919_A.txt
+
+It  is  the  blood  of  those  brave  men,  whom  we  all  revere,  who,  for  their  love  of  God,  dared  the  desert  and  sought  a  new  land,  who  are  now  building  and  will  soon  make  of  Utah  one  of  the  greatest  states  of  the  Union.
+
+['loud', 'quiet'] received scores [0.9432055354118347, 0.05679447948932648]
+['loud', 'soft'] received scores [0.9456788301467896, 0.05432115122675896]
+['noisy', 'quiet'] received scores [0.7851683497428894, 0.2148316502571106]
+['noisy', 'soft'] received scores [0.7930136919021606, 0.20698633790016174]
+
+decades/1910s/IE/1919_A.txt
+
+Let  us  cherish  in  our  homes  as  we  cherish  the  lives  of  our  children  themselves,  that  word  honor  with  all  the  synonyms — respect, reverence,  veneration ;  honoring mother,  honoring  father,  having  them  honor  us  as  we  honor  and  revere  God  our  eternal  Father.
+
+['loud', 'quiet'] received scores [0.5978879332542419, 0.40211212635040283]
+['loud', 'soft'] received scores [0.6579339504241943, 0.34206604957580566]
+['quiet', 'noisy'] received scores [0.6588369011878967, 0.34116312861442566]
+['soft', 'noisy'] received scores [0.5988526940345764, 0.4011473059654236]
+
+decades/1910s/IE/1919_A.txt
+
+Let  the  element  of  honor,  devotion,  reverence  permeate  the  home  life.
+
+['quiet', 'loud'] received scores [0.5054201483726501, 0.4945797920227051]
+['loud', 'soft'] received scores [0.5374135375022888, 0.46258652210235596]
+['quiet', 'noisy'] received scores [0.777427613735199, 0.22257240116596222]
+['soft', 'noisy'] received scores [0.7463278770446777, 0.25367215275764465]
+
+decades/1910s/IE/1919_A.txt
+
+So,  we  believe  in  a  real  God,  who  is  really  our  Father,  as  Paul  has  declared— "We  have  had  fathers  of  the  flesh  which  corrected  us,  and  we  gave  them  reverence" — they  were  real  beings;  there  was  nothing  mystical  about  them — "should  we  not  much  rather  be  in  subjection to  the  Father  of  our  spirits  and  live?"
+
+['loud', 'quiet'] received scores [0.5606057047843933, 0.4393942356109619]
+['loud', 'soft'] received scores [0.7220402359962463, 0.27795979380607605]
+['quiet', 'noisy'] received scores [0.7040054798126221, 0.29599446058273315]
+['soft', 'noisy'] received scores [0.5387873649597168, 0.4612126648426056]
+
+decades/1910s/IE/1919_A.txt
+
+I  wish  that  I  could  impress  this  sentiment  which  I  am  about  to  read,  upon  the  heart  of  every  Latter-day  Saint  who  shall  hear  it :   "Let  reverence  for  the  laws  be  breathed  by  every  American  mother  to  the  lisping  babe  that  prattles on  her  lap;  let  it  be  taught  in  schools,  in  seminaries  and  colleges;  let  it  be  written  in  primers,  spelling  books  and  almanacs;  let  it  be  preached  from  the  pulpit,  proclaimed  in  legislative  halls,  and  enforced  in  courts  of  justice.
+
+['loud', 'quiet'] received scores [0.7858982086181641, 0.21410183608531952]
+['loud', 'soft'] received scores [0.8436504006385803, 0.15634958446025848]
+['noisy', 'quiet'] received scores [0.5828517079353333, 0.41714829206466675]
+['noisy', 'soft'] received scores [0.6725540161132812, 0.32744601368904114]
+
+decades/1910s/IE/1919_A.txt
+
+And  remember  that  God  Almighty  has  told  us  to  reverence  the  Sabbath day  and  to  keep  it  holy.
+
+['quiet', 'loud'] received scores [0.6120347380638123, 0.38796529173851013]
+['loud', 'soft'] received scores [0.6622732281684875, 0.33772674202919006]
+['quiet', 'noisy'] received scores [0.8700728416442871, 0.12992717325687408]
+['soft', 'noisy'] received scores [0.6840157508850098, 0.31598424911499023]
+
+decades/1910s/IE/1919_O.txt
+
+Allow  me  to  announce  that  from  the  day  of  Joseph  Smith  to  this  identical  day,  the  leaders  of  this  people  have  had  absolute  respect,  love  and  reverence for  their  country.
+
+['loud', 'quiet'] received scores [0.7330750823020935, 0.2669248878955841]
+['loud', 'soft'] received scores [0.8056178092956543, 0.1943821907043457]
+['quiet', 'noisy'] received scores [0.6514710783958435, 0.3485288918018341]
+['soft', 'noisy'] received scores [0.5532991290092468, 0.44670093059539795]
+
+decades/1910s/IE/1919_O.txt
+
+They  were  told  to  defile  not  his  temple,  profane  not  his  name,  to  hold  it  sacred,  to  reverence  him,  worship  him  in  spirit  and  in  truth,  and  the  first  prayer,  model  prayer,  given  to  them :  "Our  Father,  our  Father."
+
+['quiet', 'loud'] received scores [0.5357186794281006, 0.4642813205718994]
+['loud', 'soft'] received scores [0.6856605410575867, 0.3143394887447357]
+['quiet', 'noisy'] received scores [0.7152848243713379, 0.2847151458263397]
+['noisy', 'soft'] received scores [0.5004590153694153, 0.4995409846305847]
+
+decades/1910s/IE/1919_O.txt
+
+Are  you  following  Christ's  admonition  to  pray  to  the  Father  and  teach  your  children  to  pray,  that  godliness,  reverence  for  God  and  his  work,  every  day  may  be  impressed  upon  the  hearts  of  your  children?
+
+['loud', 'quiet'] received scores [0.5764774084091187, 0.42352256178855896]
+['loud', 'soft'] received scores [0.7576470375061035, 0.24235299229621887]
+['quiet', 'noisy'] received scores [0.6842576265335083, 0.3157424032688141]
+['noisy', 'soft'] received scores [0.5145171880722046, 0.485482782125473]
+
+decades/1910s/IE/1919_O.txt
+
+That  is  the  right,  the  power,  and  the  authority  that  God  has  vested  in  the  leader  of  his  Church,  in  all  the  Administrations,  until    this  moment,  and  we  must  not  fail  to  remember  that,  while  we  followed the  leaders  of  the  past  with  full  reverence  and  confidence,  the  Lord  hath  called  the  man  for  the  hour,  even  as  he  has  done  in  the  past,  now  to  lead  this  Church,  and  that  above  him  stands  our  Father  and  the  Redeemer  of  the  world,  directing  him,  and  I  bear  witness  to  you  that  we  have  never  had  a  president  who  has  presided  over  this  Church  who  has  been  more  susceptible,  more  anxious  to  receive  the  inspiration  and  the  revelation  of  God  for  the  blessing  of  this  people While  he  is  a  man  like  most  men  of  strong  will,  we,  his  closest  associates,  have  nevertheless,  seen  him  yield  his  strong  opinions, to  the  influences  of  the  power  of  God.
+
+['loud', 'quiet'] received scores [0.6054280996322632, 0.3945719301700592]
+['loud', 'soft'] received scores [0.7404748201370239, 0.25952520966529846]
+['quiet', 'noisy'] received scores [0.6783851981163025, 0.3216147720813751]
+['soft', 'noisy'] received scores [0.5314726829528809, 0.46852731704711914]
+
+decades/1910s/IE/1919_O.txt
+
+When  I  was  chosen  one  of  the  apostles — -as  I  stated  this  morning in  a  little  meeting  of  the  Religion  Classes — from;  October  until  February, I  was  very  unhappy,  notwithstanding  the  fact  that  my  call  had  come  by  direct  revelation ;  and  the  reason  was  because  of  my  having  had  such  a  wonderful  reverence  and  respect,  almost  adoration  for  the  men  who  held  the  apostleship.
+
+['loud', 'quiet'] received scores [0.5456405878067017, 0.45435941219329834]
+['loud', 'soft'] received scores [0.7402253746986389, 0.2597745954990387]
+['quiet', 'noisy'] received scores [0.6348839998245239, 0.36511602997779846]
+['noisy', 'soft'] received scores [0.5770906209945679, 0.4229094088077545]
+
+decades/1910s/IE/1919_O.txt
+
+If  there  was  one  thing  that  my  dear  departed  mother  impressed  upon  my  very  soul  it  was  reverence  and  respect  for  the  Priesthood  of  the  living  God,  and  for  the  men  who  stood  at  the  head  of  the  Church  of  Jesus  Christ  of  Latter-day  Saints.
+
+['loud', 'quiet'] received scores [0.6878571510314941, 0.3121427893638611]
+['loud', 'soft'] received scores [0.7817826867103577, 0.2182173728942871]
+['quiet', 'noisy'] received scores [0.5773837566375732, 0.42261627316474915]
+['noisy', 'soft'] received scores [0.5433712601661682, 0.4566287696361542]
+
+decades/1910s/IE/1919_O.txt
+
+We  should  enter  our  meetinghouses  with  a  spirit  of  reverence  to  God  and  to  his  servants,  reverence  for  the  house  of  worship  and  for  the  sacrifice  made  by  our  Lord  and  Savior,  for  he  has  promised us  that  if  we  will  partake  of  the  sacrament  worthily  and  renew  our  covenants before  him,  he  will  grant  unto  us  his  holy  Spirit.
+
+['loud', 'quiet'] received scores [0.5609731078147888, 0.43902692198753357]
+['loud', 'soft'] received scores [0.7042660117149353, 0.2957339584827423]
+['quiet', 'noisy'] received scores [0.8713266849517822, 0.12867337465286255]
+['soft', 'noisy'] received scores [0.7841736078262329, 0.2158263921737671]
+
+decades/1910s/IE/1919_O.txt
+
+He  intended to  impress  upon  us  the  importance  of  having  these  amusements  when  occasion  requires,  directed  by  the  proper  influence ;  so  that,  after  a  dance  or  after  a  basketball  game,  the  young  people  would  enter  the  house  having  in  their  hearts  a desire  to  serve  God  and  a  reverence  for  the  building.
+
+['loud', 'quiet'] received scores [0.5469954609870911, 0.45300453901290894]
+['loud', 'soft'] received scores [0.734002947807312, 0.265997052192688]
+['quiet', 'noisy'] received scores [0.5654644966125488, 0.4345354735851288]
+['noisy', 'soft'] received scores [0.6371740102767944, 0.3628259599208832]
+
+decades/1910s/IE/1919_O.txt
+
+I  would  say,  let  them  go  there,  but  let  us  have  that  place  so  guarded  that  during  the  whole  play  those  boys  have  in  their  hearts  a  spirit  of  reverence  and  of  brotherly  love,  and  not  a  spirit  of  contention,  which  breeds  hatred  in  their  hearts.
+
+['quiet', 'loud'] received scores [0.777197003364563, 0.2228030264377594]
+['soft', 'loud'] received scores [0.5496036410331726, 0.4503963887691498]
+['quiet', 'noisy'] received scores [0.8545143008232117, 0.14548565447330475]
+['soft', 'noisy'] received scores [0.6726332902908325, 0.32736673951148987]
+
+decades/1910s/IE/1919_O.txt
+
+Now,  I  think  we  agree  to  that  extent,  and  I  would  like  to  see  in  all  the  wards  and  stakes  of  Zion,  as  Brother  Wells  said,  a  spirit  of  reverence  and  worship,  a  spirit  of  brotherly  love,  in  our  dances,  and  in  our  games,  and  have  it  continue  with  us  and  go  with  us  on  the  Sabbath day  and  other  days  when  we  enter  the  Church  for  the  purpose  of  worship  or  otherwise.
+
+['quiet', 'loud'] received scores [0.5443667769432068, 0.4556332528591156]
+['loud', 'soft'] received scores [0.5796387791633606, 0.4203612208366394]
+['quiet', 'noisy'] received scores [0.802989661693573, 0.19701041281223297]
+['soft', 'noisy'] received scores [0.7121521234512329, 0.2878478765487671]
+
+decades/1910s/IE/1919_O.txt
+
+What  are  we  doing  to  enjoy  in  our  homes  and  in  our  meeting  houses  that  spirit  of  reverence  and  of  worship  spoken  of  by  Bishop  Wells?
+
+['loud', 'quiet'] received scores [0.5126819014549255, 0.48731809854507446]
+['loud', 'soft'] received scores [0.5064681172370911, 0.49353185296058655]
+['quiet', 'noisy'] received scores [0.7594120502471924, 0.2405880093574524]
+['soft', 'noisy'] received scores [0.7639255523681641, 0.23607447743415833]
+
+decades/1910s/IE/1919_O.txt
+
+I  would  like  to  see  the  day  come,  as  Brother  Wells  said,  when  boys  will  have  in  their  hearts  at  all  times,  a  feeling  of  reverence  for  the  meeting house  and  grounds.
+
+['loud', 'quiet'] received scores [0.551744282245636, 0.4482557773590088]
+['loud', 'soft'] received scores [0.7818463444709778, 0.2181537002325058]
+['quiet', 'noisy'] received scores [0.8136200308799744, 0.18637993931770325]
+['soft', 'noisy'] received scores [0.5998808145523071, 0.40011924505233765]
+
+decades/1910s/IE/1919_O.txt
+
+In  conclusion,  if  you  will  permit  something  which  sounds  like  profanity,  but  which  is  uttered  reverently  and  with  a  profound sense  of  what  I  conceive  to  be  our  duty,  for  God's  sake  let  us  stand  behind  this  league  of  nations.
+
+['loud', 'quiet'] received scores [0.7955281138420105, 0.2044719159603119]
+['loud', 'soft'] received scores [0.724162757396698, 0.2758372128009796]
+['noisy', 'quiet'] received scores [0.8418521285057068, 0.15814785659313202]
+['noisy', 'soft'] received scores [0.7822290658950806, 0.21777094900608063]
+
+decades/1910s/IE/1919_O.txt
+
+I  bear  testimony  to  you  that  Joseph  Smith  was  his  prophet,  divinely  chosen,  a  splendid  servant  of  the  Lord,  a  man  whom  God  loved,  a  being  whom  all  the  earth  shall  yet  honor  and  revere.
+
+['loud', 'quiet'] received scores [0.8534224033355713, 0.1465776562690735]
+['loud', 'soft'] received scores [0.9081907272338867, 0.09180928021669388]
+['quiet', 'noisy'] received scores [0.5466951727867126, 0.45330485701560974]
+['noisy', 'soft'] received scores [0.5848499536514282, 0.41515007615089417]
+
+decades/1910s/IE/1919_O.txt
+
+Praise  to  the  man  who  communed  with  Jehovah!   Jesus  anointed  "that  Prophet  and  Seer" —  Blessed  to  open  the  last  dispensation;   Kings  shall  extol  him  and  nations  revere.
+
+['loud', 'quiet'] received scores [0.9604511857032776, 0.03954879567027092]
+['loud', 'soft'] received scores [0.9464700818061829, 0.053529899567365646]
+['noisy', 'quiet'] received scores [0.7270942330360413, 0.27290579676628113]
+['noisy', 'soft'] received scores [0.6598353385925293, 0.3401646316051483]
+

@@ -1,0 +1,171 @@
+﻿decades/1870s/14/character_and_condition_of_the_latter-day_saints—infidelity—the_atonement—celestial_marriage_brigham_young.txt
+
+When there is anything said from this Stand that pleases or displeases you, you turn to your neighbor and whisper, and the next one does the same, and directly there are a few thousand whispering, creating a noise like the rushing of many waters.
+
+['loud', 'quiet'] received scores [0.902804434299469, 0.09719554334878922]
+['loud', 'soft'] received scores [0.7808537483215332, 0.2191462367773056]
+['noisy', 'quiet'] received scores [0.9935927391052246, 0.006407313048839569]
+['noisy', 'soft'] received scores [0.9834674596786499, 0.016532525420188904]
+
+decades/1870s/14/character_and_condition_of_the_latter-day_saints—infidelity—the_atonement—celestial_marriage_brigham_young.txt
+
+Then you scrape your feet a little, and the many little noises are like the dust that composes the mountains and the whole earth.
+
+['loud', 'quiet'] received scores [0.8633633255958557, 0.13663670420646667]
+['soft', 'loud'] received scores [0.5467303991317749, 0.4532696306705475]
+['noisy', 'quiet'] received scores [0.9943670034408569, 0.00563295092433691]
+['noisy', 'soft'] received scores [0.9586119651794434, 0.041388045996427536]
+
+decades/1870s/14/the_gospel—the_spirit_of_the_lord—revelation_brigham_young.txt
+
+Said I, "how would it be to have this floor planed, matched and nailed down, so that when the children walk over it it will not make so much noise?
+
+['loud', 'quiet'] received scores [0.9783753156661987, 0.021624738350510597]
+['loud', 'soft'] received scores [0.936683177947998, 0.06331683695316315]
+['noisy', 'quiet'] received scores [0.98646080493927, 0.013539241626858711]
+['noisy', 'soft'] received scores [0.9597154855728149, 0.04028451442718506]
+
+decades/1870s/14/the_redemption_of_the_earth—pre-existence—marriage_orson_pratt.txt
+
+And Ezekiel prophesied as he was commanded, and as he prophesied there was a great noise and a shaking and the bones came together, bone to its bone.
+
+['loud', 'quiet'] received scores [0.9959612488746643, 0.004038777202367783]
+['loud', 'soft'] received scores [0.9904182553291321, 0.00958169437944889]
+['noisy', 'quiet'] received scores [0.9955987930297852, 0.004401170648634434]
+['noisy', 'soft'] received scores [0.9895637631416321, 0.010436235927045345]
+
+decades/1870s/15/riches—hurry—fashion—helping_the_poor—mysteries_brigham_young.txt
+
+She whispered to a little girl to take her baby out of doors and amuse it; then, when her baby was out of the way, she moved about without the least noise—not a word was heard from her.
+
+['quiet', 'loud'] received scores [0.9878725409507751, 0.012127431109547615]
+['soft', 'loud'] received scores [0.9655883312225342, 0.03441164642572403]
+['quiet', 'noisy'] received scores [0.9817433953285217, 0.01825661212205887]
+['soft', 'noisy'] received scores [0.9487807154655457, 0.05121929571032524]
+
+decades/1870s/16/obedience—by_reason_of_their_disobedience,_ancient_israel_and_the_land_of_palestine_were_visited_with_and_still_remain_under_the.txt
+
+These Jews are graciously accorded the privilege, by the rulers of that country—the Turks—to wail over the desolation of Israel, provided they do not make so much noise as to disturb the neighborhood.
+
+['quiet', 'loud'] received scores [0.5317071676254272, 0.46829280257225037]
+['soft', 'loud'] received scores [0.7964050769805908, 0.2035948932170868]
+['noisy', 'quiet'] received scores [0.6273841857910156, 0.37261584401130676]
+['soft', 'noisy'] received scores [0.6717180013656616, 0.32828202843666077]
+
+decades/1870s/16/revelation_on_the_judgments_of_the_lord—firstfruits_of_the_resurrection—what_becometh_of_the_souls_of_men—redemption_universal_o.txt
+
+During the period of silence all things are perfectly still; no angels flying during that half hour; no trumpets sounding; no noise in the heavens above; but immediately after this great silence the curtain of heaven shall be unfolded as a scroll is unfolded.
+
+['quiet', 'loud'] received scores [0.9853189587593079, 0.014681105501949787]
+['soft', 'loud'] received scores [0.8100710511207581, 0.18992893397808075]
+['quiet', 'noisy'] received scores [0.9829165935516357, 0.01708342507481575]
+['soft', 'noisy'] received scores [0.7852425575256348, 0.21475744247436523]
+
+decades/1870s/16/the_increased_powers_and_capacities_of_man_in_his_future_state_orson_pratt.txt
+
+Now, supposing that this same kind of ether, or some other substance, which might not in all cases affect the eye, but which would yet be susceptible to the impressions of sound, then sounds, voices or noises in one world might be transferred through that medium to the immortal beings in another world.
+
+['loud', 'quiet'] received scores [0.5681721568107605, 0.4318279027938843]
+['soft', 'loud'] received scores [0.7144016623497009, 0.2855983376502991]
+['noisy', 'quiet'] received scores [0.8461610674858093, 0.1538388878107071]
+['noisy', 'soft'] received scores [0.6256377100944519, 0.3743622601032257]
+
+decades/1870s/16/the_manifestations_of_god's_power,_in_behalf_of_his_people_in_modern_times,_are_different_from_those_of_former_ages—consecration.txt
+
+Moses went down, and as he drew near, he heard a great noise, and he saw them dancing around a golden calf, and they were stripped naked.
+
+['loud', 'quiet'] received scores [0.9835665822029114, 0.016433395445346832]
+['loud', 'soft'] received scores [0.9434190392494202, 0.05658096447587013]
+['noisy', 'quiet'] received scores [0.9914017915725708, 0.008598229847848415]
+['noisy', 'soft'] received scores [0.9698083400726318, 0.0301916915923357]
+
+decades/1870s/17/education_necessary—mormonism_is_truth—conversion_of_indians_orson_hyde.txt
+
+Instead of being in the streets of a night, making unearthly noises, as some do, seemingly under the influence of modern civilization, keep at your homes, study your books, and spend your time in improving your minds.
+
+['quiet', 'loud'] received scores [0.7450628876686096, 0.2549371123313904]
+['loud', 'soft'] received scores [0.8169685006141663, 0.18303152918815613]
+['noisy', 'quiet'] received scores [0.5428335070610046, 0.45716649293899536]
+['noisy', 'soft'] received scores [0.9393545985221863, 0.06064543128013611]
+
+decades/1870s/17/joseph_smith's_first_visions—the_book_of_mormon—american_indians_descendants_of_the_house_of_israel—prophecies_fulfilled_orson_p.txt
+
+So it will be with all people that fight against the great latter-day work; for, saith the same Prophet, "they shall be visited of the Lord of hosts with thunder and with earthquake, with great noise, with storm and tempest, and the flame of  devouring fire.
+
+['loud', 'quiet'] received scores [0.9912793040275574, 0.008720707148313522]
+['loud', 'soft'] received scores [0.9804223775863647, 0.01957767643034458]
+['noisy', 'quiet'] received scores [0.9941732883453369, 0.0058267186395823956]
+['noisy', 'soft'] received scores [0.9868715405464172, 0.01312849298119545]
+
+decades/1870s/17/living_faith_in_god—the_providences_of_the_almighty_in_behalf_of_his_people—lay_up_treasures_in_heaven—the_meek_to_inherit_the_e.txt
+
+That night the Lord sent forth the angels of his presence and they made a rustling in the trees, and sounds like horses' hoofs and chariots, as if the whole country had combined to go out to battle against the Syrians, and they did not know what to make of it, and they were frightened, and fled,  leaving almost everything they had brought with them in the borders of the town; and as they went, the rustling of the trees and the noise of the horses and chariots seemed to pursue them, and in order to make their burdens as light as possible, they threw away everything they had with them, and their track was strewed with everything good and desirable.
+
+['loud', 'quiet'] received scores [0.9492546319961548, 0.0507454089820385]
+['loud', 'soft'] received scores [0.8628921508789062, 0.13710778951644897]
+['noisy', 'quiet'] received scores [0.9877985119819641, 0.012201505713164806]
+['noisy', 'soft'] received scores [0.9645857810974121, 0.0354142002761364]
+
+decades/1870s/18/philosophy_of_man_upon_the_earth—the_great_and_grand_secret_of_salvation—are_we_one—nature_of_stewardship—increase_of_temples—he.txt
+
+This moving of feet, whispering to each other, the crying of children and the noise made by those who are walking, are like the murmuring of many waters.
+
+['loud', 'quiet'] received scores [0.9770732522010803, 0.022926755249500275]
+['loud', 'soft'] received scores [0.846017062664032, 0.1539829969406128]
+['noisy', 'quiet'] received scores [0.9977236390113831, 0.002276389626786113]
+['noisy', 'soft'] received scores [0.9826101660728455, 0.017389845103025436]
+
+decades/1870s/19/god_is_light—god_our_father—god_a_personage—the_holy_ghost—the_earth_as_part_of_the_universe—the_purpose_of_experience—the_resur.txt
+
+"So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone.
+
+['loud', 'quiet'] received scores [0.9887668490409851, 0.011233155615627766]
+['loud', 'soft'] received scores [0.9743296504020691, 0.02567034400999546]
+['noisy', 'quiet'] received scores [0.9933763146400452, 0.006623696070164442]
+['noisy', 'soft'] received scores [0.9847721457481384, 0.0152279082685709]
+
+decades/1870s/19/items_of_history—the_pioneers—talking_to_the_children—peace_in_utah—god_a_personage_of_tabernacle—the_foolish_fashions_brigham_y.txt
+
+The children, as well as those of older growth and manhood, will please cease their talking one to another, cease the rubbing of feet on the floor, cease to make noise.
+
+['quiet', 'loud'] received scores [0.7002683877944946, 0.299731582403183]
+['loud', 'soft'] received scores [0.8627241253852844, 0.137275829911232]
+['noisy', 'quiet'] received scores [0.8184983134269714, 0.18150165677070618]
+['noisy', 'soft'] received scores [0.98512202501297, 0.014877945184707642]
+
+decades/1870s/19/the_united_order—among_the_nephites—not_incompatible_with_individual_responsibility_or_stewardship—the_latter-day_saints_gather_.txt
+
+Tens of thousands of dollars are lying idle in the houses of the Latter-day Saints today in this article alone; almost every house you enter you can find a sewing machine noiseless and idle, but very seldom you hear it running; and all of which were purchased at enormous figures, and now the patent rights having expired, they can be bought for less than half the prices paid for them.
+
+['quiet', 'loud'] received scores [0.9913133382797241, 0.00868668407201767]
+['soft', 'loud'] received scores [0.8070969581604004, 0.19290301203727722]
+['quiet', 'noisy'] received scores [0.9792285561561584, 0.020771462470293045]
+['soft', 'noisy'] received scores [0.6334862112998962, 0.36651384830474854]
+
+decades/1870s/20/interpretation_of_scripture—apparent_miracles_easily_performed_when_necessary—disobedience_brings_calamity—fulfillment_of_prophe.txt
+
+And after he had thus spoken, the Prophet tells us that "there was a noise, and behold a shaking, and the bones came together, bone to his bone.
+
+['loud', 'quiet'] received scores [0.9774162173271179, 0.02258380688726902]
+['loud', 'soft'] received scores [0.9414193034172058, 0.0585806742310524]
+['noisy', 'quiet'] received scores [0.9910416603088379, 0.008958281949162483]
+['noisy', 'soft'] received scores [0.9762347936630249, 0.023765159770846367]
+
+decades/1870s/21/man_to_be_judged_by_law—a_law_given_to_all_things—the_law_of_gravitation—how_it_varies_by_distance—law_of_projection—law_of_elli.txt
+
+Now, we have many testimonies, especially among our brethren in Wales, where they have, in the coal mines in which they worked, been crushed, as it were, until many bones in their body were broken, so much so, that it was supposed they could only live a very few hours, at the longest; yet by the laying on of the hands of the servants of God, we have the testimony of many witnesses that those bones were brought together, making a noise like the crushing of a basket and were placed in their proper form; and the individuals were restored to health and soundness.
+
+['loud', 'quiet'] received scores [0.9584382772445679, 0.041561756283044815]
+['loud', 'soft'] received scores [0.963003933429718, 0.036996059119701385]
+['noisy', 'quiet'] received scores [0.9630244970321655, 0.036975517868995667]
+['noisy', 'soft'] received scores [0.9671036601066589, 0.032896339893341064]
+
+decades/1870s/21/the_inspiration_of_the_lord's_servants—revelation—the_resurrection,_etc_charles_w._penrose.txt
+
+Then the Lord told him to prophesy upon these bones, and as he prophesied, there was a noise and behold a shaking, and the bones came together, bone to his bone, the sinews and the flesh came upon them, and the skin covered them above, but there was no breath in them.
+
+['loud', 'quiet'] received scores [0.9770053625106812, 0.0229946281760931]
+['loud', 'soft'] received scores [0.9053919911384583, 0.09460805356502533]
+['noisy', 'quiet'] received scores [0.9877445101737976, 0.012255449779331684]
+['noisy', 'soft'] received scores [0.9477893710136414, 0.052210573107004166]
+

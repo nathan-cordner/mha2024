@@ -1,0 +1,72 @@
+﻿decades/1960s/1961_O/christiansen_design_for_living.txt
+
+Dr. James E. Talmage has reminded us in his writings, "Religion without morality, professions of godliness without charity, Church membership without adequate responsibility as to honorable individual conduct in daily life, are but as sounding brass and tinkling cymbals noise without music, the words [of a prayer] without the spirit of prayer.
+
+['loud', 'quiet'] received scores [0.6583555936813354, 0.34164440631866455]
+['loud', 'soft'] received scores [0.8961239457130432, 0.10387604683637619]
+['noisy', 'quiet'] received scores [0.8925806879997253, 0.10741926729679108]
+['noisy', 'soft'] received scores [0.9738212823867798, 0.026178663596510887]
+
+decades/1960s/1962_A/brown_honor_the_priesthood.txt
+
+The degree of a man's aversion to communism may not always be measured by the noise he makes in going about and calling everyone a communist who disagrees with his personal political bias.
+
+['loud', 'quiet'] received scores [0.9192331433296204, 0.08076689392328262]
+['loud', 'soft'] received scores [0.891143262386322, 0.10885675996541977]
+['noisy', 'quiet'] received scores [0.9648169875144958, 0.03518299758434296]
+['noisy', 'soft'] received scores [0.9517485499382019, 0.0482514351606369]
+
+decades/1960s/1964_O/smith_gratitude_for_the_restoration_of_the_truth.txt
+
+Peter understood this doctrine and in his second epistle made the following statement:  "But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up.
+
+['loud', 'quiet'] received scores [0.9731574058532715, 0.026842612773180008]
+['loud', 'soft'] received scores [0.9517337083816528, 0.048266272991895676]
+['noisy', 'quiet'] received scores [0.9792192578315735, 0.02078072912991047]
+['noisy', 'soft'] received scores [0.9624470472335815, 0.03755297139286995]
+
+decades/1960s/1965_O/kimball_a_changing_world_for_the_barry_begays.txt
+
+Why such a noise on this weekday morning?
+
+['loud', 'quiet'] received scores [0.992821991443634, 0.007178046740591526]
+['loud', 'soft'] received scores [0.9918234348297119, 0.008176608011126518]
+['noisy', 'quiet'] received scores [0.995134174823761, 0.004865851253271103]
+['noisy', 'soft'] received scores [0.9944554567337036, 0.0055445521138608456]
+
+decades/1960s/1966_A/monson_i_know_that_my_redeemer_lives.txt
+
+"'Now, don't you go till I come,' he said,      'And don't you make any noise!
+
+['quiet', 'loud'] received scores [0.9176756739616394, 0.08232440054416656]
+['soft', 'loud'] received scores [0.710751473903656, 0.2892485558986664]
+['quiet', 'noisy'] received scores [0.8099725842475891, 0.1900274157524109]
+['noisy', 'soft'] received scores [0.5155719518661499, 0.4844280481338501]
+
+decades/1960s/1966_O/lee_communion_with_deity.txt
+
+So often today, men and women are living so far apart from things spiritual that when the Lord is speaking to their physical hearing, to their minds with no audible sound, or to them through his authorized servants who, when directed by the Spirit, are as his own voice, they hear only a noise as did they at Jerusalem.
+
+['quiet', 'loud'] received scores [0.6083880066871643, 0.3916119635105133]
+['loud', 'soft'] received scores [0.5959840416908264, 0.40401598811149597]
+['noisy', 'quiet'] received scores [0.8685917258262634, 0.13140824437141418]
+['noisy', 'soft'] received scores [0.9380726218223572, 0.06192736327648163]
+
+decades/1960s/1967_O/hanks_thank_god_it_can_be_done_in_my_time.txt
+
+Youth  We are told that this broadcast is going to beloved Britain, and so it is appropriate that I begin by noting that in the foyer of a church building in a British city a time ago, I happened by a group of older ladies who were discussing somewhat critically the behavior of several young members of the congregation who had just walked noisily by.
+
+['loud', 'quiet'] received scores [0.9746015071868896, 0.025398461148142815]
+['loud', 'soft'] received scores [0.9566535949707031, 0.04334639385342598]
+['noisy', 'quiet'] received scores [0.9832512736320496, 0.016748735681176186]
+['noisy', 'soft'] received scores [0.9712352752685547, 0.02876470424234867]
+
+decades/1960s/1968_A/brown_the_bishop.txt
+
+He may be the neighbor next door; he may be the son of your close friends; he may be that noisy boy you had in your Sunday School class just a few years ago—you remember, the one you were ready to send out, never to come back.
+
+['loud', 'quiet'] received scores [0.9928663372993469, 0.007133695296943188]
+['loud', 'soft'] received scores [0.9680922031402588, 0.031907789409160614]
+['noisy', 'quiet'] received scores [0.9964951276779175, 0.0035048173740506172]
+['noisy', 'soft'] received scores [0.9841220378875732, 0.01587798446416855]
+

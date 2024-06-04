@@ -1,0 +1,36 @@
+﻿decades/1910s/IE/1911_A.txt
+
+No  noise  about  it  but  quietly,  secretly  they  get  together,  concoct  their  schemes,    lay  their  plans,  conspire  and  plot  to  defeat  the  right.
+
+['quiet', 'loud'] received scores [0.9957358837127686, 0.004264132585376501]
+['soft', 'loud'] received scores [0.9744529724121094, 0.025547053664922714]
+['quiet', 'noisy'] received scores [0.9923692345619202, 0.007630735170096159]
+['soft', 'noisy'] received scores [0.9550418257713318, 0.0449582003057003]
+
+decades/1910s/IE/1911_O.txt
+
+He  was  preaching  at  Liverpool,  in  the  open  air,  when  a  noisy  fellow,  pushing  his  way  through  the  crowd  and  planting  himself  squarely  in  front,  began  to  denounce  him.
+
+['loud', 'quiet'] received scores [0.9957478046417236, 0.004252208396792412]
+['loud', 'soft'] received scores [0.9913470149040222, 0.008653029799461365]
+['noisy', 'quiet'] received scores [0.9975467324256897, 0.00245325337164104]
+['noisy', 'soft'] received scores [0.9949983954429626, 0.005001598969101906]
+
+decades/1910s/IE/1913_A.txt
+
+That  relates  not  so  much  to  the  little  ordinary noise,  and  disturbance,  and  confusion  that  we  may  find  sometimes in  homes,  or  in  communities.
+
+['loud', 'quiet'] received scores [0.5498178601264954, 0.45018208026885986]
+['soft', 'loud'] received scores [0.7724323868751526, 0.2275676131248474]
+['noisy', 'quiet'] received scores [0.9804274439811707, 0.019572610035538673]
+['noisy', 'soft'] received scores [0.9235667586326599, 0.07643324136734009]
+
+decades/1910s/IE/1915_A.txt
+
+I  feel  it,  and  I  sense  it  just  as  much  as  Brother  Roberts  does;  it  sounds  to  me  like  mobilizing,  and  I    think  that  is  the  meaning  of  all  this  noise.
+
+['loud', 'quiet'] received scores [0.9916973114013672, 0.008302731439471245]
+['loud', 'soft'] received scores [0.9885625243186951, 0.0114375539124012]
+['noisy', 'quiet'] received scores [0.9965287446975708, 0.0034713060595095158]
+['noisy', 'soft'] received scores [0.995209276676178, 0.004790762439370155]
+

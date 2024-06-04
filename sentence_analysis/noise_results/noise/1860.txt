@@ -1,0 +1,180 @@
+﻿decades/1860s/10/constitutional_powers_of_the_congress_of_the_united_states—growth_of_the_kingdom_of_god_brigham_young.txt
+
+If any of you are afraid, think not that you can escape danger by fleeing to the States east, or west to California, "For it shall come to pass, that he who fleeth from the noise of fear shall fall into the pit; and he that cometh up out of the midst of the pit shall be taken in the snare.
+
+['loud', 'quiet'] received scores [0.8569207787513733, 0.14307920634746552]
+['loud', 'soft'] received scores [0.920965850353241, 0.07903415709733963]
+['noisy', 'quiet'] received scores [0.9106720685958862, 0.08932793140411377]
+['noisy', 'soft'] received scores [0.952004611492157, 0.04799541458487511]
+
+decades/1860s/10/constitutional_powers_of_the_congress_of_the_united_states—growth_of_the_kingdom_of_god_brigham_young.txt
+
+The noise of a multitude in the mountains, like as of a great people; a tumultuous noise of the kingdoms of nations gathered together: the Lord of hosts mustereth the host of the battle.
+
+['loud', 'quiet'] received scores [0.9957385659217834, 0.004261380061507225]
+['loud', 'soft'] received scores [0.9909060001373291, 0.00909402035176754]
+['noisy', 'quiet'] received scores [0.9972171187400818, 0.0027828847523778677]
+['noisy', 'soft'] received scores [0.9940511584281921, 0.005948846694082022]
+
+decades/1860s/10/fulfilment_of_prophecy—power_of_the_gospel—consistency_of_its_principles_wilford_woodruff.txt
+
+There is no ear but what has to be penetrated with the sound of the Gospel of Christ; and by-and-by the Elders of Israel will be taken from those nations where they are now preaching, and there will be another set of Missionaries sent amongst the people; there will be the voice of lightning, the noise of war, and of all those judgments which have been enumerated and prophesied of since the beginning of time, and they will go forth among the nations until the land is cleansed from the abominations that now reign upon the face of the earth.
+
+['loud', 'quiet'] received scores [0.8885613083839417, 0.11143871396780014]
+['loud', 'soft'] received scores [0.7743492722511292, 0.22565074265003204]
+['noisy', 'quiet'] received scores [0.9442618489265442, 0.05573810636997223]
+['noisy', 'soft'] received scores [0.8793877959251404, 0.120612233877182]
+
+decades/1860s/10/how_to_obtain_a_part_in_the_kingdom_of_god—assisting_the_poor_to_emigrate—classifying_labor—the_times_we_live_in_orson_hyde.txt
+
+And the first went, and poured out his vial upon the earth; and there fell a noisome and grievous sore upon the men which had the mark of the beast, and upon them which worshipped his image.
+
+['loud', 'quiet'] received scores [0.996669352054596, 0.003330703591927886]
+['loud', 'soft'] received scores [0.9950490593910217, 0.004950989503413439]
+['noisy', 'quiet'] received scores [0.9967899322509766, 0.0032101126853376627]
+['noisy', 'soft'] received scores [0.9952279925346375, 0.00477201584726572]
+
+decades/1860s/10/necessity_of_teaching—overruling_power_of_god—the_lack_of_wisdom_manifested_by_the_world—necessity_of_teaching_the_saints_upon_t.txt
+
+The congregations are very large, and when I have met such congregations as we have here, in former years, and they were a little noisy, with babies crying, I have said "cry on, I can talk louder than you can cry," but I cannot do so now.
+
+['loud', 'quiet'] received scores [0.9715020656585693, 0.02849796786904335]
+['loud', 'soft'] received scores [0.9410296678543091, 0.05897032469511032]
+['noisy', 'quiet'] received scores [0.9916486740112305, 0.008351344615221024]
+['noisy', 'soft'] received scores [0.9823268055915833, 0.017673175781965256]
+
+decades/1860s/11/historical_discourse_george_a._smith.txt
+
+I understand that brother Brigham, hearing this nonsense and noise in the street, jumped up out of his bed in the night, took with him a cow hide whip into the street, and told that noisy person if he did not stop his noise he would certainly cowhide him, which caused him to cease to annoy the inhabitants with his folly.
+
+['loud', 'quiet'] received scores [0.9678154587745667, 0.032184530049562454]
+['loud', 'soft'] received scores [0.9647996425628662, 0.035200368613004684]
+['noisy', 'quiet'] received scores [0.9929055571556091, 0.007094471249729395]
+['noisy', 'soft'] received scores [0.9922218322753906, 0.007778150029480457]
+
+decades/1860s/11/historical_discourse_george_a._smith.txt
+
+Parrish and his coadjutors professed to have discovered that Joseph was not a Prophet, and commenced making a noise about it, and went so far as to organize about thirty of the Elders, into a new church called the Parrish party, many of them had been a long time in the church.
+
+['loud', 'quiet'] received scores [0.9957746267318726, 0.0042254067957401276]
+['loud', 'soft'] received scores [0.987429678440094, 0.012570318765938282]
+['noisy', 'quiet'] received scores [0.9974148273468018, 0.0025852026883512735]
+['noisy', 'soft'] received scores [0.9922841191291809, 0.007715915329754353]
+
+decades/1860s/11/how_saints_should_order_their_vocation_of_life._how_employ_their_wealth._to_build_up_zion,_and_not_babylon._counsel_of_the_proph.txt
+
+If the people can hear me as well as I can hear their noise walking, there will not be much difficulty in my making myself understood.
+
+['loud', 'quiet'] received scores [0.7973113059997559, 0.20268867909908295]
+['loud', 'soft'] received scores [0.7331444025039673, 0.2668555974960327]
+['noisy', 'quiet'] received scores [0.9417788982391357, 0.058221109211444855]
+['noisy', 'soft'] received scores [0.9186828136444092, 0.08131717890501022]
+
+decades/1860s/12/the_sacrament—the_church_of_christ—different_dogmas_of_christianity—book_of_mormon—the_testimony_of_joseph_smith_george_a._smith.txt
+
+It was no sooner noised abroad that Joseph Smith was preaching the Gospel in its purity and administering its ordinances than a howl went up from all the world that he was an impostor, an ignorant fellow, a man without education, and the Book of Mormon was denounced as ungrammatical.
+
+['loud', 'quiet'] received scores [0.9924014806747437, 0.007598496042191982]
+['loud', 'soft'] received scores [0.9737419486045837, 0.026258068159222603]
+['noisy', 'quiet'] received scores [0.9955587983131409, 0.004441175609827042]
+['noisy', 'soft'] received scores [0.984531819820404, 0.015468187630176544]
+
+decades/1860s/13/historical_address_george_a._smith.txt
+
+"If I went into the gardens, clinking the wicket-latch loudly after me, to pull the marigolds, heartsease, and lady-slippers, and draw a drink with the water-sodden well-bucket and its noisy chain; or, knocking off with my stick the tall, heavy-headed dahlias and sunflowers, hunted over the beds for cucumbers and love-apples—no one called out to me from any opened window, or dog sprang forward to bark an alarm.
+
+['loud', 'quiet'] received scores [0.6571261882781982, 0.34287381172180176]
+['loud', 'soft'] received scores [0.929859459400177, 0.07014051079750061]
+['noisy', 'quiet'] received scores [0.7402212023735046, 0.25977879762649536]
+['noisy', 'soft'] received scores [0.9517146944999695, 0.048285309225320816]
+
+decades/1860s/13/historical_address_george_a._smith.txt
+
+On this account, the victors had so diligently desecrated it, as to render the apartment in which it was contained too noisome to abide in.
+
+['loud', 'quiet'] received scores [0.9954426288604736, 0.004557374399155378]
+['loud', 'soft'] received scores [0.9945260882377625, 0.005473896861076355]
+['noisy', 'quiet'] received scores [0.9968039393424988, 0.0031960627529770136]
+['noisy', 'soft'] received scores [0.996160089969635, 0.0038398713804781437]
+
+decades/1860s/13/proper_conduct_in_meeting_brigham_young.txt
+
+I cannot understand the utility of bringing children into such a congregation as we shall have here through the Conference, just for the sake of pleasing the mothers, when the noise made by them disturbs all around them.
+
+['loud', 'quiet'] received scores [0.9952445030212402, 0.004755510948598385]
+['loud', 'soft'] received scores [0.984800398349762, 0.015199563466012478]
+['noisy', 'quiet'] received scores [0.9976468682289124, 0.002353094285354018]
+['noisy', 'soft'] received scores [0.9924389719963074, 0.007561043836176395]
+
+decades/1860s/13/proper_conduct_in_meeting_brigham_young.txt
+
+And when you come here, sisters and brethren, sit still and make no noise by shuffling your feet or whispering.
+
+['quiet', 'loud'] received scores [0.9933037161827087, 0.006696270778775215]
+['soft', 'loud'] received scores [0.9361941814422607, 0.06380583345890045]
+['quiet', 'noisy'] received scores [0.9735095500946045, 0.026490462943911552]
+['soft', 'noisy'] received scores [0.7842513918876648, 0.21574866771697998]
+
+decades/1860s/13/proper_conduct_in_meeting_brigham_young.txt
+
+Now, doorkeepers, be sure that you are perfectly still; and if you are obliged to walk around here much, I would recommend that you wear india-rubber overshoes, so that you may be able to walk without making a noise.
+
+['quiet', 'loud'] received scores [0.8927469849586487, 0.10725294798612595]
+['soft', 'loud'] received scores [0.5527394413948059, 0.4472605586051941]
+['quiet', 'noisy'] received scores [0.5456366539001465, 0.4543633460998535]
+['noisy', 'soft'] received scores [0.8486834168434143, 0.15131661295890808]
+
+decades/1860s/8/unity—commandments_of_god,_etc_heber_c._kimball.txt
+
+And all the people saw the thunderings, and the lightnings, and the noise of the trumpet, and the mountain smoking: and when the people saw it, they removed, and stood afar off.
+
+['loud', 'quiet'] received scores [0.9919938445091248, 0.00800613034516573]
+['loud', 'soft'] received scores [0.9727078676223755, 0.027292093262076378]
+['noisy', 'quiet'] received scores [0.9959906935691833, 0.004009341821074486]
+['noisy', 'soft'] received scores [0.9861986041069031, 0.013801392167806625]
+
+decades/1860s/9/caution_against_vain_laughter—value_of_the_life_of_man_brigham_young.txt
+
+I am satisfied that those persons who stamp, clap hands, whistle, and make other noisy and boisterous demonstrations in the theaters so untimed and uncalled for, have but little sense, and know not the difference between a happy smile of satisfaction to cheer the countenance of a friend, or a contemptuous sneer that brings the curses of man upon man.
+
+['loud', 'quiet'] received scores [0.9911184310913086, 0.00888159777969122]
+['loud', 'soft'] received scores [0.9803470373153687, 0.01965295895934105]
+['noisy', 'quiet'] received scores [0.9957221746444702, 0.0042777587659657]
+['noisy', 'soft'] received scores [0.9904807209968567, 0.009519336745142937]
+
+decades/1860s/9/observance_of_the_commandments_of_god_heber_c._kimball.txt
+
+And all the people saw the thunderings, and the lightnings, and the noise of the trumpet, and the mountain smoking: and when the people saw it, they removed, and stood afar off.
+
+['loud', 'quiet'] received scores [0.9919938445091248, 0.00800613034516573]
+['loud', 'soft'] received scores [0.9727078676223755, 0.027292093262076378]
+['noisy', 'quiet'] received scores [0.9959906935691833, 0.004009341821074486]
+['noisy', 'soft'] received scores [0.9861986041069031, 0.013801392167806625]
+
+decades/1860s/9/sectarian_religion—democracy,_etc_george_a._smith.txt
+
+One of the old Prophets says—"Woe to the multitude of many people, that make a noise.
+
+['loud', 'quiet'] received scores [0.8724020719528198, 0.12759794294834137]
+['loud', 'soft'] received scores [0.8420441746711731, 0.1579558104276657]
+['noisy', 'quiet'] received scores [0.9619202017784119, 0.03807980939745903]
+['noisy', 'soft'] received scores [0.9516807198524475, 0.04831930994987488]
+
+decades/1860s/9/sectarian_religion—democracy,_etc_george_a._smith.txt
+
+At that time I looked round, and thought of the words of the Prophet—"Woe to the multitude of many people, that make a noise like the noise of a sea.
+
+['loud', 'quiet'] received scores [0.9447922706604004, 0.055207788944244385]
+['loud', 'soft'] received scores [0.8929888606071472, 0.10701111704111099]
+['noisy', 'quiet'] received scores [0.9688071012496948, 0.031192945316433907]
+['noisy', 'soft'] received scores [0.9380604028701782, 0.06193964183330536]
+
+decades/1860s/9/sectarian_religion—democracy,_etc_george_a._smith.txt
+
+About midnight I got tired of the noise, and thought I would go away.
+
+['loud', 'quiet'] received scores [0.9813660979270935, 0.01863384246826172]
+['loud', 'soft'] received scores [0.9621100425720215, 0.03788994625210762]
+['noisy', 'quiet'] received scores [0.9898867607116699, 0.010113184340298176]
+['noisy', 'soft'] received scores [0.9792497158050537, 0.020750269293785095]
+

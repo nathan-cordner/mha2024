@@ -1,0 +1,180 @@
+﻿decades/1990s/1990_A/pinegar_“home_first”.txt
+
+While the beautiful song played softly in the background, the living room filled with the noise and laughter of our growing family circle.
+
+['loud', 'quiet'] received scores [0.7738265991210938, 0.22617332637310028]
+['soft', 'loud'] received scores [0.9243382215499878, 0.07566177099943161]
+['noisy', 'quiet'] received scores [0.9460864067077637, 0.05391359329223633]
+['soft', 'noisy'] received scores [0.7043085694313049, 0.29569146037101746]
+
+decades/1990s/1991_A/lawrence_sunday_worship_service.txt
+
+If babies are noisy, take them out of the chapel until they calm down.
+
+['loud', 'quiet'] received scores [0.9496959447860718, 0.05030405521392822]
+['loud', 'soft'] received scores [0.9069892764091492, 0.09301073849201202]
+['noisy', 'quiet'] received scores [0.9788221716880798, 0.0211778711527586]
+['noisy', 'soft'] received scores [0.9597959518432617, 0.040204063057899475]
+
+decades/1990s/1991_A/nelson_listen_to_learn.txt
+
+Rachel’s deafness seemed to save her from the wear and tear of noise.
+
+['quiet', 'loud'] received scores [0.9539462327957153, 0.04605377838015556]
+['soft', 'loud'] received scores [0.8451684713363647, 0.15483155846595764]
+['quiet', 'noisy'] received scores [0.6795386672019958, 0.32046136260032654]
+['noisy', 'soft'] received scores [0.6415152549743652, 0.35848474502563477]
+
+decades/1990s/1991_O/packer_reverence_invites_revelation.txt
+
+Helaman said of that voice of revelation, “It was not a voice of thunder, neither was it a voice of a great tumultuous noise, but behold, it was a still voice of perfect mildness, as if it had been a whisper, and it did pierce even to the very soul.
+
+['quiet', 'loud'] received scores [0.9690600633621216, 0.030939951539039612]
+['soft', 'loud'] received scores [0.9817610383033752, 0.018238959833979607]
+['quiet', 'noisy'] received scores [0.959557831287384, 0.04044216498732567]
+['soft', 'noisy'] received scores [0.9760631918907166, 0.02393682487308979]
+
+decades/1990s/1991_O/packer_reverence_invites_revelation.txt
+
+The world grows increasingly noisy.
+
+['loud', 'quiet'] received scores [0.9908092021942139, 0.00919081550091505]
+['loud', 'soft'] received scores [0.9889138340950012, 0.01108616217970848]
+['noisy', 'quiet'] received scores [0.990015983581543, 0.009984029456973076]
+['noisy', 'soft'] received scores [0.9879590272903442, 0.012040967121720314]
+
+decades/1990s/1991_O/packer_reverence_invites_revelation.txt
+
+Doctors even say that our physical sense of hearing can be permanently damaged by all of this noise.
+
+['loud', 'quiet'] received scores [0.9804468750953674, 0.01955311931669712]
+['loud', 'soft'] received scores [0.9591805934906006, 0.04081942141056061]
+['noisy', 'quiet'] received scores [0.9924793243408203, 0.007520617917180061]
+['noisy', 'soft'] received scores [0.9840874671936035, 0.01591256447136402]
+
+decades/1990s/1991_O/packer_reverence_invites_revelation.txt
+
+This trend to more noise, more excitement, more contention, less restraint, less dignity, less formality is not coincidental nor innocent nor harmless.
+
+['loud', 'quiet'] received scores [0.98898845911026, 0.01101151667535305]
+['loud', 'soft'] received scores [0.980466902256012, 0.019533120095729828]
+['noisy', 'quiet'] received scores [0.9946183562278748, 0.005381640046834946]
+['noisy', 'soft'] received scores [0.9904113411903381, 0.009588630869984627]
+
+decades/1990s/1992_A/faust_spiritual_healing.txt
+
+The increasing demands, the diversity of voices, the entreating sales pitches, the piercing noises, the entanglement of many personal relationships can rob our souls of the peace they need to function and survive.
+
+['loud', 'quiet'] received scores [0.9839196801185608, 0.016080310568213463]
+['loud', 'soft'] received scores [0.9597718715667725, 0.040228117257356644]
+['noisy', 'quiet'] received scores [0.9945521354675293, 0.005447884555906057]
+['noisy', 'soft'] received scores [0.9861462116241455, 0.013853788375854492]
+
+decades/1990s/1993_A/hinckley_some_lessons_i_learned_as_a_boy.txt
+
+What has made the difference between that old black 1916 hard-riding and noisy Model T and today’s automobiles?
+
+['loud', 'quiet'] received scores [0.988343358039856, 0.011656582355499268]
+['loud', 'soft'] received scores [0.9914668798446655, 0.00853310152888298]
+['noisy', 'quiet'] received scores [0.9938496947288513, 0.006150326691567898]
+['noisy', 'soft'] received scores [0.9955044388771057, 0.004495582543313503]
+
+decades/1990s/1994_A/ballard_counseling_with_our_councils.txt
+
+The bishop had not noticed anyone being especially noisy in the chapel, but he said he would talk to the offending party.
+
+['quiet', 'loud'] received scores [0.8748979568481445, 0.12510205805301666]
+['soft', 'loud'] received scores [0.583076536655426, 0.41692349314689636]
+['quiet', 'noisy'] received scores [0.8373109698295593, 0.16268903017044067]
+['soft', 'noisy'] received scores [0.5071977972984314, 0.49280214309692383]
+
+decades/1990s/1994_O/porter_the_revelations_of_heaven.txt
+
+Furthermore, we have learned to live in a world of clamor and noise and haste and hurry to the extent that we have often become immune to the Spirit of the Lord and the “peaceable things of the kingdom.
+
+['loud', 'quiet'] received scores [0.966362714767456, 0.03363730385899544]
+['loud', 'soft'] received scores [0.8968225717544556, 0.10317747294902802]
+['noisy', 'quiet'] received scores [0.9862108826637268, 0.01378912478685379]
+['noisy', 'soft'] received scores [0.9558283090591431, 0.04417170584201813]
+
+decades/1990s/1995_O/hillam_sacrifice_in_the_service.txt
+
+Vilate [Kimball] hearing the noise arose from her bed and came to the door; she had a smile on her face and she and Mary Ann Young cried out to us, ‘Good bye, God bless you.
+
+['loud', 'quiet'] received scores [0.9759604334831238, 0.024039538577198982]
+['loud', 'soft'] received scores [0.8740549087524414, 0.12594503164291382]
+['noisy', 'quiet'] received scores [0.9902676343917847, 0.009732360951602459]
+['noisy', 'soft'] received scores [0.945632815361023, 0.054367147386074066]
+
+decades/1990s/1995_O/hinckley_of_missions,_temples,_and_stewardship.txt
+
+There is need occasionally to leave the noise and the tumult of the world and step within the walls of a sacred house of God, there to feel His spirit in an environment of holiness and peace.
+
+['quiet', 'loud'] received scores [0.6573247313499451, 0.34267526865005493]
+['loud', 'soft'] received scores [0.5225889086723328, 0.47741109132766724]
+['noisy', 'quiet'] received scores [0.6098994612693787, 0.39010050892829895]
+['noisy', 'soft'] received scores [0.7665087580680847, 0.2334912121295929]
+
+decades/1990s/1996_O/monson_“be_thou_an_example”.txt
+
+The noise and the fires had so disturbed the fragile and temperamental population of several thousand laying hens that most of them went into a sudden molt and ceased laying.
+
+['loud', 'quiet'] received scores [0.9838384985923767, 0.016161473467946053]
+['loud', 'soft'] received scores [0.8341420292854309, 0.16585800051689148]
+['noisy', 'quiet'] received scores [0.9943206906318665, 0.005679330788552761]
+['noisy', 'soft'] received scores [0.9353339076042175, 0.06466610729694366]
+
+decades/1990s/1997_A/oaks_“bishop,_help!”.txt
+
+After several minutes of trying to quiet this noisy three-year-old, the mother desperately handed him to the father, who was seated on the aisle close to the front of the chapel.
+
+['loud', 'quiet'] received scores [0.99822598695755, 0.0017740457551553845]
+['loud', 'soft'] received scores [0.995505690574646, 0.004494312684983015]
+['noisy', 'quiet'] received scores [0.9987423419952393, 0.0012577131856232882]
+['noisy', 'soft'] received scores [0.9968112111091614, 0.0031887805089354515]
+
+decades/1990s/1997_A/oaks_“bishop,_help!”.txt
+
+By this time the noise distracted the speaker and audience, and everyone was very conscious of the parents’ plight.
+
+['loud', 'quiet'] received scores [0.9935183525085449, 0.0064816661179065704]
+['loud', 'soft'] received scores [0.96208655834198, 0.03791338950395584]
+['noisy', 'quiet'] received scores [0.9971104860305786, 0.0028895442374050617]
+['noisy', 'soft'] received scores [0.9827964901924133, 0.017203520983457565]
+
+decades/1990s/1997_A/simmons_his_peace.txt
+
+“When they heard this voice, and beheld that it was not a voice of thunder, neither was it a voice of a great tumultuous noise, but behold, it was a still voice of perfect mildness, as if it had been a whisper, and it did pierce even to the very soul— And notwithstanding the mildness of the voice, behold the earth shook exceedingly” they were motivated to repent and have faith in Christ.
+
+['quiet', 'loud'] received scores [0.6749944090843201, 0.32500559091567993]
+['soft', 'loud'] received scores [0.8415061235427856, 0.15849389135837555]
+['quiet', 'noisy'] received scores [0.5175987482070923, 0.4824012517929077]
+['soft', 'noisy'] received scores [0.7328320741653442, 0.26716792583465576]
+
+decades/1990s/1998_O/monson_think_to_thank.txt
+
+“Now, don’t you go till I come,” he said,   “And don’t you make any noise!
+
+['quiet', 'loud'] received scores [0.930517315864563, 0.06948266923427582]
+['soft', 'loud'] received scores [0.6839262843132019, 0.3160737454891205]
+['quiet', 'noisy'] received scores [0.8084014654159546, 0.19159848988056183]
+['noisy', 'soft'] received scores [0.5946282148361206, 0.4053717255592346]
+
+decades/1990s/1999_A/eyring_the_power_of_teaching_doctrine.txt
+
+The best time to teach is early, while children are still immune to the temptations of their mortal enemy, and long before the words of truth may be harder for them to hear in the noise of their personal struggles.
+
+['quiet', 'loud'] received scores [0.5350989103317261, 0.46490105986595154]
+['loud', 'soft'] received scores [0.6619518399238586, 0.33804818987846375]
+['noisy', 'quiet'] received scores [0.6938616037368774, 0.3061383366584778]
+['noisy', 'soft'] received scores [0.836288332939148, 0.16371166706085205]
+
+decades/1990s/1999_O/wood_“the_tongue_of_angels”.txt
+
+Over the years, there has been an increase in sexual innuendos, raucous humor, violent expressions, and great noise in talk, in music, in gestures.
+
+['loud', 'quiet'] received scores [0.9964714050292969, 0.0035285702906548977]
+['loud', 'soft'] received scores [0.9941351413726807, 0.005864832084625959]
+['noisy', 'quiet'] received scores [0.9976880550384521, 0.0023119167890399694]
+['noisy', 'soft'] received scores [0.996154248714447, 0.0038457426708191633]
+

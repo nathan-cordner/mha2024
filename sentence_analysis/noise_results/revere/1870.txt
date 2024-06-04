@@ -1,0 +1,432 @@
+﻿decades/1870s/14/good_and_evil—the_testimony_of_the_spirit—his_early_religious_experience_brigham_young.txt
+
+In consequence of this we have a holy reverence for and a belief in the Bible, though we may not believe in the actions of all those who profess to believe in it.
+
+['quiet', 'loud'] received scores [0.5442757606506348, 0.45572417974472046]
+['loud', 'soft'] received scores [0.5631065368652344, 0.43689343333244324]
+['quiet', 'noisy'] received scores [0.6957994699478149, 0.30420053005218506]
+['soft', 'noisy'] received scores [0.5977326035499573, 0.40226736664772034]
+
+decades/1870s/14/good_and_evil—the_testimony_of_the_spirit—his_early_religious_experience_brigham_young.txt
+
+As it was observed by my brother, "He loved religion;" and for myself I can say that I have always had a holy reverence for the truth.
+
+['loud', 'quiet'] received scores [0.8091753125190735, 0.1908247023820877]
+['loud', 'soft'] received scores [0.8102513551712036, 0.18974865972995758]
+['noisy', 'quiet'] received scores [0.5753210783004761, 0.4246789515018463]
+['noisy', 'soft'] received scores [0.5770264267921448, 0.42297351360321045]
+
+decades/1870s/14/good_and_evil—the_testimony_of_the_spirit—his_early_religious_experience_brigham_young.txt
+
+I have had a divine reverence for it from my youth, but, not for the conduct of all those who profess to be Christians.
+
+['loud', 'quiet'] received scores [0.6834123134613037, 0.3165876567363739]
+['loud', 'soft'] received scores [0.5874327421188354, 0.41256725788116455]
+['noisy', 'quiet'] received scores [0.5046306252479553, 0.4953693747520447]
+['soft', 'noisy'] received scores [0.5981139540672302, 0.40188610553741455]
+
+decades/1870s/14/our_religion_from_god_not_man—enter_not_into_temptation—no_covenants_to_forsake_john_taylor.txt
+
+I have no reverence for him.
+
+['quiet', 'loud'] received scores [0.7733999490737915, 0.22660008072853088]
+['soft', 'loud'] received scores [0.6589716076850891, 0.3410283625125885]
+['quiet', 'noisy'] received scores [0.8498820662498474, 0.15011794865131378]
+['soft', 'noisy'] received scores [0.7622004747390747, 0.2377995401620865]
+
+decades/1870s/14/the_celestial_glory—modern_civilization—family_government_brigham_young.txt
+
+As much as we think of that ancient name and character—the Savior, which age and antiquity have rendered so sacred to the Christian world that they profess to revere them, compare the course his immediate followers took, with the course taken by the followers of Joseph Smith, the Prophet of the latter days, as much as he is despised and his name ridiculed.
+
+['loud', 'quiet'] received scores [0.7245839238166809, 0.27541613578796387]
+['loud', 'soft'] received scores [0.7649475336074829, 0.2350524514913559]
+['noisy', 'quiet'] received scores [0.659098207950592, 0.34090185165405273]
+['noisy', 'soft'] received scores [0.7051538228988647, 0.29484620690345764]
+
+decades/1870s/14/the_gospel_of_jesus_christ_taught_by_the_latter-day_saints—celestial_marriage_george_q._cannon.txt
+
+And who have been willing to do anything to curry favor, who worshipped popularity, and were ready to bow at its shrine in humble, abject reverence.
+
+['loud', 'quiet'] received scores [0.8375189900398254, 0.16248099505901337]
+['loud', 'soft'] received scores [0.5247965455055237, 0.4752035140991211]
+['noisy', 'quiet'] received scores [0.8264750838279724, 0.1735249012708664]
+['noisy', 'soft'] received scores [0.5050581693649292, 0.4949418604373932]
+
+decades/1870s/14/the_gospel—the_spirit_of_the_lord—revelation_brigham_young.txt
+
+Let me say this to strangers, I mean those who have any regard for truth and holiness; when you are here in this house or city, and you commune with the Latter-day Saints, there is a spirit of peace, a holy reverence for truth, righteousness, goodness, mercy and virtue rests upon you; in fact, you are influenced by that spirit and influence which hover over this people; but what do many of you say when you go away?
+
+['quiet', 'loud'] received scores [0.6899541616439819, 0.31004586815834045]
+['loud', 'soft'] received scores [0.7027316689491272, 0.2972683310508728]
+['quiet', 'noisy'] received scores [0.8647993803024292, 0.1352005898952484]
+['soft', 'noisy'] received scores [0.548718273639679, 0.45128175616264343]
+
+decades/1870s/14/the_training_of_children_brigham_young.txt
+
+They did not know that Jesus was the express image of his Father, although they had read it in the Bible; they did not know that man was made in the image of his God, although they have read it hundreds of times in the book they profess to reverence and believe in so much.
+
+['loud', 'quiet'] received scores [0.5568562746047974, 0.44314372539520264]
+['loud', 'soft'] received scores [0.6307722926139832, 0.36922773718833923]
+['quiet', 'noisy'] received scores [0.6989161968231201, 0.3010838031768799]
+['soft', 'noisy'] received scores [0.6306540966033936, 0.36934593319892883]
+
+decades/1870s/15/choice_of_rulers—headship—one_man_power—the_yoke_of_jesus_john_taylor.txt
+
+Is it a hardship to reverence the Lord our God?
+
+['quiet', 'loud'] received scores [0.6218187212944031, 0.37818121910095215]
+['loud', 'soft'] received scores [0.5483816862106323, 0.4516182839870453]
+['quiet', 'noisy'] received scores [0.8110995292663574, 0.18890045583248138]
+['soft', 'noisy'] received scores [0.6826032400131226, 0.31739673018455505]
+
+decades/1870s/15/choice_of_rulers—headship—one_man_power—the_yoke_of_jesus_john_taylor.txt
+
+We acknowledge, we bow before, we reverence the name of our heavenly Father.
+
+['quiet', 'loud'] received scores [0.6484544277191162, 0.3515455424785614]
+['loud', 'soft'] received scores [0.5566835403442383, 0.4433164596557617]
+['quiet', 'noisy'] received scores [0.8477828502655029, 0.15221716463565826]
+['soft', 'noisy'] received scores [0.7062729597091675, 0.2937270700931549]
+
+decades/1870s/15/choice_of_rulers—headship—one_man_power—the_yoke_of_jesus_john_taylor.txt
+
+If God will deign to teach, lead and dictate us, we bow with reverence before him, and say, "It is the Lord, let him do as seems him good."
+
+['quiet', 'loud'] received scores [0.707054853439331, 0.29294514656066895]
+['soft', 'loud'] received scores [0.5733590722084045, 0.4266408681869507]
+['quiet', 'noisy'] received scores [0.8449305295944214, 0.15506945550441742]
+['soft', 'noisy'] received scores [0.7520970702171326, 0.24790294468402863]
+
+decades/1870s/15/choice_of_rulers—headship—one_man_power—the_yoke_of_jesus_john_taylor.txt
+
+We ask the guidance of the Almighty, we reverentially present ourselves before him and we submit to his authority; for his yoke is easy and his burden is light.
+
+['quiet', 'loud'] received scores [0.7693177461624146, 0.23068225383758545]
+['soft', 'loud'] received scores [0.9757206439971924, 0.02427932806313038]
+['quiet', 'noisy'] received scores [0.8925308585166931, 0.1074691116809845]
+['soft', 'noisy'] received scores [0.9901065826416016, 0.009893389418721199]
+
+decades/1870s/15/the_times_of_our_savior_compared_with_the_present—revelation—duties_of_the_saints—self_to_be_overcome—coming_of_christ_george_q..txt
+
+We are told that they garnished the sepulchres of the dead Prophets, that they reverenced the places of their  birth, honored their memories, and declared that if they had lived in the days of their fathers they would not have been guilty of putting the Prophets to death.
+
+['loud', 'quiet'] received scores [0.826381266117096, 0.17361879348754883]
+['loud', 'soft'] received scores [0.6939218044281006, 0.3060782253742218]
+['noisy', 'quiet'] received scores [0.7519326210021973, 0.24806739389896393]
+['noisy', 'soft'] received scores [0.5907993316650391, 0.4092006981372833]
+
+decades/1870s/16/honesty_of_purpose_should_actuate_all_true_believers—views_of_mankind_in_relation_to_god—the_existing_modes_of_divine_worship—an.txt
+
+This is an idea that will not be disputed by any race of men now existing upon the earth, nor perhaps by any who have existed heretofore, for whatever may have been the theories or notions of men in former times, they have generally had a reverence for, and a belief in, an Allwise, Supreme, Omnipotent Being, who, they supposed, was greater than all of them, and who governed and controlled all their actions.
+
+['loud', 'quiet'] received scores [0.7469679713249207, 0.2530320882797241]
+['loud', 'soft'] received scores [0.8238731622695923, 0.1761268526315689]
+['quiet', 'noisy'] received scores [0.6114627122879028, 0.38853731751441956]
+['noisy', 'soft'] received scores [0.5017103552818298, 0.49828964471817017]
+
+decades/1870s/16/honesty_of_purpose_should_actuate_all_true_believers—views_of_mankind_in_relation_to_god—the_existing_modes_of_divine_worship—an.txt
+
+There is very little difference among mankind in relation to many of these facts; men, generally, view these things alike—I mean in the Christian world—especially the nation in which we live, the British and French nations, the empire of Austria, Russia, Prussia, the inhabitants of Scandinavia and most of the European nations; and some of the Asiatic nations also have faith in what we term the word of God, and hold its truths in reverence, according to the ideas they entertain and the creeds they profess.
+
+['quiet', 'loud'] received scores [0.8063066601753235, 0.1936933696269989]
+['soft', 'loud'] received scores [0.5996114611625671, 0.40038856863975525]
+['quiet', 'noisy'] received scores [0.8964768648147583, 0.1035231500864029]
+['soft', 'noisy'] received scores [0.7570062279701233, 0.24299375712871552]
+
+decades/1870s/16/the_knowledge_of_god_and_mode_of_worshiping_him_john_taylor.txt
+
+In meeting together, as we are met today, from time to time, we do so to reverence and worship, according to the intelligence and understanding we possess, Almighty God, the giver of our lives and the supporter of all things.
+
+['quiet', 'loud'] received scores [0.6019819974899292, 0.3980179727077484]
+['loud', 'soft'] received scores [0.5569357872009277, 0.4430641829967499]
+['quiet', 'noisy'] received scores [0.783654510974884, 0.21634545922279358]
+['soft', 'noisy'] received scores [0.6557984352111816, 0.34420153498649597]
+
+decades/1870s/16/the_knowledge_of_god_and_mode_of_worshiping_him_john_taylor.txt
+
+A feeling of reverence and respect for Deity prevails in some form or other amongst all the human family.
+
+['quiet', 'loud'] received scores [0.58644038438797, 0.4135596454143524]
+['soft', 'loud'] received scores [0.5343871116638184, 0.4656129479408264]
+['quiet', 'noisy'] received scores [0.7625998854637146, 0.23740015923976898]
+['soft', 'noisy'] received scores [0.7222164869308472, 0.27778351306915283]
+
+decades/1870s/16/the_knowledge_of_god_and_mode_of_worshiping_him_john_taylor.txt
+
+All mankind believe, more or less, in a Being who rules and governs the universe, and controls the destinies of the human family; and whatever form of worship may be followed, it is accompanied by feelings of reverence and respect for God.
+
+['quiet', 'loud'] received scores [0.680899977684021, 0.319100022315979]
+['soft', 'loud'] received scores [0.5052387714385986, 0.49476122856140137]
+['quiet', 'noisy'] received scores [0.761740505695343, 0.23825949430465698]
+['soft', 'noisy'] received scores [0.604748547077179, 0.39525142312049866]
+
+decades/1870s/16/what_the_gospel_teaches—revelation_from_god_necessary—the_faith_and_doctrines_of_the_latter-day_saints_john_taylor.txt
+
+I would not only search the Scriptures that we now have, but I would search also every revelation that God has given, does give, or will give for the guidance and direction of his people, and then I would reverence the Giver, and those also whom he makes use of as his honored instruments to promulgate and make known those principles; and I would seek to be governed by the principles that are contained in that sacred word.
+
+['quiet', 'loud'] received scores [0.560681939125061, 0.4393180012702942]
+['loud', 'soft'] received scores [0.663715660572052, 0.3362843990325928]
+['quiet', 'noisy'] received scores [0.7593246102333069, 0.24067538976669312]
+['soft', 'noisy'] received scores [0.5560517907142639, 0.44394826889038086]
+
+decades/1870s/17/saints_are_living_witnesses_of_the_truth—the_people_of_god_preserved_by_divine_providence—persecution—individual_salvation_brigh.txt
+
+They wish to make us forsake that which we revere and consider holy, simply because they despise it, and deride it as something that ought to be put down by force.
+
+['loud', 'quiet'] received scores [0.8284063935279846, 0.1715935915708542]
+['loud', 'soft'] received scores [0.8822693228721619, 0.11773069947957993]
+['noisy', 'quiet'] received scores [0.7296078205108643, 0.27039220929145813]
+['noisy', 'soft'] received scores [0.8072682023048401, 0.1927318423986435]
+
+decades/1870s/17/what_the_gospel_teaches—revelation_from_god_necessary—the_faith_and_doctrines_of_the_latter-day_saints_john_taylor.txt
+
+We believe in faith in the Lord Jesus Christ, and that we should reverence him as the Son of his heavenly Father and our Father.
+
+['quiet', 'loud'] received scores [0.6257063746452332, 0.37429362535476685]
+['soft', 'loud'] received scores [0.5804241299629211, 0.41957589983940125]
+['quiet', 'noisy'] received scores [0.7931748032569885, 0.20682522654533386]
+['soft', 'noisy'] received scores [0.7603945136070251, 0.23960548639297485]
+
+decades/1870s/18/burial_services,_an_ancient_practice—god,_the_god_of_the_living—keys_committed_to_joseph_smith._the_last_dispensation—jesus_the_.txt
+
+In reading the history of some of the ancient men of God, such, for  instance, as Jacob, Joseph, Abraham and others, there was great reverence and respect evinced towards them, not only by their friends and relatives, but by strangers.
+
+['loud', 'quiet'] received scores [0.7800180315971375, 0.21998196840286255]
+['loud', 'soft'] received scores [0.6749439835548401, 0.3250560462474823]
+['noisy', 'quiet'] received scores [0.6373836398124695, 0.3626163601875305]
+['noisy', 'soft'] received scores [0.5072212219238281, 0.4927787780761719]
+
+decades/1870s/18/man,_the_offspring_of_god,_a_dual_being—immediate_revelation—operate_with_the_priesthood_john_taylor.txt
+
+Let us humble ourselves; let us reverence the Priesthood and honor those who are keeping the commandments of God and managing the affairs of his Church and kingdom on the earth.
+
+['quiet', 'loud'] received scores [0.870421290397644, 0.12957867980003357]
+['soft', 'loud'] received scores [0.831155002117157, 0.16884499788284302]
+['quiet', 'noisy'] received scores [0.8827233910560608, 0.1172766163945198]
+['soft', 'noisy'] received scores [0.8465276956558228, 0.15347233414649963]
+
+decades/1870s/18/philosophy_of_man_upon_the_earth—the_great_and_grand_secret_of_salvation—are_we_one—nature_of_stewardship—increase_of_temples—he.txt
+
+I have often remarked that if the Latter-day Saints, and all the world understood the philosophy of their own being, they would bow in humble reverence to him who is the Author of our being and the author of all wisdom and all knowledge known among the children of men.
+
+['loud', 'quiet'] received scores [0.7212434411048889, 0.2787565588951111]
+['loud', 'soft'] received scores [0.6901703476905823, 0.3098296523094177]
+['noisy', 'quiet'] received scores [0.5418336987495422, 0.45816633105278015]
+['noisy', 'soft'] received scores [0.5045010447502136, 0.4954989552497864]
+
+decades/1870s/18/position_of_the_latter-day_saints—protestantism_makes_no_claim_to_revelation—priesthood,_how_restored,_its_purpose—persecution_t.txt
+
+I suppose that God has given us these infirmities that no flesh might glory in his presence, but that we might all feel our littleness and weakness, realizing every day that we need to pray just as the Lord taught His disciples to pray, saying, "Our Father who art in heaven, hallowed be thy name;" let me reverence thee and thy name!
+
+['quiet', 'loud'] received scores [0.8241875767707825, 0.1758124679327011]
+['soft', 'loud'] received scores [0.9297290444374084, 0.07027094066143036]
+['quiet', 'noisy'] received scores [0.8733701109886169, 0.12662987411022186]
+['soft', 'noisy'] received scores [0.951137363910675, 0.048862628638744354]
+
+decades/1870s/19/an_important_conference—the_death_of_joseph_and_the_death_of_brigham—the_keys_of_the_apostleship—revelation_for_the_guidance_of_.txt
+
+I feel that we, as a people, should take hold of this work; that we, as Apostles, that we, as Seventies, and as High Priests, as Elders, as Priests, Teachers and Deacons, should take hold of this work in earnestness and in zeal, and carry it forward as our Prophet and file leader did during his lifetime; that we should take it up where he laid it down, and carry it on until the end is reached, and the full consummation of all things is accomplished; seeking to have the spirit that animated him, and to follow him as he followed Joseph, as he honored Joseph, as he revered Joseph, as he upheld Joseph, as he maintained Joseph, touching doctrine and counsel, so that it appears to me if we are animated by the Spirit of God we will honor him and follow in his footsteps, as he followed Joseph, and as Joseph followed Christ.
+
+['loud', 'quiet'] received scores [0.6592669486999512, 0.3407331109046936]
+['loud', 'soft'] received scores [0.8450440168380737, 0.15495598316192627]
+['quiet', 'noisy'] received scores [0.6422678232192993, 0.35773220658302307]
+['noisy', 'soft'] received scores [0.6108764410018921, 0.3891235291957855]
+
+decades/1870s/19/living_according_to_the_light—temple_work—good_counsel—what_say_the_high_priests_and_seventies_brigham_young.txt
+
+But while they go to one extreme in the observance of ceremony, making bigots of their children, (for one of the earliest recollections of the child, who is reared in Catholicism, is the use of the sign of the cross) many of the Latter-day Saints go to the other, failing entirely to impress the minds of their children with that degree of reverence and sacredness that belongs to the ordinances of our Church.
+
+['loud', 'quiet'] received scores [0.6037934422492981, 0.39620649814605713]
+['soft', 'loud'] received scores [0.659679651260376, 0.340320348739624]
+['noisy', 'quiet'] received scores [0.606438934803009, 0.3935610353946686]
+['soft', 'noisy'] received scores [0.6571897864341736, 0.3428102433681488]
+
+decades/1870s/19/prayer_the_medium_for_blessing—practical_morality_establishes_confidence—the_prophet_joseph_manifest_in_brigham—age_prevents_eff.txt
+
+I have not language, my brethren and sisters, to express the feelings and emotions of my heart on coming into this Temple yesterday morning; I could not describe them if I were to undertake to do so, and consequently I will sum up in short by saying, that the sentiments of my heart were, Thank God for such a place in which to worship and to reverence his high and holy name.
+
+['quiet', 'loud'] received scores [0.7373085618019104, 0.2626914978027344]
+['loud', 'soft'] received scores [0.5669952630996704, 0.433004766702652]
+['quiet', 'noisy'] received scores [0.9008209705352783, 0.09917903691530228]
+['soft', 'noisy'] received scores [0.7119249701499939, 0.2880750596523285]
+
+decades/1870s/19/remarks_on_the_temple_ground_john_taylor.txt
+
+When I visited that holy Temple, accompanied by my brethren who were with me, we experienced a sacred thrill of joy, and a solemn, reverential sensation.
+
+['loud', 'quiet'] received scores [0.7098056077957153, 0.29019442200660706]
+['loud', 'soft'] received scores [0.5760542154312134, 0.42394575476646423]
+['quiet', 'noisy'] received scores [0.5375965237617493, 0.46240344643592834]
+['soft', 'noisy'] received scores [0.6766708493232727, 0.3233291208744049]
+
+decades/1870s/19/temples_in_ancient_america—the_god_of_mankind_an_impossible_god—the_truth_in_regard_to_him—man_in_his_image—pre-existence—why_in.txt
+
+I have no reverence whatever for such a being, for I do not believe that such a one ever existed, only in the hallucinations of disordered minds.
+
+['quiet', 'loud'] received scores [0.5980233550071716, 0.40197664499282837]
+['loud', 'soft'] received scores [0.5081144571304321, 0.49188560247421265]
+['quiet', 'noisy'] received scores [0.683814287185669, 0.31618577241897583]
+['soft', 'noisy'] received scores [0.5845937132835388, 0.4154062867164612]
+
+decades/1870s/19/there_is_a_god—communion_with_him_an_inherent_craving_of_the_human_heart—man_in_his_image—male_and_female_created_he_them—spirit.txt
+
+Anyone that has the mind, and whose researches have enabled him to stretch out and begin to comprehend and fathom the greatness of the works of creation, that has not in the most humble and reverential manner acknowledged God?
+
+['loud', 'quiet'] received scores [0.602782130241394, 0.39721789956092834]
+['loud', 'soft'] received scores [0.6985616683959961, 0.3014383316040039]
+['noisy', 'quiet'] received scores [0.5233792066574097, 0.47662079334259033]
+['noisy', 'soft'] received scores [0.6264395117759705, 0.37356045842170715]
+
+decades/1870s/19/the_gospel_revealed_for_the_benefit_of_the_world—witness_of_the_spirit—priesthood—high_priests_and_seventies—energetic_missionar.txt
+
+Why, our sisters have to learn to manage their household affairs in a proper manner, and to train their daughters in such a manner as will prepare them to become mothers in Israel, competent to attend to the various duties and responsibilities which must sooner or later devolve upon them in the household, and also cultivate their nobler qualities, calculated to elevate and exalt woman in the estimation of God and man; and not only your daughters, but sons also; begin early to teach them meekness, kindness and gentleness, and withhold not from them such training as will give them an acquaintance with the common branches of education, and, if possible, afford them a knowledge of science, and of music, and everything that will have a tendency to lead their minds to find enjoyment in the development of the mind, but be sure and have for your base, or foundation, the early cultivation of the virtues, and a due regard to their superiors, as well as reverence for God and sacred things.
+
+['quiet', 'loud'] received scores [0.5680568814277649, 0.4319430887699127]
+['loud', 'soft'] received scores [0.6398747563362122, 0.360125333070755]
+['quiet', 'noisy'] received scores [0.7908620834350586, 0.2091379165649414]
+['soft', 'noisy'] received scores [0.6180740594863892, 0.38192591071128845]
+
+decades/1870s/19/the_heavens_full_of_intelligence—god_has_revealed_portions_of_that_for_the_welfare_of_his_children—reasoning_from_science_to_sac.txt
+
+All men have knowledge, more or less, and feel a reverence for the Divine Being, which is manifested in various terms of worship.
+
+['quiet', 'loud'] received scores [0.6859078407287598, 0.31409212946891785]
+['soft', 'loud'] received scores [0.6493807435035706, 0.35061928629875183]
+['quiet', 'noisy'] received scores [0.729617714881897, 0.2703823149204254]
+['soft', 'noisy'] received scores [0.6959202289581299, 0.3040797710418701]
+
+decades/1870s/20/consistency_imperative—the_gospel_in_conflict_with_man's_fallen_condition—should_love_our_enemies—the_golden_rule—necessity_of_.txt
+
+But I am thankful, as I have said, for that which I do witness, for the union and love and disposition to deny ourselves, and the reverence we have for God and sacred things and also the regard we have for his Priesthood.
+
+['loud', 'quiet'] received scores [0.5665002465248108, 0.433499813079834]
+['loud', 'soft'] received scores [0.673019289970398, 0.32698068022727966]
+['quiet', 'noisy'] received scores [0.7034481763839722, 0.2965518534183502]
+['soft', 'noisy'] received scores [0.6009644865989685, 0.3990355432033539]
+
+decades/1870s/20/fates_of_the_ancient_apostles—worship_of_the_true_god—his_creations_and_handiwork—prophecy_c._w._stayner.txt
+
+Through the ages that are past every method consistent with the perfection of omnipotence, has been adopted to impress man with reverence for the Deity; angels from the heavens declare the glory of God, and the music of the spheres as they perform their wonderful course in the firmament, invite our attention to his glorious handiwork; God has written his being on the imperishable rocks, has recorded the existence of Deity in the granite mountains and among "the everlasting hills;" if we "go down into the depths of the sea, he is there;" and at his bidding, "fountains of waters" burst forth in fertilizing streams, to nourish the barren soil that it may bring forth its rich fruit for the sustenance of the Saints.
+
+['loud', 'quiet'] received scores [0.9297071099281311, 0.0702928677201271]
+['loud', 'soft'] received scores [0.8918632864952087, 0.10813673585653305]
+['noisy', 'quiet'] received scores [0.88091641664505, 0.11908359080553055]
+['noisy', 'soft'] received scores [0.8218386173248291, 0.1781613975763321]
+
+decades/1870s/20/restitution_of_all_things—pre-existence_of_man—first_principles_of_the_gospel_john_morgan.txt
+
+I do not care how wise the man is, how long the prayer he may make, or how reverend he may look, if he tells a lie, it is a lie, and you cannot change or alter it.
+
+['quiet', 'loud'] received scores [0.6645011901855469, 0.3354988098144531]
+['loud', 'soft'] received scores [0.5793045163154602, 0.4206954538822174]
+['quiet', 'noisy'] received scores [0.7317941784858704, 0.26820582151412964]
+['soft', 'noisy'] received scores [0.5001018047332764, 0.499898225069046]
+
+decades/1870s/20/the_gospel_as_preached_by_the_saints—opposition_by_the_world_to_the_diffusion_of_truth_george_g._bywater.txt
+
+I rejoice that through the sable darkness, that through the almost impenetrable clouds that intervene between us today and the ages of the past we can see glimpses, scintillas of light that illumed time, and I revere and honor the memories of such men who did what they could to fulfil the purposes of their Great Creator, the Father of the human race, and the Creator of all things that are.
+
+['quiet', 'loud'] received scores [0.5562453269958496, 0.44375473260879517]
+['loud', 'soft'] received scores [0.5883880257606506, 0.41161200404167175]
+['quiet', 'noisy'] received scores [0.6278862953186035, 0.3721136450767517]
+['noisy', 'soft'] received scores [0.5150162577629089, 0.48498374223709106]
+
+decades/1870s/20/the_saints_prospered—restoration_of_the_gospel—should_listen_to_instruction—god's_gifts_to_the_church—salvation_for_the_dead—exa.txt
+
+Then if we would have our sons be faithful, and not infidel in their hearts, let our acts conform with our doctrine, let them understand from our conduct and the spirit within us, that we love God more than we love anything on earth; that we revere His Apostles, from the fact that we listen to their counsels and carry out their instructions.
+
+['loud', 'quiet'] received scores [0.5440475344657898, 0.4559524357318878]
+['loud', 'soft'] received scores [0.709945559501648, 0.2900545299053192]
+['quiet', 'noisy'] received scores [0.6615977883338928, 0.3384021520614624]
+['noisy', 'soft'] received scores [0.5120097994804382, 0.4879901707172394]
+
+decades/1870s/20/we_should_not_boast_of_superiority_over_our_fellow_creatures—god_is_interested_in_the_welfare_of_all_mankind—the_relation_and_am.txt
+
+But he did his part of it, and did it well and faithfully, and I know it, for I was there when he was killed by some of our highly reverend Christian brethren.
+
+['loud', 'quiet'] received scores [0.8807503581047058, 0.11924963444471359]
+['loud', 'soft'] received scores [0.8132830262184143, 0.1867169737815857]
+['noisy', 'quiet'] received scores [0.7765834927558899, 0.2234165370464325]
+['noisy', 'soft'] received scores [0.6721215844154358, 0.3278784453868866]
+
+decades/1870s/20/we_should_not_boast_of_superiority_over_our_fellow_creatures—god_is_interested_in_the_welfare_of_all_mankind—the_relation_and_am.txt
+
+And the little they do know in divining the laws of God is only with regard to some very few of the fundamental principles of those laws that God has planted everywhere throughout the universe and I do not therefore have that reverence for their theories, notions and vagaries, nor do I attach that importance to their intelligence that some people do.
+
+['quiet', 'loud'] received scores [0.6941782832145691, 0.30582165718078613]
+['soft', 'loud'] received scores [0.5019431710243225, 0.4980567991733551]
+['quiet', 'noisy'] received scores [0.7342091798782349, 0.26579079031944275]
+['soft', 'noisy'] received scores [0.5508561730384827, 0.44914382696151733]
+
+decades/1870s/21/comprehensiveness_of_the_lord's_prayer—the_rule_and_government_of_god—the_revelation_of_the_father_and_son_to_joseph_smith,_and_.txt
+
+We recognize and reverence him as "Our Father which art in heaven," we bow before him and seek unto him for his guidance and direction.
+
+['quiet', 'loud'] received scores [0.6517220735549927, 0.3482779264450073]
+['soft', 'loud'] received scores [0.5108726620674133, 0.4891272783279419]
+['quiet', 'noisy'] received scores [0.8089428544044495, 0.19105716049671173]
+['soft', 'noisy'] received scores [0.7026681900024414, 0.297331839799881]
+
+decades/1870s/21/comprehensiveness_of_the_lord's_prayer—the_rule_and_government_of_god—the_revelation_of_the_father_and_son_to_joseph_smith,_and_.txt
+
+We hallow and reverence his name.
+
+['loud', 'quiet'] received scores [0.9231024384498596, 0.07689755409955978]
+['loud', 'soft'] received scores [0.9195457696914673, 0.08045420050621033]
+['noisy', 'quiet'] received scores [0.9050197005271912, 0.09498033672571182]
+['noisy', 'soft'] received scores [0.9007166624069214, 0.09928339719772339]
+
+decades/1870s/21/how_a_knowledge_of_god_is_obtained—the_gospel_to_the_dead—various_dispensations_of_the_most_high_to_mankind—power_of_the_priesth.txt
+
+There is and always has been a feeling of reverence existing among the human family for a Divine Being of some kind and of some form, even amongst the most low and debased people of the earth.
+
+['quiet', 'loud'] received scores [0.582771360874176, 0.417228639125824]
+['soft', 'loud'] received scores [0.5123157501220703, 0.4876842498779297]
+['quiet', 'noisy'] received scores [0.68665611743927, 0.31334388256073]
+['soft', 'noisy'] received scores [0.6223758459091187, 0.37762412428855896]
+
+decades/1870s/21/southern_states_mission_john_morgan.txt
+
+We love and revere and respect the constitution of our common country.
+
+['quiet', 'loud'] received scores [0.61338871717453, 0.3866112232208252]
+['loud', 'soft'] received scores [0.5542962551116943, 0.4457037150859833]
+['quiet', 'noisy'] received scores [0.7543857097625732, 0.24561430513858795]
+['soft', 'noisy'] received scores [0.6088586449623108, 0.3911413252353668]
+
+decades/1870s/21/sustaining_the_authorities—power_of_the_priesthood—faithfulness_required,_etc_john_taylor.txt
+
+Well, God is kind to us; do not let us treat him so thoughtlessly; do not let us treat his ordinances lightly; but rather let us reverence and esteem those men upon whom God has placed his holy priesthood, and let us try by our faith and prayers and by our acts, to sustain them in all particulars as we agreed to do when we held up our hands.
+
+['loud', 'quiet'] received scores [0.5097686648368835, 0.49023133516311646]
+['soft', 'loud'] received scores [0.6171590089797974, 0.38284099102020264]
+['quiet', 'noisy'] received scores [0.7504702806472778, 0.24952970445156097]
+['soft', 'noisy'] received scores [0.8344788551330566, 0.16552111506462097]
+
+decades/1870s/21/sustaining_the_authorities—power_of_the_priesthood—faithfulness_required,_etc_john_taylor.txt
+
+Attend them, and seek to cultivate intelligence of every kind; and above all, reverence and respect your parents, they who have watched over you and taken care of you, they who have educated you and fed and clothed you and felt an interest in your welfare.
+
+['quiet', 'loud'] received scores [0.5162868499755859, 0.48371320962905884]
+['loud', 'soft'] received scores [0.6562216281890869, 0.3437783718109131]
+['quiet', 'noisy'] received scores [0.6758872866630554, 0.3241127133369446]
+['soft', 'noisy'] received scores [0.5058155655860901, 0.4941844046115875]
+
+decades/1870s/21/the_order_and_duties_of_the_priesthood,_etc_john_taylor.txt
+
+They are your Teachers, and you should reverence them.
+
+['quiet', 'loud'] received scores [0.6097640991210938, 0.39023593068122864]
+['soft', 'loud'] received scores [0.536411464214325, 0.4635884761810303]
+['quiet', 'noisy'] received scores [0.7074835896492004, 0.29251641035079956]
+['soft', 'noisy'] received scores [0.6417061686515808, 0.3582938015460968]
+
+decades/1870s/21/the_principle_of_revelation_and_its_application_to_the_several_phases_of_life—how_the_brotherhood_of_man_shall_be_evolved_henry_.txt
+
+And when we see a man whom we recognize as faithful in all the conditions of life, as "a man whom we can tie to" —to use a common expression, a man who is on hand all the time, who is living his religion, we feel involuntarily to lift our hats to such a one, and this intuitive reverence which we pay to human character, is testimony of God within the veil of flesh, and also an evidence of the spirit of revelation and inspiration.
+
+['loud', 'quiet'] received scores [0.7488577961921692, 0.2511422038078308]
+['loud', 'soft'] received scores [0.7643941640853882, 0.23560583591461182]
+['noisy', 'quiet'] received scores [0.6168406009674072, 0.383159339427948]
+['noisy', 'soft'] received scores [0.6365805268287659, 0.36341944336891174]
+

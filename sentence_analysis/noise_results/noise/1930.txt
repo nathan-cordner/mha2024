@@ -1,0 +1,117 @@
+﻿decades/1930s/IE/1930_A.txt
+
+In  this  day  of  mad  rush  and  strife ;  when  noise  and  glitter  influence  the  human  mind ;  this  mighty  rushing  to  and  fro ;  this  clash  of  many  strifes ;  this  feverish  hastening  towards  some  unknown  goal ;  Jesus  Christ  gives  the  intelligible  answer  in  revealing  the  infinite  possibilities  of  the  human  soul.
+
+['loud', 'quiet'] received scores [0.9804477691650391, 0.01955222338438034]
+['loud', 'soft'] received scores [0.9683937430381775, 0.03160623088479042]
+['noisy', 'quiet'] received scores [0.9954834580421448, 0.004516541957855225]
+['noisy', 'soft'] received scores [0.99262934923172, 0.007370689418166876]
+
+decades/1930s/IE/1931_O.txt
+
+I  feel  that  we  do  not  reverence  our  sacred  buildings  enough ;  that  in  our  meetings  there  is  often  too  much  noise  and  confusion.
+
+['loud', 'quiet'] received scores [0.9707729816436768, 0.029227085411548615]
+['loud', 'soft'] received scores [0.9296523928642273, 0.0703476071357727]
+['noisy', 'quiet'] received scores [0.9870790839195251, 0.012920867651700974]
+['noisy', 'soft'] received scores [0.9681476354598999, 0.03185240179300308]
+
+decades/1930s/IE/1932_A.txt
+
+There  was  no  comment ;  there  was  no  noise  or  confusion, and  we  went  to  the  hotel.
+
+['quiet', 'loud'] received scores [0.9971262812614441, 0.0028736672829836607]
+['soft', 'loud'] received scores [0.9727389216423035, 0.027261123061180115]
+['quiet', 'noisy'] received scores [0.9945530295372009, 0.005446974653750658]
+['soft', 'noisy'] received scores [0.9494345784187317, 0.05056541785597801]
+
+decades/1930s/IE/1932_O.txt
+
+I  make  this  announcement  at  this  time  because  it  is  possible  that  some  of  you  may  not  be  here  tomorrow  and  we  would  like  if  possible  to  have  you  all  present  before  ten  o'clock,  or  not  later  than  ten  o'clock,  on  Sunday  morning,  for  the  reason  that  during  this  broadcast  which  goes  over  the  world  it  is  necessary  that  the  strictest  attention  be  observed  and  that  there  be  as  little  confusion  and  noise  as  possible.
+
+['quiet', 'loud'] received scores [0.8953574895858765, 0.10464251041412354]
+['soft', 'loud'] received scores [0.6981276869773865, 0.3018723130226135]
+['quiet', 'noisy'] received scores [0.7649438977241516, 0.23505616188049316]
+['noisy', 'soft'] received scores [0.5320304036140442, 0.4679695963859558]
+
+decades/1930s/IE/1932_O.txt
+
+Well  then  you  don't  see  the  ghosts  and  goblins  running  around  the  trees,  and  the  funny  looking  eyes  up  there  in  the  branches,  and  the  bats  and  ugly  things  flying  through  the  air,  and  the  scary  noises,  can't  you  hear  them?
+
+['quiet', 'loud'] received scores [0.9437196254730225, 0.056280411779880524]
+['soft', 'loud'] received scores [0.6302701830863953, 0.3697298467159271]
+['noisy', 'quiet'] received scores [0.5358050465583801, 0.46419498324394226]
+['noisy', 'soft'] received scores [0.9190547466278076, 0.08094529062509537]
+
+decades/1930s/IE/1932_O.txt
+
+And  the  noises. Why,  that's  the  wind  blowing  through  the  branches,  and  the  trees  are  trying  to  sing  a  song  to  make  you  happy  as  you  go  along.
+
+['loud', 'quiet'] received scores [0.9251460433006287, 0.07485397905111313]
+['loud', 'soft'] received scores [0.7114855051040649, 0.28851452469825745]
+['noisy', 'quiet'] received scores [0.9970443844795227, 0.002955602016299963]
+['noisy', 'soft'] received scores [0.9853605628013611, 0.014639412984251976]
+
+decades/1930s/IE/1935_A.txt
+
+And  that  still  small  voice  that  I  have  heard  so  many  times  in  my  life,  making  no  noise,  no  sound,  said  to  me,  "and  you  shall  live  to  preside  over  the  Church  of  Jesus  Christ  of  Latter-day  Saints.
+
+['quiet', 'loud'] received scores [0.9932764768600464, 0.006723534781485796]
+['soft', 'loud'] received scores [0.9888250827789307, 0.011174887418746948]
+['quiet', 'noisy'] received scores [0.9905308485031128, 0.009469141252338886]
+['soft', 'noisy'] received scores [0.9842905402183533, 0.015709489583969116]
+
+decades/1930s/IE/1935_A.txt
+
+When  the  Savior  was  upon  the  earth  he  went  to  and  fro  among  the  people,  not  with  a  loud  voice,  making  a  great  noise,  but  in  humility  he  went  about  blessing  the  children  of  men.
+
+['quiet', 'loud'] received scores [0.9918474555015564, 0.008152510970830917]
+['soft', 'loud'] received scores [0.986742377281189, 0.01325767207890749]
+['quiet', 'noisy'] received scores [0.9865371584892273, 0.013462859205901623]
+['soft', 'noisy'] received scores [0.9781797528266907, 0.02182023972272873]
+
+decades/1930s/IE/1935_O.txt
+
+The  other  day,  when  I  was  going  out  on  the  mountain,  I  heard  a  noise.
+
+['loud', 'quiet'] received scores [0.9408676028251648, 0.059132423251867294]
+['loud', 'soft'] received scores [0.8779712915420532, 0.12202873080968857]
+['noisy', 'quiet'] received scores [0.9778702855110168, 0.022129738703370094]
+['noisy', 'soft'] received scores [0.9523380994796753, 0.04766184464097023]
+
+decades/1930s/IE/1936_O.txt
+
+Brother  Kelsch  cut  the  picture  out  of  the  paper  because  a  voice,  figuratively  speaking,  without  making  any  noise — a  communication to  that  part  of  him  that  shall  live  after  he  is  gone — said,  "You  shall  meet  that  man  in  Japan.
+
+['quiet', 'loud'] received scores [0.9882412552833557, 0.011758677661418915]
+['soft', 'loud'] received scores [0.9049213528633118, 0.0950787216424942]
+['quiet', 'noisy'] received scores [0.9833136796951294, 0.016686316579580307]
+['soft', 'noisy'] received scores [0.8696815967559814, 0.13031838834285736]
+
+decades/1930s/IE/1938_A.txt
+
+In  the  foul  and  noisome  air  of  despotism  they  may  neither  quicken  nor  flower.
+
+['loud', 'quiet'] received scores [0.9929227232933044, 0.007077293936163187]
+['loud', 'soft'] received scores [0.9871506094932556, 0.012849385850131512]
+['noisy', 'quiet'] received scores [0.9957929849624634, 0.0042070201598107815]
+['noisy', 'soft'] received scores [0.9923437833786011, 0.007656227797269821]
+
+decades/1930s/IE/1939_A.txt
+
+There  should  be  no  whispering,  no  noise,  no  feeling  of  hate  or  envy  in  the  soul  of  any  one  who  sits  within  the  sacred  presence  of  the  Lord.
+
+['quiet', 'loud'] received scores [0.9663770198822021, 0.03362295776605606]
+['soft', 'loud'] received scores [0.7098286747932434, 0.2901713252067566]
+['quiet', 'noisy'] received scores [0.9264677166938782, 0.07353230565786362]
+['soft', 'noisy'] received scores [0.5174582600593567, 0.4825417399406433]
+
+decades/1930s/IE/1939_O.txt
+
+When  you  contact  them  they  are  sour,  but  when  they  open  the  throttle  to  make  a  noise,  you  can  bet  your  life  everything stops.
+
+['loud', 'quiet'] received scores [0.7577282190322876, 0.2422717809677124]
+['loud', 'soft'] received scores [0.8051309585571289, 0.1948689967393875]
+['noisy', 'quiet'] received scores [0.8695495128631592, 0.13045050203800201]
+['noisy', 'soft'] received scores [0.8980180621147156, 0.10198196023702621]
+

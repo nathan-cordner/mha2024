@@ -1,0 +1,828 @@
+﻿decades/1940s/1942_A/callis_an_humble_and_contrite_heart.txt
+
+Among the cardinal virtues of the gospel is the praiseworthy virtue of humility.
+
+['quiet', 'loud'] received scores [0.9234582185745239, 0.07654177397489548]
+['soft', 'loud'] received scores [0.8338013291358948, 0.16619864106178284]
+['quiet', 'noisy'] received scores [0.9170919060707092, 0.08290813863277435]
+['soft', 'noisy'] received scores [0.821419894695282, 0.1785801202058792]
+
+decades/1940s/1942_A/grant_message_of_the_first_presidency.txt
+
+We give thanks and praise to our Heavenly Father for the unselfish and righteous service of the officers of the stakes, of the wards, of the auxiliaries, of the Priesthood, of the missionaries, and of every man and woman who is helping to advance the cause of Truth.
+
+['loud', 'quiet'] received scores [0.7644513845443726, 0.23554860055446625]
+['loud', 'soft'] received scores [0.8111520409584045, 0.18884798884391785]
+['quiet', 'noisy'] received scores [0.5424620509147644, 0.4575378894805908]
+['noisy', 'soft'] received scores [0.5274756550788879, 0.47252434492111206]
+
+decades/1940s/1942_A/richards_“had_we_listened_to_the_prophets”.txt
+
+Someone has pointed out that the greatest tragedy of the modern age was the tercentenary of Harvard University in 1936, where scholars from all over the world met to appraise the progress of the world for the past three hundred years and reached the solemn conclusion that, while man had made most unusual and commendable progress in solving the mysteries of the universe, bringing under control the forces of nature, that in all this long period of time he had made no appreciable advance in the control of himself, his greed and his passions, and that he was even more prone to fight with other men than he had been centuries before.
+
+['loud', 'quiet'] received scores [0.7480889558792114, 0.2519110143184662]
+['loud', 'soft'] received scores [0.823928713798523, 0.17607128620147705]
+['noisy', 'quiet'] received scores [0.6096704006195068, 0.3903295397758484]
+['noisy', 'soft'] received scores [0.7110884189605713, 0.2889115810394287]
+
+decades/1940s/1942_A/richards_“had_we_listened_to_the_prophets”.txt
+
+No praise, no adoration can be substituted for this.
+
+['quiet', 'loud'] received scores [0.8908429741859436, 0.10915706306695938]
+['loud', 'soft'] received scores [0.5473759174346924, 0.4526240825653076]
+['quiet', 'noisy'] received scores [0.9731959104537964, 0.02680409699678421]
+['soft', 'noisy'] received scores [0.7862682342529297, 0.21373173594474792]
+
+decades/1940s/1942_O/clawson_the_lord's_mercy_to_the_repentant.txt
+
+Yea, methought I saw, even as our father Lehi saw, God sitting upon his throne, surrounded with numberless concourses of angels, in the attitude of singing and praising their God; yea, and my soul did long to be there.
+
+['loud', 'quiet'] received scores [0.9017532467842102, 0.09824672341346741]
+['loud', 'soft'] received scores [0.8323245048522949, 0.1676754653453827]
+['noisy', 'quiet'] received scores [0.8343377113342285, 0.1656622737646103]
+['noisy', 'soft'] received scores [0.7314555644989014, 0.26854443550109863]
+
+decades/1940s/1942_O/clawson_the_lord's_mercy_to_the_repentant.txt
+
+And I know that he will raise me up at the last day, to dwell with him in glory; yea, and I will praise him forever, for he has brought our fathers out of Egypt, and he has swallowed up the Egyptians in the Red Sea; and he led them by his power into the promised land; yea, and he has delivered them out of bondage and captivity from time to time Now, brethren, this is a remarkable case.
+
+['loud', 'quiet'] received scores [0.9822723269462585, 0.017727691680192947]
+['loud', 'soft'] received scores [0.9867220520973206, 0.013277905993163586]
+['noisy', 'quiet'] received scores [0.9167008996009827, 0.08329910039901733]
+['noisy', 'soft'] received scores [0.9365463852882385, 0.06345362216234207]
+
+decades/1940s/1942_O/romney_untitled.txt
+
+Ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvelous light.
+
+['loud', 'quiet'] received scores [0.8060554265975952, 0.19394457340240479]
+['loud', 'soft'] received scores [0.8038573265075684, 0.19614262878894806]
+['quiet', 'noisy'] received scores [0.5133365988731384, 0.4866633713245392]
+['soft', 'noisy'] received scores [0.516833484172821, 0.48316651582717896]
+
+decades/1940s/1942_O/romney_untitled.txt
+
+Each of us bearing the Priesthood, as we do, there should be power in our gatherings, for as Peter wrote to the Saints in his day, so with equal truth it may be said of us, "we are a chosen generation, a royal Priesthood," and it is our calling and opportunity to "shew forth the praises of him who hath called us out of darkness unto his marvelous light.
+
+['loud', 'quiet'] received scores [0.8886634707450867, 0.11133658140897751]
+['loud', 'soft'] received scores [0.8760209083557129, 0.12397905439138412]
+['noisy', 'quiet'] received scores [0.6658445596694946, 0.334155410528183]
+['noisy', 'soft'] received scores [0.6382014751434326, 0.361798495054245]
+
+decades/1940s/1942_O/romney_untitled.txt
+
+The Lord help us, in this Priesthood quorum activity, to approach our work with the spirit of Nephi, that we may indeed be "a chosen generation, a royal Priesthood, an holy nation, a peculiar people"; and that we may by our works "shew forth the praises of him who hath called" us "out of darkness into his marvelous light" I pray.
+
+['loud', 'quiet'] received scores [0.6757586598396301, 0.3242412805557251]
+['loud', 'soft'] received scores [0.7345936894416809, 0.2654062807559967]
+['quiet', 'noisy'] received scores [0.5749499797821045, 0.4250500202178955]
+['soft', 'noisy'] received scores [0.5045920014381409, 0.49540799856185913]
+
+decades/1940s/1943_A/jr._in_these_times.txt
+
+We are all a little bit too sensitive to the praise of others.
+
+['quiet', 'loud'] received scores [0.5946956872940063, 0.40530428290367126]
+['soft', 'loud'] received scores [0.8767999410629272, 0.12320005148649216]
+['quiet', 'noisy'] received scores [0.6154000163078308, 0.3846000134944916]
+['soft', 'noisy'] received scores [0.8858593106269836, 0.11414069682359695]
+
+decades/1940s/1943_A/jr._in_these_times.txt
+
+We must go forward, whether people praise us or censure us.
+
+['loud', 'quiet'] received scores [0.5910404324531555, 0.4089595079421997]
+['loud', 'soft'] received scores [0.5975796580314636, 0.4024203419685364]
+['noisy', 'quiet'] received scores [0.5127923488616943, 0.48720768094062805]
+['noisy', 'soft'] received scores [0.5195656418800354, 0.4804343283176422]
+
+decades/1940s/1943_A/lee_hearing_the_voice.txt
+
+And as long as he stood with his hands upraised Israel prevailed against the enemy, but his hands became heavy and he could not hold them up, and when he would drop his hands, the enemy prevailed over Israel.
+
+['loud', 'quiet'] received scores [0.6189253926277161, 0.38107460737228394]
+['loud', 'soft'] received scores [0.6275774836540222, 0.3724224865436554]
+['quiet', 'noisy'] received scores [0.5905272960662842, 0.4094727039337158]
+['soft', 'noisy'] received scores [0.5815883278846741, 0.4184117019176483]
+
+decades/1940s/1943_A/lee_hearing_the_voice.txt
+
+And so they sat him upon a rock upon the Mount, and Aaron and Hur stood holding his hands upraised, that Israel would prevail in that terrible day.
+
+['loud', 'quiet'] received scores [0.660947859287262, 0.3390521705150604]
+['loud', 'soft'] received scores [0.7774593830108643, 0.22254055738449097]
+['quiet', 'noisy'] received scores [0.6645095348358154, 0.33549052476882935]
+['soft', 'noisy'] received scores [0.5249927043914795, 0.4750072658061981]
+
+decades/1940s/1943_A/lyman_what_we_are_fighting_for.txt
+
+Listen to his expressions concerning the courage, the determination, and the daring of the mothers of these whose stars have changed from blue to gold: O happy warriors, forgive the tear Falling from eyes that miss you; Forgive the word of grief from mother-lips That ne'er on earth shall kiss you; Hear only what our hearts would have you hear— Glory and praise and gratitude and pride From the dear country in whose cause you died.
+
+['loud', 'quiet'] received scores [0.7665696144104004, 0.2334304004907608]
+['loud', 'soft'] received scores [0.8694199323654175, 0.13058000802993774]
+['noisy', 'quiet'] received scores [0.5491275787353516, 0.4508724510669708]
+['noisy', 'soft'] received scores [0.7117595076560974, 0.2882404923439026]
+
+decades/1940s/1943_A/smith_righteousness_and_gratitude.txt
+
+For years they have been delighting the world with hymns of praise that our Heavenly Father has blessed us to enjoy, and along with it have gone sermonettes that have touched many hearts.
+
+['loud', 'quiet'] received scores [0.9169681668281555, 0.08303187042474747]
+['loud', 'soft'] received scores [0.7162477970123291, 0.2837522029876709]
+['noisy', 'quiet'] received scores [0.7927767634391785, 0.20722319185733795]
+['soft', 'noisy'] received scores [0.5334942936897278, 0.4665057063102722]
+
+decades/1940s/1943_O/callis_nourishing_the_spirit.txt
+
+In attending such meetings they would not be in places to feed on stuff that does not form character nor develop the qualities of true manhood and womanhood, If we would hold these cottage meetings and praise the Lord in worship and in song, behold there would be manifested in the lives of the young people increased Church activity and more spirituality.
+
+['quiet', 'loud'] received scores [0.555233359336853, 0.44476667046546936]
+['loud', 'soft'] received scores [0.562964677810669, 0.43703538179397583]
+['quiet', 'noisy'] received scores [0.7914357781410217, 0.20856419205665588]
+['soft', 'noisy'] received scores [0.7023598551750183, 0.2976401746273041]
+
+decades/1940s/1943_O/hardy_untitled.txt
+
+So, I marvel and constantly give praise and homage to each member of the Priesthood of this Church.
+
+['loud', 'quiet'] received scores [0.907133936882019, 0.09286610782146454]
+['loud', 'soft'] received scores [0.7238781452178955, 0.2761218845844269]
+['noisy', 'quiet'] received scores [0.8514836430549622, 0.14851632714271545]
+['noisy', 'soft'] received scores [0.6060968637466431, 0.3939031660556793]
+
+decades/1940s/1943_O/mckay_the_home_front.txt
+
+Not so confidently nor so praiseworthily can we speak of the fourth essential bulwark.
+
+['quiet', 'loud'] received scores [0.9234998822212219, 0.07650012522935867]
+['soft', 'loud'] received scores [0.9273001551628113, 0.07269987463951111]
+['quiet', 'noisy'] received scores [0.7308380007743835, 0.26916199922561646]
+['soft', 'noisy'] received scores [0.7415303587913513, 0.25846967101097107]
+
+decades/1940s/1943_O/merrill_precept_and_example.txt
+
+I do not want to sit around the throne of grace with a crown on my head and sing praises forever to my Redeemer.
+
+['quiet', 'loud'] received scores [0.7272028923034668, 0.2727970480918884]
+['loud', 'soft'] received scores [0.5462460517883301, 0.4537539482116699]
+['quiet', 'noisy'] received scores [0.8398587703704834, 0.1601412147283554]
+['soft', 'noisy'] received scores [0.6203857660293579, 0.3796142637729645]
+
+decades/1940s/1943_O/wirthlin_untitled.txt
+
+Peter declared:  But ye are a chosen generation, a royal Priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of Him who hath called you out of the darkness into His marvelous light.
+
+['loud', 'quiet'] received scores [0.8937519192695618, 0.10624808818101883]
+['loud', 'soft'] received scores [0.8747905492782593, 0.12520945072174072]
+['noisy', 'quiet'] received scores [0.6396353840827942, 0.3603646159172058]
+['noisy', 'soft'] received scores [0.5958317518234253, 0.4041682183742523]
+
+decades/1940s/1944_A/bowen_“he_is_risen_from_the_dead”.txt
+
+The boy that lay nestled under her heart, the boy she nourished from her  own body during his helpless infancy, the boy for whose future she had dreamed dreams into which were woven the praises of men's tongues as they extolled his achievements and whose children should one day sit upon her knee as she told them the story of his rise to fame.
+
+['loud', 'quiet'] received scores [0.8778165578842163, 0.12218352407217026]
+['soft', 'loud'] received scores [0.6351285576820374, 0.36487147212028503]
+['noisy', 'quiet'] received scores [0.7631204724311829, 0.23687954246997833]
+['soft', 'noisy'] received scores [0.7951628565788269, 0.20483717322349548]
+
+decades/1940s/1944_A/mckay_the_resurrected_christ.txt
+
+The Savior condemned hypocrisy and praised sincerity of purpose.
+
+['loud', 'quiet'] received scores [0.7358414530754089, 0.2641584873199463]
+['loud', 'soft'] received scores [0.7150251865386963, 0.2849748432636261]
+['quiet', 'noisy'] received scores [0.5777092576026917, 0.42229077219963074]
+['soft', 'noisy'] received scores [0.6029866337776184, 0.3970133066177368]
+
+decades/1940s/1944_A/smith_our_perpetual_debt.txt
+
+I want to read one or two of these verses:  I say unto you, my brethren, that if you should render all the thanks and praise which your whole soul has power to possess, to that God who has created you, and has kept and preserved you, and has caused that ye should rejoice, and has granted that ye should live in peace one with another—  I say unto you that if ye should serve him who has created you from the beginning, and is preserving you from day to day, by lending you breath, that ye may live and move and do according to your own will, and even supporting you from one moment to another—I say, if ye should serve him with all your whole souls, yet ye would be unprofitable servants.
+
+['quiet', 'loud'] received scores [0.5586835741996765, 0.4413163661956787]
+['loud', 'soft'] received scores [0.6148748397827148, 0.38512513041496277]
+['quiet', 'noisy'] received scores [0.820608913898468, 0.17939110100269318]
+['soft', 'noisy'] received scores [0.6935580372810364, 0.3064419627189636]
+
+decades/1940s/1944_O/bennion_untitled.txt
+
+I know this is the work of God and that he lives, that he came to Joseph Smith and that Joseph Smith brought to the world again the plan by which all men may know their Redeemer and give praise to him.
+
+['loud', 'quiet'] received scores [0.7361049652099609, 0.2638950049877167]
+['loud', 'soft'] received scores [0.7999849915504456, 0.20001497864723206]
+['quiet', 'noisy'] received scores [0.6210530996322632, 0.3789469003677368]
+['soft', 'noisy'] received scores [0.5333606600761414, 0.46663931012153625]
+
+decades/1940s/1944_O/mckay_will_nations_avert_a_world_war_iii.txt
+
+They fell far short of their ideal, their words were twisted and mocked, and false temples were built over their bones, in praise of a Christ they would have rejected.
+
+['loud', 'quiet'] received scores [0.7702279686927795, 0.22977198660373688]
+['loud', 'soft'] received scores [0.5777173638343811, 0.4222825765609741]
+['noisy', 'quiet'] received scores [0.7536011338233948, 0.2463988959789276]
+['noisy', 'soft'] received scores [0.5552046298980713, 0.4447953701019287]
+
+decades/1940s/1944_O/young_the_test_of_christianity.txt
+
+We have run after wealth, praise, and honor, and thought that Christ may be found by seeking eminence and power.
+
+['loud', 'quiet'] received scores [0.8683639168739319, 0.1316361129283905]
+['loud', 'soft'] received scores [0.681258499622345, 0.3187415599822998]
+['noisy', 'quiet'] received scores [0.877821147441864, 0.12217884510755539]
+['noisy', 'soft'] received scores [0.699506402015686, 0.3004935681819916]
+
+decades/1940s/1944_O/young_the_test_of_christianity.txt
+
+To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the Lord, that he might be glorified.
+
+['loud', 'quiet'] received scores [0.5888190269470215, 0.4111809730529785]
+['loud', 'soft'] received scores [0.7065131068229675, 0.29348689317703247]
+['quiet', 'noisy'] received scores [0.6221727728843689, 0.3778272569179535]
+['noisy', 'soft'] received scores [0.5051605105400085, 0.49483954906463623]
+
+decades/1940s/1944_O/young_the_test_of_christianity.txt
+
+If there is anything virtuous, lovely, or of good report or praiseworthy, we seek after these things.
+
+['loud', 'quiet'] received scores [0.5602393746376038, 0.43976062536239624]
+['soft', 'loud'] received scores [0.5873045325279236, 0.41269540786743164]
+['quiet', 'noisy'] received scores [0.7272964715957642, 0.27270352840423584]
+['soft', 'noisy'] received scores [0.8286253809928894, 0.1713746041059494]
+
+decades/1940s/1945_A/jr._postwar_planning.txt
+
+The thing for which they now receive praise, the things for which they work to get commendation, are unknown to us in our lives of peace.
+
+['quiet', 'loud'] received scores [0.9479683041572571, 0.052031729370355606]
+['soft', 'loud'] received scores [0.7515615820884705, 0.24843844771385193]
+['quiet', 'noisy'] received scores [0.9704400300979614, 0.02955997921526432]
+['soft', 'noisy'] received scores [0.8449878692626953, 0.1550121307373047]
+
+decades/1940s/1945_A/richards_admonition.txt
+
+But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvelous light: Which in time past were not a people, but are now the people of God  1 Pet.
+
+['loud', 'quiet'] received scores [0.5656468868255615, 0.4343531131744385]
+['loud', 'soft'] received scores [0.653573751449585, 0.34642621874809265]
+['quiet', 'noisy'] received scores [0.6746031045913696, 0.325396865606308]
+['soft', 'noisy'] received scores [0.5886543989181519, 0.41134557127952576]
+
+decades/1940s/1945_A/smith_the_idler_shall_not_have_place_in_the_church.txt
+
+Who are deserving of praise? The persons who take care of themselves or the ones who always trust in the great mercies of the Lord to take care of them?
+
+['loud', 'quiet'] received scores [0.5994791388511658, 0.4005208909511566]
+['loud', 'soft'] received scores [0.589216947555542, 0.4107830226421356]
+['quiet', 'noisy'] received scores [0.5705099105834961, 0.4294900596141815]
+['soft', 'noisy'] received scores [0.5809069871902466, 0.41909298300743103]
+
+decades/1940s/1945_A/smith_the_lessons_from_history.txt
+
+Shall we extol his virtues and praise his talents or shall we berate our enemies and castigate the war lords?
+
+['loud', 'quiet'] received scores [0.7968866229057312, 0.2031133770942688]
+['loud', 'soft'] received scores [0.7258780002593994, 0.27412205934524536]
+['noisy', 'quiet'] received scores [0.7106923460960388, 0.2893076241016388]
+['noisy', 'soft'] received scores [0.6237766742706299, 0.3762233257293701]
+
+decades/1940s/1945_A/smith_the_origin_of_man_and_prophecy_fulfilled.txt
+
+With our sons and daughters pouring out their blood like a river on the battlefields of the world to save us from destruction, surely the most praiseworthy and effective thing we can do to show our appreciation of their sacrifice will be to repent of our sins and set our lives and our homes in order so that we can worthily ask our Heavenly Father to restore peace to the earth and bring our loved ones back to us again.
+
+['loud', 'quiet'] received scores [0.9236974716186523, 0.07630252093076706]
+['loud', 'soft'] received scores [0.8726879358291626, 0.1273120790719986]
+['noisy', 'quiet'] received scores [0.8225836753845215, 0.17741629481315613]
+['noisy', 'soft'] received scores [0.7241635322570801, 0.27583643794059753]
+
+decades/1940s/1945_O/bowen_the_significance_of_belief.txt
+
+Are they that important in our appraisals?
+
+['loud', 'quiet'] received scores [0.6399036049842834, 0.36009636521339417]
+['loud', 'soft'] received scores [0.5059767365455627, 0.49402332305908203]
+['noisy', 'quiet'] received scores [0.5936774015426636, 0.4063226282596588]
+['soft', 'noisy'] received scores [0.5428569316864014, 0.45714306831359863]
+
+decades/1940s/1945_O/callis_our_glorious_destiny.txt
+
+God be praised for this mighty republic!
+
+['loud', 'quiet'] received scores [0.964368999004364, 0.035630978643894196]
+['loud', 'soft'] received scores [0.9800484776496887, 0.019951526075601578]
+['noisy', 'quiet'] received scores [0.6874935626983643, 0.31250643730163574]
+['noisy', 'soft'] received scores [0.7997071743011475, 0.20029282569885254]
+
+decades/1940s/1945_O/jr._truth_and_simplicity_in_church_ordinances.txt
+
+Because they were trying to satisfy the thought and the philosophy and the reasoning of men, in order that they might have their support and probably their praise.
+
+['quiet', 'loud'] received scores [0.6310532689094543, 0.36894670128822327]
+['soft', 'loud'] received scores [0.5385565757751465, 0.4614434242248535]
+['quiet', 'noisy'] received scores [0.7573290467262268, 0.2426709234714508]
+['soft', 'noisy'] received scores [0.6804599761962891, 0.31953999400138855]
+
+decades/1940s/1945_O/kimball_foundations_for_peace.txt
+
+May our hearts go out in praise and thanksgiving that the earth which did tremble is now still.
+
+['quiet', 'loud'] received scores [0.9475893378257751, 0.052410636097192764]
+['loud', 'soft'] received scores [0.6683061718940735, 0.3316937983036041]
+['quiet', 'noisy'] received scores [0.9866708517074585, 0.013329125940799713]
+['soft', 'noisy'] received scores [0.6701887845993042, 0.3298112154006958]
+
+decades/1940s/1945_O/lee_our_responsibility_before_god_and_men.txt
+
+We have been guilty of appraising the desirability of a girl by the standards established by a judge in a Hollywood beauty contest.
+
+['loud', 'quiet'] received scores [0.7848575115203857, 0.21514251828193665]
+['loud', 'soft'] received scores [0.5859889388084412, 0.41401106119155884]
+['noisy', 'quiet'] received scores [0.8084576725959778, 0.19154229760169983]
+['noisy', 'soft'] received scores [0.6208661794662476, 0.37913382053375244]
+
+decades/1940s/1945_O/lee_our_responsibility_before_god_and_men.txt
+
+The Apostle Peter said to the Saints in his day:  But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvelous light.
+
+['loud', 'quiet'] received scores [0.7736912965774536, 0.2263087034225464]
+['loud', 'soft'] received scores [0.850107729434967, 0.14989222586154938]
+['noisy', 'quiet'] received scores [0.5586307644844055, 0.4413692355155945]
+['noisy', 'soft'] received scores [0.6773850917816162, 0.3226149082183838]
+
+decades/1940s/1945_O/smith_obedience_brings_blessings_to_the_church_and_to_individuals.txt
+
+They not only do what the Lord desires them to do in their lives, but they sing praises to him and teach others to do the same.
+
+['loud', 'quiet'] received scores [0.8842417001724243, 0.11575831472873688]
+['loud', 'soft'] received scores [0.8256105184555054, 0.1743895262479782]
+['noisy', 'quiet'] received scores [0.605719268321991, 0.39428067207336426]
+['soft', 'noisy'] received scores [0.5122576951980591, 0.4877423048019409]
+
+decades/1940s/1946_A/richards_truth_will_prevail.txt
+
+If there is anything virtuous, lovely, or of good report or praiseworthy, we seek after these things.
+
+['loud', 'quiet'] received scores [0.5602393746376038, 0.43976062536239624]
+['soft', 'loud'] received scores [0.5873045325279236, 0.41269540786743164]
+['quiet', 'noisy'] received scores [0.7272964715957642, 0.27270352840423584]
+['soft', 'noisy'] received scores [0.8286253809928894, 0.1713746041059494]
+
+decades/1940s/1946_A/smith_our_blessings_and_privileges.txt
+
+This group this morning who have just sung to us represent this particular region; and if you were to travel in different parts of the world, even into the South Seas, you would find a group of Singing Mothers in the various missions of the Church, who sing the same music that we sing here, but the hymns have been translated into their own languages, and they rejoice in singing praises to our Heavenly Father.
+
+['loud', 'quiet'] received scores [0.9011228680610657, 0.09887716919183731]
+['loud', 'soft'] received scores [0.7083966732025146, 0.29160332679748535]
+['noisy', 'quiet'] received scores [0.7078955769538879, 0.29210445284843445]
+['soft', 'noisy'] received scores [0.6075364351272583, 0.3924635946750641]
+
+decades/1940s/1946_A/young_joseph_smith.txt
+
+And in every language I hear, they praise Thee.
+
+['loud', 'quiet'] received scores [0.8926311135292053, 0.10736892372369766]
+['loud', 'soft'] received scores [0.7462067604064941, 0.25379323959350586]
+['noisy', 'quiet'] received scores [0.762601912021637, 0.23739807307720184]
+['noisy', 'soft'] received scores [0.5318512916564941, 0.46814870834350586]
+
+decades/1940s/1946_O/callis_testimony_from_the_book_of_mormon.txt
+
+God be praised for the glory of the resurrection, the beauty of eternal life, the knowledge that we shall live with each other, with our wives and our children, with our friends, and live with them in perfect understanding.
+
+['loud', 'quiet'] received scores [0.5181986093521118, 0.4818013906478882]
+['loud', 'soft'] received scores [0.6709554195404053, 0.3290445804595947]
+['quiet', 'noisy'] received scores [0.7357951402664185, 0.26420488953590393]
+['soft', 'noisy'] received scores [0.5949686169624329, 0.40503138303756714]
+
+decades/1940s/1946_O/kimball_my_redeemer_lives_eternally.txt
+
+This promise will be literally fulfilled as were his many other promises, and in the meantime, we praise his holy name and serve him, and bear testimony of the divinity of his mission, with the prophets through the generations!
+
+['loud', 'quiet'] received scores [0.7771851420402527, 0.22281485795974731]
+['loud', 'soft'] received scores [0.8835309147834778, 0.1164691373705864]
+['noisy', 'quiet'] received scores [0.5575422048568726, 0.44245782494544983]
+['noisy', 'soft'] received scores [0.7326590418815613, 0.2673409581184387]
+
+decades/1940s/1946_O/smith_closing_address.txt
+
+He it was who had joy, along with those who preceded him and those who followed, in building a choir not just to sing but to sing praises to our Heavenly Father.
+
+['loud', 'quiet'] received scores [0.8958370685577393, 0.10416291654109955]
+['loud', 'soft'] received scores [0.8536009192466736, 0.1463991105556488]
+['noisy', 'quiet'] received scores [0.7558078169822693, 0.24419215321540833]
+['noisy', 'soft'] received scores [0.6772486567497253, 0.3227512836456299]
+
+decades/1940s/1947_A/hunter_untitled.txt
+
+In fact, they endured because they firmly believed that such scriptures as the following applied to them:  But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvelous light.
+
+['quiet', 'loud'] received scores [0.5106199383735657, 0.4893800616264343]
+['loud', 'soft'] received scores [0.7270970940589905, 0.27290287613868713]
+['quiet', 'noisy'] received scores [0.7499998807907104, 0.25000008940696716]
+['soft', 'noisy'] received scores [0.5190362334251404, 0.4809638261795044]
+
+decades/1940s/1947_A/mcconkie_untitled.txt
+
+It is all well and good to sing praises to the ancient prophets and build sepulchres to their names, but there is no salvation in that fact standing alone.
+
+['quiet', 'loud'] received scores [0.5538207292556763, 0.44617927074432373]
+['loud', 'soft'] received scores [0.5410836338996887, 0.4589163064956665]
+['quiet', 'noisy'] received scores [0.6713775992393494, 0.32862237095832825]
+['soft', 'noisy'] received scores [0.5826341509819031, 0.4173658788204193]
+
+decades/1940s/1947_A/mckay_honoring_the_utah_pioneers—and_lasting_values.txt
+
+Praise the great and guiding hand That led you to the chosen land,            Oh, dauntless pioneers!
+
+['loud', 'quiet'] received scores [0.7819243669509888, 0.21807564795017242]
+['loud', 'soft'] received scores [0.8335566520690918, 0.1664433479309082]
+['noisy', 'quiet'] received scores [0.5622349381446838, 0.4377650320529938]
+['noisy', 'soft'] received scores [0.6420719027519226, 0.3579280972480774]
+
+decades/1940s/1947_A/mckay_honoring_the_utah_pioneers—and_lasting_values.txt
+
+Sing His praise who made you free In the land of liberty, Thank the Lord, who raised a band            Of noble pioneers.
+
+['loud', 'quiet'] received scores [0.776131272315979, 0.2238686978816986]
+['loud', 'soft'] received scores [0.8349823951721191, 0.16501761972904205]
+['quiet', 'noisy'] received scores [0.5227501392364502, 0.4772498309612274]
+['noisy', 'soft'] received scores [0.5712695717811584, 0.42873042821884155]
+
+decades/1940s/1947_A/mckay_untitled.txt
+
+This junior member also checked at the conference to see who of their members were there, and those who were not, and at the next visit he will have something to talk about, praising those who were there and telling those who were not what they had missed.
+
+['loud', 'quiet'] received scores [0.5679037570953369, 0.4320961833000183]
+['loud', 'soft'] received scores [0.650797963142395, 0.3492019772529602]
+['quiet', 'noisy'] received scores [0.5458456873893738, 0.4541543424129486]
+['noisy', 'soft'] received scores [0.5412425398826599, 0.4587574601173401]
+
+decades/1940s/1947_A/smith_the_work_of_god.txt
+
+Everything that is praiseworthy, everything in civil life, or in religious life that is necessary to make the people happy will come to us as a part of the gospel of Jesus Christ, our Lord.
+
+['loud', 'quiet'] received scores [0.5419450402259827, 0.4580550193786621]
+['loud', 'soft'] received scores [0.6183964610099792, 0.38160353899002075]
+['quiet', 'noisy'] received scores [0.7111772894859314, 0.288822740316391]
+['soft', 'noisy'] received scores [0.6425700187683105, 0.35743001103401184]
+
+decades/1940s/1947_O/jr._they_of_the_last_wagon.txt
+
+I would not take away one word of praise or gratitude, honor or reverence from the great men who led these humble ones of ours.
+
+['quiet', 'loud'] received scores [0.9241136908531189, 0.07588634639978409]
+['soft', 'loud'] received scores [0.5670138001441956, 0.43298617005348206]
+['quiet', 'noisy'] received scores [0.9453442692756653, 0.05465570092201233]
+['soft', 'noisy'] received scores [0.6503493189811707, 0.34965062141418457]
+
+decades/1940s/1947_O/jr._they_of_the_last_wagon.txt
+
+The Saints buoyed up the Brethren out in front with encouragement, with praise, and sometimes even with adulation.
+
+['loud', 'quiet'] received scores [0.9642019867897034, 0.03579803183674812]
+['loud', 'soft'] received scores [0.9294716715812683, 0.07052832096815109]
+['noisy', 'quiet'] received scores [0.952778697013855, 0.04722130298614502]
+['noisy', 'soft'] received scores [0.9080229997634888, 0.09197696298360825]
+
+decades/1940s/1947_O/jr._they_of_the_last_wagon.txt
+
+But they prayed again and pushed on, with little praise, with not too much encouragement, and never with adulation.
+
+['quiet', 'loud'] received scores [0.9933704733848572, 0.006629505660384893]
+['soft', 'loud'] received scores [0.928173303604126, 0.07182668894529343]
+['quiet', 'noisy'] received scores [0.9963934421539307, 0.0036066179163753986]
+['soft', 'noisy'] received scores [0.9597189426422119, 0.04028100147843361]
+
+decades/1940s/1947_O/jr._they_of_the_last_wagon.txt
+
+Unswayed they were by the praise of men, to wander from the path of truth.
+
+['loud', 'quiet'] received scores [0.6186383962631226, 0.38136160373687744]
+['loud', 'soft'] received scores [0.7486127018928528, 0.2513872981071472]
+['quiet', 'noisy'] received scores [0.5362659692764282, 0.46373406052589417]
+['noisy', 'soft'] received scores [0.6135205030441284, 0.3864794075489044]
+
+decades/1940s/1947_O/moyle_necessity_and_value_of_the_welfare_plan.txt
+
+You know there is one other thing that our program does that is certainly praiseworthy.
+
+['loud', 'quiet'] received scores [0.6238078474998474, 0.3761921525001526]
+['loud', 'soft'] received scores [0.562886655330658, 0.43711331486701965]
+['quiet', 'noisy'] received scores [0.6781795024871826, 0.3218204379081726]
+['soft', 'noisy'] received scores [0.7307192087173462, 0.26928073167800903]
+
+decades/1940s/1947_O/richards_obedience,_the_way_of_exaltation.txt
+
+If there is anything virtuous, lovely, or of good report or praiseworthy, we seek after these things.
+
+['loud', 'quiet'] received scores [0.5602393746376038, 0.43976062536239624]
+['soft', 'loud'] received scores [0.5873045325279236, 0.41269540786743164]
+['quiet', 'noisy'] received scores [0.7272964715957642, 0.27270352840423584]
+['soft', 'noisy'] received scores [0.8286253809928894, 0.1713746041059494]
+
+decades/1940s/1947_O/widtsoe_the_responsibility_of_women.txt
+
+Woman's share in the building of the West is understood by all of us, but sometimes we forget to give her the praise which is her due.
+
+['quiet', 'loud'] received scores [0.57330721616745, 0.42669281363487244]
+['soft', 'loud'] received scores [0.5332282185554504, 0.46677184104919434]
+['quiet', 'noisy'] received scores [0.6425292491912842, 0.35747069120407104]
+['soft', 'noisy'] received scores [0.604466438293457, 0.39553356170654297]
+
+decades/1940s/1948_A/mckay_facing_another_world_crisis.txt
+
+All that Moses wrote in praise of the richness and productivity of the Promised Land, and more than he wrote can be applied to this great land of America—a land of corn, wheat, barley, and all other kinds of grain—a land of milk and honey—a land where we eat bread without scarceness—a land whose stones are gold, silver, and iron, and out of whose hills we dig brass—a land aptly called the "granary of the world.
+
+['loud', 'quiet'] received scores [0.750696063041687, 0.249303936958313]
+['loud', 'soft'] received scores [0.8396131992340088, 0.16038675606250763]
+['noisy', 'quiet'] received scores [0.5470640063285828, 0.45293599367141724]
+['noisy', 'soft'] received scores [0.6773980855941772, 0.32260188460350037]
+
+decades/1940s/1948_A/mckay_facing_another_world_crisis.txt
+
+They fell far short of their ideal; their words were twisted and mocked; and false temples were built over their bones, in praise of a Christ they would have rejected.
+
+['loud', 'quiet'] received scores [0.7721660733222961, 0.22783394157886505]
+['loud', 'soft'] received scores [0.6034333109855652, 0.3965666890144348]
+['noisy', 'quiet'] received scores [0.74623703956604, 0.25376296043395996]
+['noisy', 'soft'] received scores [0.5690193772315979, 0.4309805929660797]
+
+decades/1940s/1948_A/smith_counsel_and_encouragement.txt
+
+Almost every day there comes to the Church offices at Salt Lake City correspondence from different parts of the world that praises the membership of this Church.
+
+['loud', 'quiet'] received scores [0.8777995109558105, 0.12220054119825363]
+['loud', 'soft'] received scores [0.5682369470596313, 0.43176308274269104]
+['noisy', 'quiet'] received scores [0.8128148913383484, 0.18718506395816803]
+['soft', 'noisy'] received scores [0.556924045085907, 0.443075954914093]
+
+decades/1940s/1948_A/young_be_ye_therefore_perfect.txt
+
+Never let us thirst for praise but do right for right's sake.
+
+['quiet', 'loud'] received scores [0.731262743473053, 0.2687373161315918]
+['loud', 'soft'] received scores [0.522651195526123, 0.47734883427619934]
+['quiet', 'noisy'] received scores [0.8438345789909363, 0.15616542100906372]
+['soft', 'noisy'] received scores [0.6445884108543396, 0.3554115891456604]
+
+decades/1940s/1948_O/richards_no_man_can_serve_two_masters.txt
+
+This people have I formed for myself; they shall show forth my praise.
+
+['loud', 'quiet'] received scores [0.9092212915420532, 0.09077873080968857]
+['loud', 'soft'] received scores [0.8406273126602173, 0.15937268733978271]
+['noisy', 'quiet'] received scores [0.5739924311637878, 0.42600753903388977]
+['soft', 'noisy'] received scores [0.5849436521530151, 0.41505634784698486]
+
+decades/1940s/1948_O/richards_untitled.txt
+
+It was Peter of old, who in addressing the Saints of his day, made this declaration:  But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should show forth the praises of him who hath called you out of darkness into his marvelous light.
+
+['loud', 'quiet'] received scores [0.8795324563980103, 0.12046756595373154]
+['loud', 'soft'] received scores [0.8738136887550354, 0.1261862814426422]
+['noisy', 'quiet'] received scores [0.7089221477508545, 0.2910778522491455]
+['noisy', 'soft'] received scores [0.6978863477706909, 0.3021136522293091]
+
+decades/1940s/1948_O/richards_untitled.txt
+
+The Lord has called us out of the world that we might show forth the praises of him who hath called us out of darkness into his marvelous light and there is not a day of our lives, that we do not have an opportunity to show forth his praises because the world looks upon us, they expect more of us than from those who are not members of our Church, and we can hardly stoop to do the things that others do.
+
+['loud', 'quiet'] received scores [0.7761417031288147, 0.2238582968711853]
+['loud', 'soft'] received scores [0.7500250935554504, 0.24997490644454956]
+['noisy', 'quiet'] received scores [0.568033754825592, 0.43196630477905273]
+['noisy', 'soft'] received scores [0.5322694182395935, 0.4677305221557617]
+
+decades/1940s/1948_O/richards_untitled.txt
+
+Ye are a chosen generation, a royal priesthood, a holy nation, a peculiar people that ye should show forth the praise of Him who hath called you out of darkness into His marvelous light," and may your light never go out in the presence of your fellowmen no matter where you go, I humbly pray, in the name of Jesus Christ. Amen.
+
+['loud', 'quiet'] received scores [0.7559815049171448, 0.2440185397863388]
+['loud', 'soft'] received scores [0.7960378527641296, 0.20396214723587036]
+['quiet', 'noisy'] received scores [0.5142723917961121, 0.48572757840156555]
+['noisy', 'soft'] received scores [0.54334956407547, 0.4566504955291748]
+
+decades/1940s/1948_O/smith_what_the_lord_has_done.txt
+
+They are devoting their time, every Sunday, singing praises to our Heavenly Father, causing his children everywhere to rejoice.
+
+['loud', 'quiet'] received scores [0.9675797820091248, 0.03242023289203644]
+['loud', 'soft'] received scores [0.9271844625473022, 0.07281547784805298]
+['noisy', 'quiet'] received scores [0.9077287912368774, 0.09227117151021957]
+['noisy', 'soft'] received scores [0.8075895309448242, 0.19241051375865936]
+
+decades/1940s/1949_A/kimball_who_is_my_neighbor.txt
+
+War continued and they were attacked but they prostrated themselves before their enemies "praising God in the very act of perishing"
+
+['loud', 'quiet'] received scores [0.8115136027336121, 0.18848639726638794]
+['loud', 'soft'] received scores [0.6343297958374023, 0.36567023396492004]
+['noisy', 'quiet'] received scores [0.673028826713562, 0.3269711434841156]
+['soft', 'noisy'] received scores [0.5466445088386536, 0.4533555209636688]
+
+decades/1940s/1949_A/kimball_who_is_my_neighbor.txt
+
+One thousand Nephites fighting side by side with them were slain, all the 2,060 were wounded, and two hundred fainted from loss of blood, but their faith was justified and they all lived to return to their sweet Lamanite mothers who praised God for the miracle.
+
+['loud', 'quiet'] received scores [0.8486155271530151, 0.15138450264930725]
+['loud', 'soft'] received scores [0.886403501033783, 0.11359652131795883]
+['noisy', 'quiet'] received scores [0.6075664758682251, 0.3924335539340973]
+['noisy', 'soft'] received scores [0.6830514073371887, 0.3169485926628113]
+
+decades/1940s/1949_A/richards_keep_the_commandments.txt
+
+When I think of the light which the Prophet Joseph Smith has thrown upon the knowledge of his day and our day, his interpretations of Holy Writ for centuries obscure in meaning to the learned of the earth, his enlargement of the vision of man, his incomparable contributions to the understanding of the vital relationships in life, home, family, community, government; his expositions of heaven and earth, salvation, exaltation, and eternity—all stamping him with the unmistakable marks of mighty faith and prophetic vision and understanding, I feel to exclaim with the author of our beloved hymn:  Praise to the man who communed with Jehovah, Jesus anointed that Prophet and Seer.
+
+['loud', 'quiet'] received scores [0.9697723388671875, 0.03022768907248974]
+['loud', 'soft'] received scores [0.9643341302871704, 0.035665880888700485]
+['noisy', 'quiet'] received scores [0.7459996938705444, 0.2540002465248108]
+['noisy', 'soft'] received scores [0.7122486233711243, 0.28775134682655334]
+
+decades/1940s/1949_A/smith_second_address.txt
+
+I was that boy, and here in your presence today, I praise my Maker and thank him with all my heart for sending me into a home of real Latter-day Saints.
+
+['loud', 'quiet'] received scores [0.836301863193512, 0.16369813680648804]
+['loud', 'soft'] received scores [0.8842416405677795, 0.11575833708047867]
+['quiet', 'noisy'] received scores [0.5226859450340271, 0.4773140847682953]
+['noisy', 'soft'] received scores [0.5772401690483093, 0.4227598309516907]
+
+decades/1940s/1949_O/bowen_the_struggle_of_life.txt
+
+These have been acknowledged as benefactors of mankind and extolled as exemplars of what is praiseworthy.
+
+['loud', 'quiet'] received scores [0.9494460225105286, 0.050553951412439346]
+['loud', 'soft'] received scores [0.8882942795753479, 0.11170569807291031]
+['noisy', 'quiet'] received scores [0.6088594794273376, 0.39114052057266235]
+['soft', 'noisy'] received scores [0.6027368307113647, 0.39726319909095764]
+
+decades/1940s/1949_O/isaacson_palmyra_pageant_a_great_missionary.txt
+
+The newspapers of the cities in New York were very liberal, very courteous, and very praiseworthy of that great pageant.
+
+['loud', 'quiet'] received scores [0.889827311038971, 0.11017270386219025]
+['loud', 'soft'] received scores [0.5163326859474182, 0.4836672842502594]
+['noisy', 'quiet'] received scores [0.6920233368873596, 0.30797669291496277]
+['soft', 'noisy'] received scores [0.7710109949111938, 0.22898901998996735]
+
+decades/1940s/1949_O/smith_our_father's_work.txt
+
+It has given me comfort and satisfaction, and I praise his name who is the Author of our being, that we are permitted to be his guests in his house today.
+
+['loud', 'quiet'] received scores [0.5020110607147217, 0.4979889690876007]
+['loud', 'soft'] received scores [0.6093429327011108, 0.39065709710121155]
+['quiet', 'noisy'] received scores [0.8200177550315857, 0.1799822300672531]
+['soft', 'noisy'] received scores [0.7464866042137146, 0.253513365983963]
+
+decades/1940s/1949_O/young_the_supreme_test_of_religion.txt
+
+In volume five of the Times and Seasons is found this brief, but noble statement:  Among the improvements going forward in this city, none merit higher praise, than the Seventies' Library.
+
+['quiet', 'loud'] received scores [0.9866870045661926, 0.013312997296452522]
+['soft', 'loud'] received scores [0.509801983833313, 0.490198016166687]
+['quiet', 'noisy'] received scores [0.9933480024337769, 0.006652023643255234]
+['soft', 'noisy'] received scores [0.6769436001777649, 0.3230564296245575]
+
+decades/1940s/1949_O/young_the_supreme_test_of_religion.txt
+
+If there is anything virtuous, lovely, or of good report or praiseworthy, we seek after these things
+
+['loud', 'quiet'] received scores [0.5472431778907776, 0.4527568817138672]
+['soft', 'loud'] received scores [0.5554746389389038, 0.4445253610610962]
+['quiet', 'noisy'] received scores [0.7346302270889282, 0.2653697431087494]
+['soft', 'noisy'] received scores [0.8069943189620972, 0.19300568103790283]
+
+decades/1940s/IE/1940_A.txt
+
+My  heart  goes  out  in  praise  and  gratitude  to  my  Heavenly  Father  for  the  opportunities  which  these  young  men  have  had,  as  well  as  for  the  opportunities  which  they,  through  their  work,  have  been  able  to  afford  those  much  less  fortunate  than  you  and  I.
+
+['loud', 'quiet'] received scores [0.8725993037223816, 0.127400740981102]
+['loud', 'soft'] received scores [0.9101564884185791, 0.0898434966802597]
+['noisy', 'quiet'] received scores [0.5005800127983093, 0.4994199872016907]
+['noisy', 'soft'] received scores [0.5971798896789551, 0.40282005071640015]
+
+decades/1940s/IE/1940_O.txt
+
+We  ask  our  young  men  who  go  into  training  camps  to  remember  always  the  teachings  of  their  parents  and  of  the  Church;  we  ask  them  to  keep  themselves  unsoiled,  in  body  and  mind;  we  ask  them  to  remember  that  our  faith  requires  that  they  be  'honest,  true,  chaste,  benevolent,  and  to  do  good  to  all  men,  .  .  .    and  that  if  anything  is  virtuous,  lovely,  or  of  good  report,  or  praiseworthy,  they  should  seek  after  those  things.
+
+['loud', 'quiet'] received scores [0.511086106300354, 0.488913893699646]
+['loud', 'soft'] received scores [0.7010104060173035, 0.29898959398269653]
+['quiet', 'noisy'] received scores [0.729428768157959, 0.27057120203971863]
+['soft', 'noisy'] received scores [0.5458617806434631, 0.4541381895542145]
+
+decades/1940s/IE/1940_O.txt
+
+When  I  showed  the  Pioneer  Trails  film  and  praised  the  achievements  of  the  pioneers  and  how  they  made  the  desert  blossom  as  the  rose,  it  sounded  to  them  like  I  was  over-rating  the  accomplishments  of  the  pioneers  and  the  beauties  of  Utah.
+
+['loud', 'quiet'] received scores [0.9190796613693237, 0.08092033863067627]
+['loud', 'soft'] received scores [0.8408438563346863, 0.15915614366531372]
+['noisy', 'quiet'] received scores [0.8935883641242981, 0.10641162097454071]
+['noisy', 'soft'] received scores [0.7961726784706116, 0.20382729172706604]
+
+decades/1940s/IE/1940_O.txt
+
+No  normal  man,  having  partaken  of  the  inspiration  that  we  have  enjoyed  this  morning  while  singing  the  praises  of  our  Heavenly  Father  and  listening  to  the  addresses  of  the  brethren,  could  stand  in  the  presence  of  an  audience  like  this  without  realizing  his  need  for  divine  guidance.
+
+['loud', 'quiet'] received scores [0.8172817230224609, 0.1827182173728943]
+['loud', 'soft'] received scores [0.8550938367843628, 0.14490610361099243]
+['noisy', 'quiet'] received scores [0.5625283122062683, 0.4374716877937317]
+['noisy', 'soft'] received scores [0.6291369199752808, 0.3708631098270416]
+
+decades/1940s/IE/1940_O.txt
+
+To  the  ends  of  the  earth  from  this  sacred  building  have  been  broadcast by  radio  songs  of  praise,  accompanied  by  the  great  organ  sermons  of  truth,  expressions  of  gratitude  and  thanksgiving  intended  for  the  blessing  of  all  mankind.
+
+['loud', 'quiet'] received scores [0.9541346430778503, 0.04586533457040787]
+['loud', 'soft'] received scores [0.8858680725097656, 0.11413191258907318]
+['noisy', 'quiet'] received scores [0.8612456917762756, 0.13875429332256317]
+['noisy', 'soft'] received scores [0.6984215974807739, 0.3015783429145813]
+
+decades/1940s/IE/1941_A.txt
+
+So  I  say,  with  grateful  hearts  let  us  give  unto  God  the  honor  and  the  glory  and  the  praise.
+
+['quiet', 'loud'] received scores [0.5607798099517822, 0.439220130443573]
+['loud', 'soft'] received scores [0.6877123713493347, 0.3122876286506653]
+['quiet', 'noisy'] received scores [0.7659710049629211, 0.23402899503707886]
+['soft', 'noisy'] received scores [0.5379084944725037, 0.46209150552749634]
+
+decades/1940s/IE/1941_A.txt
+
+They  fell  far  short  of  their  ideal,  their  words  were  twisted  and  mocked,  and  false  temples  were  built  over  their  bones,  in  praise  of  a  Christ  they  would  have  rejected.
+
+['loud', 'quiet'] received scores [0.837958037853241, 0.16204200685024261]
+['loud', 'soft'] received scores [0.7575903534889221, 0.24240967631340027]
+['noisy', 'quiet'] received scores [0.8130016326904297, 0.1869983971118927]
+['noisy', 'soft'] received scores [0.724328339099884, 0.27567166090011597]
+
+decades/1940s/IE/1941_O.txt
+
+By  its  shining  in  their  lives  they  will  cause  others  to  glorify  God,  and  by  their  well-doing  put  to  silence  the  ignorance  of  foolish  men,  and  show  forth  the  praises  of  Him  who  hath  called  them  out  of  darkness  into  His  marvelous  light.
+
+['loud', 'quiet'] received scores [0.7047749757766724, 0.29522499442100525]
+['loud', 'soft'] received scores [0.9639028906822205, 0.036097146570682526]
+['quiet', 'noisy'] received scores [0.9095267653465271, 0.0904732346534729]
+['noisy', 'soft'] received scores [0.5266660451889038, 0.4733338952064514]
+
+decades/1940s/IE/1941_O.txt
+
+What  a  wonderful influence  for  good  in  the  world  it  would  be  if  all  Latter-day  Saints    could  not  only  say  "We  believe  these  things,"  but  could  truthfully  say,  "We  are  honest ;  we  are  true ;  we  are  chaste  ;  we  are  benevolent ;  we  are  doing  good  to  all  men,"  if  we  could  in  very  truth  say,  "If  there  is  anything  virtuous,  lovely,  or  of  good  report,  or  praiseworthy,  we  seek  after  these  things ;  we  are  keeping  the  Word  of  Wisdom ;  we  are  keeping  the  Sabbath  Day  holy ;  we  are  paying  our  tithes  and  our  offerings."
+
+['loud', 'quiet'] received scores [0.5616204142570496, 0.4383796453475952]
+['loud', 'soft'] received scores [0.6243935823440552, 0.3756064176559448]
+['quiet', 'noisy'] received scores [0.6359381675720215, 0.3640618622303009]
+['soft', 'noisy'] received scores [0.5737773180007935, 0.42622271180152893]
+
+decades/1940s/IE/1941_O.txt
+
+But,  my  brethren  and  sisters,  we  can  very  well  sing :   Praise  to  the  man  who  communed  with  Jehovah !
+
+['loud', 'quiet'] received scores [0.8363770246505737, 0.16362304985523224]
+['loud', 'soft'] received scores [0.7494547963142395, 0.2505452632904053]
+['noisy', 'quiet'] received scores [0.655744194984436, 0.3442557752132416]
+['noisy', 'soft'] received scores [0.5271178483963013, 0.47288209199905396]
+
+decades/1940s/IE/1941_O.txt
+
+So  the  Lord  brought  about  exactly  what  the  Prophet  Isaiah  declared  would  be  brought  to  pass:   For  as  the  earth  bringeth  forth  her  bud,  and  as  the  garden  causes  the  things  that  are  sown  in  it  to  spring  forth;  so  the  Lord  God  will  cause  righteousness  and  praise  to  spring  forth  before  all  the  nations.
+
+['loud', 'quiet'] received scores [0.6258745789527893, 0.3741253912448883]
+['loud', 'soft'] received scores [0.7223427891731262, 0.27765727043151855]
+['quiet', 'noisy'] received scores [0.6772176623344421, 0.32278236746788025]
+['soft', 'noisy'] received scores [0.5743107795715332, 0.4256892502307892]
+
+decades/1940s/IE/1941_O.txt
+
+This  has  been  literally  fulfilled  in  my  lifetime,  so  with  gratitude  in  my  heart  I  praise  my  Heavenly  Father.
+
+['loud', 'quiet'] received scores [0.7571285963058472, 0.2428714483976364]
+['loud', 'soft'] received scores [0.9509503245353699, 0.04904963821172714]
+['quiet', 'noisy'] received scores [0.8027284741401672, 0.19727152585983276]
+['noisy', 'soft'] received scores [0.6044861078262329, 0.3955138921737671]
+
+decades/1940s/IE/1941_O.txt
+
+I  offer  a  sincere  prayer  to  God  that  He  will  not  only  bless  us,  but  bless  every  nation  and  every  people  and  every  tribe  of  people  that  exists  upon  the  earth,  and  prepare  the  backs  for  the  stripes  that  some  shall  receive ;  and  to  those  who  receive  nothing  but  plaudits,  let  them  receive  them  in  humility  and  in  all  praise  to  God  for  His  mercies  to  us,  all  of  which  I  ask  in  Jesus'  name,  Amen.
+
+['quiet', 'loud'] received scores [0.5977230072021484, 0.40227702260017395]
+['loud', 'soft'] received scores [0.6440997123718262, 0.3559003174304962]
+['quiet', 'noisy'] received scores [0.7928676605224609, 0.20713232457637787]
+['soft', 'noisy'] received scores [0.5873713493347168, 0.4126286208629608]
+
+decades/1940s/IE/1941_O.txt
+
+Is  it  not  wonderful  to  belong  to  a  Church  that  absorbs  everything  that  is  praiseworthy?
+
+['loud', 'quiet'] received scores [0.6063163876533508, 0.39368364214897156]
+['loud', 'soft'] received scores [0.6091539263725281, 0.3908460736274719]
+['quiet', 'noisy'] received scores [0.6398338675498962, 0.36016613245010376]
+['soft', 'noisy'] received scores [0.6370863318443298, 0.36291369795799255]
+
+decades/1940s/IE/1941_O.txt
+
+In  a  few  days  my  friend  wrote  to  me  and  said :  "I  wonder  if  other  people  would  think  what  I  think,"  inferring  that  he  had  been  healed  by  hearing  the  hymns  of  praise  that  the  Lord  loves  to  hear.
+
+['loud', 'quiet'] received scores [0.6096388101577759, 0.3903611898422241]
+['loud', 'soft'] received scores [0.6981388926506042, 0.30186110734939575]
+['quiet', 'noisy'] received scores [0.6369143128395081, 0.3630857467651367]
+['soft', 'noisy'] received scores [0.5422338843345642, 0.457766056060791]
+

@@ -1,0 +1,99 @@
+﻿decades/1920s/IE/1921_A.txt
+
+They  came  to  see  what  was,  the  occasion  for  such  a  strange  and  distressing  noise.
+
+['loud', 'quiet'] received scores [0.9926369786262512, 0.007363004609942436]
+['loud', 'soft'] received scores [0.993738055229187, 0.006261956878006458]
+['noisy', 'quiet'] received scores [0.996528148651123, 0.0034718813840299845]
+['noisy', 'soft'] received scores [0.9970490336418152, 0.0029509738087654114]
+
+decades/1920s/IE/1921_A.txt
+
+I  like  the  idea  of  lots  of  noise  and  confusion,  people  inquiring,  "Who  is  that?
+
+['loud', 'quiet'] received scores [0.9903441071510315, 0.009655945934355259]
+['loud', 'soft'] received scores [0.9793781638145447, 0.020621811971068382]
+['noisy', 'quiet'] received scores [0.9949737191200256, 0.005026301369071007]
+['noisy', 'soft'] received scores [0.9892082810401917, 0.010791762731969357]
+
+decades/1920s/IE/1921_O.txt
+
+He  does  not  like  very  loud,  noisy  laughter — he  says  that  is  sin,  but  he  likes  to   see  a  "cheerful  countenance,"  when  people  come  to  worship  him  in  the  beauty  of  holiness,  with  a  smile  upon  their  faces  and  gladness  in  their  hearts.
+
+['quiet', 'loud'] received scores [0.7781953811645508, 0.22180458903312683]
+['soft', 'loud'] received scores [0.7799630761146545, 0.22003689408302307]
+['quiet', 'noisy'] received scores [0.5625677108764648, 0.43743231892585754]
+['soft', 'noisy'] received scores [0.565093457698822, 0.4349065124988556]
+
+decades/1920s/IE/1921_O.txt
+
+I  shall  read,  my  brethren  and  sisters,  from  the  seventeenth  chapter  of  Isaiah,  the  twelfth  verse  :   Woe  to  the  multitude  of  many  people,  which  make  a  noise  like  the  noise  of  the  seas;  and  to  the  rushing  of  nations,  that  make  a  rushing  like  the  rushing  of  mighty  waters.
+
+['loud', 'quiet'] received scores [0.9903833866119385, 0.009616685099899769]
+['loud', 'soft'] received scores [0.9776048064231873, 0.02239522896707058]
+['noisy', 'quiet'] received scores [0.9939559102058411, 0.0060441321693360806]
+['noisy', 'soft'] received scores [0.9858567118644714, 0.014143301174044609]
+
+decades/1920s/IE/1921_O.txt
+
+On  one  occasion,  about  midnight,  Brigham  Young  went  out  and  took  with  him  a  cowhide  and  said  to  Hawley:  "If  you  don't  quit  annoying  the  people  with  your,  noise,  I'll  cowhide  you.
+
+['loud', 'quiet'] received scores [0.9655980467796326, 0.03440193459391594]
+['loud', 'soft'] received scores [0.903549075126648, 0.09645088762044907]
+['noisy', 'quiet'] received scores [0.9886656403541565, 0.011334371753036976]
+['noisy', 'soft'] received scores [0.9667915105819702, 0.03320847079157829]
+
+decades/1920s/IE/1921_O.txt
+
+Mr.  Hawley  then  considered  that  he  had  suffered  persecution  enough  for  his  Master's  sake  and  shut  up  his  noise.
+
+['loud', 'quiet'] received scores [0.6588887572288513, 0.34111127257347107]
+['loud', 'soft'] received scores [0.9054690599441528, 0.09453094005584717]
+['noisy', 'quiet'] received scores [0.8682973980903625, 0.13170266151428223]
+['noisy', 'soft'] received scores [0.9703204035758972, 0.029679568484425545]
+
+decades/1920s/IE/1924_A.txt
+
+"So  I  prophesied  as  I  was  commanded :  and  as  I  prophesied,  there  was  a  noise,  and  beheld  a  shaking,  and  the  bones  came  together,  bone  to  his  bone,   "And  when  I  beheld,  lo,  the  sinews  and  the  flesh  came  up  upon  them,  and  the  skin  covered  them  above;  but  there  was  no  breath  in  them.
+
+['loud', 'quiet'] received scores [0.9808772206306458, 0.019122809171676636]
+['loud', 'soft'] received scores [0.9271344542503357, 0.07286551594734192]
+['noisy', 'quiet'] received scores [0.9913700222969055, 0.0086299367249012]
+['noisy', 'soft'] received scores [0.9660972356796265, 0.03390274941921234]
+
+decades/1920s/IE/1924_O.txt
+
+It  is  recorded  of  Thomas  Carlyle,  who  could  not  do  his  thinking  if  there  were  any  great  noise  about,  that  he  had  a  neighbor,  a  lady,  who  kept  some  chickens ;  and  the  crowing  of  the  roosters  was  a  source  of  annoyance  to  him.
+
+['loud', 'quiet'] received scores [0.8581956624984741, 0.14180435240268707]
+['loud', 'soft'] received scores [0.9003555178642273, 0.09964441508054733]
+['noisy', 'quiet'] received scores [0.9490162134170532, 0.050983767956495285]
+['noisy', 'soft'] received scores [0.9652670621871948, 0.03473293036222458]
+
+decades/1920s/IE/1924_O.txt
+
+We  are  too  serious  now  for  the  mercenary  and  mechanical  methods  of  a  noisy  evangelist,  uttering  only  safe  and  remunerative  sensationalism ;  we  want  a  man  from  some  Patmos  who  can  say,  'Thus  saith  the  Lord.
+
+['loud', 'quiet'] received scores [0.993715763092041, 0.006284269038587809]
+['loud', 'soft'] received scores [0.9847615957260132, 0.015238407999277115]
+['noisy', 'quiet'] received scores [0.9954184293746948, 0.004581566900014877]
+['noisy', 'soft'] received scores [0.9888631701469421, 0.011136801913380623]
+
+decades/1920s/IE/1925_O.txt
+
+There  was  no  noise  about  it,  word  just  came,  "You  are  called  to  preside  over  the  Southern  States  mission,  and  Brother  Spry  will  take  you  down  and  turn  the  mission  over  to  you.
+
+['quiet', 'loud'] received scores [0.9949494004249573, 0.005050567910075188]
+['soft', 'loud'] received scores [0.9704869985580444, 0.029512980952858925]
+['quiet', 'noisy'] received scores [0.9927669763565063, 0.007232994772493839]
+['soft', 'noisy'] received scores [0.9581783413887024, 0.041821666061878204]
+
+decades/1920s/IE/1927_O.txt
+
+The  prophets  who  dwelt  on  this  continent  had  the  same  knowledge  revealed  to  them  and  have  proclaimed  it  in  the  Book  of  Mormon:   "But  behold,"  said  Nephi,  "in  the  last  days,  or  in  the  days  of  the  Gentiles —   yea,  behold  all  the  nations  of  the  Gentiles  and  also  the  Jews,  both  those  who  shall  come  upon  this  land  and  those  who  shall  be  upon  other  lands,  yea,  even  upon  all  the  lands  of  the  earth,  behold,  they  will  be  drunken  with  iniquity  and  all  manner  of  abominations —   "And  when  that  day  shall  come  they  shall  be  visited  of  the  Lord  of  Hosts,  with  thunder  and  with  earthquake,  and  with  a  great  noise,  and  with  storm,  and  with  tempest,  and  with  the  flame  of  devouring  fire.
+
+['loud', 'quiet'] received scores [0.9423028826713562, 0.057697124779224396]
+['loud', 'soft'] received scores [0.9023088812828064, 0.09769109636545181]
+['noisy', 'quiet'] received scores [0.9759970307350159, 0.024002913385629654]
+['noisy', 'soft'] received scores [0.9583260416984558, 0.041673969477415085]
+

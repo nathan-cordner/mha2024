@@ -1,0 +1,261 @@
+﻿decades/1920s/IE/1920_A.txt
+
+It  wasn't  two  minutes  until  every  boy  was  so  quiet  you  could  hear  the  old  clock  tick  upon  the  wall,  and  the  bishop  was  just  as  anxious  as  he  could  be  to  get  hold  of  a  piece  of  rope  himself!
+
+['quiet', 'loud'] received scores [0.9759485721588135, 0.024051452055573463]
+['soft', 'loud'] received scores [0.6516867876052856, 0.34831327199935913]
+['quiet', 'noisy'] received scores [0.9357190728187561, 0.0642809346318245]
+['noisy', 'soft'] received scores [0.5983753800392151, 0.4016246199607849]
+
+decades/1920s/IE/1920_A.txt
+
+Bread  would  have  been  broken,  blessed,  and  partaken  of;  wine  blessed  and  drank,  and  then  you  would  have  stolen  quietly  back  to  your  home,  not  knowing  whether,  before  the  setting  of  tomorrow's  sun,  you,  too,  would  be  thrown  to  the  lions.
+
+['quiet', 'loud'] received scores [0.9062219262123108, 0.09377806633710861]
+['loud', 'soft'] received scores [0.509983479976654, 0.49001654982566833]
+['quiet', 'noisy'] received scores [0.8947027325630188, 0.10529723018407822]
+['noisy', 'soft'] received scores [0.5420474410057068, 0.4579525589942932]
+
+decades/1920s/IE/1921_A.txt
+
+Already  there  are  disquieting  symptoms manifest  in  the  present  generation.
+
+['loud', 'quiet'] received scores [0.8697230219841003, 0.13027699291706085]
+['loud', 'soft'] received scores [0.7461062073707581, 0.25389379262924194]
+['noisy', 'quiet'] received scores [0.9604175686836243, 0.03958245366811752]
+['noisy', 'soft'] received scores [0.9143874645233154, 0.08561257272958755]
+
+decades/1920s/IE/1921_A.txt
+
+These  are  some  of  the  disquieting  symptoms  that  my  work  in  the  Church  is  constantly  bringing  to  my  attention.
+
+['loud', 'quiet'] received scores [0.7766148447990417, 0.22338515520095825]
+['loud', 'soft'] received scores [0.7373933792114258, 0.2626066207885742]
+['noisy', 'quiet'] received scores [0.7694337368011475, 0.23056626319885254]
+['noisy', 'soft'] received scores [0.7293907999992371, 0.2706092596054077]
+
+decades/1920s/IE/1921_O.txt
+
+In  the  meantime  other  streams  have  found  their  way  into  the  channel  of  the  river,  streams  coming  from  the  summits  of  the  storm  swept  peaks  above,  bearing  in  their  current  silt,  and  boulders,  and  up-rooted  trees,  which  have  converted  the  once  quietly  flowing  current  into  a  turbulent  torrent,  which  is  beating against  the  diversion  dam  with  well  nigh  resistless  fury.
+
+['loud', 'quiet'] received scores [0.9331231117248535, 0.06687690317630768]
+['loud', 'soft'] received scores [0.941205620765686, 0.05879436805844307]
+['noisy', 'quiet'] received scores [0.9693070650100708, 0.030692897737026215]
+['noisy', 'soft'] received scores [0.9731423854827881, 0.026857580989599228]
+
+decades/1920s/IE/1921_O.txt
+
+When  he  sat  at  the  table  he  very  quietly  and  without  ostentation  took  his  glass  and  placed  it  upside  down.
+
+['quiet', 'loud'] received scores [0.997359037399292, 0.0026409593410789967]
+['soft', 'loud'] received scores [0.9495213627815247, 0.05047862231731415]
+['quiet', 'noisy'] received scores [0.9975998401641846, 0.0024001558776944876]
+['soft', 'noisy'] received scores [0.9539225101470947, 0.04607747867703438]
+
+decades/1920s/IE/1922_A.txt
+
+David  Street,  so  far  as  business  was  concerned,  was  quiet.
+
+['quiet', 'loud'] received scores [0.9964027404785156, 0.003597250673919916]
+['soft', 'loud'] received scores [0.9688848257064819, 0.031115207821130753]
+['quiet', 'noisy'] received scores [0.9923918843269348, 0.00760815292596817]
+['soft', 'noisy'] received scores [0.9361575245857239, 0.06384247541427612]
+
+decades/1920s/IE/1922_A.txt
+
+He  remained  silent,  his  attitude  portending  evil,  and  he  intimated  to  us  to  be  quiet.
+
+['quiet', 'loud'] received scores [0.9723330736160278, 0.0276668481528759]
+['loud', 'soft'] received scores [0.5813257694244385, 0.4186742603778839]
+['quiet', 'noisy'] received scores [0.9592499136924744, 0.040750082582235336]
+['noisy', 'soft'] received scores [0.6745831370353699, 0.3254168629646301]
+
+decades/1920s/IE/1922_A.txt
+
+We  shall  live  hereafter —  not  a  quiet,  silent,  purposeless  life,  but  a  life  of  development  and  progress, everlastingly  achieving,  everlastingly  growing,-;  everlastingly  becoming  more  and  more  like  the  greatest  and  highest  of  our  ideals.
+
+['loud', 'quiet'] received scores [0.5321280360221863, 0.46787193417549133]
+['loud', 'soft'] received scores [0.7348255515098572, 0.2651744484901428]
+['noisy', 'quiet'] received scores [0.5564805269241333, 0.4435195028781891]
+['noisy', 'soft'] received scores [0.7535146474838257, 0.24648532271385193]
+
+decades/1920s/IE/1922_A.txt
+
+We  are  half  in  heaven  and  half  on  earth  when  we  do  the  will  of  the  Father;  for  there  is  no  liberty  so  sweet  and  enduring  as  the  liberty  of  the  gospel ;  and  the  wealth,  the  honors,  the  dignities  of  the  world  cannot  equal  nor  bring  that  peace  which  comes  from  a  still  and  quiet  conscience,   Isaiah  said:   "For  unto  us  a  Child  is  born,  unto  us  a  Son  is  given;  and  the  government shall  be  upon  His  shoulder;  and  His  name  shall  be  called  Wonderful,  Counsellor,  the  mighty  God,  the  everlasting  Father,  the  Prince  of  Peace.
+
+['quiet', 'loud'] received scores [0.9808502793312073, 0.019149724394083023]
+['soft', 'loud'] received scores [0.6848617792129517, 0.3151382505893707]
+['quiet', 'noisy'] received scores [0.9904493093490601, 0.009550719521939754]
+['soft', 'noisy'] received scores [0.8148165941238403, 0.18518340587615967]
+
+decades/1920s/IE/1923_A.txt
+
+I  believe  that  nearly  all  of  the  hardships  of  a  majority  of  the  people  would  disappear  if  the}'  were  willing  to  forego  the  habit  of  wearing  silk  stockings,  so  to  speak,  and  get  back  to  the  ordinary  manner  of  dressing  in  a  rather  quiet,  unassuming  way;  stay  away  from  about  nine-tenths  of  the  picture  shows  that  they  attend ;  return  to  the  ways  of  thrift  and  economy  that  I  have  heard  preached  from  this  stand  from  the  days  of  President  Brigham  Young  until  today.
+
+['quiet', 'loud'] received scores [0.9840379357337952, 0.015962056815624237]
+['soft', 'loud'] received scores [0.7529306411743164, 0.2470693737268448]
+['quiet', 'noisy'] received scores [0.977665901184082, 0.022334082052111626]
+['soft', 'noisy'] received scores [0.6839334964752197, 0.3160664737224579]
+
+decades/1920s/IE/1923_A.txt
+
+I  did  not  quiet  understand  this  morning  whether  it  was  thirty-six  per  thousand ;  I  believe  that  is  what  it  was.
+
+['loud', 'quiet'] received scores [0.5571097135543823, 0.4428902864456177]
+['loud', 'soft'] received scores [0.6130570769309998, 0.38694292306900024]
+['noisy', 'quiet'] received scores [0.7585909366607666, 0.2414090782403946]
+['noisy', 'soft'] received scores [0.7983011603355408, 0.20169879496097565]
+
+decades/1920s/IE/1923_O.txt
+
+Believing  in  the  sincerity  and  high  moral  character  of  these  theologians,  I  beg  of  them,  in  the  name  of  Christ  and  perishing  humanity,  that  they  will  quietly  and  lovingly  gather  about  the  table  with  God's  book  before  them  and  let  them  settle  every  disputed  question.
+
+['quiet', 'loud'] received scores [0.9871023893356323, 0.012897606007754803]
+['soft', 'loud'] received scores [0.8330972194671631, 0.16690278053283691]
+['quiet', 'noisy'] received scores [0.9788162708282471, 0.021183663979172707]
+['soft', 'noisy'] received scores [0.7508442997932434, 0.2491556853055954]
+
+decades/1920s/IE/1923_O.txt
+
+You  mothers  and  fathers,  bear  testimony  in  our  fast  meetings,  and  our  other  meetings,  as  to  the  truthfulness  of  God's  work,  that  the  people  may  hear  your  testimony,  but  I  sometimes  wonder  how  often  we  take  our  boys  and  our  girls  on  one  side,  or  how  often  we  gather   them  before  the  family  fire,  and  when  all  is  peaceful  and  quiet,  bear  testimony  as  fathers  and  mothers  to  the  girl  and  the  boy  and  let  them  know  from  our  lips  that  God  lives  and  that  he  has  spoken  again  in  these  latter  clays.
+
+['quiet', 'loud'] received scores [0.9499671459197998, 0.05003281682729721]
+['soft', 'loud'] received scores [0.5244063138961792, 0.475593626499176]
+['quiet', 'noisy'] received scores [0.9754276275634766, 0.02457239106297493]
+['soft', 'noisy'] received scores [0.6974548697471619, 0.3025451600551605]
+
+decades/1920s/IE/1923_O.txt
+
+President  Grant  answered  he  had  had  a  hard  week  and  would  prefer  to  spend  the  evening  quietly.
+
+['quiet', 'loud'] received scores [0.9820981621742249, 0.01790185458958149]
+['loud', 'soft'] received scores [0.5809897780418396, 0.4190102219581604]
+['quiet', 'noisy'] received scores [0.9633005261421204, 0.036699458956718445]
+['noisy', 'soft'] received scores [0.7434582710266113, 0.2565416991710663]
+
+decades/1920s/IE/1924_A.txt
+
+President  Grant  announced  to  the  congregation  outside  that  it  would  be  acceptable  if  they  would  be  as  quiet  as  possible  and  move  around  as  little  as  possible  so  that  those  who  were  standing  at  the  Bureau  of  Information  could  hear  the  speakers.
+
+['quiet', 'loud'] received scores [0.9706894159317017, 0.02931055799126625]
+['soft', 'loud'] received scores [0.7825800776481628, 0.21741992235183716]
+['quiet', 'noisy'] received scores [0.7756121754646301, 0.22438783943653107]
+['noisy', 'soft'] received scores [0.7269129753112793, 0.27308693528175354]
+
+decades/1920s/IE/1924_O.txt
+
+She  had  once  been  a  favorite  in  the  family  of  the  renowned  Scotch  author,  Robert  Louis  Stevenson,  who  searched  the  world  over  to  spend  his  last  days  in  a  place  of  absolute  quiet  and  peace,  where  he  might  write  as  he  desired.
+
+['quiet', 'loud'] received scores [0.972210168838501, 0.027789805084466934]
+['soft', 'loud'] received scores [0.7860136032104492, 0.2139863520860672]
+['quiet', 'noisy'] received scores [0.953364372253418, 0.04663560166954994]
+['soft', 'noisy'] received scores [0.6821764707565308, 0.31782352924346924]
+
+decades/1920s/IE/1924_O.txt
+
+True,  mobs  have  quieted  them  for  a  moment,  but  they  have  been  able  to  raise  their  voices  again.
+
+['quiet', 'loud'] received scores [0.5492997765541077, 0.4507002532482147]
+['loud', 'soft'] received scores [0.8901042342185974, 0.10989581793546677]
+['noisy', 'quiet'] received scores [0.8079490661621094, 0.19205090403556824]
+['noisy', 'soft'] received scores [0.9764865040779114, 0.02351349964737892]
+
+decades/1920s/IE/1925_A.txt
+
+Tracting  societies,  carried  on  by  our  own  members,  are  quietly,  though  effectively,  overcoming  the  ignorance  that  seems  to  be  the  cause  of  the  misunderstanding  against  this  great  Church,  which  stands  for  all  that  the  gospel  of  Jesus  Christ  contains.
+
+['quiet', 'loud'] received scores [0.9968045353889465, 0.0031954345759004354]
+['soft', 'loud'] received scores [0.7707090973854065, 0.2292909473180771]
+['quiet', 'noisy'] received scores [0.9963874220848083, 0.0036125818733125925]
+['soft', 'noisy'] received scores [0.7482312321662903, 0.25176873803138733]
+
+decades/1920s/IE/1926_O.txt
+
+We  cannot  sit  still  and  quietly  at  the  Historian's  office  and  steer  the  great  ship  of  Zion  historically,  we  need  the  cooperation  of  the  local  authorities  and  the  people  generally.
+
+['loud', 'quiet'] received scores [0.87440025806427, 0.12559978663921356]
+['loud', 'soft'] received scores [0.8995130062103271, 0.10048701614141464]
+['noisy', 'quiet'] received scores [0.981698215007782, 0.01830177940428257]
+['noisy', 'soft'] received scores [0.9857081770896912, 0.014291821047663689]
+
+decades/1920s/IE/1927_A.txt
+
+"I  discovered  a  quiet  respect  for  the  'Mormons'  by  their  Gentile  friends,  a  constant  and  ever-flowing  tribute  to  'Mormon'  industry,  'Mormon'  art,  'Mormon'  initiative.
+
+['quiet', 'loud'] received scores [0.9959617853164673, 0.004038219340145588]
+['soft', 'loud'] received scores [0.9808651208877563, 0.019134903326630592]
+['quiet', 'noisy'] received scores [0.9962624311447144, 0.003737503895536065]
+['soft', 'noisy'] received scores [0.9822700023651123, 0.0177299901843071]
+
+decades/1920s/IE/1927_A.txt
+
+In  the  evening,  in  the  quiet  little  home  of  Simon  and  his  family — Lazarus,  Martha,  and  Mary — Mary  anointed  his  feet,  and  it  was  then  that  he  said  that  as  long  as  his  gospel  shall  be  known  the  act  of  Mary  will  be  remembered.
+
+['quiet', 'loud'] received scores [0.9872869253158569, 0.012713075615465641]
+['soft', 'loud'] received scores [0.7633591890335083, 0.23664076626300812]
+['quiet', 'noisy'] received scores [0.9919220805168152, 0.008077908307313919]
+['soft', 'noisy'] received scores [0.8360829949378967, 0.16391704976558685]
+
+decades/1920s/IE/1927_A.txt
+
+The  following  day,  Wednesday,  he  spent  quietly  with  his  disciples on  the  Mount  of  Olives,  gave  them  his  last  personal  instructions, explained  to  them  some  things  he  had  said  in  the  temple  concerning the  great  events  that  would  occur  in  the  future  and  others  that  would  occur  before  his  second  coming.
+
+['quiet', 'loud'] received scores [0.9928906559944153, 0.007109326310455799]
+['soft', 'loud'] received scores [0.8573283553123474, 0.1426716148853302]
+['quiet', 'noisy'] received scores [0.9946709871292114, 0.005329002160578966]
+['soft', 'noisy'] received scores [0.8892704248428345, 0.11072958260774612]
+
+decades/1920s/IE/1927_O.txt
+
+His  father-in-law,  who  happened  to  be  in  the  car  with  them,  a  little  man,  was  very  quiet  and  had  nothing  to  say  all  day,  but  had  listened  to  the  conversation.
+
+['quiet', 'loud'] received scores [0.9941615462303162, 0.00583846028894186]
+['soft', 'loud'] received scores [0.9098193645477295, 0.09018062800168991]
+['quiet', 'noisy'] received scores [0.9929777979850769, 0.007022158708423376]
+['soft', 'noisy'] received scores [0.8933700919151306, 0.10662994533777237]
+
+decades/1920s/IE/1927_O.txt
+
+I  told  my  mother  this,  and  in  her  quiet  way  she  said :   "I  wish  you  would  read  the  second  chapter  of  II  Nephi,  in  that  wonderful  book,  the  Book  of  Mormon,  and  I  think  it  will  answer  the  statements  made  by  the  father  or  anyone  else  as  to  opposition.
+
+['quiet', 'loud'] received scores [0.9962267875671387, 0.003773211967200041]
+['soft', 'loud'] received scores [0.9598956108093262, 0.040104418992996216]
+['quiet', 'noisy'] received scores [0.995676577091217, 0.004323435947299004]
+['soft', 'noisy'] received scores [0.954290509223938, 0.0457095131278038]
+
+decades/1920s/IE/1928_A.txt
+
+Have  you  in  your  moments  of  trial  or  deep  sorrow  felt  the  hand  of  a  friend  steal  quietly  into  your  hand,  and  by  pressure  express  sympathy  and  brotherhood  to  you?
+
+['quiet', 'loud'] received scores [0.9808539748191833, 0.01914607360959053]
+['soft', 'loud'] received scores [0.7941331267356873, 0.20586687326431274]
+['quiet', 'noisy'] received scores [0.983983039855957, 0.01601700484752655]
+['soft', 'noisy'] received scores [0.822248101234436, 0.17775194346904755]
+
+decades/1920s/IE/1928_O.txt
+
+Not  with  any  great  bombasting,  not  with  any  great  manifestation,  but  just  quietly  and  without  any  assuming,  as  the  dews  fall  from  heaven.
+
+['quiet', 'loud'] received scores [0.996376097202301, 0.003623946802690625]
+['soft', 'loud'] received scores [0.9958778619766235, 0.0041221440769732]
+['quiet', 'noisy'] received scores [0.993468701839447, 0.006531324237585068]
+['soft', 'noisy'] received scores [0.9925737977027893, 0.007426230702549219]
+
+decades/1920s/IE/1929_A.txt
+
+I  confess  I  am  taken  somewhat  by  surprise  in  being  called  upon  to  occupy  this  position,  for,  as  I  saw  the  time  of  the  General  Conference  rapidly  slipping  away  and  contemplated  the  great  number  of  those  yet,  presumably,  to  be  heard  from,  I  thought  surely  I  can  quietly  retain  my  seat  without  fear  of  being  called  upon  to  face  this  vast  congregation ;  but  now  that  I  am  called  I  sincerely  hope  that  I  may  enjoy  the  favor  of  the  Lord  while  I  stand  before  you.
+
+['quiet', 'loud'] received scores [0.8811581134796143, 0.11884190887212753]
+['soft', 'loud'] received scores [0.762700080871582, 0.23729988932609558]
+['quiet', 'noisy'] received scores [0.9014415144920349, 0.09855853766202927]
+['soft', 'noisy'] received scores [0.7985798120498657, 0.20142018795013428]
+
+decades/1920s/IE/1929_O.txt
+
+We  rejoice  in  knowing  that  our  patriarch,  whose  health  is  such  that  he  cannot  be  with  us,  is  resting  quietly  and  hearing  by  means  of  the  radio  the  proceedings  of  this  conference.
+
+['quiet', 'loud'] received scores [0.9936008453369141, 0.006399181205779314]
+['soft', 'loud'] received scores [0.7710556983947754, 0.22894428670406342]
+['quiet', 'noisy'] received scores [0.9923520088195801, 0.007647968828678131]
+['soft', 'noisy'] received scores [0.7378365397453308, 0.2621634304523468]
+

@@ -1,0 +1,144 @@
+decades/2020s/2020_A/nelson_hear_him.txt
+
+With billions of words online and in a marketing-saturated world constantly infiltrated by noisy, nefarious efforts of the adversary, where can we go to hear Him?
+
+['loud', 'quiet'] received scores [0.9820075631141663, 0.017992395907640457]
+['loud', 'soft'] received scores [0.9508745670318604, 0.04912543669342995]
+['noisy', 'quiet'] received scores [0.989203691482544, 0.010796298272907734]
+['noisy', 'soft'] received scores [0.9701437950134277, 0.029856182634830475]
+
+decades/2020s/2020_O/camargo_ask,_seek,_and_knock.txt
+
+Because the world can be confusing and noisy, full of deception and distractions.
+
+['loud', 'quiet'] received scores [0.9922680854797363, 0.007731956895440817]
+['loud', 'soft'] received scores [0.9712230563163757, 0.02877696417272091]
+['noisy', 'quiet'] received scores [0.9963173270225525, 0.0036826760042458773]
+['noisy', 'soft'] received scores [0.9861397743225098, 0.01386021263897419]
+
+decades/2020s/2020_O/gong_all_nations,_kindreds,_and_tongues.txt
+
+Religious goodness and wisdom are needed in today’s cluttered, noisy, polluted world.
+
+['loud', 'quiet'] received scores [0.9777957797050476, 0.022204192355275154]
+['loud', 'soft'] received scores [0.9462419152259827, 0.05375808849930763]
+['noisy', 'quiet'] received scores [0.9869658946990967, 0.013034118339419365]
+['noisy', 'soft'] received scores [0.9680171012878418, 0.031982868909835815]
+
+decades/2020s/2021_A/eyring_i_love_to_see_the_temple.txt
+
+Then he told me about a moment during one of his parties, in the midst of the raucous noise, when he suddenly realized that he felt lonely.
+
+['loud', 'quiet'] received scores [0.9921603202819824, 0.007839661091566086]
+['loud', 'soft'] received scores [0.9733292460441589, 0.0266707856208086]
+['noisy', 'quiet'] received scores [0.9958311319351196, 0.004168865270912647]
+['noisy', 'soft'] received scores [0.9856902360916138, 0.014309789054095745]
+
+decades/2020s/2021_A/jones_essential_conversations.txt
+
+The best time to teach is early, while children are still immune to the temptations of [the] mortal enemy, and long before the words of truth may be harder for them to hear in the noise of their personal struggles.
+
+['quiet', 'loud'] received scores [0.5140566825866699, 0.48594337701797485]
+['loud', 'soft'] received scores [0.6593315005302429, 0.3406684696674347]
+['noisy', 'quiet'] received scores [0.7012168169021606, 0.29878318309783936]
+['noisy', 'soft'] received scores [0.8277347087860107, 0.17226527631282806]
+
+decades/2020s/2021_A/nelson_what_we_are_learning_and_will_never_forget.txt
+
+In contrast, the voice of the Lord is not “a voice of a great tumultuous noise, but … it [is] a still voice of perfect mildness, [like] a whisper, and it [pierces] even to the very soul.
+
+['quiet', 'loud'] received scores [0.9577456116676331, 0.04225436970591545]
+['soft', 'loud'] received scores [0.9781790375709534, 0.021820953115820885]
+['quiet', 'noisy'] received scores [0.9108261466026306, 0.08917379379272461]
+['soft', 'noisy'] received scores [0.952831506729126, 0.04716847091913223]
+
+decades/2020s/2021_A/nelson_what_we_are_learning_and_will_never_forget.txt
+
+Soon we may be able to choose to fill that time again with the noise and commotion of the world.
+
+['loud', 'quiet'] received scores [0.9587318897247314, 0.041268110275268555]
+['loud', 'soft'] received scores [0.9539443254470825, 0.04605567827820778]
+['noisy', 'quiet'] received scores [0.9813385605812073, 0.01866144873201847]
+['noisy', 'soft'] received scores [0.9791164994239807, 0.02088351733982563]
+
+decades/2020s/2022_A/klebingat_valiant_discipleship_in_the_latter_days.txt
+
+Don’t be fooled or intimidated by the loud adversarial noises emanating from the great and spacious building.
+
+['loud', 'quiet'] received scores [0.994828462600708, 0.005171500146389008]
+['loud', 'soft'] received scores [0.9915375709533691, 0.0084623908624053]
+['noisy', 'quiet'] received scores [0.9960518479347229, 0.003948133904486895]
+['noisy', 'soft'] received scores [0.9935343861579895, 0.0064655933529138565]
+
+decades/2020s/2022_O/gong_happy_and_forever.txt
+
+This world is noisy, crowded, pushy, with pretense and posturing.
+
+['loud', 'quiet'] received scores [0.9978001713752747, 0.002199830487370491]
+['loud', 'soft'] received scores [0.9975194931030273, 0.0024805350694805384]
+['noisy', 'quiet'] received scores [0.9973447918891907, 0.002655199496075511]
+['noisy', 'soft'] received scores [0.9970061779022217, 0.002993836300447583]
+
+decades/2020s/2022_O/iii_and_they_sought_to_see_jesus_who_he_was.txt
+
+“And again [Jesus] entered into Capernaum after some days; and it was noised that he was in the house.
+
+['loud', 'quiet'] received scores [0.9247527122497559, 0.07524726539850235]
+['loud', 'soft'] received scores [0.9364983439445496, 0.06350163370370865]
+['noisy', 'quiet'] received scores [0.9591544270515442, 0.040845587849617004]
+['noisy', 'soft'] received scores [0.9657291769981384, 0.034270837903022766]
+
+decades/2020s/2022_O/iii_and_they_sought_to_see_jesus_who_he_was.txt
+
+Consider that in the middle of what must have been a serious teaching moment, Jesus hears a scratching noise, looks up, and sees a growing hole in the ceiling as dust and thatch fall into the room.
+
+['loud', 'quiet'] received scores [0.9312772750854492, 0.06872271001338959]
+['loud', 'soft'] received scores [0.8982545137405396, 0.10174542665481567]
+['noisy', 'quiet'] received scores [0.9856126308441162, 0.014387317933142185]
+['noisy', 'soft'] received scores [0.9780848622322083, 0.021915145218372345]
+
+decades/2020s/2023_A/cordon_never_give_up_an_opportunity_to_testify_of_christ.txt
+
+The adversary creates so much noise that it can be difficult to hear the Lord’s voice.
+
+['loud', 'quiet'] received scores [0.9892661571502686, 0.010733824223279953]
+['loud', 'soft'] received scores [0.9854682683944702, 0.014531743712723255]
+['noisy', 'quiet'] received scores [0.9953464269638062, 0.004653568379580975]
+['noisy', 'soft'] received scores [0.9936861395835876, 0.006313858553767204]
+
+decades/2020s/2023_A/haynie_a_living_prophet_for_the_latter_days.txt
+
+Near the end of the lunch, I was surprised to hear a loud crunching noise, and when I looked up, I saw that President Nelson had stood his plastic water bottle straight up and then flattened it and replaced the lid.
+
+['loud', 'quiet'] received scores [0.9927183389663696, 0.0072816177271306515]
+['loud', 'soft'] received scores [0.9807138442993164, 0.019286179915070534]
+['noisy', 'quiet'] received scores [0.9945935606956482, 0.00540640763938427]
+['noisy', 'soft'] received scores [0.9856358170509338, 0.014364209026098251]
+
+decades/2020s/2023_A/haynie_a_living_prophet_for_the_latter_days.txt
+
+I then heard some noise to my left, and President Henry B. Eyring was flattening his plastic water bottle, although he had adopted a different strategy by doing it while the bottle was horizontal, which took more effort than with the bottle straight up
+
+['loud', 'quiet'] received scores [0.968599796295166, 0.03140022233128548]
+['loud', 'soft'] received scores [0.8495861291885376, 0.15041391551494598]
+['noisy', 'quiet'] received scores [0.9925029277801514, 0.007497054059058428]
+['noisy', 'soft'] received scores [0.960381805896759, 0.03961822763085365]
+
+decades/2020s/2023_A/renlund_accessing_god’s_power_through_covenants.txt
+
+This phenomenon, known generally as a tidal bore, is referred to locally as pororoca, or “great roar,” because of the loud noise it makes.
+
+['loud', 'quiet'] received scores [0.9972245693206787, 0.0027754453476518393]
+['loud', 'soft'] received scores [0.9966622591018677, 0.00333774765022099]
+['noisy', 'quiet'] received scores [0.9981672167778015, 0.0018328226869925857]
+['noisy', 'soft'] received scores [0.9977954626083374, 0.002204572781920433]
+
+decades/2020s/2023_O/stevenson_promptings_of_the_spirit.txt
+
+The noise, clamor, and contention prevalent in the world may overpower still, quiet impressions of the Holy Spirit.
+
+['quiet', 'loud'] received scores [0.5773271918296814, 0.4226728081703186]
+['loud', 'soft'] received scores [0.5739413499832153, 0.42605865001678467]
+['noisy', 'quiet'] received scores [0.890008807182312, 0.10999121516942978]
+['noisy', 'soft'] received scores [0.9370615482330322, 0.06293843686580658]
+

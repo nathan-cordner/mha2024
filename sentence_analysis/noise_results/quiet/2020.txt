@@ -1,0 +1,405 @@
+﻿decades/2020s/2020_A/andersen_spiritually_defining_memories.txt
+
+But the experiences were real, and he never forgot or denied them, quietly confirming his testimony as he moved to Carthage.
+
+['quiet', 'loud'] received scores [0.9907947778701782, 0.009205234237015247]
+['soft', 'loud'] received scores [0.7857743501663208, 0.2142256647348404]
+['quiet', 'noisy'] received scores [0.9919407367706299, 0.008059278130531311]
+['soft', 'noisy'] received scores [0.807483971118927, 0.1925159990787506]
+
+decades/2020s/2020_A/bingham_united_in_accomplishing_god’s_work.txt
+
+In [Church] callings, temple ordinances, family relationships, and quiet, individual ministry, Latter-day Saint women and men go forward with priesthood power and authority.
+
+['quiet', 'loud'] received scores [0.9972955584526062, 0.002704439451918006]
+['soft', 'loud'] received scores [0.9239540696144104, 0.0760459154844284]
+['quiet', 'noisy'] received scores [0.9969070553779602, 0.0030929450877010822]
+['soft', 'noisy'] received scores [0.9139389395713806, 0.08606108278036118]
+
+decades/2020s/2020_A/cook_the_blessing_of_continuing_revelation_to_prophets_and_personal_revelation_to_guide_our_lives.txt
+
+Although its impact can be incredibly powerful, it most often comes quietly as a still, small voice.
+
+['quiet', 'loud'] received scores [0.9933474063873291, 0.006652554031461477]
+['soft', 'loud'] received scores [0.9931232333183289, 0.006876763422042131]
+['quiet', 'noisy'] received scores [0.9934109449386597, 0.006589018274098635]
+['soft', 'noisy'] received scores [0.9931888580322266, 0.006811100989580154]
+
+decades/2020s/2020_A/nelson_hear_him.txt
+
+He communicates simply, quietly, and with such stunning plainness that we cannot misunderstand Him.
+
+['quiet', 'loud'] received scores [0.996890664100647, 0.003109333571046591]
+['soft', 'loud'] received scores [0.9657081365585327, 0.034291837364435196]
+['quiet', 'noisy'] received scores [0.9977151155471802, 0.0022848884109407663]
+['soft', 'noisy'] received scores [0.974590003490448, 0.025410044938325882]
+
+decades/2020s/2020_O/lund_finding_joy_in_christ.txt
+
+Kalleen quietly told me why he was there and what he had said: “It helps people.
+
+['quiet', 'loud'] received scores [0.9970842599868774, 0.0029157507233321667]
+['soft', 'loud'] received scores [0.9782763719558716, 0.021723683923482895]
+['quiet', 'noisy'] received scores [0.9960084557533264, 0.003991569858044386]
+['soft', 'noisy'] received scores [0.9704664945602417, 0.02953348308801651]
+
+decades/2020s/2020_O/stevenson_highly_favored_of_the_lord.txt
+
+The following days seemed quiet and empty.
+
+['quiet', 'loud'] received scores [0.9916543960571289, 0.00834560114890337]
+['soft', 'loud'] received scores [0.9681248068809509, 0.03187516704201698]
+['quiet', 'noisy'] received scores [0.9877834916114807, 0.01221650093793869]
+['soft', 'noisy'] received scores [0.9538482427597046, 0.046151746064424515]
+
+decades/2020s/2020_O/uchtdorf_god_will_do_something_unimaginable.txt
+
+We are humbled by the quiet sacrifice and noble efforts of those who have risked their own safety to assist, heal, and support people in need.
+
+['quiet', 'loud'] received scores [0.9932129979133606, 0.006787011865526438]
+['soft', 'loud'] received scores [0.7352867126464844, 0.26471325755119324]
+['quiet', 'noisy'] received scores [0.994473934173584, 0.005526076536625624]
+['soft', 'noisy'] received scores [0.7735410332679749, 0.22645899653434753]
+
+decades/2020s/2021_A/dube_pressing_toward_the_mark.txt
+
+I sat up quietly.
+
+['quiet', 'loud'] received scores [0.9967833757400513, 0.0032165751326829195]
+['soft', 'loud'] received scores [0.9832701086997986, 0.01672988384962082]
+['quiet', 'noisy'] received scores [0.9951896071434021, 0.004810363985598087]
+['soft', 'noisy'] received scores [0.975147545337677, 0.02485247328877449]
+
+decades/2020s/2021_A/dube_pressing_toward_the_mark.txt
+
+She too sat quietly.
+
+['quiet', 'loud'] received scores [0.9989696145057678, 0.0010303407907485962]
+['soft', 'loud'] received scores [0.9842308163642883, 0.01576915942132473]
+['quiet', 'noisy'] received scores [0.9984501600265503, 0.0015498236753046513]
+['soft', 'noisy'] received scores [0.9764553904533386, 0.02354459837079048]
+
+decades/2020s/2021_A/eyring_bless_in_his_name.txt
+
+The ministering brother—remember that his assignment was to her neighbor and not even to this elderly sister herself—still to this day quietly comes to her home each Sunday, scriptures and a tiny piece of bread in hand, to administer the sacrament of the Lord’s Supper.
+
+['quiet', 'loud'] received scores [0.9973719120025635, 0.002628067974001169]
+['soft', 'loud'] received scores [0.9183048605918884, 0.08169513940811157]
+['quiet', 'noisy'] received scores [0.9975520372390747, 0.0024479636922478676]
+['soft', 'noisy'] received scores [0.9234878420829773, 0.0765121728181839]
+
+decades/2020s/2021_A/gong_room_in_the_inn.txt
+
+We belong as united community—whether confronting pandemics, storms, wildfires, droughts or quietly meeting daily needs.
+
+['quiet', 'loud'] received scores [0.9337080121040344, 0.066291943192482]
+['soft', 'loud'] received scores [0.7930116057395935, 0.20698845386505127]
+['quiet', 'noisy'] received scores [0.9558537006378174, 0.04414629563689232]
+['soft', 'noisy'] received scores [0.8548520803451538, 0.145147904753685]
+
+decades/2020s/2021_A/nelson_what_we_are_learning_and_will_never_forget.txt
+
+Quiet time is sacred time—time that will facilitate personal revelation and instill peace.
+
+['quiet', 'loud'] received scores [0.9890124797821045, 0.010987487621605396]
+['soft', 'loud'] received scores [0.9240395426750183, 0.07596044987440109]
+['quiet', 'noisy'] received scores [0.9805958867073059, 0.019404100254178047]
+['soft', 'noisy'] received scores [0.8722798228263855, 0.1277202069759369]
+
+decades/2020s/2021_A/newman_teaching_in_the_savior’s_way.txt
+
+This will be achieved by teaching the doctrine and inviting Spirit-filled discussion about the truths the Holy Ghost has taught us in the quiet moments of our personal study.
+
+['quiet', 'loud'] received scores [0.9940506815910339, 0.005949303507804871]
+['soft', 'loud'] received scores [0.8596941232681274, 0.14030584692955017]
+['quiet', 'noisy'] received scores [0.9936276078224182, 0.006372359581291676]
+['soft', 'noisy'] received scores [0.8511475920677185, 0.1488523632287979]
+
+decades/2020s/2021_A/palmer_our_sorrow_shall_be_turned_into_joy.txt
+
+My parents’ faith continued to grow until they each burned with the fire of testimony that quietly and humbly guided their every decision in life.
+
+['quiet', 'loud'] received scores [0.9913957715034485, 0.008604226633906364]
+['soft', 'loud'] received scores [0.6271711587905884, 0.372828871011734]
+['quiet', 'noisy'] received scores [0.9943974018096924, 0.005602636374533176]
+['soft', 'noisy'] received scores [0.7215452194213867, 0.2784547805786133]
+
+decades/2020s/2021_O/eyring_the_faith_to_ask_and_then_to_act.txt
+
+My personal experience is that the still, small voice—which is real—is clear and discernible in my mind when I feel an internal quiet and submission to the Lord’s will.
+
+['quiet', 'loud'] received scores [0.9933416843414307, 0.006658338941633701]
+['soft', 'loud'] received scores [0.9535613656044006, 0.046438585966825485]
+['quiet', 'noisy'] received scores [0.9957227110862732, 0.004277331288903952]
+['soft', 'noisy'] received scores [0.9697343111038208, 0.030265672132372856]
+
+decades/2020s/2021_O/nash_hold_up_your_light.txt
+
+When I explained how highly improbable it would be for an “accident” to produce such beauty and order, he was quiet for a time and then good-naturedly said, “You got me.
+
+['quiet', 'loud'] received scores [0.9482168555259705, 0.05178312584757805]
+['soft', 'loud'] received scores [0.7017645239830017, 0.2982355058193207]
+['quiet', 'noisy'] received scores [0.9551861882209778, 0.04481377825140953]
+['soft', 'noisy'] received scores [0.7325475215911865, 0.26745250821113586]
+
+decades/2020s/2021_O/porter_god’s_love_the_most_joyous_to_the_soul.txt
+
+I sat quietly with the feeling, which I came to understand as a manifestation of the love of God for me.
+
+['quiet', 'loud'] received scores [0.9977993965148926, 0.002200633054599166]
+['soft', 'loud'] received scores [0.9433534145355225, 0.056646592915058136]
+['quiet', 'noisy'] received scores [0.9983155727386475, 0.001684410497546196]
+['soft', 'noisy'] received scores [0.9560793042182922, 0.04392067342996597]
+
+decades/2020s/2021_O/stevenson_simply_beautiful—beautifully_simple.txt
+
+“On this night with the most beautiful Danish summer weather imaginable, doors and windows were open, and everything breathed peace and quiet.
+
+['quiet', 'loud'] received scores [0.9965544939041138, 0.0034455028362572193]
+['soft', 'loud'] received scores [0.9851728677749634, 0.014827175997197628]
+['quiet', 'noisy'] received scores [0.9960694909095764, 0.003930516075342894]
+['soft', 'noisy'] received scores [0.9831127524375916, 0.016887202858924866]
+
+decades/2020s/2022_A/andersen_following_jesus_being_a_peacemaker.txt
+
+Social media posts of thoughtfulness and goodness are often quietly under the radar, while words of contempt and anger are frequently thundering in our ears, whether with political philosophy, people in the news, or opinions on the pandemic.
+
+['quiet', 'loud'] received scores [0.5362694263458252, 0.4637306034564972]
+['loud', 'soft'] received scores [0.6630021929740906, 0.3369978368282318]
+['quiet', 'noisy'] received scores [0.6128900051116943, 0.38710999488830566]
+['noisy', 'soft'] received scores [0.5896595120429993, 0.41034048795700073]
+
+decades/2020s/2022_A/andersen_following_jesus_being_a_peacemaker.txt
+
+There are times when being a peacemaker means that we resist the impulse to respond and instead, with dignity, remain quiet.
+
+['quiet', 'loud'] received scores [0.9970040321350098, 0.002995937829837203]
+['soft', 'loud'] received scores [0.9929755926132202, 0.00702442042529583]
+['quiet', 'noisy'] received scores [0.9961064457893372, 0.0038936103228479624]
+['soft', 'noisy'] received scores [0.9908818602561951, 0.00911810714751482]
+
+decades/2020s/2022_A/eyring_steady_in_the_storms.txt
+
+I have learned from many experiences that the Holy Ghost speaks most often in a quiet voice, heard most easily when one’s heart is meek and submissive, like that of a child.
+
+['quiet', 'loud'] received scores [0.9944231510162354, 0.005576846189796925]
+['soft', 'loud'] received scores [0.9957559108734131, 0.004244084935635328]
+['quiet', 'noisy'] received scores [0.9910027980804443, 0.008997168391942978]
+['soft', 'noisy'] received scores [0.9931473731994629, 0.006852647755295038]
+
+decades/2020s/2022_A/rasband_to_heal_the_world.txt
+
+At the same time, one-on-one service is often unheralded but quietly changes lives.
+
+['quiet', 'loud'] received scores [0.9953582882881165, 0.004641680046916008]
+['soft', 'loud'] received scores [0.9823616743087769, 0.017638303339481354]
+['quiet', 'noisy'] received scores [0.9956510066986084, 0.0043490068055689335]
+['soft', 'noisy'] received scores [0.9834602475166321, 0.016539767384529114]
+
+decades/2020s/2022_O/andersen_drawing_closer_to_the_savior.txt
+
+Feeling the influence of eternity in our sacred, quiet moments in the house of the Lord, we gladly make covenants with God and strengthen our resolve to keep them.
+
+['quiet', 'loud'] received scores [0.9966201186180115, 0.003379833186045289]
+['soft', 'loud'] received scores [0.8607250452041626, 0.13927489519119263]
+['quiet', 'noisy'] received scores [0.9962835907936096, 0.003716417821124196]
+['soft', 'noisy'] received scores [0.848906934261322, 0.1510930210351944]
+
+decades/2020s/2022_O/andersen_drawing_closer_to_the_savior.txt
+
+I’m not quiet about my experiences with addiction and gaining a testimony of the Atonement [of Jesus Christ].
+
+['loud', 'quiet'] received scores [0.9918514490127563, 0.008148516528308392]
+['loud', 'soft'] received scores [0.9878242611885071, 0.012175710871815681]
+['noisy', 'quiet'] received scores [0.9917154312133789, 0.008284556679427624]
+['noisy', 'soft'] received scores [0.9876218438148499, 0.0123781468719244]
+
+decades/2020s/2022_O/andersen_drawing_closer_to_the_savior.txt
+
+They wanted to have my quiet, reserved character have a sudden outburst of profanity.
+
+['quiet', 'loud'] received scores [0.8096616268157959, 0.19033832848072052]
+['loud', 'soft'] received scores [0.852117657661438, 0.1478823870420456]
+['quiet', 'noisy'] received scores [0.7437523603439331, 0.2562476694583893]
+['noisy', 'soft'] received scores [0.8941221833229065, 0.10587778687477112]
+
+decades/2020s/2022_O/craig_wholehearted.txt
+
+So, while she slept, they quietly removed all the furniture from her room, except the bed, and then tore out the carpet.
+
+['quiet', 'loud'] received scores [0.9912983179092407, 0.008701748214662075]
+['soft', 'loud'] received scores [0.8247122168540955, 0.17528779804706573]
+['quiet', 'noisy'] received scores [0.9843496084213257, 0.015650363638997078]
+['soft', 'noisy'] received scores [0.7220394611358643, 0.27796050906181335]
+
+decades/2020s/2022_O/dennis_his_yoke_is_easy_and_his_burden_is_light.txt
+
+In the quiet heart is hidden sorrow that the eye can’t see.
+
+['quiet', 'loud'] received scores [0.9955760836601257, 0.004423858132213354]
+['soft', 'loud'] received scores [0.9893959760665894, 0.010604027658700943]
+['quiet', 'noisy'] received scores [0.995041012763977, 0.004958935547620058]
+['soft', 'noisy'] received scores [0.988122284412384, 0.01187769416719675]
+
+decades/2020s/2022_O/lund_lasting_discipleship.txt
+
+It is one thing to “hear Him” in a quiet place of contemplation with scriptures wide open.
+
+['quiet', 'loud'] received scores [0.9780930876731873, 0.021906977519392967]
+['soft', 'loud'] received scores [0.8974213004112244, 0.10257866978645325]
+['quiet', 'noisy'] received scores [0.9729061126708984, 0.027093898504972458]
+['soft', 'noisy'] received scores [0.8755637407302856, 0.12443620711565018]
+
+decades/2020s/2022_O/olsen_the_answer_is_jesus.txt
+
+He communicates simply, quietly, and with such stunning plainness that we cannot misunderstand Him.
+
+['quiet', 'loud'] received scores [0.996890664100647, 0.003109333571046591]
+['soft', 'loud'] received scores [0.9657081365585327, 0.034291837364435196]
+['quiet', 'noisy'] received scores [0.9977151155471802, 0.0022848884109407663]
+['soft', 'noisy'] received scores [0.974590003490448, 0.025410044938325882]
+
+decades/2020s/2022_O/stevenson_nourishing_and_bearing_your_testimony.txt
+
+These feelings are usually communicated quietly and described as a “still small voice.
+
+['quiet', 'loud'] received scores [0.9974303841590881, 0.0025696672964841127]
+['soft', 'loud'] received scores [0.997868001461029, 0.0021320157684385777]
+['quiet', 'noisy'] received scores [0.9958387017250061, 0.004161312244832516]
+['soft', 'noisy'] received scores [0.9965465068817139, 0.003453519195318222]
+
+decades/2020s/2023_A/andersen_my_mind_caught_hold_upon_this_thought_of_jesus_christ.txt
+
+In the early morning of Thursday, December 29, she quietly completed her mortality.
+
+['quiet', 'loud'] received scores [0.9933920502662659, 0.0066079748794436455]
+['soft', 'loud'] received scores [0.9522231221199036, 0.04777688905596733]
+['quiet', 'noisy'] received scores [0.99317866563797, 0.006821340415626764]
+['soft', 'noisy'] received scores [0.9507463574409485, 0.04925365746021271]
+
+decades/2020s/2023_A/cordon_never_give_up_an_opportunity_to_testify_of_christ.txt
+
+Our world, our challenges, our circumstances will not get quieter, but we can and must hunger and thirst after the things of Christ to “hear Him” with clarity.
+
+['loud', 'quiet'] received scores [0.5058468580245972, 0.4941531717777252]
+['loud', 'soft'] received scores [0.8031184673309326, 0.19688156247138977]
+['noisy', 'quiet'] received scores [0.7405514717102051, 0.25944849848747253]
+['noisy', 'soft'] received scores [0.9191867709159851, 0.08081325888633728]
+
+decades/2020s/2023_A/haynie_a_living_prophet_for_the_latter_days.txt
+
+At that point, I leaned over to President Oaks and quietly asked, “Is flattening your plastic water bottle a new recycling requirement of the cafeteria?
+
+['quiet', 'loud'] received scores [0.9864813089370728, 0.013518686406314373]
+['soft', 'loud'] received scores [0.9114193916320801, 0.08858058601617813]
+['quiet', 'noisy'] received scores [0.9691615700721741, 0.030838429927825928]
+['soft', 'noisy'] received scores [0.8158813118934631, 0.18411864340305328]
+
+decades/2020s/2023_A/haynie_a_living_prophet_for_the_latter_days.txt
+
+Our seemingly small deviations, quiet neglect, or whispered criticisms in response to prophetic counsel may result in our only walking dangerously near the edge of the covenant path; but when magnified by the adversary in the lives of the rising generation, such actions may influence them to leave that path altogether.
+
+['quiet', 'loud'] received scores [0.9893578886985779, 0.010642096400260925]
+['soft', 'loud'] received scores [0.8843260407447815, 0.11567399650812149]
+['quiet', 'noisy'] received scores [0.9742834568023682, 0.025716572999954224]
+['soft', 'noisy'] received scores [0.7570139765739441, 0.24298596382141113]
+
+decades/2020s/2023_A/hoyos_the_work_of_the_temple_and_family_history—one_and_the_same_work.txt
+
+Things began quietly to happen.
+
+['quiet', 'loud'] received scores [0.9952574372291565, 0.004742586053907871]
+['soft', 'loud'] received scores [0.9959291815757751, 0.0040708305314183235]
+['quiet', 'noisy'] received scores [0.992198646068573, 0.007801372557878494]
+['soft', 'noisy'] received scores [0.99330073595047, 0.006699276622384787]
+
+decades/2020s/2023_O/andersen_tithing_opening_the_windows_of_heaven.txt
+
+And then she quietly added, “I want to be right before the Lord.
+
+['quiet', 'loud'] received scores [0.9945583343505859, 0.005441632121801376]
+['soft', 'loud'] received scores [0.9852491021156311, 0.014750855043530464]
+['quiet', 'noisy'] received scores [0.9942187666893005, 0.0057811918668448925]
+['soft', 'noisy'] received scores [0.9843378067016602, 0.015662167221307755]
+
+decades/2020s/2023_O/bednar_in_the_path_of_their_duty.txt
+
+Serve and grow, faithfully and quietly.
+
+['quiet', 'loud'] received scores [0.9982991814613342, 0.0017008248250931501]
+['soft', 'loud'] received scores [0.9856443405151367, 0.014355627819895744]
+['quiet', 'noisy'] received scores [0.9973157644271851, 0.00268423929810524]
+['soft', 'noisy'] received scores [0.9775088429450989, 0.02249118499457836]
+
+decades/2020s/2023_O/bednar_in_the_path_of_their_duty.txt
+
+Their steady, quiet, and typically unrecognized sustaining influence makes possible the blessing of many individuals and families in ways that will be fully known only in eternity.
+
+['quiet', 'loud'] received scores [0.9984873533248901, 0.0015126357320696115]
+['soft', 'loud'] received scores [0.9766129851341248, 0.023387068882584572]
+['quiet', 'noisy'] received scores [0.9984939694404602, 0.001506051397882402]
+['soft', 'noisy'] received scores [0.9767124652862549, 0.023287484422326088]
+
+decades/2020s/2023_O/christofferson_the_sealing_power.txt
+
+There were just six of us present on a quiet afternoon away from the world, and yet one of the most important things that ever takes place on the earth was happening.
+
+['quiet', 'loud'] received scores [0.9591847658157349, 0.04081524536013603]
+['soft', 'loud'] received scores [0.7522594332695007, 0.24774055182933807]
+['quiet', 'noisy'] received scores [0.9743622541427612, 0.025637704879045486]
+['soft', 'noisy'] received scores [0.8308115601539612, 0.16918838024139404]
+
+decades/2020s/2023_O/godoy_for_the_sake_of_your_posterity.txt
+
+He took me to his car, and I sat in the back, ready to relax and enjoy a quiet trip home.
+
+['quiet', 'loud'] received scores [0.9922776222229004, 0.007722439710050821]
+['soft', 'loud'] received scores [0.9694320559501648, 0.030567867681384087]
+['quiet', 'noisy'] received scores [0.9830964803695679, 0.016903512179851532]
+['soft', 'noisy'] received scores [0.9348731637001038, 0.06512683629989624]
+
+decades/2020s/2023_O/godoy_for_the_sake_of_your_posterity.txt
+
+Well, after that inviting question, I knew my quiet moments were over.
+
+['loud', 'quiet'] received scores [0.6521042585372925, 0.34789571166038513]
+['loud', 'soft'] received scores [0.8873152136802673, 0.11268479377031326]
+['noisy', 'quiet'] received scores [0.5734966397285461, 0.42650336027145386]
+['noisy', 'soft'] received scores [0.8495960235595703, 0.15040402114391327]
+
+decades/2020s/2023_O/stevenson_promptings_of_the_spirit.txt
+
+Their reverent, quiet tone; gratitude; and prayerful hearts filled the arena with the presence of the Holy Spirit.
+
+['quiet', 'loud'] received scores [0.9972531199455261, 0.002746903570368886]
+['soft', 'loud'] received scores [0.9822338819503784, 0.017766151577234268]
+['quiet', 'noisy'] received scores [0.9977391958236694, 0.0022607920691370964]
+['soft', 'noisy'] received scores [0.9853387475013733, 0.014661203138530254]
+
+decades/2020s/2023_O/stevenson_promptings_of_the_spirit.txt
+
+He can be our constant companion, but He speaks in subtle, quiet tones.
+
+['quiet', 'loud'] received scores [0.9954144954681396, 0.004585480783134699]
+['soft', 'loud'] received scores [0.9950549006462097, 0.004945064894855022]
+['quiet', 'noisy'] received scores [0.9942987561225891, 0.00570121081545949]
+['soft', 'noisy'] received scores [0.9938521981239319, 0.0061477478593587875]
+
+decades/2020s/2023_O/stevenson_promptings_of_the_spirit.txt
+
+The noise, clamor, and contention prevalent in the world may overpower still, quiet impressions of the Holy Spirit.
+
+['quiet', 'loud'] received scores [0.5773285031318665, 0.4226715564727783]
+['loud', 'soft'] received scores [0.5739432573318481, 0.42605674266815186]
+['noisy', 'quiet'] received scores [0.890008270740509, 0.10999169945716858]
+['noisy', 'soft'] received scores [0.9370620846748352, 0.06293797492980957]
+
+decades/2020s/2023_O/stevenson_promptings_of_the_spirit.txt
+
+Find a quiet place, a holy space where you can seek to receive direction from the Spirit.
+
+['quiet', 'loud'] received scores [0.9773341417312622, 0.02266586571931839]
+['soft', 'loud'] received scores [0.8689433336257935, 0.13105668127536774]
+['quiet', 'noisy'] received scores [0.9102780222892761, 0.08972199261188507]
+['soft', 'noisy'] received scores [0.6093816161155701, 0.39061838388442993]
+

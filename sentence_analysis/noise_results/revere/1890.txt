@@ -1,0 +1,180 @@
+﻿decades/1890s/IE/1897_O.txt
+
+And  we  are  endeavoring  to  train  our  children  and  the  people  to  have  faith  in  God, to  trust  in  the  Lord,  to  honor  Him,  to  reverence  His  name,  to  love  Him,  and  to  keep  His  holy  commandments.
+
+['loud', 'quiet'] received scores [0.6853500604629517, 0.3146499693393707]
+['loud', 'soft'] received scores [0.7743525505065918, 0.2256474494934082]
+['quiet', 'noisy'] received scores [0.5764297246932983, 0.42357027530670166]
+['noisy', 'soft'] received scores [0.5365473628044128, 0.46345266699790955]
+
+decades/1890s/IE/1897_O.txt
+
+Laboring  and  struggling daily  and  hourly  to  meet  the  physical  needs  of  man,  or  to  gratify  some  desire  in  the  line  of  amusement,  our  minds  are  taken  away  from  that  regard  and  respect  to  the  Sabbath  day,  and  that  regard  and  reverence  and  respect to  the  requirements  of  our  Heavenly Father  in  connection  with  the  softening  of  our  minds  and  putting  our  spirits  in  touch  with  Him,  that  the  tendency  to  simply  go  to  Sabbath  school  or  to  attend  one  service  upon  the  Sabbath  day,  either  in  the  Tabernacle or  in  the  ward  meeting  houses, or  other  buildings,  and  then  to  hitch  up  our  teams  and  drive  about  the  city,  or  into  the  canyons,  or  to  be  found  following  up  the  streams  and  fishing,  and  indulging in  these  species  of  recreation,  to  my  mind  is  not  in  keeping  with  the  spirit  and  nature  of  the  work  the  Lord  has  set  us  to  do.
+
+['quiet', 'loud'] received scores [0.5563478469848633, 0.44365212321281433]
+['soft', 'loud'] received scores [0.9322152137756348, 0.06778482347726822]
+['quiet', 'noisy'] received scores [0.7403708100318909, 0.25962918996810913]
+['soft', 'noisy'] received scores [0.9690147638320923, 0.030985236167907715]
+
+decades/1890s/IE/1897_O.txt
+
+It  is  seen  in  many  places  and  under  many  conditions, and  it  is  repeated  Sabbath  after  Sabbath,  from  month's  end  to  month's  end,  and  from  year's  end  to  year's  end,  and  I  trust  that  the  faith  and  respect  and  reverence  that  should  be  shown  in  connection  with  the  sacred  observance  of  that  day,  devoted  by  our  Heavenly  Father  to  the  enlightenment  and  uplifting of  His  children  in  the  knowledge  of  Himself,  shall  not  be  held  so  lightly  as  it  seems  to  be  growing  to  be  in  the  minds  of  many  people  who  profess  to  believe  upon  His  name,  but  that,  wherever  it  may  be  possible,  they  will  obey  His  wish,  and  hold  sacred  His  day,  that  with  themselves  and  their  households,  they  will  attend  the  services  of  the  Church, and, if  unable  so  to  do,  within  the  sacred  folds  of  their  own  home  circle  will  study  the  scriptures  and  seek  to  impress  upon  their  minds  a  knowledge  of  His  purposes, as  shown  in  the  sacred  things  which  have  come  to  us.
+
+['loud', 'quiet'] received scores [0.7609768509864807, 0.23902320861816406]
+['loud', 'soft'] received scores [0.6174421310424805, 0.38255786895751953]
+['quiet', 'noisy'] received scores [0.5664889812469482, 0.43351098895072937]
+['soft', 'noisy'] received scores [0.7204867005348206, 0.27951326966285706]
+
+decades/1890s/IE/1897_O.txt
+
+I  pray  that  the  Spirit  of  the  Lord  may  indeed  be  in  our  midst,  that  the  determination  shall  be  a  fixed  and  established one  that  in  the  homes  of  the  Latter-day  Saints,  wherever  they  may  be  situated, shall  be  found  a  people  who  revere  and  respect  the  sacred  day  which  God  has  designated  as  a  day  of  rest,  that  that  day  shall  not  become  a  day  of  pleasure  but,  upon  the  contrary, a  day  of  worship,  of  reverence,  and  love  for  the  Supreme  Being,  and  that  each  one  will  seek  to  do  his  Father's  bidding  in  this  respect,  and  keep  His  commandments.
+
+['quiet', 'loud'] received scores [0.5431275367736816, 0.45687243342399597]
+['loud', 'soft'] received scores [0.7086535692214966, 0.2913464307785034]
+['quiet', 'noisy'] received scores [0.7419730424880981, 0.25802698731422424]
+['noisy', 'soft'] received scores [0.5013862252235413, 0.49861377477645874]
+
+decades/1890s/IE/1898_A.txt
+
+Irreverence  for  the  Priesthood  of  the  Son  of  God  is  growing out  of  this.
+
+['loud', 'quiet'] received scores [0.848945140838623, 0.15105490386486053]
+['loud', 'soft'] received scores [0.782516360282898, 0.21748358011245728]
+['noisy', 'quiet'] received scores [0.7590417265892029, 0.24095827341079712]
+['noisy', 'soft'] received scores [0.6685143113136292, 0.33148565888404846]
+
+decades/1890s/IE/1898_A.txt
+
+Those  young  men  who  attend  lodge  meetings  and  do  not  attend  their  Priesthood  meetings,  what  reverence  do  they  have  for  the  Priesthood of  the  Son  of  God?
+
+['loud', 'quiet'] received scores [0.7096720337867737, 0.2903279662132263]
+['loud', 'soft'] received scores [0.646562933921814, 0.35343703627586365]
+['quiet', 'noisy'] received scores [0.5908051133155823, 0.4091948866844177]
+['soft', 'noisy'] received scores [0.6586134433746338, 0.3413865864276886]
+
+decades/1890s/IE/1898_A.txt
+
+They  have  very  little,  if  any,  because  they  have  never  learned  to  reverence  that  Priesthood.
+
+['quiet', 'loud'] received scores [0.6795390844345093, 0.32046088576316833]
+['soft', 'loud'] received scores [0.6277621984481812, 0.37223777174949646]
+['quiet', 'noisy'] received scores [0.8182574510574341, 0.1817425787448883]
+['soft', 'noisy'] received scores [0.7816930413246155, 0.2183069884777069]
+
+decades/1890s/IE/1898_A.txt
+
+Accept  the  veneration  which  we  would  offer  to  one  who  has  had  an  unfaltering  faith  in  God's  laws;  the  reverence  we  feel  for  one  whose  life  has  been  unselfish.
+
+['loud', 'quiet'] received scores [0.561569094657898, 0.43843087553977966]
+['loud', 'soft'] received scores [0.6262738704681396, 0.37372609972953796]
+['quiet', 'noisy'] received scores [0.7141411900520325, 0.28585880994796753]
+['soft', 'noisy'] received scores [0.65630042552948, 0.3436996042728424]
+
+decades/1890s/IE/1898_A.txt
+
+Father  reverend  and  friend  beloved,  And  brother,  true  through  many  years:  Reap  here  tonight,  a  little  sheaf  From  seeds  thous't  sown  in  smiles  and  tears.
+
+['loud', 'quiet'] received scores [0.696918249130249, 0.3030817210674286]
+['loud', 'soft'] received scores [0.6789242029190063, 0.32107579708099365]
+['quiet', 'noisy'] received scores [0.6146233081817627, 0.3853766918182373]
+['soft', 'noisy'] received scores [0.6342798471450806, 0.3657201826572418]
+
+decades/1890s/IE/1898_O.txt
+
+Our  young  men  who  go  away  to    get  education  come  back  in  many  instances  with  their  faith  weakened,  because  they  do  not  revere  the  principles  of  the  Gospel  and  hold  fast  to  them  as  immutable  truths.
+
+['loud', 'quiet'] received scores [0.7700047492980957, 0.22999519109725952]
+['loud', 'soft'] received scores [0.6690595149993896, 0.3309404253959656]
+['noisy', 'quiet'] received scores [0.630263090133667, 0.369736909866333]
+['noisy', 'soft'] received scores [0.5072349905967712, 0.492764949798584]
+
+decades/1890s/IE/1898_O.txt
+
+I  think  it  is  very  consistent  for  the  man  that  reverences God  and  acknowledges  His  hand:  in  all  things,  who  realizes  that  the  Lord  provides,  and  who  understands  this  in  his  experience,  to  say:  "Our  Father,  which  art  in  heaven  we  thank  Thee  for  this  food,  and  pray  Thee  to  bless  it  to  the  healing  and  nourishing  of  our  bodies,  and  let  Thy  Spirit  be  in  our  hearts,  and  guide  and  direct  us  as  Thy  children,  in  the  name  of  Jesus.
+
+['loud', 'quiet'] received scores [0.7031060457229614, 0.2968939542770386]
+['loud', 'soft'] received scores [0.7609278559684753, 0.23907209932804108]
+['quiet', 'noisy'] received scores [0.7576465606689453, 0.24235345423221588]
+['soft', 'noisy'] received scores [0.6993446350097656, 0.300655335187912]
+
+decades/1890s/IE/1898_O.txt
+
+It  seems  to  me  that  the  proper  application  of  our  home  governing  to  awaken  in  their  minds  that  sacred reverence  or  love  for  the  Supreme  Being,  would  bridge  most  of  the  chasms  that  are  found  in  the  way  of  the  development  of  legitimate  and  proper  faith  in  the  minds  of  some  of  the  thoughtless  ones.
+
+['loud', 'quiet'] received scores [0.5183166861534119, 0.48168328404426575]
+['loud', 'soft'] received scores [0.7529430389404297, 0.24705694615840912]
+['quiet', 'noisy'] received scores [0.647928774356842, 0.35207119584083557]
+['noisy', 'soft'] received scores [0.606141984462738, 0.3938579857349396]
+
+decades/1890s/IE/1899_A.txt
+
+The  Latter-day  Saints  are  devoted  to  their  country;  they  are  devoted  to  the  Constitution;  they  look  upon  it  as  a  sacred  record,  given  by  inspiration;  and  they  revere  the  men  who  were  made  instruments  in  the  hands  of  Almighty  God  in  framing  that  wonderful  document; and  they  are  true  and  faithful  to  it;  and  they  have  manifested  this  faithfulness on  all  occasions.
+
+['loud', 'quiet'] received scores [0.7772080898284912, 0.2227918803691864]
+['loud', 'soft'] received scores [0.811228334903717, 0.18877163529396057]
+['quiet', 'noisy'] received scores [0.6378031969070435, 0.36219674348831177]
+['soft', 'noisy'] received scores [0.5883868336677551, 0.4116131067276001]
+
+decades/1890s/IE/1899_A.txt
+
+Some  would  call  them  irreverent.
+
+['loud', 'quiet'] received scores [0.6474117636680603, 0.3525882065296173]
+['loud', 'soft'] received scores [0.7321547269821167, 0.2678453028202057]
+['noisy', 'quiet'] received scores [0.6020796895027161, 0.39792031049728394]
+['noisy', 'soft'] received scores [0.6925437450408936, 0.30745622515678406]
+
+decades/1890s/IE/1899_A.txt
+
+We  will  be  His  heirs;  we  will  be  (if  I  may  use  the  term  without  irreverence)  co-partners  with  Him  in  all  this  power  and  authority.
+
+['quiet', 'loud'] received scores [0.8585195541381836, 0.1414804607629776]
+['soft', 'loud'] received scores [0.7322021722793579, 0.2677977979183197]
+['quiet', 'noisy'] received scores [0.924824595451355, 0.07517543435096741]
+['soft', 'noisy'] received scores [0.8471675515174866, 0.15283246338367462]
+
+decades/1890s/IE/1899_A.txt
+
+They  felt  he  was  their  friend ;  they  admired  and  revered  him,  as  well  as  the  parents  and  all  those  associated  with  him.
+
+['loud', 'quiet'] received scores [0.5203057527542114, 0.4796942472457886]
+['loud', 'soft'] received scores [0.5621503591537476, 0.43784961104393005]
+['quiet', 'noisy'] received scores [0.6902389526367188, 0.3097609877586365]
+['soft', 'noisy'] received scores [0.6530812382698059, 0.3469187915325165]
+
+decades/1890s/IE/1899_O.txt
+
+While  we  do  not  look  upon  the  Bible  as  many  Protestants  do,  still  we  have  just  as  great  reverence  for  it  as  they  have.
+
+['quiet', 'loud'] received scores [0.6161109805107117, 0.3838890492916107]
+['soft', 'loud'] received scores [0.5711217522621155, 0.42887821793556213]
+['quiet', 'noisy'] received scores [0.8070122003555298, 0.1929878443479538]
+['soft', 'noisy'] received scores [0.7762712836265564, 0.22372877597808838]
+
+decades/1890s/IE/1899_O.txt
+
+We  revere  its  contents,  and  we  are  trying  to  carry  them  out  in  our  lives.
+
+['loud', 'quiet'] received scores [0.6684871912002563, 0.33151283860206604]
+['loud', 'soft'] received scores [0.732016921043396, 0.2679830491542816]
+['quiet', 'noisy'] received scores [0.6700035333633423, 0.3299964964389801]
+['soft', 'noisy'] received scores [0.5998095870018005, 0.40019041299819946]
+
+decades/1890s/IE/1899_O.txt
+
+The  more  I  study  and  understand  the  Constitution  of  the  United  States,  the  more  I  revere  it.
+
+['loud', 'quiet'] received scores [0.5701500177383423, 0.4298499524593353]
+['loud', 'soft'] received scores [0.669715166091919, 0.33028483390808105]
+['quiet', 'noisy'] received scores [0.6178732514381409, 0.38212674856185913]
+['soft', 'noisy'] received scores [0.5140206217765808, 0.4859793484210968]
+
+decades/1890s/IE/1899_O.txt
+
+A  better  understanding  of  the  divine  mission of  our  Lord  and  Savior  Jesus  Christ  and  of  His  atonement  for  the  sins  of  the  world  has  been  given  to  our  children,  and  they  are  constantly  reminded by  partaking  of  these  emblems,  together  with  suitable  hymns  sung,  and  instructions  given  on  this  subject  at  these  times,  of  the  necessity  of  honoring their  Savior,  of  reverencing  His  name,  and  obeying  His  laws.
+
+['loud', 'quiet'] received scores [0.756247341632843, 0.2437526285648346]
+['loud', 'soft'] received scores [0.7810012698173523, 0.2189987301826477]
+['quiet', 'noisy'] received scores [0.5629395246505737, 0.43706050515174866]
+['soft', 'noisy'] received scores [0.5284203886985779, 0.47157958149909973]
+

@@ -1,0 +1,36 @@
+﻿decades/1940s/1944_A/kimball_the_sabbath_day.txt
+
+While attending one of the Conferences last fall, one of my first down state, I was housed in a hotel, and early Sunday morning I was awakened by considerable noise in the halls and the lobby of the hotel, and when I came down I found that the lobby and the care near it were filled with men with colored shirts and caps and with hunting regalia.
+
+['loud', 'quiet'] received scores [0.9924761652946472, 0.0075238835997879505]
+['loud', 'soft'] received scores [0.9714789390563965, 0.028521060943603516]
+['noisy', 'quiet'] received scores [0.9946187138557434, 0.005381313152611256]
+['noisy', 'soft'] received scores [0.9794772267341614, 0.02052278444170952]
+
+decades/1940s/1945_A/bowen_christian_principles_the_only_security.txt
+
+There was a noisy scene before the boy was finally sent off home and the girl put to bed.
+
+['loud', 'quiet'] received scores [0.9975153207778931, 0.002484660828486085]
+['loud', 'soft'] received scores [0.9969109892845154, 0.003089037723839283]
+['noisy', 'quiet'] received scores [0.998196005821228, 0.0018040010472759604]
+['noisy', 'soft'] received scores [0.997756838798523, 0.0022431842517107725]
+
+decades/1940s/1946_A/smith_the_field_is_white_already_to_harvest.txt
+
+One of the ancient prophets on this continent, speaking of our day, said:  But behold, in the last days, or in the days of the Gentiles—yea, behold all the nations of the Gentiles and also the Jews, both those who shall come upon this land and those who shall be upon other lands, yea, even upon all the lands of the earth, behold, they will be drunken with iniquity and all manner of abominations—  And when that day shall come they shall be visited of the Lord of Hosts, with thunder and with earthquake, and with a great noise, and with storm, and with tempest, and with the flame of devouring fire.
+
+['loud', 'quiet'] received scores [0.9364149570465088, 0.06358511745929718]
+['loud', 'soft'] received scores [0.9286174178123474, 0.07138259708881378]
+['noisy', 'quiet'] received scores [0.9688377976417542, 0.03116222470998764]
+['noisy', 'soft'] received scores [0.964867115020752, 0.035132840275764465]
+
+decades/1940s/1949_A/lee_the_power_of_truth.txt
+
+If they were noisy braggarts, you may expect them to return intolerable boasters.
+
+['loud', 'quiet'] received scores [0.9393225312232971, 0.06067743897438049]
+['loud', 'soft'] received scores [0.9600397944450378, 0.039960216730833054]
+['noisy', 'quiet'] received scores [0.9462635517120361, 0.05373646318912506]
+['noisy', 'soft'] received scores [0.9646999835968018, 0.03530005365610123]
+

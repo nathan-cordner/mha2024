@@ -1,0 +1,369 @@
+﻿decades/2020s/2020_A/giménez_finding_refuge_from_the_storms_of_life.txt
+
+Peter counseled us to remember that “the trial of [our] faith, … though it be tried with fire,” would lead to “praise and honour and glory at the appearing of Jesus Christ” and to “the salvation of [our] souls”
+
+['loud', 'quiet'] received scores [0.780642569065094, 0.2193574160337448]
+['loud', 'soft'] received scores [0.7978038191795349, 0.2021961361169815]
+['noisy', 'quiet'] received scores [0.6600611209869385, 0.3399388790130615]
+['noisy', 'soft'] received scores [0.682823121547699, 0.3171769082546234]
+
+decades/2020s/2020_A/gong_hosanna_and_hallelujah﻿—the_living_jesus_christ_the_heart_of_restoration_and_easter.txt
+
+In the book of Revelation, those who praise God and the Lamb do so “clothed with white robes, and palms in their hands.
+
+['loud', 'quiet'] received scores [0.7449281811714172, 0.2550717890262604]
+['soft', 'loud'] received scores [0.5128118395805359, 0.4871881604194641]
+['noisy', 'quiet'] received scores [0.5261224508285522, 0.47387757897377014]
+['soft', 'noisy'] received scores [0.7346640229225159, 0.26533597707748413]
+
+decades/2020s/2020_A/gong_hosanna_and_hallelujah﻿—the_living_jesus_christ_the_heart_of_restoration_and_easter.txt
+
+Hallelujah means “praise ye the Lord Jehovah.
+
+['loud', 'quiet'] received scores [0.9582674503326416, 0.04173257201910019]
+['loud', 'soft'] received scores [0.7983725070953369, 0.20162750780582428]
+['noisy', 'quiet'] received scores [0.7676578164100647, 0.2323421984910965]
+['soft', 'noisy'] received scores [0.6370444297790527, 0.36295560002326965]
+
+decades/2020s/2020_A/gong_hosanna_and_hallelujah﻿—the_living_jesus_christ_the_heart_of_restoration_and_easter.txt
+
+Hallelujah expresses our praise to the Lord for the hope of salvation and exaltation.
+
+['loud', 'quiet'] received scores [0.9751533269882202, 0.024846650660037994]
+['loud', 'soft'] received scores [0.924763560295105, 0.07523640990257263]
+['noisy', 'quiet'] received scores [0.8741815686225891, 0.1258184313774109]
+['noisy', 'soft'] received scores [0.685136616230011, 0.314863383769989]
+
+decades/2020s/2020_A/nelson_hosanna_shout.txt
+
+It also reaffirms what young Joseph experienced that day in the Sacred Grove﻿﻿—namely, that the Father and the Son are two glorified Beings, whom we worship and praise.
+
+['loud', 'quiet'] received scores [0.6456810832023621, 0.35431888699531555]
+['loud', 'soft'] received scores [0.7029393315315247, 0.29706060886383057]
+['quiet', 'noisy'] received scores [0.6449522376060486, 0.35504770278930664]
+['soft', 'noisy'] received scores [0.5831451416015625, 0.4168548583984375]
+
+decades/2020s/2020_A/nelson_opening_message.txt
+
+We pray that this will be a spiritual highlight for you as we express in global unison our profound gratitude to God the Father and His Beloved Son by praising Them in this unique way.
+
+['loud', 'quiet'] received scores [0.9058330059051514, 0.09416696429252625]
+['loud', 'soft'] received scores [0.777328610420227, 0.22267141938209534]
+['quiet', 'noisy'] received scores [0.5343722105026245, 0.4656278192996979]
+['soft', 'noisy'] received scores [0.7597529888153076, 0.24024705588817596]
+
+decades/2020s/2020_O/christofferson_sustainable_societies.txt
+
+Trusting in the arm of flesh is to ignore the divine Author of human rights and human dignity and to give highest priority to riches, power, and the praise of the world (while often mocking and persecuting those who follow a different standard).
+
+['loud', 'quiet'] received scores [0.6884905099868774, 0.31150951981544495]
+['soft', 'loud'] received scores [0.5877281427383423, 0.4122718870639801]
+['noisy', 'quiet'] received scores [0.6772185564041138, 0.32278138399124146]
+['soft', 'noisy'] received scores [0.6002805829048157, 0.3997194170951843]
+
+decades/2020s/2020_O/craig_eyes_to_see.txt
+
+Did you do them for the reward, the praise of others, or the desired outcome?
+
+['quiet', 'loud'] received scores [0.5205501317977905, 0.47944989800453186]
+['loud', 'soft'] received scores [0.525826096534729, 0.47417396306991577]
+['quiet', 'noisy'] received scores [0.5113837122917175, 0.48861631751060486]
+['noisy', 'soft'] received scores [0.5349678993225098, 0.46503210067749023]
+
+decades/2020s/2020_O/franco_the_healing_power_of_jesus_christ.txt
+
+So expansive was his succoring power that he could exchange ‘beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness’
+
+['loud', 'quiet'] received scores [0.940170407295227, 0.059829626232385635]
+['loud', 'soft'] received scores [0.9053388833999634, 0.09466113150119781]
+['noisy', 'quiet'] received scores [0.8144098520278931, 0.18559016287326813]
+['noisy', 'soft'] received scores [0.7275779247283936, 0.27242204546928406]
+
+decades/2020s/2020_O/nelson_embrace_the_future_with_faith.txt
+
+We praise and pray for all who work tirelessly to safeguard the health of others.
+
+['loud', 'quiet'] received scores [0.7906627655029297, 0.20933720469474792]
+['loud', 'soft'] received scores [0.7910828590393066, 0.20891711115837097]
+['noisy', 'quiet'] received scores [0.6534900069236755, 0.34650999307632446]
+['noisy', 'soft'] received scores [0.654064953327179, 0.34593507647514343]
+
+decades/2020s/2020_O/soares_seek_christ_in_every_thought.txt
+
+In his poetic hymn of praise, the Psalmist declared: “O Lord, thou hast searched me, and known me.
+
+['loud', 'quiet'] received scores [0.8220484852790833, 0.17795147001743317]
+['soft', 'loud'] received scores [0.5235581398010254, 0.4764418303966522]
+['noisy', 'quiet'] received scores [0.6748085618019104, 0.3251914083957672]
+['soft', 'noisy'] received scores [0.709833562374115, 0.2901664078235626]
+
+decades/2020s/2020_O/soares_seek_christ_in_every_thought.txt
+
+In this poem’s semantic parallelism, the Psalmist praises the Lord’s divine attribute of omniscience because He truly knows every aspect of our souls.
+
+['loud', 'quiet'] received scores [0.6239237189292908, 0.37607628107070923]
+['soft', 'loud'] received scores [0.5582795739173889, 0.44172045588493347]
+['quiet', 'noisy'] received scores [0.5203027129173279, 0.47969725728034973]
+['soft', 'noisy'] received scores [0.6945917010307312, 0.3054083585739136]
+
+decades/2020s/2020_O/soares_seek_christ_in_every_thought.txt
+
+I testify of these truths with all my love for you and for our beautiful Savior, to whose name I give glory, honor, and praise evermore.
+
+['loud', 'quiet'] received scores [0.896629273891449, 0.10337073355913162]
+['loud', 'soft'] received scores [0.88547682762146, 0.11452316492795944]
+['noisy', 'quiet'] received scores [0.6084149479866028, 0.39158502221107483]
+['noisy', 'soft'] received scores [0.5807086229324341, 0.4192913770675659]
+
+decades/2020s/2021_A/nelson_covid-19_and_temples.txt
+
+As I announce our plans to construct 20 more temples, I ponder and praise pioneers—past and present—whose consecrated lives have helped to make this history today.
+
+['loud', 'quiet'] received scores [0.8735869526863098, 0.126413032412529]
+['loud', 'soft'] received scores [0.7305212616920471, 0.2694787383079529]
+['noisy', 'quiet'] received scores [0.7602946758270264, 0.23970533907413483]
+['noisy', 'soft'] received scores [0.5544115304946899, 0.44558843970298767]
+
+decades/2020s/2021_O/holland_the_greatest_possession.txt
+
+Of such determined, steadfast devotion, we sing:   Praise the mount; I’m fixed upon it:  Mount of thy redeeming love.
+
+['loud', 'quiet'] received scores [0.9674793481826782, 0.03252068907022476]
+['loud', 'soft'] received scores [0.9648893475532532, 0.03511061146855354]
+['noisy', 'quiet'] received scores [0.8276358842849731, 0.17236413061618805]
+['noisy', 'soft'] received scores [0.8160266280174255, 0.1839732825756073]
+
+decades/2020s/2021_O/kopischke_addressing_mental_health.txt
+
+We must love them, empower them, and praise them often in their efforts to succeed and be faithful to God.
+
+['loud', 'quiet'] received scores [0.8022993803024292, 0.197700634598732]
+['loud', 'soft'] received scores [0.7583357691764832, 0.24166417121887207]
+['noisy', 'quiet'] received scores [0.6704540252685547, 0.3295460045337677]
+['noisy', 'soft'] received scores [0.611373245716095, 0.38862666487693787]
+
+decades/2020s/2021_O/uchtdorf_daily_restoration.txt
+
+We lift our voices in praise of our bountiful and forgiving God.
+
+['loud', 'quiet'] received scores [0.9817149043083191, 0.018285149708390236]
+['loud', 'soft'] received scores [0.948253333568573, 0.051746681332588196]
+['noisy', 'quiet'] received scores [0.9838472604751587, 0.01615276373922825]
+['noisy', 'soft'] received scores [0.9541054964065552, 0.04589448869228363]
+
+decades/2020s/2021_O/villanueva_favored_of_the_lord_in_all_my_days.txt
+
+“Nevertheless,” he declared, “I did look unto my God, and I did praise him all the day long; and I did not murmur against the Lord because of mine afflictions.
+
+['quiet', 'loud'] received scores [0.5202808976173401, 0.4797191619873047]
+['loud', 'soft'] received scores [0.6666361093521118, 0.33336392045021057]
+['quiet', 'noisy'] received scores [0.7539185285568237, 0.24608145654201508]
+['soft', 'noisy'] received scores [0.5855123996734619, 0.4144876301288605]
+
+decades/2020s/2022_A/gong_we_each_have_a_story.txt
+
+Praise God’s plan of happiness, Jesus Christ’s Atonement, continuing restoration in His gospel and Church.
+
+['loud', 'quiet'] received scores [0.6811250448226929, 0.31887495517730713]
+['loud', 'soft'] received scores [0.6244932413101196, 0.375506728887558]
+['noisy', 'quiet'] received scores [0.5296546220779419, 0.47034531831741333]
+['soft', 'noisy'] received scores [0.5328338146209717, 0.46716612577438354]
+
+decades/2020s/2022_A/klebingat_valiant_discipleship_in_the_latter_days.txt
+
+Do our baptismal, priesthood, and temple covenants mean more to us than the praise of the world or the number of “likes” on social media?
+
+['loud', 'quiet'] received scores [0.6250886917114258, 0.3749113380908966]
+['loud', 'soft'] received scores [0.6604444980621338, 0.3395554721355438]
+['noisy', 'quiet'] received scores [0.6123050451278687, 0.38769495487213135]
+['noisy', 'soft'] received scores [0.6481879353523254, 0.35181206464767456]
+
+decades/2020s/2022_A/uchtdorf_our_heartfelt_all.txt
+
+In praising this faithful widow, the Savior gave us a standard to measure our discipleship in all of its many expressions.
+
+['loud', 'quiet'] received scores [0.868721604347229, 0.13127835094928741]
+['loud', 'soft'] received scores [0.8306869268417358, 0.16931308805942535]
+['noisy', 'quiet'] received scores [0.6103326678276062, 0.3896673023700714]
+['noisy', 'soft'] received scores [0.537308394908905, 0.46269166469573975]
+
+decades/2020s/2022_A/wright_christ_heals_that_which_is_broken.txt
+
+“And he leaping up stood, and walked, and entered with them into the temple, walking, and leaping, and praising God.
+
+['loud', 'quiet'] received scores [0.9538776874542236, 0.046122267842292786]
+['loud', 'soft'] received scores [0.884469211101532, 0.11553081125020981]
+['noisy', 'quiet'] received scores [0.9335705637931824, 0.06642946600914001]
+['noisy', 'soft'] received scores [0.8387675881385803, 0.16123242676258087]
+
+decades/2020s/2022_O/caussé_our_earthly_stewardship.txt
+
+In Jesus’s parable of the talents, when the master returned from his journey, he praised and rewarded the two servants who grew and magnified their talents.
+
+['loud', 'quiet'] received scores [0.6487882733345032, 0.3512117564678192]
+['loud', 'soft'] received scores [0.6525827646255493, 0.3474172055721283]
+['quiet', 'noisy'] received scores [0.5704304575920105, 0.4295695126056671]
+['soft', 'noisy'] received scores [0.5663349628448486, 0.43366506695747375]
+
+decades/2020s/2022_O/eyring_legacy_of_encouragement.txt
+
+She is a private person who neither seeks nor appreciates praise.
+
+['quiet', 'loud'] received scores [0.9971954226493835, 0.0028045750223100185]
+['soft', 'loud'] received scores [0.964653491973877, 0.035346485674381256]
+['quiet', 'noisy'] received scores [0.997851550579071, 0.002148512052372098]
+['soft', 'noisy'] received scores [0.9727136492729187, 0.02728632465004921]
+
+decades/2020s/2022_O/eyring_legacy_of_encouragement.txt
+
+He would notice and praise the beginning of the changes they will need to make.
+
+['loud', 'quiet'] received scores [0.5993034243583679, 0.4006965756416321]
+['loud', 'soft'] received scores [0.6233319044113159, 0.3766680955886841]
+['quiet', 'noisy'] received scores [0.6708036065101624, 0.32919639348983765]
+['soft', 'noisy'] received scores [0.6480937600135803, 0.3519062101840973]
+
+decades/2020s/2022_O/pino_let_doing_good_be_our_normal.txt
+
+Therefore, as Paul and the Prophet Joseph Smith taught: “If there is anything virtuous, lovely, or of good report or praiseworthy, we seek after these things” “If there be any praise, think on these things”
+
+['loud', 'quiet'] received scores [0.5279101133346558, 0.47208988666534424]
+['loud', 'soft'] received scores [0.6099082827568054, 0.39009174704551697]
+['quiet', 'noisy'] received scores [0.6391201615333557, 0.3608798086643219]
+['soft', 'noisy'] received scores [0.5588207840919495, 0.4411792457103729]
+
+decades/2020s/2023_A/duncan_a_voice_of_gladness!.txt
+
+On the first Palm Sunday, as Jesus Christ triumphantly entered Jerusalem, a multitude of His disciples “rejoice[d] and praise[d] God with a loud voice … saying, Blessed be the King that cometh in the name of the Lord.
+
+['loud', 'quiet'] received scores [0.993025541305542, 0.006974502932280302]
+['loud', 'soft'] received scores [0.9843108057975769, 0.015689240768551826]
+['noisy', 'quiet'] received scores [0.9939629435539246, 0.006037086248397827]
+['noisy', 'soft'] received scores [0.9864034652709961, 0.01359654776751995]
+
+decades/2020s/2023_A/duncan_a_voice_of_gladness!.txt
+
+In that dedicatory prayer, the Prophet Joseph Smith declared these words of praise: “O Lord God Almighty, hear us … and answer us from heaven, … where thou sittest enthroned, with glory, honor, power, majesty, [and] might.
+
+['loud', 'quiet'] received scores [0.9085568785667419, 0.09144307672977448]
+['loud', 'soft'] received scores [0.7959229946136475, 0.20407693088054657]
+['noisy', 'quiet'] received scores [0.7942982316017151, 0.2057017683982849]
+['noisy', 'soft'] received scores [0.6025007963180542, 0.3974991738796234]
+
+decades/2020s/2023_A/duncan_a_voice_of_gladness!.txt
+
+Help us by the power of thy Spirit, that we may mingle our voices with those bright, shining seraphs around thy throne, with acclamations of praise, singing Hosanna to God and the Lamb!
+
+['loud', 'quiet'] received scores [0.9380917549133301, 0.06190825253725052]
+['loud', 'soft'] received scores [0.8294838666915894, 0.17051613330841064]
+['noisy', 'quiet'] received scores [0.9331684708595276, 0.06683150678873062]
+['noisy', 'soft'] received scores [0.8176029324531555, 0.18239709734916687]
+
+decades/2020s/2023_A/duncan_a_voice_of_gladness!.txt
+
+Brothers and sisters, today on this Palm Sunday, let us as disciples of Jesus Christ also praise our holy God and rejoice in His goodness to us.
+
+['loud', 'quiet'] received scores [0.7151308655738831, 0.28486910462379456]
+['loud', 'soft'] received scores [0.7262317538261414, 0.27376824617385864]
+['noisy', 'quiet'] received scores [0.5213755369186401, 0.4786244034767151]
+['noisy', 'soft'] received scores [0.535118579864502, 0.46488144993782043]
+
+decades/2020s/2023_A/nelson_peacemakers_needed.txt
+
+“If there is anything virtuous, lovely, or of good report or praiseworthy” that we can say about another person—whether to his face or behind her back—that should be our standard of communication.
+
+['quiet', 'loud'] received scores [0.5808534622192383, 0.4191465377807617]
+['soft', 'loud'] received scores [0.627306342124939, 0.37269356846809387]
+['quiet', 'noisy'] received scores [0.6395734548568726, 0.36042654514312744]
+['soft', 'noisy'] received scores [0.6830694079399109, 0.3169305622577667]
+
+decades/2020s/2023_A/soares_followers_of_the_prince_of_peace.txt
+
+They praised God, saying with a loud voice, “Blessed be the King that cometh in the name of the Lord: peace in heaven, and glory in the highest.
+
+['loud', 'quiet'] received scores [0.995617151260376, 0.004382842220366001]
+['loud', 'soft'] received scores [0.9940247535705566, 0.005975258070975542]
+['noisy', 'quiet'] received scores [0.9962972402572632, 0.0037027420476078987]
+['noisy', 'soft'] received scores [0.9949507117271423, 0.005049310624599457]
+
+decades/2020s/2023_A/soares_followers_of_the_prince_of_peace.txt
+
+I invite you to consider ways we can transform ourselves into uplifting and supportive people, people who have an understanding and forgiving heart, people who look for the best in others, always remembering that “if there is anything virtuous, lovely, or of good report or praiseworthy, we seek after these things.
+
+['quiet', 'loud'] received scores [0.5404060482978821, 0.4595939517021179]
+['soft', 'loud'] received scores [0.5579266548156738, 0.4420733153820038]
+['quiet', 'noisy'] received scores [0.585564136505127, 0.41443586349487305]
+['soft', 'noisy'] received scores [0.6026290655136108, 0.3973708748817444]
+
+decades/2020s/2023_O/ardern_love_thy_neighbour.txt
+
+On that hot and dusty day, I wished you could have heard their prayers of praise and gratitude to God.
+
+['loud', 'quiet'] received scores [0.8013085126876831, 0.1986914575099945]
+['loud', 'soft'] received scores [0.928191065788269, 0.07180891185998917]
+['noisy', 'quiet'] received scores [0.8597378730773926, 0.14026211202144623]
+['noisy', 'soft'] received scores [0.9515634179115295, 0.04843659698963165]
+
+decades/2020s/2023_O/ballard_praise_to_the_man.txt
+
+Because Jesus, our Savior and our Redeemer, spoke to the boy Joseph and opened up this dispensation of time that we now live in, we sing, “Praise to the man who communed with Jehovah!
+
+['loud', 'quiet'] received scores [0.9770230054855347, 0.022976970300078392]
+['loud', 'soft'] received scores [0.9414031505584717, 0.05859685316681862]
+['noisy', 'quiet'] received scores [0.9499549865722656, 0.050044964998960495]
+['noisy', 'soft'] received scores [0.8776289224624634, 0.1223711296916008]
+
+decades/2020s/2023_O/bednar_in_the_path_of_their_duty.txt
+
+He praised these anonymous and uncelebrated heroes who, day after day, week after week, and month after month, choked on the dust stirred up by all of the wagons rolling in front of them—and who overcame the relentless obstacles they encountered along the way.
+
+['quiet', 'loud'] received scores [0.9922088384628296, 0.007791169453412294]
+['loud', 'soft'] received scores [0.7059239149093628, 0.2940760850906372]
+['quiet', 'noisy'] received scores [0.9795178771018982, 0.02048213593661785]
+['noisy', 'soft'] received scores [0.8647252917289734, 0.1352747231721878]
+
+decades/2020s/2023_O/bednar_in_the_path_of_their_duty.txt
+
+They consistently strive to “comfort those that stand in need of comfort,” without expectations of acknowledgment or praise.
+
+['quiet', 'loud'] received scores [0.8363121747970581, 0.16368786990642548]
+['soft', 'loud'] received scores [0.8058058023452759, 0.1941942274570465]
+['quiet', 'noisy'] received scores [0.8924888968467712, 0.10751107335090637]
+['soft', 'noisy'] received scores [0.8708351850509644, 0.12916480004787445]
+
+decades/2020s/2023_O/cook_be_peaceable_followers_of_christ.txt
+
+First, He encouraged them to “praise the Lord with singing, with music, with dancing, and with a prayer of praise and thanksgiving.
+
+['loud', 'quiet'] received scores [0.7290974259376526, 0.270902544260025]
+['loud', 'soft'] received scores [0.5552772283554077, 0.4447228014469147]
+['noisy', 'quiet'] received scores [0.7276663780212402, 0.2723335921764374]
+['noisy', 'soft'] received scores [0.5534902811050415, 0.4465097188949585]
+
+decades/2020s/2023_O/cook_be_peaceable_followers_of_christ.txt
+
+Lives full of praise, music, and thanksgiving are uniquely blessed.
+
+['loud', 'quiet'] received scores [0.9098339676856995, 0.09016603231430054]
+['loud', 'soft'] received scores [0.768993616104126, 0.2310064285993576]
+['noisy', 'quiet'] received scores [0.8426616787910461, 0.15733836591243744]
+['noisy', 'soft'] received scores [0.6385773420333862, 0.36142271757125854]
+
+decades/2020s/2023_O/daines_sir,_we_would_like_to_see_jesus.txt
+
+Try writing down every time He praises or heals or eats with an outsider, and you will run low on ink before you leave Luke.
+
+['loud', 'quiet'] received scores [0.8289710879325867, 0.17102892696857452]
+['loud', 'soft'] received scores [0.691437840461731, 0.30856212973594666]
+['noisy', 'quiet'] received scores [0.6879584193229675, 0.31204161047935486]
+['noisy', 'soft'] received scores [0.5047721862792969, 0.4952278137207031]
+
+decades/2020s/2023_O/koch_humble_to_accept_and_follow.txt
+
+President Nelson taught us last general conference the following: “If there is anything virtuous, lovely, or of good report or praiseworthy that we can say about another person—whether to his face or behind her back—that should be our standard of communication.
+
+['quiet', 'loud'] received scores [0.6325930953025818, 0.3674069344997406]
+['soft', 'loud'] received scores [0.5559480786323547, 0.44405195116996765]
+['quiet', 'noisy'] received scores [0.7041513323783875, 0.29584866762161255]
+['soft', 'noisy'] received scores [0.6337924599647522, 0.3662075400352478]
+

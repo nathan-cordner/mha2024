@@ -1,0 +1,99 @@
+﻿decades/1900s/IE/1901_A.txt
+
+I  wish  to  do  the  unusual  thing,  and  that  is,  to  sing  our  first  song  over,  for  I  do  not  believe  anybody  heard  it  before;  I  could  hardly  hear  it  myself  for  the  noise  of  people  coming  in.
+
+['loud', 'quiet'] received scores [0.9212694764137268, 0.07873046398162842]
+['loud', 'soft'] received scores [0.8839849829673767, 0.11601502448320389]
+['noisy', 'quiet'] received scores [0.9499537348747253, 0.05004626139998436]
+['noisy', 'soft'] received scores [0.9251495599746704, 0.07485044002532959]
+
+decades/1900s/IE/1902_A.txt
+
+I  had  one  of  the  Apostles  tell  me,  "Brother  Kimball,  if  you  don't  quit  making  so  much  noise,  you  will  burn  out.
+
+['loud', 'quiet'] received scores [0.9883357286453247, 0.01166424062103033]
+['loud', 'soft'] received scores [0.9746620655059814, 0.025337915867567062]
+['noisy', 'quiet'] received scores [0.9954083561897278, 0.00459158793091774]
+['noisy', 'soft'] received scores [0.9899414777755737, 0.010058564133942127]
+
+decades/1900s/IE/1902_A.txt
+
+But  it  is  when  you  turn  them  out  of  the  home,  turn  them  out  of  your  affections  —  out  into  the  darkness  of  the  night  into the  society  of  the  depraved  or  degraded; it  is  when  they  become  tiresome to  you,  or  you  are  tired  of  their  innocent  noise  and  prattle  at  home,  and  you  say,  "Go  off  somewhere  else."  It  is  this  sort  of  treatment  of  your  children that  drives  them  from  you,  and  helps  to  make  criminals  and  infidels  of  them.
+
+['loud', 'quiet'] received scores [0.569221019744873, 0.43077895045280457]
+['loud', 'soft'] received scores [0.6537789702415466, 0.3462209701538086]
+['noisy', 'quiet'] received scores [0.9028316140174866, 0.09716841578483582]
+['noisy', 'soft'] received scores [0.929962158203125, 0.07003780454397202]
+
+decades/1900s/IE/1904_O.txt
+
+That  is  a  part  of  my  history  I  am  not  making much  noise  about;  I  am  trying  to  forget  seme  things  that  I  did.
+
+['quiet', 'loud'] received scores [0.9901804327964783, 0.009819533675909042]
+['soft', 'loud'] received scores [0.9276877641677856, 0.07231222093105316]
+['quiet', 'noisy'] received scores [0.983054518699646, 0.01694549061357975]
+['soft', 'noisy'] received scores [0.8806763887405396, 0.11932357400655746]
+
+decades/1900s/IE/1904_O.txt
+
+Therefore,  you  must  remember  that  each  whisper,  each  movement  of  the  body,  or  the  shuffling  of  the  feet  of  any  person  in  the  congregation will  be  reverberated  and  echoed  throughout  the  building;  and  when  these  sounds  are  multiplied,  then  there  is  noise  and  confusion  in  the  whole  house.
+
+['loud', 'quiet'] received scores [0.7417281866073608, 0.25827184319496155]
+['loud', 'soft'] received scores [0.7275568842887878, 0.27244311571121216]
+['noisy', 'quiet'] received scores [0.9813792705535889, 0.018620673567056656]
+['noisy', 'soft'] received scores [0.9800031185150146, 0.019996896386146545]
+
+decades/1900s/IE/1905_A.txt
+
+We  have  used  some  of  the  tunings  of  the  people  for  this  purpose,  and  we  think  that  when  the  Church  desires  to  call  us  to  an  account  for  matters  of  this  kind  there  is  a  way  by  which  they  can  reach  it  which  will  not  occasion  any  noise  or  confusion  and  I  trust  without  any  misunderstanding  whatever.
+
+['quiet', 'loud'] received scores [0.7798190116882324, 0.220180943608284]
+['soft', 'loud'] received scores [0.5671829581260681, 0.4328170120716095]
+['quiet', 'noisy'] received scores [0.7094618082046509, 0.29053816199302673]
+['noisy', 'soft'] received scores [0.5253466367721558, 0.47465336322784424]
+
+decades/1900s/IE/1905_A.txt
+
+The  people  did  not  seem  to  be  aroused  with  regard  to  their  testimony  until,  on  Christmas  day,  two  ladies  were  baptized  in  the  Mississippi  river,  and,  when  it  was  noised  about,  the  ministers  of  the  city  and  county  united  in  the  desire  to  drive  the  Elders  out;  but  the  officials  told  them  it  would  not  do.
+
+['loud', 'quiet'] received scores [0.7158918976783752, 0.28410816192626953]
+['loud', 'soft'] received scores [0.7728672027587891, 0.22713276743888855]
+['noisy', 'quiet'] received scores [0.6727374792098999, 0.3272624611854553]
+['noisy', 'soft'] received scores [0.7351655960083008, 0.2648344039916992]
+
+decades/1900s/IE/1905_A.txt
+
+Let  men  do  what  they  will;  let  those  whom  Elder  Rich  dignified  by  comparing them  to  the  wolf  (to  my  mind  you  could  compare  them  more  consistently to  the  penny  fife,  which  makes  only  a  noise)  howl  all  they  will,  we  will  go  right  straight  along,  doing  the  will  of  Almighty  God,  and  He  will  justify  and  vindicate  us  in  the  eyes  of  men,  in  His  own  due  time.
+
+['loud', 'quiet'] received scores [0.7569941282272339, 0.2430058866739273]
+['loud', 'soft'] received scores [0.889315128326416, 0.11068486422300339]
+['noisy', 'quiet'] received scores [0.8502872586250305, 0.14971275627613068]
+['noisy', 'soft'] received scores [0.9360969066619873, 0.06390314549207687]
+
+decades/1900s/IE/1906_O.txt
+
+Quieted  for  a  moment  by  his  appearance,  thinking  they  had  found  a  champion,  the  mob  ceased  its  noise.
+
+['quiet', 'loud'] received scores [0.9753636121749878, 0.02463635243475437]
+['soft', 'loud'] received scores [0.6828170418739319, 0.3171829283237457]
+['quiet', 'noisy'] received scores [0.8804853558540344, 0.1195145919919014]
+['noisy', 'soft'] received scores [0.7139822840690613, 0.2860177755355835]
+
+decades/1900s/IE/1909_A.txt
+
+But  when  he  had  the  opportunity  to  stand  before that  great  body  of  law  makers,  and  endeavored  to  speak,  his  voice  was  silenced  by  hisses,  and  noise,  and  disturbance  in  that  assembly.
+
+['loud', 'quiet'] received scores [0.9189567565917969, 0.08104325830936432]
+['loud', 'soft'] received scores [0.8046330213546753, 0.1953669786453247]
+['noisy', 'quiet'] received scores [0.9826582670211792, 0.01734166219830513]
+['noisy', 'soft'] received scores [0.9536643028259277, 0.046335648745298386]
+
+decades/1900s/IE/1909_O.txt
+
+They  cannot  sit  still,  and  they  cannot  lie  still;  if  you  place  them  upon  their  backs,  they  will  kick  and  scramble  and  make  a  good  deal  of  noise,  too.
+
+['loud', 'quiet'] received scores [0.9895557761192322, 0.010444190353155136]
+['loud', 'soft'] received scores [0.9871834516525269, 0.012816538102924824]
+['noisy', 'quiet'] received scores [0.9961140751838684, 0.0038859217893332243]
+['noisy', 'soft'] received scores [0.9952242374420166, 0.004775779787451029]
+

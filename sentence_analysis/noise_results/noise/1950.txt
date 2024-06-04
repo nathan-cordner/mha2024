@@ -1,0 +1,144 @@
+﻿decades/1950s/1950_O/bowen_why_a_church.txt
+
+A noisy scene ensued before the boy was finally sent off home and the girl put to bed.
+
+['loud', 'quiet'] received scores [0.9979071021080017, 0.0020928867161273956]
+['loud', 'soft'] received scores [0.9965072870254517, 0.0034926950465887785]
+['noisy', 'quiet'] received scores [0.9983564019203186, 0.0016436221776530147]
+['noisy', 'soft'] received scores [0.9972562193870544, 0.002743770135566592]
+
+decades/1950s/1950_O/jr._warning_sounded_against_heresies.txt
+
+The people heard the noise but did not understand.
+
+['loud', 'quiet'] received scores [0.9786375761032104, 0.0213624220341444]
+['loud', 'soft'] received scores [0.9543886780738831, 0.04561132937669754]
+['noisy', 'quiet'] received scores [0.9902932047843933, 0.009706740267574787]
+['noisy', 'soft'] received scores [0.9789908528327942, 0.021009083837270737]
+
+decades/1950s/1950_O/mckay_untitled.txt
+
+There was so much boisterousness, so much confusion, so much noise, that she felt heartsick; and as she arose to leave she said to the teacher: "I thought this was a Sunday School class, not bedlam!
+
+['loud', 'quiet'] received scores [0.9960997700691223, 0.0039001915138214827]
+['loud', 'soft'] received scores [0.9916534423828125, 0.008346508257091045]
+['noisy', 'quiet'] received scores [0.9977648258209229, 0.0022351613733917475]
+['noisy', 'soft'] received scores [0.9952075481414795, 0.004792434629052877]
+
+decades/1950s/1950_O/mckay_untitled.txt
+
+September 13 there came to my desk this letter from one of our stake workers:   "I refer to pronounced irreverence in our church services, with the noise, laughter and confusion that often accompanies such a condition.
+
+['loud', 'quiet'] received scores [0.9720910787582397, 0.027908984571695328]
+['loud', 'soft'] received scores [0.8548435568809509, 0.14515641331672668]
+['noisy', 'quiet'] received scores [0.9889237284660339, 0.011076309718191624]
+['noisy', 'soft'] received scores [0.9378718733787537, 0.062128134071826935]
+
+decades/1950s/1950_O/mckay_untitled.txt
+
+Ten o'clock came and there was still noise.
+
+['loud', 'quiet'] received scores [0.9755452871322632, 0.024454692378640175]
+['loud', 'soft'] received scores [0.9805312752723694, 0.019468722864985466]
+['noisy', 'quiet'] received scores [0.9907792210578918, 0.009220758453011513]
+['noisy', 'soft'] received scores [0.9926825165748596, 0.0073174769058823586]
+
+decades/1950s/1951_O/mckay_untitled.txt
+
+One night I could not sleep, and I fancied I heard noises around the house.
+
+['loud', 'quiet'] received scores [0.9049487709999084, 0.09505122154951096]
+['loud', 'soft'] received scores [0.715238094329834, 0.2847619950771332]
+['noisy', 'quiet'] received scores [0.9849665760993958, 0.015033443458378315]
+['noisy', 'soft'] received scores [0.9453098773956299, 0.05469012260437012]
+
+decades/1950s/1952_A/smith_fulfilment_of_prophecy.txt
+
+And when that day shall come they shall be visited of the Lord of Hosts, with thunder and with earthquake, and with a great noise, and with storm, and with tempest and with the flame of devouring fire.
+
+['loud', 'quiet'] received scores [0.983040988445282, 0.016958940774202347]
+['loud', 'soft'] received scores [0.9629034399986267, 0.037096574902534485]
+['noisy', 'quiet'] received scores [0.9913190603256226, 0.008680926635861397]
+['noisy', 'soft'] received scores [0.9808192849159241, 0.019180752336978912]
+
+decades/1950s/1954_A/richards_the_word_of_god_will_stand.txt
+
+They had only-one cannon, and were facing the Arabs with their well-trained and equipped army, and so when they used this cannon, they moved it from place to place so the enemy would think they had many, and every time the cannon was fired, they would beat tin cans in order to make a lot of noise so that the enemy would think they had many cannons.
+
+['loud', 'quiet'] received scores [0.9916200637817383, 0.008379936218261719]
+['loud', 'soft'] received scores [0.9609020352363586, 0.03909797593951225]
+['noisy', 'quiet'] received scores [0.99493008852005, 0.00506985979154706]
+['noisy', 'soft'] received scores [0.9760527014732361, 0.02394729293882847]
+
+decades/1950s/1954_O/mckay_seek_ye_first_the_kingdom_of_god.txt
+
+"Groggily the boy gropes about for the button to shut off the noise.
+
+['loud', 'quiet'] received scores [0.9766225814819336, 0.02337740920484066]
+['loud', 'soft'] received scores [0.9588981866836548, 0.04110175743699074]
+['noisy', 'quiet'] received scores [0.9884753823280334, 0.011524657718837261]
+['noisy', 'soft'] received scores [0.9795494079589844, 0.020450633019208908]
+
+decades/1950s/1954_O/young_responsibilities_of_teachers.txt
+
+Conversely the noise of wheels turning against the pavement on Sunday is louder than any words of advice.
+
+['loud', 'quiet'] received scores [0.9926059246063232, 0.00739410100504756]
+['loud', 'soft'] received scores [0.9840108156204224, 0.01598919741809368]
+['noisy', 'quiet'] received scores [0.9946637749671936, 0.005336254369467497]
+['noisy', 'soft'] received scores [0.9884328842163086, 0.011567131616175175]
+
+decades/1950s/1957_A/hanks_questions_for_the_iconoclast.txt
+
+One said: "My, I'll bet there was a tremendous clap of noise when that fell!
+
+['loud', 'quiet'] received scores [0.9957945942878723, 0.004205420613288879]
+['loud', 'soft'] received scores [0.9923146963119507, 0.007685335818678141]
+['noisy', 'quiet'] received scores [0.9962384700775146, 0.0037615031469613314]
+['noisy', 'soft'] received scores [0.9931234121322632, 0.006876620464026928]
+
+decades/1950s/1957_A/hanks_questions_for_the_iconoclast.txt
+
+They discussed this issue at some length, whether or not in the absence of someone to hear, noise actually occurs.
+
+['loud', 'quiet'] received scores [0.8562540411949158, 0.14374597370624542]
+['loud', 'soft'] received scores [0.7698854804039001, 0.23011451959609985]
+['noisy', 'quiet'] received scores [0.9772289395332336, 0.02277105115354061]
+['noisy', 'soft'] received scores [0.9601656198501587, 0.03983435034751892]
+
+decades/1950s/1957_A/hanks_questions_for_the_iconoclast.txt
+
+Well, when we left the cavern, the people were still discussing whether or not when things fall there is a noise in the absence of human ears to hear it.
+
+['loud', 'quiet'] received scores [0.7555349469184875, 0.24446508288383484]
+['loud', 'soft'] received scores [0.6406880617141724, 0.35931196808815]
+['noisy', 'quiet'] received scores [0.9526798725128174, 0.047320105135440826]
+['noisy', 'soft'] received scores [0.9207325577735901, 0.0792674645781517]
+
+decades/1950s/1958_A/hinckley_an_expression_of_gratitude.txt
+
+I have thought, as has Brother Tuttle, of my teachers of the Primary, the Sunday School, and the MIA, and of the Aaronic Priesthood leaders who helped me along when I was a noisy boy, and who exercised patience and forbearance.
+
+['loud', 'quiet'] received scores [0.9263697266578674, 0.07363028824329376]
+['loud', 'soft'] received scores [0.8196665048599243, 0.18033356964588165]
+['noisy', 'quiet'] received scores [0.9744884371757507, 0.0255116056650877]
+['noisy', 'soft'] received scores [0.9324313402175903, 0.06756864488124847]
+
+decades/1950s/1958_A/kimball_are_you_a_modern_nicodemus.txt
+
+In experiences of mortality we sometimes suffer from optical illusions; we hear noises that do not exist; we experience nocturnal adventures quite unreal, and distorted; but in the spiritual realm one can have positive certainty, for the Lord has repeated numerous times the definite promise here expressed: If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself.
+
+['quiet', 'loud'] received scores [0.6362429857254028, 0.3637569546699524]
+['soft', 'loud'] received scores [0.5434830188751221, 0.45651695132255554]
+['noisy', 'quiet'] received scores [0.6398706436157227, 0.36012935638427734]
+['noisy', 'soft'] received scores [0.723026692867279, 0.2769733965396881]
+
+decades/1950s/1958_O/young_teach_your_children.txt
+
+When they got out into the open, where they were not inhibited, from the noises they made, from the laughter, and the joking and the kidding with each other, I would not need to have been a prophet to have been able to predict what they would do that night.
+
+['loud', 'quiet'] received scores [0.9851369857788086, 0.014863001182675362]
+['loud', 'soft'] received scores [0.949381947517395, 0.05061805248260498]
+['noisy', 'quiet'] received scores [0.9945539236068726, 0.005446083378046751]
+['noisy', 'soft'] received scores [0.9810160398483276, 0.018983954563736916]
+
